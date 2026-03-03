@@ -1,0 +1,207 @@
+                  Manager Profile for 1989 Needmore Shebazzum
+ 
+Manager Tendencies
+ 
+Bunting:                  Least frequent
+Hit and run:              Least frequent
+Stealing:                 Least frequent
+Running:                  Neutral
+Take pitch:               Neutral
+PH for a pitcher:         Most frequent
+PH for a non-pitcher:     Most frequent
+PH for platoon player:    Most frequent
+PH in a blowout:          Most frequent
+Pitching around:          Least frequent
+Intentional walk:         Least frequent
+Pickoff throws:           Neutral
+Pitching out:             Neutral
+Using relievers:          More frequent
+Using closers:            More frequent
+Holding runners:          Neutral
+Infield in:               Neutral
+Guard lines:              Neutral
+ 
+ 
+Pitching Chart
+ 
+Usage mode:    Skip
+Rotation size: 4
+Next starter:  4
+ 
+Starting Rotation   Belcher           Martinez,De       Key               Finley                              
+Spot Starters                                                                                                 
+Spot Pct                                                                                                      
+ 
+Mopup situations    Jeffcoat          Parker                                                                  
+Long relievers      Jeffcoat          Parker                                                                  
+Setup vs LHB        Worrell           Cary                                                                    
+Setup vs RHB        Worrell           Schooler          Cary                                                  
+Closers vs LHB      Cary              Worrell           Schooler                                              
+Closers vs RHB      Schooler          Cary              Worrell                                               
+
+....................................................................................................
+                  Manager Profile for 1989 Needmore Shebazzum
+ 
+Depth Chart for 1989 Needmore Shebazzum -- vs LHP
+ 
+ 
+Usage: Game by game        Versus: Left        DH: No
+ 
+Starting Lineup
+ 
+1: Teufel           2b
+2: Griffey Jr.      cf
+3: Laudner          1b
+4: Leonard          lf
+5: Reynolds         rf
+6: Oquendo          ss
+7: Martinez         3b
+8: Santiago         c
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Santiago             Laudner              Teufel               Martinez        
+Plat                                                                                 
+Def                                                                                  
+Util1 Laudner          15                                                            
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Oquendo              Leonard              Griffey Jr.          Reynolds        
+Plat                                                                                 
+Def                                             Griffey Jr.                          
+Util1                                                                                
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Santovenia           Petralli        
+Util2                      Thon                 Thon            
+Util3                      Myers                Griffey         
+Util4                      Hale                 Lindeman        
+Util5                      Lindeman             Santovenia      
+
+....................................................................................................
+                  Manager Profile for 1989 Needmore Shebazzum
+ 
+Depth Chart for 1989 Needmore Shebazzum -- vs RHP
+ 
+ 
+Usage: Game by game        Versus: Right        DH: No
+ 
+Starting Lineup
+ 
+1: Oquendo          2b
+2: Santiago         c
+3: Reynolds         rf
+4: Griffey Jr.      cf
+5: Griffey          1b
+6: Martinez         3b
+7: Thon             ss
+8: Leonard          lf
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Santiago             Griffey              Oquendo              Martinez        
+Plat                                                                                 
+Def                                                                                  
+Util1 Petralli         20                                                            
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Thon                 Leonard              Griffey Jr.          Reynolds        
+Plat                                                                                 
+Def                                                                                  
+Util1                      Griffey          30                       Griffey          20  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Teufel               Petralli        
+Util2                      Laudner              Teufel          
+Util3                      Santovenia           Santovenia      
+Util4                      Martinez             Hale            
+Util5                      Myers                Laudner         
+
+....................................................................................................
+                  Manager Profile for 1989 Needmore Shebazzum
+ 
+Playing Time limits for 1989 Needmore Shebazzum
+ 
+                  Maximum Atbats    Can be PH for?
+Player            vsLHP    vsRHP    vsLHP    vsRHP    Starts    Relief App
+Cox                  0        0      Yes      Yes        0            0
+Evans                0        0      Yes      Yes        0            0
+Petralli             0        0      Yes      Yes        0            0
+Santiago             0        0      Yes      Yes        0            0
+Walling              0        0      Yes      Yes        0            0
+Tartabull            0        0      Yes      Yes        0            0
+Clark,Ja             0        0      Yes      Yes        0            0
+Myers                3       41      Yes      Yes        0            0
+Oquendo              0        0      Yes      Yes        0            0
+Teufel               0        0      Yes      Yes        0            0
+Sheffield            0        0      Yes      Yes        0            0
+Thon                 0        0      Yes      Yes        0            0
+Ready                0        0      Yes      Yes        0            0
+Cary                 0        0      Yes      Yes        0            0
+Service              0        0      Yes      Yes        0            0
+Darwin               0        0      Yes      Yes        0            0
+Key                  0        0      Yes      Yes        0            0
+Finley               0        0      Yes      Yes        0            0
+Hanson               0        0      Yes      Yes        0            0
+Schooler             0        0      Yes      Yes        0            0
+Parker               0        0      Yes      Yes       17            5
+Tekulve              0        0      Yes      Yes        0            0
+Martinez,De          0        0      Yes      Yes        0            0
+Reimer               0        0      Yes      Yes        0            0
+Jeffcoat             0        0      Yes      Yes        0            0
+Belcher              0        0      Yes      Yes        0            0
+Nichols              0        0      Yes      Yes        0            0
+Wilson               0        0      Yes      Yes        0            0
+McDonald             0        0      Yes      Yes        0            6
+Palmer              11        8      Yes      Yes        0            0
+Belinda              0        0      Yes      Yes        0            8
+Carpenter            0        0      Yes      Yes        0            0
+Griffey Jr.        118      337      Yes      Yes        0            0
+Hale                10       57      Yes      Yes        0            0
+Martinez             0        0      Yes      Yes        0            0
+Lindeman             0        0      Yes      Yes        0            0
+Olson                0        2      Yes      Yes        0            0
+Leonard            157      409      Yes      Yes        0            0
+Worrell              0        0      Yes      Yes        0           47
+Griffey             16      220      Yes      Yes        0            0
+Santovenia          99      205      Yes      Yes        0            0
+Laudner             91      148      Yes      Yes        0            0
+Reynolds           116      247      Yes      Yes        0            0
+Otto                 0        0      Yes      Yes        1            0
+Woodson              3        3      Yes      Yes        0            0

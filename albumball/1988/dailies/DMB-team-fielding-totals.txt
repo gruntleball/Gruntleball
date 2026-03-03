@@ -1,0 +1,24 @@
+                           DMB team fielding totals -- Surfer Rosa League                           
+                                           Regular season                                           
+
+Team                           G     PO     A    E   DP     TC   PCT   PB   SB   CS   SB% CPO PPO 
+ChinaTrust Whales            162   4418  1742  100  120   6260  .984   10   70   39  .642   0  11 
+Evanston Endorphins          162   4426  1752  105  140   6283  .983    7  102   43  .703   2  13 
+Baraboo GoiterMen            162   4433  1748  118  126   6299  .981    9  122   46  .726   0  18 
+Nederland FrozenDeadGuys     162   4342  1651  117  131   6110  .981   10  169   50  .772   0  23 
+Butt Mountain Beavis         162   4373  1829  123  156   6325  .981   15  133   64  .675   1  19 
+Cincinnati Reds              162   4482  1506  120  110   6108  .980   17  108   56  .659   0  21 
+Tewksbury Bobs               162   4446  1617  124  128   6187  .980   12  109   53  .673   1  16 
+Marshall McDougalls          162   4409  1611  127  115   6147  .979   15  107   56  .656   1  11 
+Sunnydale Slayers            162   4478  1763  132  128   6373  .979    5  140   60  .700   0  19 
+Cape Canaveral Challengers   162   4382  1682  137  132   6201  .978    7   87   67  .565   0  12 
+Grain Belt Premiums          162   4380  1767  141  127   6288  .978    9  134   57  .702   1  22 
+Ferlin Huskies               162   4519  1704  143  135   6366  .978   23  110   51  .683   0   7 
+Century Atoms                162   4438  1667  142  133   6247  .977    5   97   38  .719   0  12 
+Barcelona Brewers            162   4358  1729  147  123   6234  .976   16  104   52  .667   1   9 
+Needmore Shebazzum           162   4354  1661  152  120   6167  .975   22  112   59  .655   1  13 
+Reykjavik 101ers             162   4379  1792  159  142   6330  .975   11  135   56  .707   0  31 
+Ferdinand Magellans          162   4412  1776  163  133   6351  .974   11  154   51  .751   0  24 
+Enough Shebazzle?            162   4358  1630  168  111   6156  .973   19  160   57  .737   0  21 
+Totals                      2916  79387 30627 2418 2310 112432  .978  223 2153  955  .693   8 302 
+

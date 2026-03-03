@@ -1,0 +1,801 @@
+WOWEE ZOWEE! LEAGUE PLAYOFFS - Game 1
+Monday, October 9, 1995
+
+----------------------------------------------------------------------------------------------------
+ROSTER NOTES
+----------------------------------------------------------------------------------------------------
+
+None
+
+----------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+----------------------------------------------------------------------------------------------------
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/9/1995  RVK     Barberie         General             10/10/1995    1    1 
+10/2/1995  RVK     Berry            General             10/10/1995    8    1 
+10/9/1995  CTW     Knoblauch        General             10/14/1995    5    5 
+10/6/1995  CTW     Wakefield        General             10/17/1995   11    8 
+10/3/1995  RVK     Bichette         General             10/19/1995   16   10 
+9/12/1995  BAR     Smith,O          Hit by pitch        10/19/1995   37   10 
+10/6/1995  CTW     Eusebio          Hit by pitch        11/1/1995    26   23 
+10/7/1995  RVK     Alou             Collision on bases  11/11/1995   35   33 
+
+----------------------------------------------------------------------------------------------------
+TRANSACTIONS
+----------------------------------------------------------------------------------------------------
+
+None
+
+----------------------------------------------------------------------------------------------------
+RESULTS
+----------------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Whales            0  0  0  0  1  0  0  0  0     1  7  0     9  1
+1995 Beavis            0  1  0  1  0  2  1  1  x     6 10  0     7  0
+Maddux (W,1-0), Pavlik (L,0-1), Leskanic (S,1)
+HR - Williams,Ma(1), Steinbach(1)
+Chinatrust loads the bases in the 9th, and suffers yet another devastating
+injury, this time to Chuck Knoblauch.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            3  0  1  0  0  1  0  0  0     5  9  1     7  0
+1995 Brewers           1  0  0  0  0  0  2  0  1     4  7  1    11  1
+Ashby (W,2-0), Martinez,P (L,0-1), Percival (S,2)
+Troy Percival continues his rough postseason but survives this one.
+
+----------------------------------------------------------------------------------------------------
+STANDINGS
+----------------------------------------------------------------------------------------------------
+
+Butt Mountain  1    Chinatrust  0
+Barcelona      0    Reykjavik   1
+
+----------------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+----------------------------------------------------------------------------------------------------
+
+10/9/1995, CTW95-BMB95, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Whales            0  0  0  0  1  0  0  0  0     1  7  0     9  1
+1995 Beavis            0  1  0  1  0  2  1  1  x     6 10  0     7  0
+ 
+Whales               AB  R  H BI   AVG    Beavis               AB  R  H BI   AVG
+Knoblauch         2b  1  0  1  0  .357    Merced            rf  5  1  2  0  .400
+ Tingley          pr  3  0  0  0  .333    Martin,A          cf  4  0  0  0  .000
+ Walton           ph  1  0  0  0  .286     Williams,Ger     cf  0  0  0  0  .000
+Joyner            1b  4  0  1  1  .280    McGwire           1b  2  2  0  0  .000
+Eisenreich        cf  4  0  0  0  .238    Williams,Ma       3b  3  2  3  2 1.000
+O'Neill           rf  4  0  0  0  .333    Valentin,Joh      ss  3  0  1  1  .333
+Carreon           lf  3  0  1  0  .200    Livingstone       2b  4  0  2  2  .500
+Hansen            3b  3  0  2  0  .667     King,J           2b  0  0  0  0  .000
+Abbott,Ku         ss  4  0  1  0  .200    Conine            lf  4  0  0  0  .000
+Alomar,S          c   4  1  1  0  .333    Steinbach         c   3  1  2  1  .667
+Pavlik            p   1  0  0  0  .000    Maddux,G          p   3  0  0  0  .000
+ Hosey            ph  1  0  0  0  .000     Leskanic         p   0  0  0  0  .000
+ Mathews,Te       p   0  0  0  0  .000                         31  6 10  6
+ Javier           ph  0  0  0  0  .333
+                     33  1  7  1
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Pavlik           L 0-1           6.0  7  4  4  4  5 113  64  6.00
+Mathews,Te                       2.0  3  2  2  1  1  30  17  2.84
+                                 8.0 10  6  6  5  6 143  81 
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Maddux,G         W 1-0           8.2  7  1  1  3  7 138  90  1.04
+Leskanic         S 1             0.1  0  0  0  0  1   3   3  0.00
+                                 9.0  7  1  1  3  8 141  93 
+ 
+CTW: Tingley ran for Knoblauch in the 1st
+     Tingley moved to 2b in the 1st
+     Hosey batted for Pavlik in the 7th
+     Javier batted for Mathews,Te in the 9th
+     Walton batted for Tingley in the 9th
+BMB: Williams,Ger inserted at cf in the 8th
+     King,J inserted at 2b in the 9th
+ 
+2B-Merced, Williams,Ma. HR-Williams,Ma(1), Steinbach(1). SB-Livingstone(1). 
+K-Joyner, O'Neill 3, Abbott,Ku, Alomar,S, Hosey, Walton, McGwire, 
+Valentin,Joh, Conine 2, Steinbach, Maddux,G. BB-Carreon, Hansen, Javier, 
+McGwire 2, Williams,Ma, Steinbach, Maddux,G. SH-Pavlik. SF-Valentin,Joh. 
+WP-Pavlik. 
+GWRBI: Williams,Ma
+Chuck Knoblauch was injured for this game and 4 more days
+Temperature: 70, Sky: clear, Wind: right to left at 7 MPH.
+
+....................................................................................................
+10/9/1995, CTW95-BMB95, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Whales            0  0  0  0  1  0  0  0  0     1  7  0     9  1
+1995 Beavis            0  1  0  1  0  2  1  1  x     6 10  0     7  0
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Knoblauch         2b 1>S                                                             
+ Tingley          pr                53           53           64/f                   
+ Walton           ph                                                       Leskanic  
+                                                                           k         
+Joyner            1b   7            43           S.2-H      8>k                      
+Eisenreich        cf   63.1-2     4>9            64/f         7                      
+O'Neill           rf   k            8          6>k            k                      
+Carreon           lf 2>63           S            43         9>W                      
+Hansen            3b   S            S.1-2        63           W.1-2                  
+Abbott,Ku         ss   4/L          8          7>S            k                      
+Alomar,S          c    8          5>S            k            3/fl                   
+Pavlik            p  3>7            14/SH.1-2                                        
+ Hosey            ph                             k                                   
+ Mathews,Te       p                                                                  
+ Javier           ph                                          W.2-3;1-2              
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Merced            rf 1>9            4/L          D.1-3      7>Mathews,Te   9         
+                                                              S                      
+Martin,A          cf   43         4>43           63           31.1-2                 
+ Williams,Ger     cf                                                                 
+McGwire           1b   k            W          6>W            8.2-3                  
+Williams,Ma       3b 2>HR           W.1-2        D.1-3        S.3-H                  
+Valentin,Joh      ss   S            k            note 1       64/f                   
+Livingstone       2b   46/f.B-1     wp.2-3;1-2   S.3-H      8>3/g                    
+                                    S.3-H;2-3                                        
+ King,J           2b                                                                 
+Conine            lf   43/gdp       OA.3xH(21)   6            k                      
+                                  5>k                                                
+Steinbach         c  3>k            S            SB2          HR                     
+                                                 IW                                  
+Maddux,G          p    k            7            64/f         W                      
+ Leskanic         p                                                                  
+ 
+ 1: 8/SF.3-H;2-3 
+ 
+ 
+Whales           IN OUT ER                  Beavis           IN OUT ER                  
+Pavlik           A1  C9  4 L 0-1            Maddux,G         A1  D9  1 W 1-0            
+Mathews,Te       D1  E1  2                  Leskanic         E1  E1  0 S 1              
+
+....................................................................................................
+10/9/1995, CTW95-BMB95, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Whales            0  0  0  0  1  0  0  0  0     1  7  0     9  1
+1995 Beavis            0  1  0  1  0  2  1  1  x     6 10  0     7  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Whales batting
+ 0-0  0 --- 12  Knoblauch reached on an infield single to short (CFBX)
+                Knoblauch left the game with an injury
+                Tingley pinch running for Knoblauch
+ 0-0  0 1-- 00  Joyner flied out to left (X)
+ 0-0  1 1-- 22  Eisenreich grounded out to short, Tingley to second 
+                  (FBBCX)
+ 0-0  2 -2- 12  O'Neill struck out (BCFS)
+ 
+**************  Bottom of the 1st inning, Beavis batting
+                Tingley moved to second base
+ 0-0  0 --- 32  Merced flied out to right (CBFBBX)
+ 0-0  1 --- 22  Martin,A grounded out to second (BCSBX)
+ 0-0  2 --- 32  McGwire struck out (BBCBFS)
+ 
+**************  Top of the 2nd inning, Whales batting
+ 0-0  0 --- 21  Carreon grounded out to short (BBFX)
+ 0-0  1 --- 32  Hansen lined a single to right (CBFBBX)
+ 0-0  1 1-- 21  Abbott,Ku lined out to second (BBCX)
+ 0-0  2 1-- 22  Alomar,S flied out to center (BCCBX)
+ 
+**************  Bottom of the 2nd inning, Beavis batting
+ 0-0  0 --- 00  Williams,Ma homered deep to left center (X)
+ 0-1  0 --- 22  Valentin,Joh lined a single to right (CFFBBX)
+ 0-1  0 1-- 22  Livingstone grounded to second, forcing Valentin,Joh at 
+                  second, Livingstone to first (BCCBX)
+ 0-1  1 1-- 10  Conine grounded into a double play, Tingley to Joyner (BX)
+ 
+**************  Top of the 3rd inning, Whales batting
+ 0-1  0 --- 01  Pavlik flied out to left (FX)
+ 0-1  1 --- 22  Tingley grounded out to third (BFFBX)
+ 0-1  2 --- 12  Joyner grounded out to second (BSCX)
+ 
+**************  Bottom of the 3rd inning, Beavis batting
+ 0-1  0 --- 12  Steinbach struck out (CBSC)
+ 0-1  1 --- 22  Maddux,G struck out (BCFFBS)
+ 0-1  2 --- 10  Merced lined out to second (BX)
+ 
+**************  Top of the 4th inning, Whales batting
+ 0-1  0 --- 01  Eisenreich flied out to right (CX)
+ 0-1  1 --- 12  O'Neill flied out to center (BFFX)
+ 0-1  2 --- 00  Carreon reached on an infield single to short (X)
+ 0-1  2 1-- 32  Hansen grounded a single up the middle, Carreon to second 
+                  (BSBBC>X)
+ 0-1  2 12- 12  Abbott,Ku flied out to center (BSCFX)
+ 
+**************  Bottom of the 4th inning, Beavis batting
+ 0-1  0 --- 12  Martin,A grounded out to second (FBSX)
+ 0-1  1 --- 32  McGwire walked (CBFBBB)
+ 0-1  1 1-- 30  Williams,Ma walked, McGwire to second (BBBB)
+ 0-1  1 12- 12  Valentin,Joh struck out (FBCFS)
+ 0-1  2 12- 00  Pavlik threw a wild pitch, McGwire to third, Williams,Ma 
+                  to second (B)
+ 0-1  2 -23 20  Livingstone reached on an infield single to short, 
+                  McGwire scored, Williams,Ma to third (B.BX)
+ 0-2  2 1-3 00  Williams,Ma out at home attempting to advance (B)
+ 
+**************  Top of the 5th inning, Whales batting
+ 0-2  0 --- 12  Alomar,S lined a single to shallow center (CFBX)
+ 0-2  0 1-- 01  Pavlik sacrifice bunted to the mound, Alomar,S to second 
+                  (FbXb)
+ 0-2  1 -2- 12  Tingley grounded out to third (CBFX)
+ 0-2  2 -2- 00  Joyner lined a single to right center, Alomar,S scored (X)
+ 1-2  2 1-- 22  Eisenreich grounded to short, forcing Joyner at second 
+                  (SBCBX)
+ 
+**************  Bottom of the 5th inning, Beavis batting
+ 1-2  0 --- 12  Conine struck out (CBFS)
+ 1-2  1 --- 22  Steinbach grounded a single between third and short 
+                  (BCBFX)
+ 1-2  1 1-- 22  Maddux,G flied out to left (SBCBX)
+ 1-2  2 1-- 01  Merced grounded a double down the first base line, 
+                  Steinbach to third (CX)
+ 1-2  2 -23 11  Martin,A grounded out to short (CBX)
+ 
+**************  Top of the 6th inning, Whales batting
+ 1-2  0 --- 12  O'Neill struck out (CFBFS)
+ 1-2  1 --- 00  Carreon grounded out to second (X)
+ 1-2  2 --- 12  Hansen grounded out to short (CSBX)
+ 
+**************  Bottom of the 6th inning, Beavis batting
+ 1-2  0 --- 30  McGwire walked (BBBB)
+ 1-2  0 1-- 12  Williams,Ma lined a double to right center, McGwire to 
+                  third (BCSFX)
+ 1-2  0 -23 22  Valentin,Joh hit a sacrifice fly to center, McGwire 
+                  scored, Williams,Ma to third (CBFBX)
+ 1-3  1 --3 22  Livingstone lined a single between third and short, 
+                  Williams,Ma scored (CBCBFX)
+ 1-4  1 1-- 00  Conine popped out to short (X)
+ 1-4  2 1-- 00  Livingstone stole second (>C)
+ 1-4  2 -2- 31  Steinbach was walked intentionally (>C.IIII)
+ 1-4  2 12- 01  Maddux,G grounded to short, forcing Steinbach at second 
+                  (CX)
+ 
+**************  Top of the 7th inning, Whales batting
+ 1-4  0 --- 01  Abbott,Ku grounded a single between third and short (SX)
+ 1-4  0 1-- 02  Alomar,S struck out (CSFC)
+                Hosey pinch hitting for Pavlik
+ 1-4  1 1-- 22  Hosey struck out (BFBSS)
+ 1-4  2 1-- 00  Tingley grounded to short, forcing Abbott,Ku at second (X)
+ 
+**************  Bottom of the 7th inning, Beavis batting
+                Mathews,Te now pitching
+ 1-4  0 --- 00  Merced reached on an infield single to third (X)
+ 1-4  0 1-- 11  Martin,A grounded out to first, Merced to second (BSX)
+ 1-4  1 -2- 22  McGwire flied out to center, Merced to third (CBSBX)
+ 1-4  2 --3 22  Williams,Ma lined a single to right center, Merced scored 
+                  (BBCFX)
+ 1-5  2 1-- 10  Valentin,Joh grounded to short, forcing Williams,Ma at 
+                  second (BX)
+ 
+**************  Top of the 8th inning, Whales batting
+                Williams,Ger now playing center field
+ 1-5  0 --- 02  Joyner struck out (SSS)
+ 1-5  1 --- 12  Eisenreich flied out to left (CBFX)
+ 1-5  2 --- 22  O'Neill struck out (FFBBS)
+ 
+**************  Bottom of the 8th inning, Beavis batting
+ 1-5  0 --- 01  Livingstone grounded out to first (SX)
+ 1-5  1 --- 22  Conine struck out (CBFBS)
+ 1-5  2 --- 00  Steinbach homered deep to left center (X)
+ 1-6  2 --- 30  Maddux,G walked (BBBB)
+ 1-6  2 1-- 10  Merced flied out to right (BX)
+ 
+**************  Top of the 9th inning, Whales batting
+                King,J now playing second base
+ 1-6  0 --- 32  Carreon walked (BCBFBB)
+ 1-6  0 1-- 31  Hansen walked, Carreon to second (FBBBB)
+ 1-6  0 12- 32  Abbott,Ku struck out (BBCFFBC)
+ 1-6  1 12- 10  Alomar,S popped out to first (BX)
+                Javier pinch hitting for Mathews,Te
+ 1-6  2 12- 32  Javier walked, Carreon to third, Hansen to second 
+                  (BFBBF>B)
+                Walton pinch hitting for Tingley
+                Leskanic now pitching
+ 1-6  2 123 02  Walton struck out (CCC)
+____________________________________________________________________________________________________
+
+10/9/1995, RVK95-BAR95, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            3  0  1  0  0  1  0  0  0     5  9  1     7  0
+1995 Brewers           1  0  0  0  0  0  2  0  1     4  7  1    11  1
+ 
+101ers               AB  R  H BI   AVG    Brewers              AB  R  H BI   AVG
+Offerman          ss  4  2  3  1  .250    Weiss             ss  4  0  0  0  .000
+ Percival         p   0  0  0  0  .000    Anderson          lf  4  1  1  0  .250
+Barberie          2b  2  0  0  0  .429    Ventura           3b  3  2  1  1  .333
+ Reed,Jo          2b  3  0  0  0  .071    Vaughn,M          1b  3  1  1  1  .333
+Belle             lf  5  2  3  2  .324     Miller,K         pr  0  0  0  0  .000
+Piazza            c   4  0  2  0  .345    Puckett           rf  5  0  3  2  .600
+ Oquist           p   0  0  0  0  .000    Lopez,J           c   5  0  0  0  .000
+ Sanchez          ss  0  0  0  0  .000    Phillips,T        cf  3  0  0  0  .000
+Sosa              rf  3  1  1  2  .379    Morandini         2b  4  0  1  0  .250
+Kruk              1b  4  0  0  0  .333    Martinez,P        p   1  0  0  0  .000
+Pendleton         3b  4  0  0  0  .259     Arias            ph  1  0  0  0  .000
+Kingery           cf  2  0  0  0  .250     Rapp             p   0  0  0  0  .000
+ Huff             cf  0  0  0  0  .333     White,Dev        ph  1  0  0  0  .000
+Ashby             p   3  0  0  0  .000     Burba            p   0  0  0  0  .000
+ Decker           c   1  0  0  0  .200     Wehner           ph  1  0  0  0  .000
+                     35  5  9  5           Veres,D          p   0  0  0  0  .000
+                                                               35  4  7  4
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Ashby            W 2-0           6.1  4  2  1  6  4 120  66  1.42
+Oquist                           1.2  1  1  1  0  1  25  16  1.69
+Percival         S 2             1.0  2  1  1  1  0  22  10 18.90
+                                 9.0  7  4  3  7  5 167  92 
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Martinez,P       L 0-1           5.0  5  4  1  0  5  67  45  1.80
+Rapp                             1.0  2  1  1  2  2  27  15  9.00
+Burba                            2.0  1  0  0  2  2  30  18  0.00
+Veres,D                          1.0  1  0  0  0  0   6   5  0.00
+                                 9.0  9  5  2  4  9 130  83 
+ 
+RVK: Reed,Jo inserted at 2b in the 3rd
+     Decker inserted at c in the 7th
+     Huff inserted at cf in the 8th
+     Sanchez inserted at ss in the 9th
+BAR: Arias batted for Martinez,P in the 5th
+     White,Dev batted for Rapp in the 6th
+     Wehner batted for Burba in the 8th
+     Miller,K ran for Vaughn,M in the 9th
+ 
+E-Offerman, Ventura. 2B-Belle, Piazza, Puckett. 3B-Vaughn,M. HR-Offerman(2), 
+Belle(3), Sosa(2), Ventura(1). SB-Vaughn,M(1). K-Piazza, Sosa, Pendleton 2, 
+Kingery, Ashby 3, Decker, Ventura, Puckett, Phillips,T, Martinez,P, Arias. 
+BB-Offerman, Sosa, Kingery 2, Weiss, Anderson, Ventura 2, Vaughn,M 2, 
+Phillips,T. 
+GWRBI: Belle
+Bret Barberie was injured for this game only
+Temperature: 73, Sky: partly cloudy, Wind: in from right at 4 MPH.
+
+....................................................................................................
+10/9/1995, RVK95-BAR95, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            3  0  1  0  0  1  0  0  0     5  9  1     7  0
+1995 Brewers           1  0  0  0  0  0  2  0  1     4  7  1    11  1
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+Offerman          ss 1>e5.B-2     3>HR           S          7>Burba      9>Veres,D   
+                                                              W            S         
+ Percival         p                                                                  
+Barberie          2b   9            7                                                
+ Reed,Jo          2b                             3            3            46/f.B-1  
+Belle             lf   S.2-H        D          6>Rapp         9            463/gdp   
+                                                 HR                                  
+Piazza            c    31.1-2       PO2(26)      D            S.1-2                  
+                                    k                                                
+ Oquist           p                                                                  
+ Sanchez          ss                                                                 
+Sosa              rf   HR.2-H     4>53           W            k                      
+Kruk              1b   43           7            9          8>63                     
+Pendleton         3b 2>k            6            k            3/g                    
+Kingery           cf   9          5>k            W.2-3;1-2    W                      
+ Huff             cf                                                                 
+Ashby             p    k            k            k                                   
+ Decker           c                                           k                      
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Weiss             ss 1>53         3>7            W            3/g        9>Percival  
+                                                                           53        
+Anderson          lf   W            143          S.1-3      7>53           1         
+Ventura           3b   k            43           W.1-2        W            HR        
+Vaughn,M          1b   e6.1-2;B-1 4>W            9            Oquist       W         
+                                                              T.1-H                  
+ Miller,K         pr                                                                 
+Puckett           rf   D.2-H;1-3    SB2        6>S            43.3-H       S.1-2     
+                                    k                                                
+Lopez,J           c    63           43.2-3       9            6            7         
+Phillips,T        cf 2>43           53           W.1-2      8>k                      
+Morandini         2b   5/fl       5>7            S.2-3;1-2    63                     
+Martinez,P        p    k                                                             
+ Arias            ph                k                                                
+ Rapp             p                                                                  
+ White,Dev        ph                             8                                   
+ Burba            p                                                                  
+ Wehner           ph                                          63                     
+ Veres,D          p                                                                  
+ 
+ 
+101ers           IN OUT ER                  Brewers          IN OUT ER                  
+Ashby            A1  D3  1 W 2-0            Martinez,P       A1  C2  1 L 0-1            
+Oquist           D4  D9  1                  Rapp             C3  C9  1                  
+Percival         E1  E6  1 S 2              Burba            D1  D9  0                  
+                                            Veres,D          E1  E3  0                  
+
+....................................................................................................
+10/9/1995, RVK95-BAR95, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            3  0  1  0  0  1  0  0  0     5  9  1     7  0
+1995 Brewers           1  0  0  0  0  0  2  0  1     4  7  1    11  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, 101ers batting
+ 0-0  0 --- 21  Offerman to second on an error by the third baseman 
+                  Ventura (BBCX)
+ 0-0  0 -2- 01  Barberie lined out to right (CX)
+ 0-0  1 -2- 12  Belle lined a single down the left field line, Offerman 
+                  scored (CBCX)
+ 1-0  1 1-- 20  Piazza grounded out to first, Belle to second (BBX)
+ 1-0  2 -2- 21  Sosa homered deep to left center, Belle scored (BBCX)
+ 3-0  2 --- 00  Kruk grounded out to second (X)
+ 
+**************  Bottom of the 1st inning, Brewers batting
+ 3-0  0 --- 22  Weiss grounded out to third (FBBSFX)
+ 3-0  1 --- 32  Anderson walked (BCBBFFFB)
+ 3-0  1 1-- 32  Ventura struck out (CFBBBC)
+ 3-0  2 1-- 21  Anderson to second, Vaughn,M to first on an error by the 
+                  shortstop Offerman (BFBX)
+ 3-0  2 12- 20  Puckett lined a double down the left field line, Anderson 
+                  scored, Vaughn,M to third (BBX)
+ 3-1  2 -23 21  Lopez,J grounded out to short (BBFX)
+ 
+**************  Top of the 2nd inning, 101ers batting
+ 3-1  0 --- 12  Pendleton struck out (BFSS)
+ 3-1  1 --- 20  Kingery flied out to right (BBX)
+ 3-1  2 --- 12  Ashby struck out (CCBS)
+ 
+**************  Bottom of the 2nd inning, Brewers batting
+ 3-1  0 --- 01  Phillips,T grounded out to second (CX)
+ 3-1  1 --- 00  Morandini popped out to third (X)
+ 3-1  2 --- 12  Martinez,P struck out (BFSFS)
+ 
+**************  Top of the 3rd inning, 101ers batting
+ 3-1  0 --- 00  Offerman homered deep to right (X)
+ 4-1  0 --- 12  Barberie lined out to left (FSBX)
+                Barberie left the game with an injury
+ 4-1  1 --- 21  Belle doubled deep to left (BBSX)
+ 4-1  1 -2- 01  Belle was picked off second by Lopez,J (CC+2)
+ 4-1  2 --- 02  Piazza struck out (CC+2.S)
+ 
+**************  Bottom of the 3rd inning, Brewers batting
+                Reed,Jo now playing second base
+ 4-1  0 --- 32  Weiss flied out to left (CBBBSX)
+ 4-1  1 --- 31  Anderson grounded out to the mound (BBBCX)
+ 4-1  2 --- 00  Ventura grounded out to second (X)
+ 
+**************  Top of the 4th inning, 101ers batting
+ 4-1  0 --- 32  Sosa grounded out to third (BBBCCX)
+ 4-1  1 --- 12  Kruk flied out to left (CFBX)
+ 4-1  2 --- 12  Pendleton popped out to short (CBCX)
+ 
+**************  Bottom of the 4th inning, Brewers batting
+ 4-1  0 --- 30  Vaughn,M walked (BBBB)
+ 4-1  0 1-- 00  Vaughn,M stole second (>B)
+ 4-1  0 -2- 32  Puckett struck out (>B.SCFBFBFS)
+ 4-1  1 -2- 00  Lopez,J grounded out to second, Vaughn,M to third (X)
+ 4-1  2 --3 00  Phillips,T grounded out to third (X)
+ 
+**************  Top of the 5th inning, 101ers batting
+ 4-1  0 --- 12  Kingery struck out (CFBS)
+ 4-1  1 --- 12  Ashby struck out (SCBS)
+ 4-1  2 --- 00  Offerman lined a single to right (X)
+ 4-1  2 1-- 11  Reed,Jo popped out to first (BFX)
+ 
+**************  Bottom of the 5th inning, Brewers batting
+ 4-1  0 --- 00  Morandini flied out to left (X)
+                Arias pinch hitting for Martinez,P
+ 4-1  1 --- 22  Arias struck out (CFBBC)
+ 4-1  2 --- 31  Weiss walked (BBBCB)
+ 4-1  2 1-- 20  Anderson lined a single to left center, Weiss to third 
+                  (BBX)
+ 4-1  2 1-3 32  Ventura walked, Anderson to second (BFBSFB>B)
+ 4-1  2 123 12  Vaughn,M lined out to right (CBFX)
+ 
+**************  Top of the 6th inning, 101ers batting
+                Rapp now pitching
+ 4-1  0 --- 20  Belle homered deep to left (BBX)
+ 5-1  0 --- 02  Piazza grounded a double down the third base line (CCX)
+ 5-1  0 -2- 31  Sosa walked (SbBBBB)
+ 5-1  0 12- 01  Kruk flied out to right (SX)
+ 5-1  1 12- 12  Pendleton struck out (FCBS)
+ 5-1  2 12- 31  Kingery walked, Piazza to third, Sosa to second (BBBCB)
+ 5-1  2 123 12  Ashby struck out (CCBFS)
+ 
+**************  Bottom of the 6th inning, Brewers batting
+ 5-1  0 --- 12  Puckett lined a single to left (CCFBX)
+ 5-1  0 1-- 00  Lopez,J flied out to right (X)
+ 5-1  1 1-- 31  Phillips,T walked, Puckett to second (BBBCB)
+ 5-1  1 12- 12  Morandini reached on an infield single to second, Puckett 
+                  to third, Phillips,T to second (CBFX)
+                White,Dev pinch hitting for Rapp
+ 5-1  1 123 00  White,Dev flied out to center (X)
+ 5-1  2 123 22  Weiss grounded out to first (FCBBX)
+ 
+**************  Top of the 7th inning, 101ers batting
+                Burba now pitching
+ 5-1  0 --- 31  Offerman walked (BSBBB)
+ 5-1  0 1-- 01  Reed,Jo popped out to first (SX)
+ 5-1  1 1-- 01  Belle lined out to right (CX)
+ 5-1  2 1-- 00  Piazza lined a single to shallow center, Offerman to 
+                  second (X)
+ 5-1  2 12- 22  Sosa struck out (CBBSC)
+ 
+**************  Bottom of the 7th inning, Brewers batting
+ 5-1  0 --- 01  Anderson grounded out to third (FX)
+ 5-1  1 --- 32  Ventura walked (SBBCBB)
+                Decker now playing catcher
+                Oquist now pitching
+ 5-1  1 1-- 32  Vaughn,M tripled deep to right center, Ventura scored 
+                  (BCSFBFBX)
+ 5-2  1 --3 01  Puckett grounded out to second, Vaughn,M scored (SX)
+ 5-3  2 --- 10  Lopez,J popped out to short (BX)
+ 
+**************  Top of the 8th inning, 101ers batting
+ 5-3  0 --- 11  Kruk grounded out to short (BCX)
+ 5-3  1 --- 02  Pendleton grounded out to first (CSX)
+ 5-3  2 --- 31  Kingery walked (FBBBB)
+ 5-3  2 1-- 12  Decker struck out (CCBS)
+ 
+**************  Bottom of the 8th inning, Brewers batting
+                Huff now playing center field
+ 5-3  0 --- 22  Phillips,T struck out (BBCFS)
+ 5-3  1 --- 22  Morandini grounded out to short (FBFBX)
+                Wehner pinch hitting for Burba
+ 5-3  2 --- 11  Wehner grounded out to short (BCX)
+ 
+**************  Top of the 9th inning, 101ers batting
+                Veres,D now pitching
+ 5-3  0 --- 02  Offerman lined a single to right center (CSX)
+ 5-3  0 1-- 10  Reed,Jo grounded to second, forcing Offerman at second, 
+                  Reed,Jo to first (BX)
+ 5-3  1 1-- 00  Belle grounded into a double play, Morandini to Weiss to 
+                  Vaughn,M (X)
+ 
+**************  Bottom of the 9th inning, Brewers batting
+                Sanchez now playing shortstop
+                Percival now pitching
+ 5-3  0 --- 32  Weiss grounded out to third (CCBBFBX)
+ 5-3  1 --- 31  Anderson popped out to the mound (CBBBX)
+ 5-3  2 --- 11  Ventura homered deep to right (BFX)
+ 5-4  2 --- 30  Vaughn,M walked (BBBB)
+                Miller,K pinch running for Vaughn,M
+ 5-4  2 1-- 00  Puckett lined a single to shallow center, Miller,K to 
+                  second (X)
+ 5-4  2 12- 10  Lopez,J flied out to left (BX)
+
+----------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+                  LIMITS:   140    140    120
+----------------------------------------------------------------------------------------------------
+
+                          Playoff Team Status -- 1995 Butt Mountain Beavis                          
+                               Divisional playoff -- as of 10/9/1995                                
+
+S Name                    Usage     PA     PA Days 
+  Scott Livingstone           2      4    213    0 
+  Matt Williams               1      4    318    0 
+  Mark McGwire                1      4    422    0 
+  Orlando Merced              1      5    545    0 
+  Terry Steinbach             1      4    440    0 
+  Al Martin                   1      4    486    0 
+  Jeff Conine                 1      4    562    0 
+  John Valentin               1      4    621    0 
+f Harvey Pulliam              0      0      5    0 
+  Jeff King                   0      0    509    0 
+  Rico Brogna                 0      0    540    0 
+f Mark Whiten                 0      0    362    0 
+f Todd Hollandsworth          0      0    115    0 
+  Gerald Williams             0      0    208    0 
+  Juan Gonzalez               0      0    374    0 
+f Dave Silvestri              0      0    110    0 
+  Barry Lyons                 0      0     70    0 
+f Dave Valle                  0      0     83    0 
+  Yamil Benitez               0      0     40    0 
+f Chip Hale                   0      0    114    0 
+f Chris Donnels               0      0    134    0 
+  Tim Spehr                   0      0     44    0 
+f Mike Mordecai               0      0     87    0 
+f Carlos Rodriguez            0      0     36    0 
+f Ozzie Timmons               0      0    185    0 
+f Joe Siddall                 0      0     14    0 
+  Total                             33   6637      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/9   10/8   10/7   10/6   10/5 
+  Greg Maddux                 4    1   28    0  10/9/1995   138s                             
+  Curt Leskanic               1    1   76    0  10/9/1995     3r                             
+  John Smoltz                 0    0   29    0  9/27/1995                                    
+f Roger Clemens               0    0   23    0  9/26/1995                                    
+  Frank Castillo              0    0   29    0  9/24/1995                                    
+  Doug Henry                  0    0   51    0  9/23/1995                                    
+  Pete Schourek               0    0   29    0  9/23/1995                                    
+  Mel Rojas                   0    0   59    0  9/27/1995                                    
+  Mark Wohlers                0    0   65    0  9/27/1995                                    
+f Chuck McElroy               0    0   44    0  9/10/1995                                    
+  Rich Robertson              0    0   25    0  9/25/1995                                    
+f Gene Harris                 0    0   24    0  9/27/1995                                    
+f Lee Hancock                 0    0   11    0  9/25/1995                                    
+f Andrew Lorraine             0    0    5    0  8/25/1995                                    
+  Tim Fortugno                0    0   37    0  9/22/1995                                    
+f Mark Brandenberg            0    0   11    0  9/25/1995                                    
+f Brian Boehringer            0    0    7    0  9/15/1995                                    
+  Total                            1  145                                                    
+
+
+                           Playoff Team Status -- 1995 Barcelona Brewers                            
+                               Divisional playoff -- as of 10/9/1995                                
+
+S Name                    Usage     PA     PA Days 
+  Javier Lopez                1      5    352    0 
+  Walt Weiss                  1      5    537    0 
+  Robin Ventura               1      5    577    0 
+  Kirby Puckett               1      5    602    0 
+  John Wehner                 1      1    123    0 
+  Mo Vaughn                   1      5    636    0 
+  Brady Anderson              1      5    657    0 
+  Mickey Morandini            1      4    550    0 
+  Tony Phillips               1      4    643    0 
+  Alex Arias                  0      1    246    0 
+  Devon White                 0      1    465    0 
+d Ozzie Smith                 0      0    182   10 
+f Scott Hatteberg             0      0      2    0 
+  Jayhawk Owens               0      0     49    0 
+f Doug Strange                0      0    169    0 
+f Edgar Caceres               0      0    130    0 
+f Jesse Levis                 0      0     22    0 
+  Phil Plantier               0      0    248    0 
+  Matt Merullo                0      0    216    0 
+  Keith Miller                0      0     17    0 
+  Total                             41   6423      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/9   10/8   10/7   10/6   10/5 
+  Pat Rapp                    4    1   28    0  10/9/1995    27r                             
+  Pedro Martinez              3    1   30    0  10/9/1995    67s                             
+  Dave Burba                  2    1   52    0  10/9/1995    30r                             
+  Dave Veres                  1    1   72    0  10/9/1995     6r                             
+f Jeff Tabaka                 0    0   34    0   8/6/1995                                    
+  Curt Schilling              0    0   17    0  7/13/1995                                    
+  Dennis Martinez             0    0   28    0  9/27/1995                                    
+f Paul Spoljaric              0    0    0    0                                               
+f Mike Mimbs                  0    0   35    0  9/25/1995                                    
+f Mark Kiefer                 0    0   24    0  9/24/1995                                    
+  Mike Timlin                 0    0   31    0   9/7/1995                                    
+f Cory Bailey                 0    0    3    0   9/9/1995                                    
+f Hector Carrasco             0    0   64    0  9/27/1995                                    
+  Dean Hartgraves             0    0   40    0  7/16/1995                                    
+f Johnny Ruffin               0    0   10    0  8/31/1995                                    
+  Kevin Wickander             0    0   29    0  9/26/1995                                    
+  Doug Creek                  0    0    6    0   8/3/1995                                    
+f Greg Gohr                   0    0   10    0  9/24/1995                                    
+f Kevin Campbell              0    0    6    0  9/24/1995                                    
+f Chuck Ricci                 0    0    7    0  9/27/1995                                    
+f Rick Honeycutt              0    0   52    0   9/7/1995                                    
+f Bryan Rekar                 0    0   15    0  9/24/1995                                    
+  Total                            1  145                                                    
+
+
+                           Playoff Team Status -- 1995 Chinatrust Whales                            
+                               Divisional playoff -- as of 10/9/1995                                
+
+S Name                    Usage     PA     PA Days 
+  Sandy Alomar                7     16    218    0 
+  Jim Eisenreich              6     25    423    0 
+  Mark Carreon                6     24    426    0 
+  Kurt Abbott                 5     23    468    0 
+  Chuck Knoblauch             5     30    629    5 
+  Wally Joyner                5     26    550    0 
+  Paul O'Neill                5     25    543    0 
+f Chipper Jones               4     26    602    0 
+  Ron Tingley                 4      6    145    0 
+f Tim Bogar                   4      6    157    0 
+  Jerome Walton               4      7    188    0 
+d Tony Eusebio                4     15    408   23 
+  Dave Hansen                 2      4    211    0 
+f Will Clark                  2      9    537    0 
+  Mike Blowers                2      8    498    0 
+  Stan Javier                 1      7    504    0 
+  Dwayne Hosey                1      1     77    0 
+f Darryl Strawberry           0      0     99    0 
+f Todd Pratt                  0      0     67    0 
+f Chad Kreuter                0      0     83    0 
+  Alex Gonzalez               0      0    425    0 
+  Russ Davis                  0      0    109    0 
+f Ruben Amaro                 0      0     68    0 
+  Total                            258   7435      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/9   10/8   10/7   10/6   10/5 
+  Terry Mathews               9    5   57    0  10/9/1995    30r                  16r        
+  Mike Henneman               8    4   50    0  10/6/1995                         21r        
+f Scott Karl                  8    2   25    0  10/6/1995                         27r        
+  Tim Wakefield               7    2   27    8  10/6/1995                          6s        
+  Randy Johnson               7    2   30    0  10/3/1995                                    
+  Andy Pettitte               6    2   31    0  10/4/1995                                    
+  Jose Mesa                   5    3   62    0  10/6/1995                         42r        
+  Scott Service               4    1   28    0  10/6/1995                         42r        
+  Jerry DiPoto                3    2   58    0  10/4/1995                                    
+  Roger Pavlik                3    1   31    0  10/9/1995   113s                             
+f Jim Poole                   2    1   42    0  10/6/1995                          6r        
+  Jeff Montgomery             0    0   54    0  9/27/1995                                    
+f Aaron Sele                  0    0    6    0   9/2/1995                                    
+f Mike Butcher                0    0   40    0  9/25/1995                                    
+f Richie Lewis                0    0   21    0  9/10/1995                                    
+f Chris Hammond               0    0   25    0  9/18/1995                                    
+  Felipe Lira                 0    0   37    0  9/25/1995                                    
+  Total                            7  185                                                    
+
+
+                            Playoff Team Status -- 1995 Reykjavík 101ers                            
+                               Divisional playoff -- as of 10/9/1995                                
+
+S Name                    Usage     PA     PA Days 
+  John Kruk                  12     23    188    0 
+  Bret Barberie               8     23    288    1 
+  Jose Offerman               7     38    511    0 
+  Mike Piazza                 7     31    475    0 
+  Albert Belle                6     37    631    0 
+  Sammy Sosa                  6     35    629    0 
+  Terry Pendleton             5     28    557    0 
+  Mike Kingery                5     19    402    0 
+  Steve Decker                3      5    154    0 
+d Moises Alou                 3     12    386   33 
+  Jody Reed                   3     16    515    0 
+  Sean Berry                  3      9    348    1 
+d Dante Bichette              2     15    612   10 
+  Mike Huff                   2      4    168    0 
+  Rey Sanchez                 0      1    453    0 
+f Howard Johnson              0      0    206    0 
+  Dave Gallagher              0      0    194    0 
+f Joe Kmak                    0      0     61    0 
+f Arquimedez Pozo             0      0      1    0 
+f Jim Tatum                   0      0     35    0 
+f Ray Holbert                 0      0     86    0 
+f Garey Ingram                0      0     66    0 
+f Steve Buechele              0      0    146    0 
+  Dion James                  0      0    231    0 
+f Dan Masteller               0      0    219    0 
+f J.R. Phillips               0      0    252    0 
+  Total                            296   7814      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/9   10/8   10/7   10/6   10/5 
+  Mike Oquist                15    4   27    0  10/9/1995    25r                             
+  Wilson Alvarez             14    4   29    0  10/7/1995                   7r     5r        
+  Darren Hall                12    2   17    0  10/6/1995                         18r        
+  Tim Pugh                   11    3   28    0  10/3/1995                                    
+  Alex Fernandez              7    2   30    0  10/6/1995                        125s        
+  Denny Neagle                6    2   31    0  10/4/1995                                    
+  Andy Ashby                  6    2   31    0  10/9/1995   120s                             
+  Troy Percival               6    4   62    0  10/9/1995    22r                  21r        
+  Mike Mussina                6    2   32    0  10/7/1995                 108s               
+  Randy Myers                 4    2   57    0  10/6/1995                          3r        
+f Jeff Suppan                 0    0    8    0  8/21/1995                                    
+f Bill Pulsipher              0    0   17    0  9/25/1995                                    
+f Jamie Brewington            0    0   13    0                                               
+f Xavier Hernandez            0    0   59    0  9/27/1995                                    
+f Carlos Reyes                0    0   40    0  9/18/1995                                    
+f John Cummings               0    0   39    0  9/25/1995                                    
+f Brian Williams              0    0   44    0                                               
+f Mike Dyer                   0    0   55    0                                               
+f Paul Menhart                0    0   21    0  9/27/1995                                    
+  Total                            8  214                                                    

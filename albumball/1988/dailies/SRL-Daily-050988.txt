@@ -1,0 +1,2095 @@
+SRL Daily - 05/09/88
+
+
+***TRANSACTIONS***
+
+CEN - D/L Curtis Wilkerson
+      Promote Felix Fermin
+
+CTW - Farm Sam Horn
+      Promote Wilfredo Tejada
+
+EVN - Farm Billy Hatcher
+      Promote John Shelby
+
+FER - Farm Mike Fitzgerald
+      Promote Andy Ashby
+
+GBP - D/L Steve Farr
+      Activate Jose Rijo
+
+TEW - D/L Bob Ojeda
+      Promote German Gonzalez
+
+***STANDINGS***
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA 
+Gigantic
+1988 Tewksbury Bobs                 22   13  .629       -    7-3   W4  wwwwllwlww    140  122 
+1988 Cincinnati Reds                21   14  .600       1    9-1   L1  lwwwwwwwww    188  156 
+1988 ChinaTrust Whales              20   15  .571       2    6-4   W1  wllwlwlwww    144  137 
+1988 Marshall McDougalls            17   18  .486       5    6-4   L2  llwwlwwwwl    133  132 
+1988 Reykjavik 101ers               16   19  .457       6    7-3   W2  wwlwwllwww    117  146 
+1988 Nederland FrozenDeadGuys       11   24  .314      11    2-8   L1  lwlllllllw    115  165 
+                                                                                              
+Cactus
+1988 Evanston Endorphins            23   13  .639       -    6-4   L1  lwwlwwlwlw    162  113 
+1988 Baraboo GoiterMen              23   13  .639       -    5-5   W1  wllwwwllwl    178  130 
+1988 Sunnydale Slayers              22   14  .611       1    4-6   W1  wllwllwwll    146  141 
+1988 Grain Belt Premiums            17   19  .472       6    7-3   W3  wwwlwwlwlw    155  163 
+1988 Needmore Shebazzum             15   21  .417       8    5-5   L1  lwwlllwlww    138  162 
+1988 Enough Shebazzle?              11   25  .306      12    3-7   L3  lllwllwlwl    131  180 
+                                                                                              
+Vamos
+1988 Century Atoms                  26   10  .722       -    4-6   L2  llwlwwwlll    221  114 
+1988 Ferdinand Magellans            20   16  .556       6    7-3   W3  wwwllwlwww    180  137 
+1988 Ferlin Huskies                 17   19  .472       9    5-5   W1  wlllwwwwll    121  137 
+1988 Cape Canaveral Challengers     16   20  .444      10    3-7   W2  wwllllwlll    107  154 
+1988 Barcelona Brewers              14   22  .389      12    2-8   L2  llwlwlllll    120  122 
+1988 Butt Mountain Beavis           10   26  .278      16    2-8   L3  lllwwlllll     98  183 
+
+
+***GAMES***
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 GoiterMen         1  2  0  0  0  1  2  1  0     7 13  2     6  2
+1988 Shebazzum         0  0  3  0  0  0  0  0  0     3  6  1     5  1
+Scott (W,4-2), Hanson (L,0-1), HR - None
+BBG survives 3 unearned runs.  Mattingly and Dave Henderson each with
+3 hits.  
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Brewers           3  0  0  0  0  0  0  0  0     3  6  0     5  1
+1988 Bobs              0  0  0  0  0  3  0  1  x     4 10  0     7  0
+Witt (W,1-0), Heinkel (L,0-2), HR - Canseco (7), Galarraga (6), Davis,E (8)
+Canseco goes 3 for 3 with a double as Witt pitches a complete game.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Endorphins        0  1  1  0  0  0  0  0  0     2 10  1     8  2
+1988 Premiums          0  0  0  0  0  2  2  0  x     4  7  1     2  3
+Leibrandt (W,4-1), Smith,B (L,5-1), Thigpen (S,7)
+HR - Gibson (7), Hrbek (4), Fisk (5)
+Smith allowed fewer baserunners and struck out more, but 2 HRs, thus 
+the loss.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Shebazzle?        3  0  0  0  0  1  0  0  1     5 10  0     5  0
+1988 Slayers           0  0  1  5  0  0  0  0  x     6  8  1     5  2
+Perez (W,3-3), Langston (L,3-3), Franco (S,9)
+HR - Kittle (5), Snyder (4), McReynolds (6), Stanley 2(3)
+Big 4 for 4 day for Ron Kittle.  Bigger day for Mike Stanley with 4 RBIs.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Atoms             0  0  0  0  0  2  0  0  0     2  8  2     7  1
+1988 Whales            2  0  1  1  0  1  0  0  x     5 10  0     7  0
+LaPoint (W,2-2), Robinson (L,5-1), Alba (S,1), HR - Dawson (6)
+A 5-inning win for LaPoint.  Not sure why he was pulled so early.
+Don Slaught at .368 after a 2 for 4.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Magellans         3  0  0  0  1  1  0  0  0     5 11  0     7  1
+1988 Reds              1  0  1  0  1  0  0  0  0     3  7  2     3  2
+Perez (W,1-1), Boddicker (L,0-5), Plesac (S,2)
+HR - Lynn (4), Larkin (4), Van Slyke (9)
+Lynn's 3-run bomb in the 1st is the difference.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Huskies           0  0  0  0  1  2  0  0  0     3  8  0     6  0
+1988 McDougalls        0  0  0  0  0  1  0  0  0     1  8  1     8  2
+Gooden (W,5-2), Knepper (L,1-6), Jones (S,6), HR - Davis,G (8), Alomar,R (2)
+Doc and the Huskies pen quiets the McDougalls bats.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Beavis            0  0  0  2  0  0  0  0  0     2  8  0     9  1
+1988 101ers            1  0  0  2  2  0  1  0  x     6  9  1     6  0
+Jones (W,2-4), Maddux (L,1-7), HR - None
+101ers hold McGwire hitless as Greg Maddux is unable to find his groove.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Challengers       0  0  0  0  0  0  0  3  0     3  8  0     5  2
+1988 FrozenDeadGuys    0  0  0  0  0  0  0  0  0     0  4  1     4  2
+Swindell (W,3-2), Swift (L,0-1), Eichhorn (S,2), HR - None
+Challengers hold the Dead Guys scoreless... get OUT!  Actually, Clemens
+pitched quite well, allowing 6 baserunners in 7 IP, striking out 8.
+
+
+***INJURIES***
+
+EVN - Tommy Herr, 20 days
+
+
+***BOXSCORES AND SCORESHEETS***
+
+5/9/1988, BBG88-NEE88, Jack Murphy Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 GoiterMen         1  2  0  0  0  1  2  1  0     7 13  2     6  2
+1988 Shebazzum         0  0  3  0  0  0  0  0  0     3  6  1     5  1
+ 
+GoiterMen            AB  R  H BI   AVG    Shebazzum            AB  R  H BI   AVG
+Boggs             3b  3  1  1  1  .319    Oquendo           ss  2  1  0  0  .195       
+Hayes             lf  5  1  2  0  .271    Teufel            2b  2  0  0  1  .192       
+Greenwell         rf  4  0  1  1  .338     Braggs           ph  1  0  0  0  .211       
+Mattingly         1b  4  1  3  2  .246     Walling          3b  0  0  0  0  .308       
+ Garrelts         p   0  0  0  0  .000    Henderson         cf  4  0  3  1  .314       
+ Holton           p   1  0  0  0  .000    Tartabull         lf  4  0  0  0  .213       
+Gwynn             cf  4  0  2  0  .375    Evans             rf  3  0  0  0  .313       
+Whitt             c   4  0  0  0  .218     Cox              p   0  0  0  0  .000       
+ Heath            c   0  0  0  0  .220     Petralli         ph  1  0  0  0  .250       
+Templeton         ss  2  1  0  1  .241     Tekulve          p   0  0  0  0  .000       
+Franco            2b  4  2  2  1  .328    Lindeman          1b  4  0  1  0  .250       
+Scott             p   2  1  1  0  .118    Santiago          c   4  1  1  0  .236       
+ Hernandez        1b  1  0  1  1  .364    Martinez          3b  2  1  1  0  .207       
+                     34  7 13  7           Castillo         ph  1  0  0  0  .394       
+                                           Ready            2b  1  0  0  0  .211       
+                                          Hanson            p   2  0  0  0  .000       
+                                           Clark            rf  0  0  0  0  .200       
+                                                               31  3  6  2             
+ 
+GoiterMen                        INN  H  R ER BB  K PCH STR   ERA
+Scott            W 4-2           6.2  5  3  0  3  6 122  83  2.32
+Garrelts         H 2             0.1  0  0  0  0  1   5   3  0.00
+Holton                           2.0  1  0  0  0  1  21  14  2.95
+                                 9.0  6  3  0  3  8 148 100 
+ 
+Shebazzum                        INN  H  R ER BB  K PCH STR   ERA
+Hanson           L 0-1           6.2 10  6  6  2  3 105  71  8.10
+Cox                              1.1  3  1  0  0  0  27  16  4.05
+Tekulve                          1.0  0  0  0  0  1   6   5  5.40
+                                 9.0 13  7  6  2  4 138  92 
+ 
+BBG: Hernandez inserted at 1b in the 7th
+     Heath inserted at c in the 9th
+NEE: Clark inserted at rf in the 7th
+     Castillo batted for Martinez in the 7th
+     Braggs batted for Teufel in the 7th
+     Ready inserted at 2b in the 8th
+     Walling inserted at 3b in the 8th
+     Petralli batted for Cox in the 8th
+ 
+E-Hayes, Franco, Santiago. 2B-Mattingly, Franco, Scott. SB-Hayes(4), 
+Franco(2), Santiago(2). K-Whitt, Franco, Scott, Holton, Teufel, Henderson, 
+Tartabull 2, Lindeman 2, Hanson, Braggs. BB-Boggs, Templeton, Oquendo 2, 
+Clark. SH-Scott. SF-Boggs, Greenwell, Templeton, Teufel. BALK-Hanson. 
+GWRBI: Templeton
+Temperature: 69, Sky: partly cloudy, Wind: right to left at 11 MPH.
+
+....................................................................................................
+5/9/1988, BBG88-NEE88, Jack Murphy Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 GoiterMen         1  2  0  0  0  1  2  1  0     7 13  2     6  2
+1988 Shebazzum         0  0  3  0  0  0  0  0  0     3  6  1     5  1
+ 
+ 
+GoiterMen            -----A------ -----B------ -----C------ -----D------ -----E------
+Boggs             3b 1>W            9/SF.3-H     S            13           6         
+Hayes             lf   S.1-2        9            7            S.2-3      9>Tekulve   
+                                                                           43        
+Greenwell         rf   S.2-3;1-2  3>53           8            7/SF.3-H     43        
+Mattingly         1b   note 1       63         6>S            SB2                    
+                                                              D.2-H                  
+ Garrelts         p                                                                  
+ Holton           p                                                        k         
+Gwynn             cf   5/ldp        63           S.1-3        Cox                    
+                                                              S.2XH(82)              
+Whitt             c    4          4>6            k          8>43                     
+ Heath            c                                                                  
+Templeton         ss 2>W            8            note 2       43                     
+Franco            2b   bk.1-2       k            9            S                      
+                       D.2-H                                                         
+Scott             p    14/SH.2-3  5>k          7>D                                   
+ Hernandez        1b                                          note 3                 
+                                                              S.3-H                  
+ 
+ 1: S.3-H;2-3;1-2  2: 8/SF.3-H;1-2  3: SB2+e2(th).2-3 
+ 
+ 
+Shebazzum            -----A------ -----B------ -----C------ -----D------ -----E------
+Oquendo           ss 1>13           W.1-2        9            W.2-3;1-2              
+Teufel            2b   9            8/SF.3-H   6>k            Garrelts               
+ Braggs           ph                                          k                      
+ Walling          3b                                                                 
+Henderson         cf   k            note 1       S          8>Holton                 
+                                                              S                      
+Tartabull         lf 2>4            6/L          k            k                      
+Evans             rf   63         4>9            9                                   
+ Cox              p                                                                  
+ Petralli         ph                                          643/gdp                
+ Tekulve          p                                                                  
+Lindeman          1b   k            S          7>k          9>9                      
+Santiago          c  3>e4.B-1       463/gdp      S            8                      
+Martinez          3b   SB2        5>9                                                
+                       S.2-3                                                         
+ Castillo         ph                             8                                   
+ Ready            2b                                          9                      
+Hanson            p    7            k                                                
+ Clark            rf                             W.1-2                               
+ 
+ 1: S.2-H;1-H(e7/th);B-2 
+ 
+ 
+GoiterMen        IN OUT ER                  Shebazzum        IN OUT ER                  
+Scott            A1  D1  0 W 4-2            Hanson           A1  D4  6 L 0-1            
+Garrelts         D2  D2  0 H 2              Cox              D5  E1  0                  
+Holton           D3  D8  0                  Tekulve          E2  E4  0                  
+
+5/9/1988, BAR88-TEW88, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Brewers           3  0  0  0  0  0  0  0  0     3  6  0     5  1
+1988 Bobs              0  0  0  0  0  3  0  1  x     4 10  0     7  0
+ 
+Brewers              AB  R  H BI   AVG    Bobs                 AB  R  H BI   AVG
+Phillips          2b  3  1  0  0  .252    Raines            lf  4  0  0  0  .271       
+Bradley           lf  4  1  1  0  .254    McLemore          2b  4  0  0  0  .226       
+Murray            1b  4  0  0  0  .242    Canseco           rf  3  2  3  1  .291       
+Davis,C           rf  3  1  1  0  .255    Galarraga         1b  3  1  1  2  .333       
+Anderson          cf  3  0  1  2  .208    Molitor           3b  4  0  2  0  .279       
+ Barfield         ph  1  0  1  0  .171    Davis             cf  3  1  1  1  .218       
+Moreland          3b  3  0  1  1  .256    Hassey            c   4  0  2  0  .317       
+ Heinkel          p   0  0  0  0  .000    Guillen           ss  3  0  0  0  .221       
+ Barrett          ph  0  0  0  0  .235     Brooks           ph  1  0  0  0  .286       
+Smith             ss  4  0  0  0  .223     Quinones         ss  0  0  0  0  .255       
+Karkovice         c   3  0  0  0  .204    Witt              p   2  0  1  0  .500       
+ Boston           ph  1  0  0  0  .107                         31  4 10  4             
+Schilling         p   2  0  1  0  .667                                              
+ Jefferies        3b  1  0  0  0  .400                                              
+                     32  3  6  3                                                    
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Schilling                        5.1  7  2  2  2  1  79  46  7.50
+Heinkel          BS 1, L 0-2     2.2  3  2  2  1  2  51  30  1.91
+                                 8.0 10  4  4  3  3 130  76 
+ 
+Bobs                             INN  H  R ER BB  K PCH STR   ERA
+Witt             W 1-0           9.0  6  3  3  2  4 117  70  3.00
+                                 9.0  6  3  3  2  4 117  70 
+ 
+BAR: Jefferies inserted at 3b in the 6th
+     Barfield batted for Anderson in the 9th
+     Barrett batted for Heinkel in the 9th
+     Boston batted for Karkovice in the 9th
+TEW: Brooks batted for Guillen in the 8th
+     Quinones inserted at ss in the 9th
+ 
+2B-Canseco. HR-Canseco(7), Galarraga(6), Davis(8). SB-Anderson(6), Hassey(1). 
+CS-Canseco. K-Bradley 2, Davis,C, Schilling, Galarraga, Molitor, Brooks. 
+BB-Phillips, Davis,C, Canseco, Davis, Witt. SH-Barrett. HBP-Galarraga. 
+HB-Heinkel. 
+GWRBI: Canseco
+Temperature: 74, Sky: clear, Wind: out to center at 1 MPH.
+
+....................................................................................................
+5/9/1988, BAR88-TEW88, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Brewers           3  0  0  0  0  0  0  0  0     3  6  0     5  1
+1988 Bobs              0  0  0  0  0  3  0  1  x     4 10  0     7  0
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Phillips          2b 1>W            9            7            43                     
+Bradley           lf   S.1-2      3>k            43         8>k                      
+Murray            1b   9            8          6>4/L          63                     
+Davis,C           rf   W.2-3;1-2    63           S            k                      
+Anderson          cf   note 1     4>53           8                                   
+ Barfield         ph                                        9>S                      
+Moreland          3b   SB2          43           S.1-2                               
+                       43.3-H;2-3                                                    
+ Heinkel          p                                                                  
+ Barrett          ph                                          13/SH.1-2              
+Smith             ss   6/L          31           8            31.2-3                 
+Karkovice         c  2>4          5>5/L        7>8                                   
+ Boston           ph                                          63                     
+Schilling         p    k            S                                                
+ Jefferies        3b                             2/fl                                
+ 
+ 1: S.3-H;2-H;1-3 
+ 
+ 
+Bobs                 -----A------ -----B------ -----C------ -----D------ -----E------
+Raines            lf 1>9            63/gdp       63           43                     
+McLemore          2b   53           53         6>63           4                      
+Canseco           rf   S          4>W            D          8>HR                     
+Galarraga         1b   PO1(23)      k            HR.2-H       HP                     
+                     2>3                                                             
+Molitor           3b   S            CS2(24)      Heinkel      9                      
+                                    S            k                                   
+Davis             cf   4/L          4            HR           W.1-2                  
+Hassey            c    S.1-3      5>63           S            4/L                    
+Guillen           ss   SB2          2/fl         41                                  
+                       7                                                             
+ Brooks           ph                                          k                      
+ Quinones         ss                                                                 
+Witt              p  3>S            W          7>8                                   
+ 
+ 
+Brewers          IN OUT ER                  Bobs             IN OUT ER                  
+Schilling        A1  C4  2                  Witt             A1  D8  3 W 1-0            
+Heinkel          C5  D8  2 BS 1, L 0-2                                                  
+
+5/9/1988, EVN88-GBP88, Rathskeller
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Endorphins        0  1  1  0  0  0  0  0  0     2 10  1     8  2
+1988 Premiums          0  0  0  0  0  2  2  0  x     4  7  1     2  3
+ 
+Endorphins           AB  R  H BI   AVG    Premiums             AB  R  H BI   AVG
+Herr              2b  2  0  0  0  .208    Hall              rf  3  0  1  0  .219       
+ Backman          2b  2  0  0  0  .274    Bonilla           3b  3  0  0  1  .274       
+Grace             1b  3  0  1  0  .291    Puckett           cf  4  0  0  0  .300       
+Trammell          ss  4  0  1  0  .316    Hrbek             1b  3  1  2  1  .262       
+Gibson            lf  3  1  2  1  .305    Fisk              c   3  1  1  1  .225       
+Bass              rf  4  0  1  0  .204    Jackson           lf  3  0  0  0  .304       
+Pena              c   4  1  2  0  .218    Riles             ss  3  1  2  0  .300       
+Shelby            cf  4  0  2  0  .500    Gant              2b  3  1  1  1  .211       
+Aguayo            3b  3  0  0  1  .219    Leibrandt         p   1  0  0  0  .071       
+Smith,B           p   2  0  0  0  .105     Upshaw           ph  1  0  0  0  .167       
+ Reed             ph  1  0  1  0  .333     Thigpen          p   0  0  0  0  .000       
+                     32  2 10  2                               27  4  7  4             
+ 
+Endorphins                       INN  H  R ER BB  K PCH STR   ERA
+Smith,B          L 5-1           8.0  7  4  3  0  8 105  77  1.94
+                                 8.0  7  4  3  0  8 105  77 
+ 
+Premiums                         INN  H  R ER BB  K PCH STR   ERA
+Leibrandt        W 4-1           8.0  8  2  2  2  3 101  67  3.56
+Thigpen          S 7             1.0  2  0  0  0  0  12   7  3.86
+                                 9.0 10  2  2  2  3 113  74 
+ 
+EVN: Backman inserted at 2b in the 4th
+     Reed batted for Smith,B in the 9th
+GBP: Upshaw batted for Leibrandt in the 8th
+ 
+E-Smith,B, Hrbek. 2B-Reed, Hall. 3B-Riles. HR-Gibson(7), Hrbek(4), Fisk(5). 
+CS-Grace. K-Shelby, Smith,B 2, Bonilla, Puckett 3, Hrbek, Jackson 2, Gant. 
+BB-Herr, Gibson. SH-Smith,B, Hall, Leibrandt. SF-Aguayo, Bonilla. HBP-Grace. 
+HB-Leibrandt. 
+GWRBI: Hrbek
+Tommy Herr was injured for this game and 20 more days
+Temperature: 70, Wind: none.
+
+....................................................................................................
+5/9/1988, EVN88-GBP88, Rathskeller
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Endorphins        0  1  1  0  0  0  0  0  0     2 10  1     8  2
+1988 Premiums          0  0  0  0  0  2  2  0  x     4  7  1     2  3
+ 
+ 
+Endorphins           -----A------ -----B------ -----C------ -----D------ -----E------
+Herr              2b 1>3/g          W            63                                  
+ Backman          2b                                        7>63           53        
+Grace             1b   3/g          HP.2-3;1-2 5>S            7                      
+Trammell          ss   S            7            CS2(24)      7                      
+                                                 7                                   
+Gibson            lf   W.1-2      3>HR           S          8>63                     
+Bass              rf   8            43           13           S                      
+Pena              c  2>S            63         6>S            543/gdp                
+Shelby            cf   S.1-3        k            543/gdp    9>Thigpen                
+                                                              S                      
+Aguayo            3b   8/SF.3-H   4>6            e3.B-1       643/gdp                
+Smith,B           p    13/SH.1-2    k            k                                   
+ Reed             ph                                          D                      
+ 
+ 
+Premiums             -----A------ -----B------ -----C------ -----D------ -----E------
+Hall              rf 1>43         4>9            note 1       D                      
+Bonilla           3b   43           7            note 2       k                      
+Puckett           cf   7            k            k            k                      
+Hrbek             1b 2>k          5>S          7>HR                                  
+Fisk              c    43           543/gdp      HR                                  
+Jackson           lf   k            k            8                                   
+Riles             ss 3>S          6>T            13                                  
+Gant              2b   k            S.3-H        7                                   
+Leibrandt         p    543/gdp      note 3                                           
+ Upshaw           ph                           8>43                                  
+ Thigpen          p                                                                  
+ 
+ 1: 3/g/SH.2-3;1-2  2: 9/SF.3-H;2-3  3: e1/SH.1-2;B-1 
+ 
+ 
+Endorphins       IN OUT ER                  Premiums         IN OUT ER                  
+Smith,B          A1  D3  3 L 5-1            Leibrandt        A1  D6  2 W 4-1            
+                                            Thigpen          D7  E1  0 S 7              
+
+5/9/1988, ES?88-SUN88, County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Shebazzle?        3  0  0  0  0  1  0  0  1     5 10  0     5  0
+1988 Slayers           0  0  1  5  0  0  0  0  x     6  8  1     5  2
+ 
+Shebazzle?           AB  R  H BI   AVG    Slayers              AB  R  H BI   AVG
+LaValliere        c   5  0  1  0  .152    Bell              ss  2  0  0  0  .286       
+Baines            lf  4  1  2  0  .283     Stillwell        ph  1  0  0  0  .247       
+Yount             cf  4  1  1  0  .333    Wynne             lf  2  0  0  0  .289       
+Mitchell          3b  4  1  1  1  .267     Murphy           ph  1  0  0  0  .219       
+Johnson           ss  4  0  0  1  .216    Brett             1b  4  0  0  0  .208       
+Kittle            1b  4  2  4  2  .262    Snyder            rf  4  1  1  1  .232       
+Sierra            rf  4  0  1  0  .258    McReynolds        cf  4  1  2  1  .272       
+Randolph          2b  2  0  0  0  .148     Terry            p   0  0  0  0  .000       
+ Tettleton        ph  1  0  0  0  .377     Franco           p   0  0  0  0  .250       
+ Kunkel           2b  1  0  0  1  .173    Salazar           3b  4  1  2  0  .286       
+Langston          p   2  0  0  0  .105    Fielder           2b  2  1  0  0  .263       
+ Lancaster        p   0  0  0  0  .000     Whitaker         ph  1  0  0  0  .218       
+ Mack             ph  1  0  0  0  .158    Stanley           c   4  2  3  4  .264       
+ Dibble           p   0  0  0  0  .000    Perez             p   2  0  0  0  .053       
+ Smith,L          ph  1  0  0  0  .179     Sheridan         cf  0  0  0  0  .370       
+                     37  5 10  5                               31  6  8  6             
+ 
+Shebazzle?                       INN  H  R ER BB  K PCH STR   ERA
+Langston         L 3-3           4.0  5  6  6  3  2  68  42  3.55
+Lancaster                        2.0  3  0  0  0  2  33  22  2.49
+Dibble                           2.0  0  0  0  0  1  17  14  2.55
+                                 8.0  8  6  6  3  5 118  78 
+ 
+Slayers                          INN  H  R ER BB  K PCH STR   ERA
+Perez            W 3-3           7.0  7  4  4  0  6 107  70  4.94
+Terry            H 7             1.0  1  0  0  0  0   9   7  2.25
+Franco           S 9             1.0  2  1  1  0  0  27  17  1.80
+                                 9.0 10  5  5  0  6 143  94 
+ 
+ES?: Tettleton batted for Randolph in the 7th
+     Mack batted for Lancaster in the 7th
+     Kunkel inserted at 2b in the 7th
+     Smith,L batted for Dibble in the 9th
+SUN: Stillwell batted for Bell in the 6th
+     Murphy batted for Wynne in the 6th
+     Stillwell moved to ss in the 7th
+     Murphy moved to lf in the 7th
+     Sheridan inserted at cf in the 8th
+     Whitaker batted for Fielder in the 8th
+     Whitaker moved to 2b in the 9th
+ 
+E-Whitaker. 2B-Kittle. HR-Kittle(5), Snyder(4), McReynolds(6), Stanley 2(3). 
+SB-Kittle(1). K-Yount, Mitchell, Sierra 2, Randolph, Langston, Brett 2, 
+Snyder, Fielder, Whitaker. BB-Bell, Wynne, Fielder. SH-Perez. PB-LaValliere. 
+WP-Franco. 
+GWRBI: Stanley
+Temperature: 71, Field: wet, Sky: threatening, Wind: right to left at 12 MPH, 
+Rain Delays: 18 minutes.
+
+....................................................................................................
+5/9/1988, ES?88-SUN88, County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Shebazzle?        3  0  0  0  0  1  0  0  1     5 10  0     5  0
+1988 Slayers           0  0  1  5  0  0  0  0  x     6  8  1     5  2
+ 
+ 
+Shebazzle?           -----A------ -----B------ -----C------ -----D------ -----E------
+LaValliere        c  1>9            53         5>S            8            wp.2-3;1-2
+                                                                           53        
+Baines            lf   S            63           363/gdp    8>Terry                  
+                                                              S                      
+Yount             cf   S.1-2      3>43           k            463/gdp                
+Mitchell          3b   S.2-H;1-3    k          6>13           43                     
+Johnson           ss   FC.3-H;1-2   3/g          8          9>Franco                 
+                                                              3/g                    
+Kittle            1b   D.2-H;1-3  4>S            HR           S                      
+Sierra            rf   k            k            31           S.1-3                  
+Randolph          2b   3/g          k+SB2                                            
+ Tettleton        ph                           7>53                                  
+ Kunkel           2b                                          54/f.3-H               
+Langston          p  2>4            k                                                
+ Lancaster        p                                                                  
+ Mack             ph                             63                                  
+ Dibble           p                                                                  
+ Smith,L          ph                                          e4.1-2;B-1             
+ 
+ 
+Slayers              -----A------ -----B------ -----C------ -----D------ -----E------
+Bell              ss 1>5            W            7                                   
+ Stillwell        ph                                          53                     
+Wynne             lf   63           43         5>W                                   
+ Murphy           ph                                          7                      
+Brett             1b   43         4>k            Lancaster  7>Dibble                 
+                                                 k            3                      
+Snyder            rf 2>8            HR           k            7                      
+McReynolds        cf   8            HR           S.1-2        7                      
+ Terry            p                                                                  
+ Franco           p                                                                  
+Salazar           3b   63           S            S.2-3;1-2  8>3/L                    
+Fielder           2b 3>k            W.1-2        7                                   
+ Whitaker         ph                                          k                      
+Stanley           c    HR           pb.2-3;1-2 6>S            8                      
+                                    HR.3-H;2-H                                       
+Perez             p    53           7            14/SH.1-2                           
+ Sheridan         cf                                                                 
+ 
+ 
+Shebazzle?       IN OUT ER                  Slayers          IN OUT ER                  
+Langston         A1  C2  6 L 3-3            Perez            A1  D1  4 W 3-3            
+Lancaster        C3  D2  0                  Terry            D2  D4  0 H 7              
+Dibble           D3  D8  0                  Franco           D5  E1  1 S 9              
+
+5/9/1988, CEN88-CTW88, Oakland Coliseum
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Atoms             0  0  0  0  0  2  0  0  0     2  8  2     7  1
+1988 Whales            2  0  1  1  0  1  0  0  x     5 10  0     7  0
+ 
+Atoms                AB  R  H BI   AVG    Whales               AB  R  H BI   AVG
+Henderson         cf  3  0  1  0  .327    Gallagher         cf  4  0  1  1  .259       
+Ray               2b  3  1  1  0  .372     Cangelosi        cf  0  0  0  0  .333       
+Strawberry        lf  4  1  1  1  .268    Bergman           lf  4  1  1  0  .280       
+Winfield          rf  4  0  1  0  .396    Clark             1b  4  0  0  0  .261       
+Davis             1b  4  0  0  0  .247    Dawson            rf  4  2  3  2  .285       
+Slaught           c   4  0  2  1  .368    Howell            3b  4  0  2  0  .240       
+Coles             3b  3  0  0  0  .277     Alba             p   0  0  0  0  .000       
+ Minton           p   0  0  0  0  .111    Fernandez         ss  4  0  1  1  .276       
+ Williams         ph  1  0  0  0  .254    Nokes             c   4  0  0  0  .244       
+Fermin            ss  4  0  1  0  .250    Thompson          2b  3  1  1  0  .265       
+Robinson          p   1  0  0  0  .158    LaPoint           p   2  0  0  0  .071       
+ Jones            ph  1  0  1  0  .345     Burns            p   1  1  1  0  .500       
+ Davis            p   0  0  0  0  .111     Schmidt          3b  1  0  0  0  .277       
+ Magadan          3b  2  0  0  0  .330                         35  5 10  4             
+                     34  2  8  2                                                    
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Robinson         L 5-1           4.0  7  4  4  1  3  78  49  2.29
+Davis                            1.0  1  0  0  0  1  16  11  2.81
+Minton                           3.0  2  1  0  0  1  42  30  2.38
+                                 8.0 10  5  4  1  5 136  90 
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+LaPoint          W 2-2           5.0  5  2  2  1  3  70  46  3.93
+Burns            H 1             2.2  2  0  0  0  1  36  23  8.05
+Alba             S 1             1.1  1  0  0  0  1  20  13  0.00
+                                 9.0  8  2  2  1  5 126  82 
+ 
+CEN: Jones batted for Robinson in the 5th
+     Magadan inserted at 3b in the 6th
+     Williams batted for Minton in the 9th
+CTW: Schmidt inserted at 3b in the 8th
+     Cangelosi inserted at cf in the 9th
+ 
+E-Strawberry, Davis. 2B-Ray, Gallagher, Bergman. HR-Dawson(6). 
+SB-Henderson(20), Strawberry(9). K-Strawberry, Davis, Slaught, Coles, 
+Robinson, Gallagher, Bergman, Howell, Fernandez, Thompson. BB-Henderson, 
+Thompson. SH-Ray. WP-Minton. 
+GWRBI: Dawson
+Temperature: 82, Sky: partly cloudy, Wind: out to right at 9 MPH.
+
+....................................................................................................
+5/9/1988, CEN88-CTW88, Oakland Coliseum
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Atoms             0  0  0  0  0  2  0  0  0     2  8  2     7  1
+1988 Whales            2  0  1  1  0  1  0  0  x     5 10  0     7  0
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson         cf 1>S            W            8            5/fl                   
+Ray               2b   34/SH.1-2    SB2        6>D          8>63                     
+                                    63                                               
+Strawberry        lf   k          4>43           S.2-H        43                     
+Winfield          rf   53           53           Burns        S                      
+                                                 SB2                                 
+                                                 8                                   
+Davis             1b 2>9            43           7            Alba                   
+                                                              k                      
+Slaught           c    k          5>S            S.2-H      9>13                     
+Coles             3b   13           8            k                                   
+ Minton           p                                                                  
+ Williams         ph                                          9                      
+Fermin            ss 3>8            63.1-2     7>8            S                      
+Robinson          p    k                                                             
+ Jones            ph                S.2-3                                            
+ Davis            p                                                                  
+ Magadan          3b                             7            8                      
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Gallagher         cf 1>k            3/fl         D.2-H        wp.1-2                 
+                                                              e7.2-H;B-2             
+ Cangelosi        cf                                                                 
+Bergman           lf   D          3>k            53.2-3       9                      
+Clark             1b   4            43           3            8                      
+Dawson            rf   HR.2-H       S          5>Davis      7>63                     
+                                                 S                                   
+Howell            3b   k            S.1-3        8            S                      
+ Alba             p                                                                  
+Fernandez         ss 2>e3.B-1       S.3-H;1-2    k            543/gdp                
+Nokes             c    43.1-2       5/fl         7          8>53                     
+Thompson          2b   W          4>S          6>Minton       k                      
+                                                 53                                  
+LaPoint           p    63.2-3;1-2   63.1-2                                           
+ Burns            p                              S                                   
+ Schmidt          3b                                          43                     
+ 
+ 
+Atoms            IN OUT ER                  Whales           IN OUT ER                  
+Robinson         A1  C3  4 L 5-1            LaPoint          A1  C3  2 W 2-2            
+Davis            C4  C7  0                  Burns            C4  D4  0 H 1              
+Minton           C8  D9  0                  Alba             D5  D9  0 S 1              
+
+5/9/1988, FER88-CIN88, Riverfront Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Magellans         3  0  0  0  1  1  0  0  0     5 11  0     7  1
+1988 Reds              1  0  1  0  1  0  0  0  0     3  7  2     3  2
+ 
+Magellans            AB  R  H BI   AVG    Reds                 AB  R  H BI   AVG
+Wilson            cf  5  0  1  0  .333    Daniels           lf  4  0  1  1  .313       
+Ashby             c   2  1  2  0 1.000    Larkin            ss  4  1  1  1  .342       
+ Trevino          ph  2  0  0  0  .219    Van Slyke         cf  4  1  1  1  .384       
+Bonds             rf  5  0  3  1  .268    Evans             1b  4  0  0  0  .253       
+Marshall          1b  4  1  1  0  .318    Palmeiro          rf  4  0  2  0  .328       
+Lynn              lf  4  1  2  3  .283    Parrish           c   3  0  1  0  .200       
+ Ward             p   0  0  0  0 1.000     Charlton         p   0  0  0  0  .000       
+ Plesac           p   0  0  0  0  .500     Lee              3b  1  0  0  0  .417       
+Foley             2b  4  1  0  0  .182    Caminiti          3b  2  1  1  0  .452       
+Weiss             ss  2  0  0  0  .220     Esasky           ph  1  0  0  0  .184       
+Wallach           3b  4  0  1  0  .271     Guidry           p   0  0  0  0  .000       
+Perez             p   3  1  1  0  .200    Doran             2b  3  0  0  0  .237       
+ Jackson          lf  1  0  0  0  .291    Boddicker         p   1  0  0  0  .375       
+                     36  5 11  4           Sasser           c   1  0  0  0  .222       
+                                                               32  3  7  3             
+ 
+Magellans                        INN  H  R ER BB  K PCH STR   ERA
+Perez            W 1-1           6.0  7  3  3  0  6  70  54  6.00
+Ward             H 6             2.0  0  0  0  0  3  26  16  2.76
+Plesac           S 2             1.0  0  0  0  0  2  17  10  4.11
+                                 9.0  7  3  3  0 11 113  80 
+ 
+Reds                             INN  H  R ER BB  K PCH STR   ERA
+Boddicker        L 0-5           6.0  8  5  4  3  7 114  74  8.13
+Charlton                         1.0  1  0  0  0  1  20  13  3.14
+Guidry                           2.0  2  0  0  0  0  19  14  0.00
+                                 9.0 11  5  4  3  8 153 101 
+ 
+FER: Trevino batted for Ashby in the 7th
+     Jackson inserted at lf in the 7th
+     Trevino moved to c in the 7th
+CIN: Sasser inserted at c in the 7th
+     Esasky batted for Caminiti in the 7th
+     Lee inserted at 3b in the 8th
+ 
+E-Larkin, Evans. 2B-Ashby, Bonds, Wallach, Parrish. 3B-Daniels. HR-Lynn(4), 
+Larkin(4), Van Slyke(9). SB-Wilson(7), Bonds(3). K-Wilson 2, Bonds, Marshall, 
+Lynn, Foley, Weiss, Perez, Daniels 2, Larkin, Van Slyke 2, Evans, Parrish, 
+Caminiti, Doran, Esasky, Lee. BB-Ashby, Weiss 2. SH-Boddicker. 
+GWRBI: Lynn
+Temperature: 56, Sky: clear, Wind: out to center at 9 MPH.
+
+....................................................................................................
+5/9/1988, FER88-CIN88, Riverfront Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Magellans         3  0  0  0  1  1  0  0  0     5 11  0     7  1
+1988 Reds              1  0  1  0  1  0  0  0  0     3  7  2     3  2
+ 
+ 
+Magellans            -----A------ -----B------ -----C------ -----D------ -----E------
+Wilson            cf 1>3/g        3>k            k          7>S          9>3         
+Ashby             c    W            D            S.1-3        Charlton               
+ Trevino          ph                                          9            2/fl      
+Bonds             rf   k            43.2-3       S.3-H;1-2    S.1-2        D.BX3(765)
+Marshall          1b   S.1-2        k            463/gdp      SB3;SB2                
+                                                              42.3XH;2-3             
+Lynn              lf   HR.2-H;1-H 4>S          6>3/g          k                      
+ Ward             p                                                                  
+ Plesac           p                                                                  
+Foley             2b   k            36/gdp       e3.B-1     8>Guidry                 
+                                                              9                      
+Weiss             ss 2>k            W            W.1-2        31                     
+Wallach           3b   7            43           note 1       D                      
+Perez             p    63         5>S            k                                   
+ Jackson          lf                                          8                      
+ 
+ 1: 46/f.2-H;B-2(e6/th) 
+ 
+ 
+Reds                 -----A------ -----B------ -----C------ -----D------ -----E------
+Daniels           lf 1>k            k            T.2-H      8>13                     
+Larkin            ss   k            HR           3/fl         43                     
+Van Slyke         cf   HR           k          6>4/L          k                      
+Evans             1b   9          4>9            63         9>Plesac                 
+                                                              k                      
+Palmeiro          rf 2>3/g          S            S            9                      
+Parrish           c    D            643/gdp      k                                   
+ Charlton         p                                                                  
+ Lee              3b                                          k                      
+Caminiti          3b   k          5>S          7>Ward                                
+ Esasky           ph                             k                                   
+ Guidry           p                                                                  
+Doran             2b   6            8            k                                   
+Boddicker         p  3>53           34/SH.1-2                                        
+ Sasser           c                              63                                  
+ 
+ 
+Magellans        IN OUT ER                  Reds             IN OUT ER                  
+Perez            A1  C6  3 W 1-1            Boddicker        A1  D1  4 L 0-5            
+Ward             C7  D3  0 H 6              Charlton         D2  D5  0                  
+Plesac           D4  D6  0 S 2              Guidry           D6  E3  0                  
+
+5/9/1988, FHK88-MAR88, Memorial Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Huskies           0  0  0  0  1  2  0  0  0     3  8  0     6  0
+1988 McDougalls        0  0  0  0  0  1  0  0  0     1  8  1     8  2
+ 
+Huskies              AB  R  H BI   AVG    McDougalls           AB  R  H BI   AVG
+Reynolds          2b  3  0  2  0  .185    Butler            cf  4  0  2  0  .324       
+Sabo              3b  4  0  0  0  .243    Alomar,R          2b  4  1  1  1  .205       
+Burks             cf  3  0  0  0  .263    McGriff           1b  4  0  2  0  .295       
+Bell              lf  4  1  2  0  .252    Gaetti            3b  4  0  1  0  .273       
+Deer              rf  4  1  1  0  .253    Gruber            lf  3  0  0  0  .262       
+Davis             1b  3  1  1  2  .262    Washington        rf  3  0  0  0  .220       
+ Holman           p   0  0  0  0  .000     Harris           p   0  0  0  0  .000       
+ Jones            p   1  0  0  0  .000     Lemon            ph  1  0  1  0  .288       
+Elster            ss  3  0  0  1  .214    Surhoff           c   3  0  0  0  .220       
+Cerone            c   4  0  1  0  .172     Liriano          ph  1  0  0  0  .133       
+Gooden            p   2  0  1  0  .286    Fletcher          ss  3  0  0  0  .179       
+ Jordan           1b  2  0  0  0  .182     Espy             ph  1  0  1  0  .467       
+                     33  3  8  3          Knepper           p   2  0  0  0  .067       
+                                           Pasqua           rf  2  0  0  0  .267       
+                                                               35  1  8  1             
+ 
+Huskies                          INN  H  R ER BB  K PCH STR   ERA
+Gooden           W 5-2           5.0  3  0  0  1  3  67  43  1.45
+Holman           H 1             2.0  2  1  1  0  3  26  21  4.40
+Jones            S 6             2.0  3  0  0  0  2  29  20  1.69
+                                 9.0  8  1  1  1  8 122  84 
+ 
+McDougalls                       INN  H  R ER BB  K PCH STR   ERA
+Knepper          L 1-6           6.2  7  3  3  1  4  90  54  4.53
+Harris                           2.1  1  0  0  1  1  37  21  4.18
+                                 9.0  8  3  3  2  5 127  75 
+ 
+FHK: Jordan inserted at 1b in the 6th
+MAR: Pasqua inserted at rf in the 7th
+     Lemon batted for Harris in the 9th
+     Liriano batted for Surhoff in the 9th
+     Espy batted for Fletcher in the 9th
+ 
+E-McGriff. 2B-Reynolds, Deer, McGriff. HR-Davis(8), Alomar,R(2). 
+SB-Butler(7). K-Reynolds, Bell, Davis, Jordan, Jones, Alomar,R 2, McGriff 2, 
+Gruber, Washington, Pasqua 2. BB-Reynolds, Burks, Gruber. SH-Elster. 
+WP-Holman. 
+GWRBI: Elster
+Dwight Gooden was removed after a rain delay
+Temperature: 68, Field: wet, Sky: threatening, Wind: right to left at 4 MPH, 
+Rain Delays: 46 and 72 minutes.
+
+....................................................................................................
+5/9/1988, FHK88-MAR88, Memorial Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Huskies           0  0  0  0  1  2  0  0  0     3  8  0     6  0
+1988 McDougalls        0  0  0  0  0  1  0  0  0     1  8  1     8  2
+ 
+ 
+Huskies              -----A------ -----B------ -----C------ -----D------ -----E------
+Reynolds          2b 1>S            k            W.1-2        D                      
+Sabo              3b   643/gdp    4>9            7            Harris                 
+                                                              7                      
+Burks             cf   53           8          6>8          8>W                      
+Bell              lf 2>S            k            S            43/gdp                 
+Deer              rf   9          5>D            8            7                      
+Davis             1b   k            8.2-3        HR.1-H                              
+ Holman           p                                                                  
+ Jones            p                                         9>k                      
+Elster            ss   54/f         54/SH.3-H    43           63                     
+Cerone            c  3>8            e3.B-1     7>13           S                      
+Gooden            p    31           S.1-3                                            
+ Jordan           1b                             k            64/f                   
+ 
+ 
+McDougalls           -----A------ -----B------ -----C------ -----D------ -----E------
+Butler            cf 1>63           S            43         8>Jones                  
+                                                              S                      
+Alomar,R          2b   k            SB2        6>Holman       43.1-2                 
+                                    k            HR                                  
+McGriff           1b   S          4>D            k            k                      
+Gaetti            3b   7            53           S            53                     
+Gruber            lf 2>53           W            k+wp.1-2   9>6/L                    
+Washington        rf   k            13.2-3;1-2   7                                   
+ Harris           p                                                                  
+ Lemon            ph                                          S                      
+Surhoff           c    9            53         7>7                                   
+ Liriano          ph                                          9                      
+Fletcher          ss 3>63         5>8            7                                   
+ Espy             ph                                          S.1-2                  
+Knepper           p    4            8                                                
+ Pasqua           rf                             k            k                      
+ 
+ 
+Huskies          IN OUT ER                  McDougalls       IN OUT ER                  
+Gooden           A1  C1  0 W 5-2            Knepper          A1  D1  3 L 1-6            
+Holman           C2  C9  1 H 1              Harris           D2  D9  0                  
+Jones            D1  D9  0 S 6                                                          
+
+5/9/1988, BMB88-RYK88, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Beavis            0  0  0  2  0  0  0  0  0     2  8  0     9  1
+1988 101ers            1  0  0  2  2  0  1  0  x     6  9  1     6  0
+ 
+Beavis               AB  R  H BI   AVG    101ers               AB  R  H BI   AVG
+Polonia           lf  5  0  0  0  .279    James             lf  3  2  1  0  .209       
+Treadway          2b  5  0  3  0  .272    White             cf  3  2  2  0  .262       
+McGwire           1b  3  1  0  0  .155    Joyner            1b  3  1  2  3  .222       
+Steinbach         c   4  0  0  0  .333    Maldonado         rf  4  0  1  1  .276       
+Jacoby            3b  4  1  2  1  .224    Samuel            3b  4  0  1  1  .203       
+Martinez          rf  4  0  1  1  .221    Virgil            c   2  0  1  1  .222       
+Javier            cf  4  0  0  0  .205    Washington        ss  3  0  0  0  .329       
+ Bolton           p   0  0  0  0  .000     Sveum            2b  0  0  0  0  .333       
+Jeltz             ss  3  0  1  0  .234    Alicea            2b  4  0  1  0  .229       
+Maddux            p   2  0  0  0  .059     Pedrique         ss  0  0  0  0  .000       
+ Moseby           ph  1  0  0  0  .224    Jones             p   3  1  0  0  .091       
+ Schatzeder       p   0  0  0  0  .000     Price            p   0  0  0  0  .500       
+ Candaele         cf  1  0  1  0  .123                         29  6  9  6             
+                     36  2  8  2                                                    
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Maddux           L 1-7           6.0  7  5  4  3  1  91  55  3.99
+Schatzeder                       1.0  2  1  1  0  1  16  12  8.82
+Bolton                           1.0  0  0  0  1  0  12   4  1.52
+                                 8.0  9  6  5  4  2 119  71 
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Jones            W 2-4           8.1  8  2  2  2  5 110  78  5.50
+Price                            0.2  0  0  0  0  0   5   4  2.30
+                                 9.0  8  2  2  2  5 115  82 
+ 
+BMB: Moseby batted for Maddux in the 7th
+     Candaele inserted at cf in the 8th
+RYK: Sveum inserted at 2b in the 9th
+     Pedrique inserted at ss in the 9th
+ 
+E-Alicea. 2B-Jacoby 2, Candaele, Joyner, Maldonado, Alicea. K-Polonia, 
+McGwire 2, Steinbach, Maddux, Samuel, Virgil. BB-McGwire, Jeltz, James, 
+Virgil, Washington, Jones. SH-White. SF-Joyner, Virgil. PB-Steinbach. 
+GWRBI: Virgil
+Temperature: 70, Wind: none.
+
+....................................................................................................
+5/9/1988, BMB88-RYK88, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Beavis            0  0  0  2  0  0  0  0  0     2  8  0     9  1
+1988 101ers            1  0  0  2  2  0  1  0  x     6  9  1     6  0
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Polonia           lf 1>43           7            k            9            Price     
+                                                                           9         
+Treadway          2b   S          4>63           S.1-2        S.1-2        8         
+McGwire           1b   k            W            7            k                      
+Steinbach         c    63           4/L        6>6          8>k                      
+Jacoby            3b 2>63           D.1-H        63           D                      
+Martinez          rf   53           S.2-H        e4.B-1       3                      
+Javier            cf   13           43           43           43                     
+ Bolton           p                                                                  
+Jeltz             ss 3>31         5>W          7>S          9>31                     
+Maddux            p    8            k                                                
+ Moseby           ph                             8                                   
+ Schatzeder       p                                                                  
+ Candaele         cf                                          D                      
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+James             lf 1>W            6            S.1-2      7>Schatzeder             
+                                                              43                     
+White             cf   pb.1-2     4>S            note 1       S                      
+                       3/g.2-3                                                       
+Joyner            1b   8/SF.3-H     S.1-3        63.3-H       D.1-H                  
+Maldonado         rf   6/L          8            D.2-H        43.2-3                 
+Samuel            3b 2>43           S.3-H;1-3    43           k                      
+Virgil            c    S            8/SF.3-H   6>k          8>Bolton                 
+                                                              W                      
+Washington        ss   643/gdp      W.1-2        43           9                      
+ Sveum            2b                                                                 
+Alicea            2b 3>53           64/f         D            13.1-2                 
+ Pedrique         ss                                                                 
+Jones             p    63         5>W            4            43                     
+ Price            p                                                                  
+ 
+ 1: 14/SH.2-3;1-2 
+ 
+ 
+Beavis           IN OUT ER                  101ers           IN OUT ER                  
+Maddux           A1  C9  4 L 1-7            Jones            A1  D9  2 W 2-4            
+Schatzeder       D1  D5  1                  Price            E1  E2  0                  
+Bolton           D6  D9  0                                                              
+
+5/9/1988, CCC88-NFG88, Wrigley Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Challengers       0  0  0  0  0  0  0  3  0     3  8  0     5  2
+1988 FrozenDeadGuys    0  0  0  0  0  0  0  0  0     0  4  1     4  2
+ 
+Challengers          AB  R  H BI   AVG    FrozenDeadGuys       AB  R  H BI   AVG
+McGee             cf  4  0  1  0  .259    McDowell          cf  4  0  1  0  .188       
+Ripken,C          ss  4  1  1  0  .273    Sandberg          2b  4  0  0  0  .195       
+Brock             1b  1  1  0  0  .087    Lansford          3b  4  0  0  0  .300       
+O'Neill           rf  4  0  3  2  .270    Downing           1b  3  0  0  0  .140       
+Harper            c   4  0  1  0  .261     Bream            ph  1  0  0  0  .310       
+Sax               2b  4  0  1  0  .274    Orsulak           lf  2  0  1  0  .259       
+Pendleton         3b  4  0  0  0  .167     Swift            p   0  0  0  0  .000       
+Cotto             lf  4  0  0  0  .197     Bielecki         p   0  0  0  0  .091       
+Swindell          p   2  0  0  0  .000    Dunston           ss  3  0  1  0  .242       
+ Prince           ph  1  0  1  0  .167    Carter            c   2  0  1  0  .235       
+ Carter           pr  0  1  0  0  .171    Benzinger         rf  3  0  0  0  .208       
+ Eichhorn         p   0  0  0  0  .000    Clemens           p   2  0  0  0  .048       
+                     32  3  8  2           Redus            lf  1  0  0  0  .247       
+                                                               29  0  4  0             
+ 
+Challengers                      INN  H  R ER BB  K PCH STR   ERA
+Swindell         W 3-2           7.0  4  0  0  0  1  81  53  3.86
+Eichhorn         S 2             2.0  0  0  0  1  1  33  20  1.50
+                                 9.0  4  0  0  1  2 114  73 
+ 
+FrozenDeadGuys                   INN  H  R ER BB  K PCH STR   ERA
+Clemens                          7.0  5  0  0  1  7  86  57  4.22
+Swift            L 0-1           0.2  3  3  3  1  0  21  10  3.42
+Bielecki                         1.1  0  0  0  0  2  14  10  5.02
+                                 9.0  8  3  3  2  9 121  77 
+ 
+CCC: Prince batted for Swindell in the 8th
+     Carter ran for Prince in the 8th
+NFG: Redus inserted at lf in the 8th
+     Bream batted for Downing in the 9th
+ 
+E-Carter. 2B-O'Neill, Harper, Prince. SB-McGee 2(10), O'Neill(3). 
+K-Ripken,C 2, Brock, Harper, Pendleton 2, Cotto 2, Swindell, Downing, Redus. 
+BB-Brock 2, Carter. HBP-Orsulak. CI-Brock. HB-Swindell. WP-Swift. 
+Temperature: 55, Sky: clear, Wind: in from center at 13 MPH.
+
+....................................................................................................
+5/9/1988, CCC88-NFG88, Wrigley Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Challengers       0  0  0  0  0  0  0  3  0     3  8  0     5  2
+1988 FrozenDeadGuys    0  0  0  0  0  0  0  0  0     0  4  1     4  2
+ 
+ 
+Challengers          -----A------ -----B------ -----C------ -----D------ -----E------
+McGee             cf 1>S            8          6>53           43.2-3                 
+Ripken,C          ss   SB2          6            k            wp.3-H                 
+                       k                                      S                      
+Brock             1b   SB3        4>W            k            W.1-2                  
+                       e2/int.B-1                                                    
+O'Neill           rf   543/gdp      S.1-2      7>S            D.2-H;1-H              
+Harper            c  2>D            note 1       SB2          Bielecki               
+                                                 7            k                      
+Sax               2b   63           9            note 2     9>7                      
+Pendleton         3b   k          5>k            53           43                     
+Cotto             lf   6            k          8>Swift        k                      
+                                                 43                                  
+Swindell          p  3>53           k                                                
+ Prince           ph                             D                                   
+ Carter           pr                                                                 
+ Eichhorn         p                                                                  
+ 
+ 1: 543/gdp.2-3  2: S.2XH(92);B-2 
+ 
+ 
+FrozenDeadGuys       -----A------ -----B------ -----C------ -----D------ -----E------
+McDowell          cf 1>S            3/fl         63           8                      
+Sandberg          2b   7            5/L          9          9>43                     
+Lansford          3b   543/gdp    4>8          7>6            63                     
+Downing           1b 2>63           63           k                                   
+ Bream            ph                                          9                      
+Orsulak           lf   HP           9            S                                   
+ Swift            p                                                                  
+ Bielecki         p                                                                  
+Dunston           ss   7          5>S            4                                   
+Carter            c    S.1-2        463/gdp    8>Eichhorn                            
+                                                 W                                   
+Benzinger         rf   9            53           8                                   
+Clemens           p  3>4/fl       6>9                                                
+ Redus            lf                             k                                   
+ 
+ 
+Challengers      IN OUT ER                  FrozenDeadGuys   IN OUT ER                  
+Swindell         A1  C6  0 W 3-2            Clemens          A1  C7  0                  
+Eichhorn         C7  D4  0 S 2              Swift            C8  D4  3 L 0-1            
+                                            Bielecki         D5  D8  0                  
+
+
+***PLAYING TIME REPORT***
+                              Team Status -- 1988 Butt Mountain Beavis                              
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Kelvin Torve                0     76     76    0     13     17                                
+  Casey Candaele             80     15     42    0     67    161                                
+  Mark Salas                112     29     36    0     76    211             36        24   141 
+  Stan Javier                62     22     31    0    135    440                                
+  Russ Morman                 9    160     28    0     22     80                                
+  Jeff Treadway              47     25     27    0     92    341                                
+  Dave Martinez             106     15     24    0    121    494                                
+  Brook Jacoby               45     17     23    0    141    606                                
+  Mark McGwire               35     16     21    0    136    635                                
+  Luis Polonia               40     19     21    0     65    313                                
+  Lloyd Moseby               36     12     20    0    113    552                                
+  Luis Rivera                18     16     17    0     69    402                                
+f Bill Schroeder             21      4     15    0     19    131                                
+  Terry Steinbach            22     10     14    0     56    398   36   41        43   14   170 
+  Steve Jeltz                23     10     12    0     56    450                                
+  Ken Griffey                33      6      8    0     22    264                                
+  Jim Traber                  2      2      2    0      6    376                                
+f Warren Cromartie            0      0      0    0      0      0                                
+f Skeeter Barnes              0      0      0    0      0      0                                
+f Alfredo Griffin             0      0      0    0      0    354                                
+f Jerry Royster               0      0      0    0      0    111                                
+f Scotti Madison              0      0      0    0      0     39                                
+  Total                                              1209   6375                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Ken Hill                  108    0     67     62  4/19/1988                                          
+f Steve Wilson              106    0     33     31  4/14/1988                                          
+f Randy Johnson             106    0    116    109  4/17/1988                                          
+f Jeff Gray                  96    0     43     45   4/9/1988                                          
+  Tom Bolton                 69    0     97    140   5/9/1988    12r    15r    17r                  44 
+  Dan Schatzeder             65    0     79    121   5/9/1988    16r    29r                         45 
+d Steve Ontiveros            64   19    154    241   5/2/1988                                          
+  John Smoltz                53    0    158    297   5/6/1988                         96s           96 
+  Lee Guetterman             45    0     80    177   5/7/1988                  95s                  95 
+  Dave Smith                 34    0     85    249   5/6/1988                         29r    17r    46 
+  Goose Gossage              31    0     60    194   5/8/1988           15r    18r    24r           57 
+  Greg Maddux                23    0    242   1047   5/9/1988    91s                                91 
+  Jim Gott                   18    0     57    314   5/6/1988                         17r           17 
+  Willie Fraser              10    0     89    861   5/5/1988                               124s   124 
+  Marvin Freeman             10    0     25    249   5/8/1988           72s                         72 
+f Mike Norris                 0    0      0      0      0/0/0                                          
+f Ted Power                   0    0      0    443      0/0/0                                          
+f Bruce Ruffin                0    0      0    646      0/0/0                                          
+f Vincente Palacios           0    0      0    113      0/0/0                                          
+f Jay Tibbs                   0    0      0    708      0/0/0                                          
+f Mike Dunne                  0    0      0    752      0/0/0                                          
+f David West                  0    0      0     25      0/0/0                                          
+f Steve Shields               0    0      0    362      0/0/0                                          
+f Sherman Corbett             0    0      0    204      0/0/0                                          
+  Total                                1385   7390                                                     
+                               Team Status -- 1988 Needmore Shebazzum                               
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Gary Sheffield             27    103     81    0     72     89                                
+  Carlos Martinez            12    118     55    0     30     55                                
+  Randy Ready                21     34     28    0    108    380                                
+  Dave Henderson             23     28     27    0    153    570                                
+  Jose Oquendo               19     29     26    0    135    518                                
+  Jack Clark                 21     27     25    0    153    616                                
+  Geno Petralli               4     27     24    0     95    400        39   37             114 
+  Danny Tartabull            22     24     23    0    138    593                                
+  Dwight Evans               24     23     23    0    149    645                                
+  Carmen Castillo             2     46     19    0     35    182                                
+  Benito Santiago            21     11     14    0     75    527   40    7        39        223 
+  Dickie Thon                18      8     14    0     40    296                                
+  Denny Walling              24     11     12    0     30    252                                
+  Tim Teufel                  6     13      9    0     28    309                                
+  Jim Lindeman                0     19      9    0      4     46                                
+  Glenn Braggs                4      7      6    0     19    294                                
+d Steve Lyons                 2      2      2    0     11    526                                
+f Kevin Reimer                0      0      0    0      0     26                                
+f Bo Diaz                     0      0      0    0      0    327                                
+f Brad Wellman                0      0      0    0      0    116                                
+f Ken Gerhart                 0      0      0    0      0    291                                
+f Ed Romero                   0      0      0    0      0     83                                
+f Greg Walker                 0      0      0    0      0    412                                
+f Tracy Woodson               0      0      0    0      0    183                                
+f Ron Tingley                 0      0      0    0      0     26                                
+f Ron Roenicke                0      0      0    0      0     42                                
+  Total                                              1275   7804                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Trevor Wilson              98    0     94     96   5/3/1988                                          
+  Rod Nichols                42    0    124    297   5/8/1988           14r     6r    36r           56 
+  Mike Schooler              40    0     86    214   5/8/1988           32r           13r           45 
+  Bill Wilkinson             37    0     50    136   5/7/1988                  26r                  26 
+  Jimmy Key                  34    0    190    551   5/6/1988                         56s           56 
+  Danny Cox                  30    0    107    361   5/9/1988    27r                  23r           50 
+f Cris Carpenter             27    0     55    203  4/28/1988                                          
+  Chuck Finley               23    0    194    831   5/7/1988                 120s                 120 
+  Erik Hanson                18    0     31    168   5/9/1988   105s                               105 
+  Dennis Martinez            17    0    169    968   5/4/1988                                          
+  Tim Belcher                16    0    113    719   5/8/1988          109s                        109 
+f Danny Darwin               15    0    121    804  4/27/1988                                          
+  Kent Tekulve                5    0     17    347   5/9/1988     6r                                 6 
+f Clay Parker                 0    0      0      0      0/0/0                                          
+f Chuck Cary                  0    0      0     39      0/0/0                                          
+f Dale Mohorcic               0    0      0    342      0/0/0                                          
+f Jim Clancy                  0    0      0    827      0/0/0                                          
+f Mike Jeffcoat               0    0      0     52      0/0/0                                          
+f German Jimenez              0    0      0    241      0/0/0                                          
+f Les Straker                 0    0      0    341      0/0/0                                          
+f Scott Service               0    0      0     23      0/0/0                                          
+f Don Gordon                  0    0      0    261      0/0/0                                          
+f Bill Laskey                 0    0      0    110      0/0/0                                          
+f Ed Vande Berg               0    0      0    159      0/0/0                                          
+  Total                                1351   8090                                                     
+                                 Team Status -- 1988 Tewksbury Bobs                                 
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Mark McLemore              13     46     37    0     98    265                                
+  Ron Hassey                 27     25     25    0     92    365   35   33    8   80   28   268 
+  Eric Davis                 33     22     25    0    134    543                                
+  Tim Raines                 10     29     24    0    115    488                                
+  Andres Galarraga           24     22     22    0    148    661                                
+  Paul Molitor               23     21     22    0    152    691                                
+  Jose Canseco               26     20     21    0    151    705                                
+  Ozzie Guillen               5     17     13    0     81    606                                
+  Tim Laudner                35      4     13    0     54    418             30        12    96 
+  Darryl Hamilton             6     14     12    0     14    117                                
+  Rey Quinones               23      4     10    0     51    530                                
+  Hubie Brooks               23      4      9    0     59    628                                
+  Frank White                21      3      8    0     48    575                                
+  Mike Aldrete                7      3      4    0     17    449                                
+f Ron Oester                  0      0      0    0      0    163                                
+f Lance Johnson               0      0      0    0      0    132                                
+f Scott Bradley               0      0      0    0      0    359                                
+f Larry Owen                  0      0      0    0      0     94                                
+f John Morris                 0      0      0    0      0     39                                
+f Sandy Alomar                0      0      0    0      0      1                                
+f Bob Brower                  0      0      0    0      0    234                                
+f Rick Schu                   0      0      0    0      0    294                                
+f Carl Nichols                0      0      0    0      0     52                                
+  Total                                              1214   8409                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Rick Reed                  96    0     45     47   5/6/1988                         50r           50 
+d Bobby Ojeda                29   30    216    752   5/8/1988          107s                        107 
+  Don Robinson               28    0    202    725   5/7/1988                 114s    13r          127 
+  Jeff Pico                  23    0    109    472   5/6/1988                          2r    22r    24 
+  Doug Drabek                22    0    195    880   5/6/1988                         94s           94 
+  Bryan Harvey               22    0     66    303   5/7/1988                   3r    29r           32 
+  Jack Morris                19    0    185    997   5/5/1988                                97s    97 
+d Kevin Gross                17    9    166    989   5/3/1988                                          
+  Mark Clear                 11    0     14    130   5/6/1988                         37r           37 
+  Calvin Schiraldi           10    0     71    717   5/6/1988                         41r    24r    65 
+  Scott Bailes                9    0     56    617   5/6/1988                         19r           19 
+d Gene Garber                 9   22     12    138  4/18/1988                                          
+  Mike Witt                   3    0     35   1080   5/9/1988   117s                               117 
+f Ray Searage                 0    0      0      0      0/0/0                                          
+f John Mitchell               0    0      0      5      0/0/0                                          
+f Randy Bockus                0    0      0    138      0/0/0                                          
+f Bruce Sutter                0    0      0    193      0/0/0                                          
+f Tom Niedenfuer              0    0      0    252      0/0/0                                          
+f Tom Filer                   0    0      0    431      0/0/0                                          
+  German Gonzalez             0    0      0     92      0/0/0                                          
+  Total                                1372   8958                                                     
+                              Team Status -- 1988 Grain Belt Premiums                               
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Hal Morris                 14    115     80    0     16     20                                
+  Jeff Blauser              107     22     55    0     41     74                                
+  Carlton Fisk                4     58     37    0    110    298   37   33   35   33        249 
+  Ernest Riles               25     32     31    0    105    336                                
+  Bo Jackson                 31     30     30    0    142    468                                
+  Lenny Harris               25     28     27    0     14     51                                
+  Pat Borders                25     21     24    0     39    160                             43 
+  Kent Hrbek                 23     24     24    0    140    586                                
+  Bobby Bonilla              18     26     23    0    158    681                                
+  Kirby Puckett              26     21     23    0    156    691                                
+  Ronnie Gant                17     23     21    0    129    618                                
+  Mel Hall                   10     14     14    0     77    553                                
+  Randy Bush                 53      9     10    0     48    466                                
+f Jim Rice                   18      2      7    0     37    542                                
+  Jim Gantner                 4      2      3    0     16    596                                
+  Willie Upshaw               0      2      1    0      8    564                                
+f Tom Pagnozzi                0      0      0    0      0    209                                
+f Ken Oberkfell               0      0      0    0      0    529                                
+f Terry Kennedy               0      0      0    0      0    285                                
+f Vince Coleman               0      0      0    0      0    679                                
+f Gary Ward                   0      0      0    0      0    262                                
+f Jim Presley                 0      0      0    0      0    592                                
+f Dave Clark                  0      0      0    0      0    174                                
+f Dave Concepcion             0      0      0    0      0    216                                
+f Leon Durham                 0      0      0    0      0    138                                
+  Total                                              1236   9788                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Mark Lee                   90    0     19     21  4/17/1988                                          
+f Mike Harkey                90    0    140    155  4/27/1988                                          
+  Rick Aguilera              59    0     66    111   5/6/1988                         64s           64 
+  Oil Can Boyd               32    0    179    561   5/7/1988                 118s                 118 
+d Steve Farr                 30   14    104    344   5/8/1988           86s                         86 
+  Larry Andersen             28    0     99    350   5/6/1988                         22r           22 
+  Paul Assenmacher           27    0     90    329   5/6/1988                         12r           12 
+  Barry Jones                27    0     93    347   5/8/1988           11r    15r                  26 
+  Charlie Leibrandt          22    0    224   1002   5/9/1988   101s                               101 
+  Ed Whitson                 20    0    172    846   5/4/1988                                          
+  Bobby Thigpen              17    0     68    398   5/9/1988    12r                                12 
+  Brian Meyer                15    0      7     46  4/27/1988                                          
+  Jose Rijo                  13    0     84    653  4/20/1988                                          
+  Tim Crews                   3    0     10    301   5/4/1988                                          
+f Joe Klink                   0    0      0      0      0/0/0                                          
+f Brad Arnsberg               0    0      0      0      0/0/0                                          
+f Andy McGaffigan             0    0      0    392      0/0/0                                          
+f Ed Nunez                    0    0      0    210      0/0/0                                          
+f Mike LaCoss                 0    0      0    477      0/0/0                                          
+f Shane Rawley                0    0      0    873      0/0/0                                          
+f Rich Dotson                 0    0      0    755      0/0/0                                          
+f Joaquin Andujar             0    0      0    351      0/0/0                                          
+f Mike Smithson               0    0      0    561      0/0/0                                          
+f Steve Trout                 0    0      0    278      0/0/0                                          
+f Ricky Horton                0    0      0    512      0/0/0                                          
+  Total                                1355   9873                                                     
+                               Team Status -- 1988 Sunnydale Slayers                                
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Dwayne Murphy              28     80     69    0    118    171                                
+  Mike Macfarlane             7     66     44    0    103    236        43   34   31        237 
+  Jay Bell                  104      7     26    0     61    236                                
+  Lou Whitaker               11     29     25    0    119    477                                
+  Cecil Fielder              23     20     22    0     42    190                                
+  George Brett               15     24     21    0    142    681                                
+  Mike Stanley               28     11     19    0     56    292   37         3    3         89 
+  Kurt Stillwell              4     23     18    0     93    518                                
+  Tom Brookens                4     28     18    0     89    498                                
+  Kevin McReynolds           13     18     16    0     97    600                                
+f Jay Buhner                  4     19     14    0     43    299                                
+f Carmelo Martinez           10     17     14    0     56    405                                
+  Marvell Wynne              47      7     14    0     51    369                                
+  Cory Snyder                17     12     13    0     74    558                                
+  Pat Sheridan              106      5     13    0     53    402                                
+  Luis Salazar               18      8     12    0     60    489                                
+  Ken Phelps                 39      5      7    0     27    371                                
+f Jamie Quirk                 0      0      0    0      0    232                                
+f Rene Gonzales               0      0      0    0      0    260                                
+f Kirt Manwaring              0      0      0    0      0    124                                
+f Jim Sundberg                0      0      0    0      0    165                                
+f Joey Meyer                  0      0      0    0      0    352                                
+f Paul Runge                  0      0      0    0      0     91                                
+f Dave Parker                 0      0      0    0      0    411                                
+f Johnny Paredes              0      0      0    0      0    104                                
+f Torri Lovullo               0      0      0    0      0     23                                
+f Wayne Tolleson              0      0      0    0      0     69                                
+f Kelly Paris                 0      0      0    0      0     44                                
+f John Russell                0      0      0    0      0     53                                
+f Paul Zuvella                0      0      0    0      0    146                                
+f Steve Kiefer                0      0      0    0      0     13                                
+  Total                                              1284   8879                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Ramon Martinez            113    0    170    151   5/6/1988                         98s           98 
+  Dave Meads                 36    0     62    171   5/8/1988           39r    13r    14r           66 
+f Al Leiter                  30    0     76    251  4/29/1988                                          
+  Pascual Perez              30    0    224    741   5/9/1988   107s                               107 
+  Chris Bosio                29    0    219    766   5/8/1988           94s                         94 
+  Terry Leach                28    0    111    392   5/8/1988           16r    46r                  62 
+  John Franco                22    0     75    336   5/9/1988    27r                   7r           34 
+  Tom Henke                  22    0     62    285   5/7/1988                  38r                  38 
+  Eric Show                  20    0    183    936   5/7/1988                  34s                  34 
+  Scott Terry                19    0     97    524   5/9/1988     9r                                 9 
+  David Cone                 11    0    101    936   5/4/1988                                          
+f Bob Milacki                 0    0      0     91      0/0/0                                          
+f Steve Howe                  0    0      0      0      0/0/0                                          
+f John Candelaria             0    0      0    640      0/0/0                                          
+  Ron Robinson                0    0      0    347      0/0/0                                          
+f Jeff Innis                  0    0      0     80      0/0/0                                          
+f Al Nipper                   0    0      0    341      0/0/0                                          
+f Andy Hawkins                0    0      0    906      0/0/0                                          
+f Alex Madrid                 0    0      0     70      0/0/0                                          
+  Total                                1380   7964                                                     
+                           Team Status -- 1988 Cape Canaveral Challengers                           
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Edgar Martinez            100     52     66    0     25     38                                
+  Tom Prince                  4     92     31    0     25     80                                
+  Brian Harper               40     24     29    0     53    182   31        40        37   169 
+  Mike Devereaux             19     42     29    0     13     45                                
+  Terry Pendleton            40     23     29    0    120    421                                
+  Paul O'Neill               48     19     24    0    129    533                                
+  Cal Ripken                 21     24     23    0    156    689                                
+  Steve Sax                  27     18     21    0    143    687                                
+  Joe Carter                 29     17     19    0    129    670                                
+  Willie McGee               14     21     19    0    111    600                                
+  Henry Cotto                19     18     18    0     77    418                                
+f Gerald Perry               14     20     18    0    107    595                                
+d Mike Scioscia              23     10     12   11     56    452                                
+  Rich Gedman                18     11     12    0     39    332        33        35        133 
+  Greg Brock                  9      6      7    0     29    437                                
+  Mike Gallego                5      7      6    0     20    320                                
+f Tom Brunansky               0      0      0    0      0    669                                
+f Bruce Benedict              0      0      0    0      0    262                                
+f Rafael Belliard             0      0      0    0      0    321                                
+f Danny Heep                  0      0      0    0      0    173                                
+f Ray Knight                  0      0      0    0      0    327                                
+f Juan Castillo               0      0      0    0      0     94                                
+f Ken Williams                0      0      0    0      0    243                                
+f Terry Blocker               0      0      0    0      0    210                                
+f Larry Parrish               0      0      0    0      0    441                                
+f Bill Buckner                0      0      0    0      0    311                                
+  Total                                              1232   9550                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Jeff Brantley             102    0     90     88  4/13/1988                                          
+f Scott Sanderson           100    0     62     62  4/24/1988                                          
+  Pete Harnisch              69    0     42     61   5/7/1988                   3r           16r    19 
+f Luis Aquino                39    0     53    136  4/25/1988                                          
+  Mark Eichhorn              30    0     92    302   5/9/1988    33r           20r           25r    78 
+  Mike Maddux                29    0    109    380   5/7/1988                  22r    22r     9r    53 
+  Bill Wegman                27    0    227    847   5/8/1988          107s                        107 
+  Mike Flanagan              21    0    192    916   5/6/1988                         90s           90 
+  Frank Tanana               18    0    159    876   5/5/1988                                72s    72 
+  Juan Berenguer             17    0     72    428  4/21/1988                                          
+  Greg Swindell              15    0    146    988   5/9/1988    81s                                81 
+  Tom Glavine                14    0    121    844   5/7/1988                  79s                  79 
+  Terry Mulholland            9    0     18    191   5/3/1988                                          
+  Ken Patterson               1    0      1     92   4/2/1988                                          
+f Bill Krueger                0    0      0     14      0/0/0                                          
+f Jose Mesa                   0    0      0      0      0/0/0                                          
+f Dwayne Henry                0    0      0     59      0/0/0                                          
+f Don Carman                  0    0      0    873      0/0/0                                          
+f Neil Allen                  0    0      0    504      0/0/0                                          
+f Mark Thurmond               0    0      0    322      0/0/0                                          
+f Charlie Lea                 0    0      0    585      0/0/0                                          
+  Total                                1384   8568                                                     
+                               Team Status -- 1988 Barcelona Brewers                                
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Craig Worthington          76    128    107    0     96     90                                
+  Tony Phillips              58     58     58    0    146    251                                
+  Ron Karkovice              33     49     41    0     52    126   35   33   33   30   31   264 
+  Brady Anderson             54     32     38    0    139    364                                
+  Jody Davis                 20     28     25    0     73    292         5         3          8 
+  Gregg Jefferies            18     28     25    0     29    118                                
+  Chili Davis                25     22     23    0    154    667                                
+  Phil Bradley               25     21     22    0    145    649                                
+  Daryl Boston              140      6     19    0     58    305                                
+  Ozzie Smith                20     17     18    0    122    669                                
+  Eddie Murray                5     22     16    0    112    681                                
+  Bill Pecota                 5     16     12    0     24    206                                
+d Darren Daulton             28      6      9   25     14    163                             16 
+  Jesse Barfield             10      7      8    0     43    520                                
+  Keith Moreland             11      6      8    0     43    562                                
+  Marty Barrett               3      2      3    0     18    687                                
+f Mitch Webster               0      0      0    0      0    597                                
+f Jack Daugherty              0      0      0    0      0      0                                
+f Eddie Milner                0      0      0    0      0     55                                
+f Rick Wrona                  0      0      0    0      0      6                                
+f Tony Perezchica             0      0      0    0      0     11                                
+f Eric Bullock                0      0      0    0      0     20                                
+f Denny Gonzalez              0      0      0    0      0     39                                
+f John Rabb                   0      0      0    0      0     14                                
+f Dave Meier                  0      0      0    0      0      5                                
+  Total                                              1268   7097                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Mike Smith                114    0     40     35  4/12/1988                                          
+  Don Heinkel                75    0    113    151   5/9/1988    51r            8r     6r    10r    75 
+  David Wells                57    0    160    279   5/8/1988           41s                         41 
+  Eric King                  44    0    134    303   5/8/1988           47r           32r           79 
+  Bud Black                  40    0    142    358   5/5/1988                               106s   106 
+  Curt Schilling             38    0     29     76   5/9/1988    79s                                79 
+  Mark Williamson            32    2    162    507  4/30/1988                                          
+  Dave Leiper                31    0     68    217   5/8/1988           21r                         21 
+  Jamie Moyer                27    0    232    855   5/7/1988                 111s                 111 
+  John Tudor                 18    0    144    794   5/6/1988                         64s           64 
+  Paul Gibson                17    0     68    390   5/8/1988           42r                         42 
+  Lee Smith                  13    3     47    363  4/30/1988                                          
+f Dave Righetti               0    0      0    377      0/0/0                                          
+f Jeff Montgomery             0    0      0    271      0/0/0                                          
+f Carl Willis                 0    0      0     55      0/0/0                                          
+f Todd Frohwirth              0    0      0     62      0/0/0                                          
+f Jeff Musselman              0    0      0    354      0/0/0                                          
+f Keith Comstock              0    0      0     35      0/0/0                                          
+f Scott Medvin                0    0      0    112      0/0/0                                          
+f Tony Fossas                 0    0      0     28      0/0/0                                          
+f Mark Huismann               0    0      0     23      0/0/0                                          
+f Rich Bordi                  0    0      0     34      0/0/0                                          
+  Total                                1339   5679                                                     
+                               Team Status -- 1988 ChinaTrust Whales                                
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Rusty Tillman             117      0    133    0      8      6                                
+f Matt Sinatro                0    171    120    0     12     10                                
+  Dave Bergman               53     35     36    0    119    333                                
+  Dave Gallagher              6     53     32    0    122    384                                
+  Andre Dawson               19     24     23    0    146    640                                
+  Robbie Thompson            22     21     21    0    115    540                                
+  Jack Howell                10     26     21    0    117    558                                
+  Tony Fernandez             16     23     21    0    147    704                                
+  Matt Nokes                 21     20     20    0     87    425   36   28   40    8   24   190 
+  Keith Miller                8     42     19    0     15     79                                
+  Will Clark                  7     25     19    0    130    689                                
+  Bob Horner                 34      5     15    0     36    247                                
+  Nelson Santovenia          34      7     15    8     50    344        11   24   29   12   147 
+  Tony Armas                 16     11     13    0     51    393                                
+  Mike Schmidt               29      7     12    0     55    451                                
+f Jose Cruz                 160      2     11    0     10     88                                
+f Bobby Meacham               0     15      8    0     11    134                                
+  Dale Murphy                13      2      6    0     38    671                                
+  John Cangelosi              1      7      4    0      6    139                                
+f Sam Horn                   14      0      1    0      1     73                                
+f Chad Kreuter                0      0      0    0      0     58                                
+f Dick Schofield              0      0      0    0      0    589                                
+f Louie Meadows               0      0      0    0      0     48                                
+f Randy Kutcher               0      0      0    0      0     12                                
+f Ruben Rodriguez             0      0      0    0      0      5                                
+  Wilfredo Tejada             0      0      0    0      0     16                                
+f Bill McGuire                0      0      0    0      0     20                                
+f John Fishel                 0      0      0    0      0     30                                
+  Total                                              1276   7686                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Tony Castillo             107    0     58     54   5/6/1988                          7r            7 
+  Gibson Alba               100    0     14     14   5/9/1988    20r    14r    19r                  53 
+  Joe Magrane                37    0    252    677   5/6/1988                         89s           89 
+  Mike Henneman              26    0     96    364   5/8/1988           33r    25r                  58 
+  Bob Walk                   25    0    224    881   5/8/1988          100s                        100 
+  Frank Viola                23    0    237   1031   5/7/1988                  97s                  97 
+  Jeff Reardon               22    0     67    299   5/8/1988           14r    23r    15r           52 
+  Todd Burns                 22    0     92    425   5/9/1988    36r           53r           20r   109 
+  Dave LaPoint               16    0    142    892   5/9/1988    70s                        111s   181 
+  Charlie Hough               9    0     99   1067  4/24/1988                                          
+f Jose Bautista               8    0     55    721  4/25/1988                                          
+f Jerry Reed                  0    0      0    363      0/0/0                                          
+f Charlie Hudson              0    0      0    447      0/0/0                                          
+f Hipolito Pena               0    0      0     62      0/0/0                                          
+f Wally Ritchie               0    0      0    115      0/0/0                                          
+f Jack Lazorko                0    0      0    165      0/0/0                                          
+f Brad Havens                 0    0      0    295      0/0/0                                          
+f Jeff Shaver                 0    0      0      4      0/0/0                                          
+f Brad Moore                  0    0      0     21      0/0/0                                          
+f Pat Clements                0    0      0     41      0/0/0                                          
+f Julio Solano                0    0      0     98      0/0/0                                          
+  Total                                1336   8036                                                     
+                                Team Status -- 1988 Cincinnati Reds                                 
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Ken Caminiti               15     66     51    0     45     89                                
+  Mackey Sasser              64     26     29    0     38    131   11                        14 
+  Bill Doran                 29     25     27    0    147    552                                
+  Barry Larkin               34     22     25    0    163    652                                
+f Tim Flannery               38     23     24    0     50    205                                
+  Rafael Palmeiro            27     23     24    0    151    629                                
+  Tracy Jones                35      9     22    0     55    249                                
+  Kal Daniels                13     24     21    0    125    589                                
+  Darrell Evans              14     22     21    0    109    522                                
+  Lance Parrish              26     18     21    0     98    478   28   31   37   33   39   282 
+  Andy Van Slyke              9     22     18    0    119    660                                
+  Manny Lee                  27      9     15    0     61    415                                
+  Nick Esasky                25      7     13    0     57    450                                
+  Dan Gladden                24      3      9    0     57    633                                
+  Milt Thompson              33      2      4    0     18    423                                
+f Gerald Young                0      1      1    0      6    655                                
+f Buddy Bell                  0      0      0    0      0    352                                
+f Jeff Reed                   0      0      0    0      0    295                                
+f John Marzano                0      0      0    0      0     30                                
+f Mickey Brantley             0      0      0    0      0    614                                
+f Steve Lombardozzi           0      0      0    0      0    335                                
+f Steve Balboni               0      0      0    0      0    440                                
+f Otis Nixon                  0      0      0    0      0    305                                
+f Van Snider                  0      0      0    0      0     29                                
+f Chris Bando                 0      0      0    0      0     86                                
+f Albert Hall                 0      0      0    0      0    257                                
+f Rolando Roomes              0      0      0    0      0     16                                
+f Ed Hearn                    0      0      0    0      0     18                                
+f Dave Collins                0      0      0    0      0    189                                
+  Total                                              1299  10298                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+f Roger Samuels              39    0     36     92  4/25/1988                                          
+  Randy Myers                30    0     78    261   5/3/1988                                          
+  Alejandro Pena             27    0    101    378   5/6/1988                         11r           11 
+  Norm Charlton              24    0     63    259   5/9/1988    20r                                20 
+  Teddy Higuera              23    0    207    895   5/8/1988          120s                        120 
+  Mike Jackson               22    0     89    412   5/5/1988                                30r    30 
+  Tom Candiotti              20    0    183    903   5/6/1988                        122s          122 
+  Sid Fernandez              19    0    144    751   5/5/1988                               114s   114 
+  Bob Welch                  18    0    191   1034   5/7/1988                 111s                 111 
+  Mike Boddicker             16    0    159   1001   5/9/1988   114s                               114 
+  Cecilio Guante             15    0     51    331  4/28/1988                                          
+f Mario Soto                  8    0     29    367   4/1/1988                                          
+  Ron Guidry                  3    0      7    239   5/9/1988    19r                                19 
+f Keith Atherton              0    0      0    309      0/0/0                                          
+f Rick Rhoden                 0    0      0    847      0/0/0                                          
+f Curt Young                  0    0      0    651      0/0/0                                          
+f Ron Davis                   0    0      0     72      0/0/0                                          
+f Don Sutton                  0    0      0    380      0/0/0                                          
+f Neal Heaton                 0    0      0    415      0/0/0                                          
+f DeWayne Buice               0    0      0    183      0/0/0                                          
+  Total                                1338   9780                                                     
+                              Team Status -- 1988 Marshall McDougalls                               
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Gary Gaetti                30     27     28    0    144    516                                
+  Roberto Alomar             19     24     23    0    139    611                                
+  Kelly Gruber               19     23     22    0    136    623                                
+  Fred McGriff               19     22     21    0    132    623                                
+  Scott Fletcher             21     19     19    0    117    609                                
+  Claudell Washington        61     14     19    0     93    485                                
+  Brett Butler               11     22     18    0    124    679                                
+  Bob Melvin                 43      6     18    0     51    288         7   34   30   29   124 
+  B.J. Surhoff                3     19     15    0     83    541   36   30                  146 
+  Dan Pasqua                  2     12     10    0     48    475                                
+  Chet Lemon                 20      5     10    0     56    582                                
+  Nelson Liriano              5      6      6    0     17    295                                
+  Cecil Espy                 14      2      4    0     15    376                                
+  Fred Manrique               2      3      2    0      9    387                                
+f Tom Nieto                   0      0      0    0      0     62                                
+f Darrell Miller              0      0      0    0      0    157                                
+f Lloyd McClendon             0      0      0    0      0    157                                
+f Rich Renteria               0      0      0    0      0     91                                
+f Pete O'Brien                0      0      0    0      0    628                                
+f Chico Walker                0      0      0    0      0     86                                
+f Andres Thomas               0      0      0    0      0    627                                
+f Angel Salazar               0      0      0    0      0     63                                
+f Orlando Mercado             0      0      0    0      0     27                                
+  Total                                              1164   8988                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Bob Knepper                29    0    207    726   5/9/1988    90s                         90s   180 
+  Bruce Hurst                27    0    248    922   5/8/1988          115s                        115 
+  Dennis Rasmussen           25    0    216    854   5/6/1988                        111s          111 
+  Dave Stewart               23    0    270   1156   5/7/1988                 124s                 124 
+  Greg Harris                21    0     92    446   5/9/1988    37r                         12r    49 
+  Lance McCullers            12    0     47    407   5/2/1988                                          
+  Chuck Crim                 11    0     45    425  4/25/1988                                          
+  Kirk McCaskill              9    0     58    635   5/8/1988            8r                          8 
+  John Cerutti                9    0     47    524   5/2/1988                                          
+  Jose Alvarez                6    0     28    436  4/24/1988                                          
+f Bob Patterson               0    0      0      0      0/0/0                                          
+f Tom Gordon                  0    0      0     67      0/0/0                                          
+f Pete Smith                  0    0      0    837      0/0/0                                          
+f Steve Peters                0    0      0    213      0/0/0                                          
+f Donn Pall                   0    0      0    130      0/0/0                                          
+f Fred Toliver                0    0      0    491      0/0/0                                          
+  Israel Sanchez              0    0      0    157      0/0/0                                          
+f Jeff Kaiser                 0    0      0     11      0/0/0                                          
+f Tim Drummond                0    0      0      0      0/0/0                                          
+f Dave Otto                   0    0      0     43      0/0/0                                          
+f Mark Ross                   0    0      0     32      0/0/0                                          
+  Total                                1258   8512                                                     
+                              Team Status -- 1988 Ferdinand Magellans                               
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Jeff Huson                 57    115    107    0     49     46                                
+f Mike Fitzgerald             4     99     57    0    103    180        39        25   38   175 
+  Chris Speier               67      7     33    0     67    201                                
+  Alex Trevino               44     24     33    0     74    223    9        62    9        114 
+  Darrin Jackson             41     11     29    0     57    197                                
+  Barry Bonds                33     24     27    0    163    614                                
+  Mookie Wilson               3     51     26    0    108    410                                
+  Fred Lynn                   8     29     23    0    101    432                                
+  Walt Weiss                  7     21     18    0     94    511                                
+  Kevin Seitzer              31     14     18    0    118    643                                
+  R.J. Reynolds              53      5     18    0     63    347                                
+  Spike Owen                 42      5     18    0     53    294                                
+  Tim Wallach                25     12     16    0    103    640                                
+  Mike Marshall               5     22     16    0     92    577                                
+  Tom Foley                  33     13     14    0     57    411                                
+  Jim Dwyer                   0     13     13    0     16    122                                
+  Rex Hudler                  6      1      3    0      8    229                                
+  Alan Ashby                  0      1      1    0      3    261   24                        24 
+f Dave Valle                  0      0      0    0      0    322                                
+f Alvaro Espinoza             0      0      0    0      0      3                                
+f Bob Dernier                 0      0      0    0      0    179                                
+f Randy Milligan              0      0      0    0      0    103                                
+f Randy Velarde               0      0      0    0      0    125                                
+f Chris James                 0      0      0    0      0    605                                
+f Bob Geren                   0      0      0    0      0     12                                
+f Jose Gonzalez               0      0      0    0      0     26                                
+f Billy Ripken                0      0      0    0      0    559                                
+f Mario Diaz                  0      0      0    0      0     76                                
+f Barry Lyons                 0      0      0    0      0     98                                
+f Luis Quinones               0      0      0    0      0     57                                
+  Total                                              1329   8503                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Dan Plesac                 31    0     66    211   5/9/1988    17r            2r                  19 
+  John Dopson                28    0    200    704   5/6/1988                         89s           89 
+f Bobby Witt                 28    0    209    736   5/1/1988                                          
+  Duane Ward                 27    0    132    487   5/9/1988    26r     8r    25r                  59 
+  Jay Howell                 26    0     69    262   5/8/1988           29r    46r                  75 
+  Paul Kilgus                25    0    218    871   5/8/1988          108s                        108 
+  Jose Guzman                25    0    219    876   5/7/1988                 112s                 112 
+  Eric Plunk                 19    0     64    331   5/7/1988                  20r    36r     7r    63 
+f Larry McWilliams           17    0     97    581   5/2/1988                                          
+  Melido Perez                6    0     53    836   5/9/1988    70s                        115s   185 
+  Zane Smith                  4    0     27    609   5/7/1988                  47r           21r    68 
+f Marty Clary                 0    0      0      0      0/0/0                                          
+f Tommy John                  0    0      0    776      0/0/0                                          
+f Bill Long                   0    0      0    732      0/0/0                                          
+f Joe Hesketh                 0    0      0    304      0/0/0                                          
+f Charlie Puleo               0    0      0    462      0/0/0                                          
+f Jerry Gleaton               0    0      0    164      0/0/0                                          
+f Walt Terrell                0    0      0    870      0/0/0                                          
+f Tom McCarthy                0    0      0     51      0/0/0                                          
+  Total                                1354   9863                                                     
+                                Team Status -- 1988 Reykjavik 101ers                                
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Dante Bichette            131     43     94    0     47     50                                
+  Craig Biggio               95     47     62    6     81    131        18   45   36        161 
+  Ron Washington             17     43     37    0     88    241                                
+  Devon White                32     30     30    0    148    486                                
+  Ozzie Virgil               42     21     28    0     99    350   38   18             33   124 
+  Luis Alicea                 4     32     23    0     77    330                                
+  Dion James                 25     22     23    0    102    449                                
+  Juan Samuel                28     18     21    0    141    685                                
+  Candy Maldonado             8     25     19    0    104    552                                
+  Dale Sveum                 27      8     15    0     72    495                                
+  Wally Joyner                4     20     14    0     95    663                                
+  Jose Uribe                 29      6     13    0     70    535                                
+  Jeffrey Leonard            22      5     10    0     58    569                                
+  Al Pedrique                 2      5      4    0      6    137                                
+  Sil Campusano               5      0      3    0      4    158                                
+f Larry Sheets                0      0      0    0      0    504                                
+f Domingo Ramos               0      0      0    0      0     67                                
+f Joel Skinner                0      0      0    0      0    272                                
+f Ted Simmons                 0      0      0    0      0    123                                
+f Rick Leach                  0      0      0    0      0    217                                
+f Craig Reynolds              0      0      0    0      0    170                                
+f Donnie Hill                 0      0      0    0      0    253                                
+f Rafael Santana              0      0      0    0      0    521                                
+f Doug Jennings               0      0      0    0      0    128                                
+f Mickey Hatcher              0      0      0    0      0    202                                
+f Billy Beane                 0      0      0    0      0      6                                
+f Stan Jefferson              0      0      0    0      0    125                                
+f Butch Davis                 0      0      0    0      0     25                                
+f Barbaro Garbey              0      0      0    0      0     67                                
+  Total                                              1192   8511                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Greg Booker                43    0    118    272   5/7/1988                  13r                  13 
+  Juan Eichelberger          42    0     70    165   5/7/1988                  26r                  26 
+  Joe Price                  40    0    108    269   5/9/1988     5r    27r           22r           54 
+  Shawn Hillegas             40    0    162    405   5/8/1988           76s                         76 
+  Jimmy Jones                22    0    166    760   5/9/1988   110s                               110 
+  Rick Reuschel              21    0    208   1000   5/5/1988                               103s   103 
+  Rick Mahler                18    0    192   1063   5/6/1988                         98s           98 
+  Storm Davis                18    0    155    872   5/7/1988                 105s                 105 
+  Tim Burke                  16    0     55    350   5/7/1988                  25r                  25 
+  Todd Worrell               14    0     50    366   5/8/1988           15r           13r           28 
+  Roger McDowell             13    0     50    378   5/8/1988           10r                         10 
+f Greg Mathews                0    0      0    286      0/0/0                                          
+f Floyd Bannister             0    0      0    816      0/0/0                                          
+f Doyle Alexander             0    0      0    985      0/0/0                                          
+f Randy O'Neal                0    0      0    222      0/0/0                                          
+f Dan Petry                   0    0      0    604      0/0/0                                          
+f Jeff Bittiger               0    0      0    268      0/0/0                                          
+f Candy Sierra                0    0      0    127      0/0/0                                          
+f Rod Scurry                  0    0      0    150      0/0/0                                          
+f Donnie Moore                0    0      0    150      0/0/0                                          
+  Total                                1334   9508                                                     
+                               Team Status -- 1988 Baraboo GoiterMen                                
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Bip Roberts               200    122    130    0     13     10                                
+  Wallace Johnson            25     36     34    0     36    107                                
+  Mike Heath                 31     14     25    0     61    241    3   30   36   31        166 
+  Von Hayes                  14     29     25    0    106    423                                
+  Tony Gwynn                 28     22     24    0    141    578                                
+  Wade Boggs                 33     19     23    0    168    719                                
+  Garry Templeton            11     25     22    0     88    392                                
+  Mike Greenwell             27     20     22    0    151    693                                
+  Julio Franco               39     17     22    0    147    676                                
+  Ernie Whitt                18     21     21    0     97    468   32   20         5        146 
+  Keith Hernandez            27     12     18    0     70    384                                
+  Pete Incaviglia            38      5     15    0     71    467                                
+  Rafael Ramirez             27      3     11    0     65    597                                
+  Don Mattingly               5     12     10    0     63    651                                
+f Glenn Hubbard               0      0      0    0      0    342                                
+f Pat Tabler                  0      0      0    0      0    499                                
+f Jose Lind                   0      0      0    0      0    668                                
+f Bob Brenly                  0      0      0    0      0    234                                
+f Manny Trillo                0      0      0    0      0    177                                
+f Curt Ford                   0      0      0    0      0    139                                
+f Chris Brown                 0      0      0    0      0    274                                
+f Herm Winningham             0      0      0    0      0    225                                
+f Mike Laga                   0      0      0    0      0    102                                
+f Jim Walewander              0      0      0    0      0    198                                
+f Harry Spilman               0      0      0    0      0     49                                
+f Mark Bailey                 0      0      0    0      0     28                                
+f Thad Bosley                 0      0      0    0      0    109                                
+f George Hendrick             0      0      0    0      0    139                                
+f Billy Joe Robidoux          0      0      0    0      0    104                                
+f Graig Nettles               0      0      0    0      0    104                                
+f Mike Felder                 0      0      0    0      0     85                                
+f Jerry Mumphrey              0      0      0    0      0     73                                
+f Jeff Stone                  0      0      0    0      0     66                                
+  Total                                              1277  10021                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Gary Eave                  67    0     16     24   5/3/1988                                          
+  Brian Holton               26    0     88    339   5/9/1988    21r    40r           21r           82 
+  Mike Scott                 24    0    207    875   5/9/1988   122s                               122 
+  Orel Hershiser             22    0    232   1068   5/8/1988           63s                         63 
+  Mark Gubicza               21    0    231   1111   5/7/1988                  99s                  99 
+  Craig Lefferts             19    0     70    362   5/8/1988           22r                         22 
+  Scott Bankhead             18   12     98    557  4/30/1988                                          
+  Bret Saberhagen            17    0    187   1089   5/6/1988                         67s           67 
+  Don August                 14    0     87    614   5/8/1988            2r    10r    26r           38 
+  Scott Garrelts             10    0     41    413   5/9/1988     5r    45r                         50 
+  Rob Murphy                  7    0     26    350   5/3/1988                                          
+f Kevin Hickey                0    0      0      0      0/0/0                                          
+f Odell Jones                 0    0      0    339      0/0/0                                          
+f Mike Birkbeck               0    0      0    538      0/0/0                                          
+f Tim Stoddard                0    0      0    253      0/0/0                                          
+f Don Aase                    0    0      0    209      0/0/0                                          
+f Ernie Camacho               0    0      0     85      0/0/0                                          
+  Total                                1283   8226                                                     
+                                 Team Status -- 1988 Century Atoms                                  
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Benny Distefano           500     75     88    0     29     33                                
+f Mark Carreon              100     33     64    0      7     11                                
+  Roberto Kelly              30     96     51    0     43     84                                
+  Matt Williams              67     35     46    0     79    170                                
+f Rick Dempsey               13    109     40    0     79    198                  37   35   105 
+  Dave Magadan               27     31     30    0    114    380                                
+  Dave Winfield              26     23     24    0    153    631                                
+  Johnny Ray                 29     21     24    0    157    659                                
+  Darryl Strawberry          25     23     24    0    152    640                                
+  Mike Sharperson             8     33     23    0     15     64                                
+  Ron Jones                  53     10     22    0     29    129                                
+d Curt Wilkerson             54     17     22   19     80    371                                
+  Don Slaught                36     13     21    0     76    358   36             43        152 
+  Rickey Henderson           23     18     19    0    125    647                                
+  Alvin Davis                22     14     16    0     95    582                                
+  Terry Puhl                 43     13     15    0     41    272                                
+  Darnell Coles              24      7     12    0     57    462                                
+f Donell Nixon                3     16     11    0     10     89                                
+  Felix Fermin                8      2      4    0      4    100                                
+  Bob Boone                   1      3      2    0      9    392        34   36              70 
+f Vance Law                   0      0      0    0      0    621                                
+f Dave Anderson               0      0      0    0      0    325                                
+f John Moses                  0      0      0    0      0    225                                
+f Eddie Williams              0      0      0    0      0     23                                
+f Butch Wynegar               0      0      0    0      0     65                                
+f Rob Ducey                   0      0      0    0      0     63                                
+f Felix Jose                  0      0      0    0      0      6                                
+f Lance Blankenship           0      0      0    0      0      3                                
+  Total                                              1354   7603                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Roy Smith                  47    0     71    152   5/6/1988                         22r           22 
+f Joe Boever                 43    0     30     70  4/14/1988                                          
+  Greg Minton                40    0    131    331   5/9/1988    42r                  39r           81 
+  Craig McMurtry             33    0     79    236   5/6/1988                         54r    14r    68 
+  Mark Davis                 33    0    131    402   5/9/1988    16r           22r    27r           65 
+  Jeff M. Robinson           31    0    218    698   5/9/1988    78s                        113s   191 
+  Mike Moore                 24    0    223    918   5/7/1988                 125s                 125 
+  Danny Jackson              23    0    241   1034   5/8/1988          123s                        123 
+  Paul Mirabella             16    0     39    241   5/7/1988                  10r    42r           52 
+  Gene Nelson                14    0     66    456   5/1/1988                                          
+  Wes Gardner                10    0     65    620   5/6/1988                        114s          114 
+f Juan Nieves                 9    0     40    458  4/30/1988                                          
+f Scott Anderson              0    0      0      0      0/0/0                                          
+f Steve Crawford              0    0      0      0      0/0/0                                          
+f Ed Wojna                    0    0      0      0      0/0/0                                          
+f Darrel Akerfelds            0    0      0      0      0/0/0                                          
+f Tim Leary                   0    0      0    932      0/0/0                                          
+f Drew Hall                   0    0      0    103      0/0/0                                          
+f Gregg Olson                 0    0      0     51      0/0/0                                          
+f John Habyan                 0    0      0     68      0/0/0                                          
+f Jose DeJesus                0    0      0     19      0/0/0                                          
+f Todd Stottlemyre            0    0      0    443      0/0/0                                          
+  Total                                1334   7232                                                     
+                              Team Status -- 1988 Evanston Endorphins                               
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Mark Grace                 33     30     31    0    168    550                                
+  Rance Mulliniks            33     28     28    0    113    399                                
+  Alan Trammell              31     26     28    0    146    523                                
+  Pedro Guerrero              7     36     26    0    109    422                                
+  Lenny Dykstra              15     27     25    0    116    466                                
+  Wally Backman              20     23     23    0     79    347                                
+  Kirk Gibson                23     21     22    0    136    632                                
+  Damon Berryhill             7     22     18    0     60    332        27   27   29        164 
+  Jody Reed                   4     20     16    0     64    400                                
+  Tony Pena                  23     12     16    0     85    546   30   23    8    8        153 
+  Luis Aguayo                28      2     15    0     40    260                                
+  Tommy Herr                 44      3     14   21     56    408                                
+f Billy Hatcher              16      8     11    0     64    591                                
+  Kevin Bass                 22      4     10    0     62    595                                
+  John Shelby                 1      0      1    0      4    545                                
+f Junior Ortiz                0      0      0    0      0    132                                
+f Juan Beniquez               0      0      0    0      0     68                                
+f Mike Young                  0      0      0    0      0    193                                
+f Gene Larkin                 0      0      0    0      0    594                                
+f Jim Eppard                  0      0      0    0      0    126                                
+f Tommy Gregg                 0      0      0    0      0     48                                
+f Terry Francona              0      0      0    0      0    222                                
+f Glenn Wilson                0      0      0    0      0    436                                
+f Terry McGriff               0      0      0    0      0    109                                
+f Al Newman                   0      0      0    0      0    295                                
+f John Christensen            0      0      0    0      0     43                                
+f Tim Jones                   0      0      0    0      0     56                                
+f Damaso Garcia               0      0      0    0      0     64                                
+  Total                                              1302   9402                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  John Costello              36    0     77    214  4/30/1988                                          
+  Bryn Smith                 27    0    213    791   5/9/1988   105s                               105 
+  Allan Anderson             25    0    204    815   5/7/1988                 108s                 108 
+d Dave Stieb                 25    9    208    844   5/2/1988                                          
+  Tom Browning               23    0    231   1001   5/6/1988                         75s           75 
+  Bob Stanley                19    0     79    419   5/8/1988           35r           23r           58 
+  Floyd Youmans              18    0     62    351   5/8/1988           18r    24r                  42 
+  Ken Dayley                 15    0     33    226   5/6/1988                         11r           11 
+  Rick Honeycutt             15    0     48    330   5/8/1988            5r                          5 
+  Juan Agosto                14    0     53    371   5/8/1988           17r                         17 
+  Jeff Robinson              12    0     63    513   5/6/1988                         29r           29 
+  John Smiley                 8    0     68    835   5/8/1988          104s                        104 
+f Doug Bair                   0    0      0     55      0/0/0                                          
+f Mark Knudson                0    0      0     63      0/0/0                                          
+f Mike Krukow                 0    0      0    517      0/0/0                                          
+f Keith Brown                 0    0      0     63      0/0/0                                          
+f David Palmer                0    0      0    551      0/0/0                                          
+  Total                                1339   7959                                                     
+                            Team Status -- 1988 Nederland FrozenDeadGuys                            
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+f Doug Dascenzo             129      6     36    0     31     85                                
+  Charlie O'Brien            25     32     30    0     38    127                                
+  Todd Benzinger             38     25     28    0    124    436                                
+  Gary Redus                  5     45     27    0    106    392                                
+  Gary Carter                23     28     26    0    130    503   35   41   41   38   35   306 
+  Oddibe McDowell            24     22     23    0    110    487                                
+  Shawon Dunston             22     23     23    0    135    599                                
+  Ryne Sandberg              29     18     21    0    140    679                                
+  Gary Thurman               15     29     20    0     14     70                                
+  Sid Bream                   5     22     18    0     95    522                                
+  Carney Lansford            25     14     17    0    106    607                                
+  Joe Orsulak                52      6     15    0     63    416                                
+f Carlos Quintana             0     25     13    0      1      8                                
+  Brian Downing              20      4     10    0     59    590                                
+  Pete Stanicek               5     13      9    0     26    299                                
+f Steve Buechele              0      0      0    0      0    579                                
+f Mark Parent                 0      0      0    0      0    125                                
+f Greg Myers                  0      0      0    0      0      0                                
+f Brad Komminsk               0      0      0    0      0      0                                
+f Jim Eisenreich              0      0      0    0      0    214                                
+f Mark Lemke                  0      0      0    0      0     64                                
+f Joey Cora                   0      0      0    0      0      0                                
+f Chuck Jackson               0      0      0    0      0     93                                
+  Mike Kingery                0      0      0    0      0    146                                
+f Joel Youngblood             0      0      0    0      0    139                                
+f Shawn Abner                 0      0      0    0      0     89                                
+f Dave Engle                  0      0      0    0      0     42                                
+f Bruce Fields                0      0      0    0      0     73                                
+  Total                                              1178   7384                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Mike Bielecki              78    0    167    215   5/9/1988    14r           14r    20r           48 
+  Fernando Valenzuela        40    0    250    626   5/8/1988          109s                        109 
+  Mitch Williams             29    0     87    296   5/6/1988                         11r           11 
+  Roger Clemens              27    0    288   1063   5/9/1988    86s                        134s   220 
+  Dennis Eckersley           24    0     68    279   5/8/1988           29r           24r           53 
+  John Farrell               20    0    176    895  4/23/1988                                          
+  Dan Quisenberry            19    0     54    278   5/8/1988           10r                         10 
+  Billy Swift                14    0    106    757   5/9/1988    21r     5r                         26 
+  Rick Sutcliffe              9    0     90    958   5/7/1988                 123s                 123 
+  Bert Blyleven               5    0     48    895   5/6/1988                         82s           82 
+f Ed Vosberg                  0    0      0      0      0/0/0                                          
+f Matt Young                  0    0      0      0      0/0/0                                          
+  Pat Perry                   0    0      0    251      0/0/0                                          
+f Mark Portugal               0    0      0    242      0/0/0                                          
+f Jeff Parrett                0    0      0    369      0/0/0                                          
+f Tim Birtsas                 0    0      0    277      0/0/0                                          
+f Frank DiPino                0    0      0    398      0/0/0                                          
+f Atlee Hammaker              0    0      0    607      0/0/0                                          
+f Jack Armstrong              0    0      0    293      0/0/0                                          
+f Jeff Ballard                0    0      0    654      0/0/0                                          
+f Rich Sauveur                0    0      0     14      0/0/0                                          
+f Stew Cliburn                0    0      0    361      0/0/0                                          
+f Rick Anderson               0    0      0    147      0/0/0                                          
+  Total                                1334   9875                                                     
+                               Team Status -- 1988 Enough Shebazzle?                                
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Jeff Kunkel                68     28     47    0     76    161                                
+  Ron Kittle                 26     37     32    0     82    254                                
+  Shane Mack                 33     27     30    0     42    140                                
+  Mike LaValliere            11     30     27    0    109    409   35   48                  194 
+  Kevin Mitchell             28     25     26    0    148    566                                
+  Howard Johnson             28     24     25    0    148    594                                
+  Lonnie Smith               28     18     25    0     31    125                                
+  Robin Yount                26     21     23    0    158    696                                
+  Mickey Tettleton           28     15     22    0     69    316             40   33        131 
+  Ruben Sierra               25     20     21    0    142    668                                
+  Franklin Stubbs             4     21     19    0     52    273                                
+  Harold Baines              12     22     19    0    128    674                                
+  Willie Randolph             5     18     14    0     64    474                                
+  Lee Mazzilli                0      1      1    0      1    132                                
+f Max Venable                 0      0      0    0      0      0                                
+f Doug Baker                  0      0      0    0      0      7                                
+f Greg Briley                 0      0      0    0      0     42                                
+f Steve Lake                  0      0      0    0      0     59                                
+f Brian Dorsett               0      0      0    0      0     12                                
+f Rod Booker                  0      0      0    0      0     39                                
+f Luis Medina                 0      0      0    0      0     56                                
+f Tom O'Malley                0      0      0    0      0     31                                
+f Jim Morrison                0      0      0    0      0    179                                
+f Larry Herndon               0      0      0    0      0    201                                
+f Gus Polidor                 0      0      0    0      0     87                                
+  Total                                              1250   6195                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Jim Corsi                  39    0     35     89   5/3/1988                                          
+  Rob Dibble                 30    0     70    235   5/9/1988    17r     4r                         21 
+  Lester Lancaster           29    0    106    371   5/9/1988    33r           16r    38r           87 
+  Jack McDowell              28    0    192    687   5/8/1988          114s                        114 
+  Bob Kipper                 28    0     74    267   5/3/1988                                          
+  Jeff Russell               25    0    202    793   5/7/1988                 113s                 113 
+  Jesse Orosco               24    0     54    229   5/8/1988           46r           16r           62 
+  Mark Langston              22    0    235   1078   5/9/1988    68s                                68 
+  Nolan Ryan                 21    0    192    930   5/6/1988                         58s           58 
+  Jose DeLeon                19    0    178    940   5/4/1988                                          
+  Bob McClure                18    0     24    133   5/4/1988                                          
+d Dennis Lamp                14    1     50    350  4/18/1988                                          
+f Ken Howell                  0    0      0     55      0/0/0                                          
+f Jim Acker                   0    0      0    184      0/0/0                                          
+f Bill Landrum                0    0      0     55      0/0/0                                          
+f Mike Morgan                 0    0      0    299      0/0/0                                          
+f Jose Nunez                  0    0      0    127      0/0/0                                          
+f Gene Walter                 0    0      0    195      0/0/0                                          
+f Frank Wills                 0    0      0     89      0/0/0                                          
+f Brian Fisher                0    0      0    645      0/0/0                                          
+f Bob Forsch                  0    0      0    596      0/0/0                                          
+f Rich Yett                   0    0      0    590      0/0/0                                          
+  Total                                1412   8937                                                     
+                                 Team Status -- 1988 Ferlin Huskies                                 
+                                           Regular season                                           
+
+                         vs LHP vs RHP  Total  Inj ------PA----- ---Batters Faced as Catcher--- 
+S Name                    Usage  Usage  Usage Days    SRL   Real  5/9  5/8  5/7  5/6  5/5   Cum 
+  Ellis Burks                37     22     26    0    161    615                                
+  Greg Gagne                 46     20     26    4    132    508                                
+  Chris Sabo                 34     22     25    0    146    582                                
+  Rick Cerone                38     12     23    0     67    289   36   43        30   37   168 
+  George Bell                28     21     23    0    152    658                                
+  Glenn Davis                23     20     21    0    134    634                                
+  Harold Reynolds            32     15     20    0    135    663                                
+  Rob Deer                   29     14     19    0    103    556                                
+  Andy Allanson               5     19     16    0     74    474             40   14        150 
+  Jerry Browne                1     21     14    0     35    243                                
+d John Kruk                   5     15     13    0     59    466                                
+  Ricky Jordan               15     11     12    0     35    281                                
+  Ivan Calderon               6      4      5    0     14    301                                
+  Kevin Elster                4      3      3    0     15    450                                
+  Mike Pagliarulo             0      3      2    0     11    490                                
+f Mariano Duncan              0      0      0    0      0      0                                
+f Sal Butera                  0      0      0    0      0     62                                
+f Orestes Destrade            0      0      0    0      0     53                                
+f Willie Wilson               0      0      0    0      0    628                                
+f Charlie Hayes               0      0      0    0      0     11                                
+f Jeff Hamilton               0      0      0    0      0    327                                
+f Gary Pettis                 0      0      0    0      0    512                                
+f Jim Pankovits               0      0      0    0      0    153                                
+f Tom Lampkin                 0      0      0    0      0      5                                
+f Gary Varsho                 0      0      0    0      0     75                                
+f Don Baylor                  0      0      0    0      0    313                                
+  Total                                              1273   9349                                
+
+
+
+                                 Inj -----BFP-----            --------------Batters Faced------------- 
+S Name                    Usage Days    SRL   Real       Last    5/9    5/8    5/7    5/6    5/5   Cum 
+  Steve Bedrosian            27    0     88    322   5/8/1988           14r           40r    22r    76 
+  Kelly Downs                26    0    181    685   5/7/1988                  83s                  83 
+  Greg Cadaret               26    0     81    311   5/8/1988            5r    12r           41r    58 
+  Doug Jones                 25    0     85    338   5/9/1988    29r                                29 
+  Willie Hernandez           25    0     71    284   5/8/1988           38r    23r                  61 
+  Jerry Reuss                24    0    183    751   5/8/1988           24s                         24 
+  Dwight Gooden              22    0    229   1024   5/9/1988    67s                                67 
+  Jim Deshaies               22    0    187    847   5/6/1988                        116s          116 
+  Ron Darling                19    0    183    971   5/5/1988                                83s    83 
+  Brian Holman               17    0     72    422   5/9/1988    26r    34r    16r                  76 
+  Frank Williams             12    0     32    276   5/8/1988           46r    10r     7r           63 
+f Bill Gullickson             0    0      0      0      0/0/0                                          
+f Gary Mielke                 0    0      0      0      0/0/0                                          
+f Dave Dravecky               0    0      0    151      0/0/0                                          
+f Bob Tewksbury               0    0      0     18      0/0/0                                          
+f Kevin Brown                 0    0      0    110      0/0/0                                          
+f Greg W. Harris              0    0      0     68      0/0/0                                          
+f Rich Monteleone             0    0      0     20      0/0/0                                          
+f Dave Schmidt                0    0      0    541      0/0/0                                          
+f Dennis Cook                 0    0      0     86      0/0/0                                          
+f Mark Grant                  0    0      0    410      0/0/0                                          
+f Doug Sisk                   0    0      0    410      0/0/0                                          
+f Jose Cecena                 0    0      0    121      0/0/0                                          
+f Steve Carlton               0    0      0     54      0/0/0                                          
+  Total                                1392   8220                                                     

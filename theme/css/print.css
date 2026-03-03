@@ -1,0 +1,341 @@
+/* reset */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, input, textarea, label, button, select,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, main,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video  {
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	-moz-box-sizing:    border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing:         border-box;
+  }
+  
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section { display: block; }
+
+blockquote, q { quotes: none; }
+
+blockquote:before,
+blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+  
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+  
+/* Clearfix */
+
+.cf:before,
+.cf:after {
+  content: "";
+  display: table; }
+.cf:after { clear: both; }
+.ie7 .cf { zoom: 1; }
+
+
+
+/* site styles */
+
+html {
+  background: black; 
+  }  
+  
+body {
+  text-align: center; 
+  }  
+
+header  { 
+	width: 100%;
+	padding: 1em 0;
+	max-width: 1600px;
+	}
+
+header a { 
+  display: block;
+  }
+  
+header a h1 {
+	font-size: 3em;
+	color: white;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	}
+  
+header a p {
+	color: #939090;
+	font-size: 1.75em;
+	}  
+  
+.wrap { 
+  padding: 0 2em; 
+  }
+  
+main { 
+  text-align: left;
+  }
+  
+
+/* --------------- Video --------------- */
+
+.video { 
+	display: none;
+	}
+
+
+/* --------------- Quote --------------- */
+
+blockquote {
+	padding: 1em 0;
+	}
+
+blockquote h2 {
+	font-size: 2.5em;
+	line-height: 1;
+	margin-bottom: .25em;
+	}
+	
+blockquote .attribution {
+	font-size: 1.25em;
+	line-height: 1.1;
+	}	
+	
+blockquote span.source {
+	display: block;
+	padding-top: .5em;
+	font-size: .8em;
+	}
+
+
+
+/* --- Propositions  --- */
+
+.factoid { 
+  display: block;
+  text-align: center;
+  padding: 1em 0 0; 
+	width: 48.5%;
+	}
+	
+.factoid.odd {
+  float: left; 
+  } 
+  
+.factoid.even {
+  float: right; 
+  }   
+
+.factoid a {
+  display: block;
+  }
+  
+.factoid figure {
+  background: #1d1d1d;
+  background: rgba(29,29,29,.8);
+  border: 3px solid white;
+  padding: .75em;
+  position: relative;
+  }
+  
+.factoid figure img { 
+  position: absolute;
+  left: 50%;
+  top: -70px;
+  margin-left: -75px;
+  width: 150px
+  }  
+
+.factoid a figcaption {
+  font-size: 1.25em; 
+  color: #d4d2d2;
+  }
+  
+.button {
+	display: none;
+	}  
+    
+
+/* --------------- Conclusion --------------- */
+
+.conclusion {
+	font-size: 1.5em;
+	padding-top: .5em;;
+	}
+	
+.conclusion strong {
+	display: block;
+	color: #bd1f2b;
+	font-family: 'abolition', sans-serif;  
+  font-weight: 400; 
+  font-size: 150%;
+  text-transform: uppercase;
+	}
+	
+  
+  
+  
+  
+/* --- Footer --- */
+
+footer { 
+	display: none;
+  }
+
+
+  
+/* Type */
+
+html {
+  font-family: 'Abel', sans-serif;
+  color: #dbdbdb;
+  line-height: 1.2; 
+  font-style: normal;
+  font-size: 100%; 
+  }
+  
+@media only screen and (min-width: 740px) { html { font-size: 103%; }}
+
+@media only screen and (min-width: 1000px) { html { font-size: 107%; }}
+
+@media only screen and (min-width: 1200px) { html { font-size: 110%; }}
+
+
+
+/* Global Links
+---------------------------------- */
+
+a {
+  color: #7c9dc8;
+	text-decoration: none; 
+  }
+  
+a:focus, 
+a:hover {
+	color: #bd1f2b;
+	outline: none;
+	text-decoration: none; 
+  }
+
+/* Firefox Seleted Text
+------------------------------------ */
+
+*::-moz-selection,
+*::selection {
+    background: #ce2026;
+    color: #fff; }
+
+
+/* Headings - 400/700
+------------------------------------ */
+
+h1, h2, h3, h4 { 
+  font-family: 'abolition', sans-serif;  
+  font-weight: 400; 
+  color: white;
+  }
+
+h1 {
+  font-size: 200%;
+  margin-bottom: .5em;
+  line-height: 1;
+  font-style: italic;
+  }
+
+@media only screen and (min-width: 360px)  { h1 { font-size: 210%; } }
+@media only screen and (min-width: 740px)  { h1 { font-size: 240%; } }
+@media only screen and (min-width: 1400px) { h1 { font-size: 260%; } }
+
+h2 {
+	font-size: 200%;
+	line-height: 1;
+	margin-bottom: .75em
+  }
+  
+@media only screen and (min-width: 740px)  { h2 { font-size: 250%; } }
+@media only screen and (min-width: 1200px) { h2 { font-size: 300%; } }
+
+h3 {
+	font-size: 150%;
+	margin-bottom: .5em;
+	padding-top: 1em;
+}
+
+@media only screen and (min-width: 740px)  { h2 { font-size: 200%; } }
+@media only screen and (min-width: 1200px) { h2 { font-size: 250%; } }
+
+h4 {
+	font-size: 1.3rem;
+	margin-bottom: .7rem;
+	}
+
+main { 
+  font-size: 120%;
+  }
+  
+main h1, main h2, main h3, main h4 { 
+  letter-spacing: 2px;
+  }
+  
+/* Icons
+---------------------------------- */
+
+@font-face {
+    font-family: 'trilogyicons';
+    src:    url('https://s3.amazonaws.com/icomoon.io/31537/Trilogy/Trilogy-Icons.eot?q31x8p');
+    src:    url('https://s3.amazonaws.com/icomoon.io/31537/Trilogy/Trilogy-Icons.eot?q31x8p#iefix') format('embedded-opentype'),
+        url('https://s3.amazonaws.com/icomoon.io/31537/Trilogy/Trilogy-Icons.woff2?q31x8p') format('woff2'),
+        url('https://s3.amazonaws.com/icomoon.io/31537/Trilogy/Trilogy-Icons.ttf?q31x8p') format('truetype'),
+        url('https://s3.amazonaws.com/icomoon.io/31537/Trilogy/Trilogy-Icons.woff?q31x8p') format('woff'),
+        url('https://s3.amazonaws.com/icomoon.io/31537/Trilogy/Trilogy-Icons.svg?q31x8p#Trilogy-Icons') format('svg');
+}
+
+.icons{
+    content: attr(data-icon);
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; }
+ 
+.icons { font-family: 'trilogyicons'; }
+
+/* Text Elements
+---------------------------------- */
+p { margin: 0 0 1em; }
+p:last-child { margin-bottom: 0; }
+strong { font-weight: 700; }
+
+/* Lists
+---------------------------------- */
+main ul,
+main ol     { margin: 0 0 1.5em 1.5em; }
+
+main em {
+  font-style: italic; }
+

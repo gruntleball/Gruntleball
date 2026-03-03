@@ -1,0 +1,765 @@
+Frank Black League Playoffs
+Round 1 - Game 3
+
+-------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------
+
+10/5/1993, EVN93-TEW93, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Endorphins        0  0  0  4  0  0  0  1  0     5  9  0     6  1
+1993 Bobs              0  0  5  1  0  0  2  0  x     8  8  0     5  0
+ 
+Endorphins           AB  R  H BI   AVG    Bobs                 AB  R  H BI   AVG
+Dykstra           cf  5  0  0  0  .182    Hamilton          cf  3  1  1  3  .182       
+Grace             1b  5  1  1  0  .250     Sanders          ph  2  0  0  0  .143       
+Gilkey            lf  3  2  2  0  .556    Knoblauch         ss  4  0  1  0  .300       
+Greenwell         rf  4  1  3  1  .538    Galarraga         1b  4  1  2  0  .357       
+Trammell          ss  4  1  1  2  .273    Leyritz           c   3  2  1  2  .333       
+Vizcaino          3b  3  0  1  0  .250    Vaughn            lf  3  1  1  2  .333       
+Servais           c   3  0  0  1  .000    Gonzalez          rf  2  1  0  0  .571       
+ Thompson         ph  1  0  0  0  .000    Cooper            3b  1  1  0  0  .333       
+ Fletcher         2b  0  0  0  0  .167     Blowers          ph  1  0  0  0  .750       
+Lemke             2b  3  0  1  1  .333    Kelly             2b  3  1  2  0  .364       
+ Guillen          ph  1  0  0  0  .250    Avery             p   2  0  0  1  .000       
+ Guetterman       p   0  0  0  0  .000     Hernandez        p   0  0  0  0  .000       
+Harnisch          p   1  0  0  0  .000     Harvey           p   0  0  0  0  .000       
+ Holmes           p   1  0  0  0  .000                         28  8  8  8             
+ Orosco           p   0  0  0  0  .000                                              
+ Jordan           ph  1  0  0  0  .000                                              
+ Henke            p   0  0  0  0  .000                                              
+ Slaught          c   1  0  0  0  .000                                              
+                     36  5  9  5                                                    
+ 
+Endorphins                       INN  H  R ER BB  K PCH STR   ERA
+Harnisch         L 0-1           2.2  4  5  5  2  2  56  36 16.88
+Holmes                           1.2  2  1  1  0  1  33  21  3.00
+Orosco                           1.2  0  0  0  2  1  25  11  0.00
+Henke                            1.0  1  2  2  1  2  20  11 18.00
+Guetterman                       1.0  1  0  0  0  1  11   7  0.00
+                                 8.0  8  8  8  5  7 145  86 
+ 
+Bobs                             INN  H  R ER BB  K PCH STR   ERA
+Avery            W 1-0           7.0  7  4  4  1  4  84  61  5.14
+Hernandez                        0.1  2  1  1  1  0  16   8  3.00
+Harvey           S 1             1.2  0  0  0  0  1  15  12  0.00
+                                 9.0  9  5  5  2  5 115  81 
+ 
+EVN: Jordan batted for Orosco in the 7th
+     Thompson batted for Servais in the 8th
+     Guillen batted for Lemke in the 8th
+     Slaught inserted at c in the 8th
+     Fletcher inserted at 2b in the 8th
+TEW: Blowers batted for Cooper in the 6th
+     Sanders batted for Hamilton in the 6th
+     Sanders moved to cf in the 7th
+     Blowers moved to 3b in the 7th
+ 
+HR-Hamilton(1), Leyritz(1), Vaughn(1). CS-Gonzalez. K-Grace 3, Harnisch, 
+Guillen, Knoblauch 2, Galarraga, Vaughn, Kelly, Avery, Sanders. BB-Gilkey, 
+Vizcaino, Vaughn, Gonzalez, Cooper, Kelly, Blowers. SH-Harvey. HBP-Leyritz, 
+Gonzalez, Avery. HB-Holmes, Orosco, Henke. WP-Hernandez. 
+GWRBI: Hamilton
+Temperature: 51, Sky: clear, Wind: right to left at 13 MPH.
+
+....................................................................................................
+10/5/1993, EVN93-TEW93, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Endorphins        0  0  0  4  0  0  0  1  0     5  9  0     6  1
+1993 Bobs              0  0  5  1  0  0  2  0  x     8  8  0     5  0
+ 
+ 
+Endorphins           -----A------ -----B------ -----C------ -----D------ -----E------
+Dykstra           cf 1>4            63         5>7            8            9         
+Grace             1b   k          4>S            k            k            8         
+Gilkey            lf   S            W.1-2        63         8>Hernandez              
+                                                              S                      
+Greenwell         rf   8            S.2-H;1-3  6>S            S.1-2                  
+Trammell          ss 2>13           S.3-H;1-2    4            wp.2-3;1-2             
+                                                              43.3-H;2-3             
+Vizcaino          3b   7            S.2-3;1-2    9            W                      
+Servais           c    43           note 1       64/f                                
+ Thompson         ph                                          Harvey                 
+                                                              9                      
+ Fletcher         2b                                                                 
+Lemke             2b 3>6            63.3-H     7>S                                   
+ Guillen          ph                                          k                      
+ Guetterman       p                                                                  
+Harnisch          p    k                                                             
+ Holmes           p                 43                                               
+ Orosco           p                                                                  
+ Jordan           ph                             64/f.B-1                            
+ Henke            p                                                                  
+ Slaught          c                                         9>7                      
+ 
+ 1: 3/g.3-H;2-3;1-2 
+ 
+ 
+Bobs                 -----A------ -----B------ -----C------ -----D------ -----E------
+Hamilton          cf 1>7            HR.2-H;1-H   8                                   
+ Sanders          ph                                          43/gdp       k         
+Knoblauch         ss   k            S          5>2/fl       7>Henke                  
+                                                              k                      
+Galarraga         1b   43           S.1x3(95)    S            k                      
+Leyritz           c  2>8            HR.1-H       Orosco       HBP                    
+                                                 63.1-2                              
+Vaughn            lf   53           Holmes       W            HR.1-H                 
+                                    k                                                
+Gonzalez          rf   6          4>HBP          5/f          W                      
+Cooper            3b 3>W            7                                                
+ Blowers          ph                           6>W            POCS2(136)             
+                                                            8>Guetterman             
+                                                              63                     
+Kelly             2b   W.1-2        S.1-3        k            S                      
+Avery             p    k            note 1       HBP.1-2                             
+ Hernandez        p                                                                  
+ Harvey           p                                           3/SH.1-2               
+ 
+ 1: 64/f.3-H;1x2;B-1 
+ 
+ 
+Endorphins       IN OUT ER                  Bobs             IN OUT ER                  
+Harnisch         A1  B4  5 L 0-1            Avery            A1  D2  4 W 1-0            
+Holmes           B5  C3  1                  Hernandez        D3  D6  1                  
+Orosco           C4  D1  0                  Harvey           D7  E2  0 S 1              
+Henke            D2  D6  2                                                              
+Guetterman       D7  E1  0                                                              
+
+....................................................................................................
+10/5/1993, EVN93-TEW93, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Endorphins        0  0  0  4  0  0  0  1  0     5  9  0     6  1
+1993 Bobs              0  0  5  1  0  0  2  0  x     8  8  0     5  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Endorphins batting
+ 0-0  0 --- 01  Dykstra popped out to second (FX)
+ 0-0  1 --- 02  Grace struck out (SFC)
+ 0-0  2 --- 01  Gilkey grounded a single up the middle (CX)
+ 0-0  2 1-- 12  Greenwell popped out to center (11CBSX)
+ 
+**************  Bottom of the 1st inning, Bobs batting
+ 0-0  0 --- 32  Hamilton flied out to left (CBFBFFFFFFBX)
+ 0-0  1 --- 22  Knoblauch struck out (BFBSFC)
+ 0-0  2 --- 22  Galarraga grounded out to second (SBFBX)
+ 
+**************  Top of the 2nd inning, Endorphins batting
+ 0-0  0 --- 02  Trammell grounded out to the mound (CFX)
+ 0-0  1 --- 00  Vizcaino flied out to left (X)
+ 0-0  2 --- 11  Servais grounded out to second (BCX)
+ 
+**************  Bottom of the 2nd inning, Bobs batting
+ 0-0  0 --- 12  Leyritz flied out to center (BCSX)
+ 0-0  1 --- 01  Vaughn grounded out to third (CX)
+ 0-0  2 --- 11  Gonzalez popped out to short (BCX)
+ 
+**************  Top of the 3rd inning, Endorphins batting
+ 0-0  0 --- 00  Lemke popped out to short (X)
+ 0-0  1 --- 12  Harnisch struck out (CSBS)
+ 0-0  2 --- 21  Dykstra grounded out to short (BBFX)
+ 
+**************  Bottom of the 3rd inning, Bobs batting
+ 0-0  0 --- 30  Cooper walked (BBBB)
+ 0-0  0 1-- 32  Kelly walked, Cooper to second (1BCBSBB)
+ 0-0  0 12- 12  Avery struck out (FbFbBS)
+ 0-0  1 12- 01  Hamilton homered deep down the right field line, Cooper 
+                  scored, Kelly scored (FX)
+ 0-3  1 --- 12  Knoblauch lined a single to shallow left (CCBX)
+ 0-3  1 1-- 00  Galarraga grounded a single between first and second, 
+                  Knoblauch out at third (X)
+ 0-3  2 1-- 11  Leyritz homered deep to left, Galarraga scored (BFX)
+                Holmes now pitching
+ 0-5  2 --- 12  Vaughn struck out (BCCS)
+ 
+**************  Top of the 4th inning, Endorphins batting
+ 0-5  0 --- 21  Grace grounded a single up the middle (BBCX)
+ 0-5  0 1-- 32  Gilkey walked, Grace to second (BBFBFFFFB)
+ 0-5  0 12- 01  Greenwell singled to right center, Grace scored, Gilkey 
+                  to third (CX)
+ 1-5  0 1-3 00  Trammell lined a single to right, Gilkey scored, 
+                  Greenwell to second (X)
+ 2-5  0 12- 00  Vizcaino grounded a single between third and short, 
+                  Greenwell to third, Trammell to second (X)
+ 2-5  0 123 11  Servais grounded out to first, Greenwell scored, Trammell 
+                  to third, Vizcaino to second (BSX)
+ 3-5  1 -23 10  Lemke grounded out to short, Trammell scored (BX)
+ 4-5  2 -2- 11  Holmes grounded out to second (BFX)
+ 
+**************  Bottom of the 4th inning, Bobs batting
+ 4-5  0 --- 11  Gonzalez was hit by a pitch (CBH)
+ 4-5  0 1-- 22  Cooper popped out to left (BbCbFBX)
+ 4-5  1 1-- 12  Kelly singled down the right field line, Gonzalez to 
+                  third (CCFBX)
+ 4-5  1 1-3 11  Avery grounded to short, forcing Kelly at second, 
+                  Gonzalez scored, Kelly out at second, Avery to first 
+                  (CBX)
+ 4-6  2 1-- 32  Hamilton flied out to center (BCBBF>F>X)
+ 
+**************  Top of the 5th inning, Endorphins batting
+ 4-6  0 --- 21  Dykstra flied out to left (BSBX)
+ 4-6  1 --- 12  Grace struck out (CSBS)
+ 4-6  2 --- 11  Gilkey grounded out to short (BFX)
+ 
+**************  Bottom of the 5th inning, Bobs batting
+ 4-6  0 --- 00  Knoblauch popped out to the catcher (X)
+ 4-6  1 --- 22  Galarraga lined a single to shallow left (CSBBX)
+                Orosco now pitching
+ 4-6  1 1-- 00  Leyritz grounded out to short, Galarraga to second (>X)
+ 4-6  2 -2- 31  Vaughn walked (BFBBB)
+ 4-6  2 12- 10  Gonzalez grounded to third, forcing Galarraga at third 
+                  (BX)
+ 
+**************  Top of the 6th inning, Endorphins batting
+ 4-6  0 --- 02  Greenwell lined a single between first and second (CSX)
+ 4-6  0 1-- 00  Trammell popped out to second (X)
+ 4-6  1 1-- 11  Vizcaino flied out to right (BCX)
+ 4-6  2 1-- 11  Servais grounded to short, forcing Greenwell at second 
+                  (CBX)
+ 
+**************  Bottom of the 6th inning, Bobs batting
+                Blowers pinch hitting for Cooper
+ 4-6  0 --- 30  Blowers walked (BBBB)
+ 4-6  0 1-- 32  Kelly struck out (BSBFBS)
+ 4-6  1 1-- 12  Avery was hit by a pitch, Blowers to second (CBFH)
+                Sanders pinch hitting for Hamilton
+ 4-6  1 12- 02  Sanders grounded into a double play, Lemke to Grace (FbFX)
+ 
+**************  Top of the 7th inning, Endorphins batting
+                Sanders moved to center field
+                Blowers moved to third base
+ 4-6  0 --- 01  Lemke grounded a single up the middle (CX)
+                Jordan pinch hitting for Orosco
+ 4-6  0 1-- 00  Jordan grounded to short, forcing Lemke at second, Jordan 
+                  to first (X)
+ 4-6  1 1-- 01  Dykstra popped out to center (CX)
+ 4-6  2 1-- 32  Grace struck out (1BFFBB>S)
+ 
+**************  Bottom of the 7th inning, Bobs batting
+                Henke now pitching
+ 4-6  0 --- 12  Knoblauch struck out (FSFBS)
+ 4-6  1 --- 22  Galarraga struck out (CBBFS)
+ 4-6  2 --- 01  Leyritz was hit by a pitch (CH)
+ 4-6  2 1-- 11  Vaughn homered deep to left, Leyritz scored (CBX)
+ 4-8  2 --- 31  Gonzalez walked (BBFBB)
+ 4-8  2 1-- 00  Gonzalez was caught stealing second after being picked 
+                  off first by Henke (11)
+ 
+**************  Top of the 8th inning, Endorphins batting
+                Hernandez now pitching
+ 4-8  0 --- 01  Gilkey lined a single to right center (CX)
+ 4-8  0 1-- 32  Greenwell grounded a single between third and short, 
+                  Gilkey to second (FCBBBFX)
+ 4-8  0 12- 00  Hernandez threw a wild pitch, Gilkey to third, Greenwell 
+                  to second (B)
+ 4-8  0 -23 10  Trammell grounded out to second, Gilkey scored, Greenwell 
+                  to third (B.X)
+ 5-8  1 --3 31  Vizcaino walked (BBSBB)
+                Thompson pinch hitting for Servais
+                Harvey now pitching
+ 5-8  1 1-3 00  Thompson flied out to right (X)
+                Guillen pinch hitting for Lemke
+ 5-8  2 1-3 02  Guillen struck out (CFFS)
+ 
+**************  Bottom of the 8th inning, Bobs batting
+                Slaught now playing catcher
+                Fletcher now playing second base
+                Guetterman now pitching
+ 5-8  0 --- 20  Blowers grounded out to short (BBX)
+ 5-8  1 --- 01  Kelly reached on an infield single to third (CX)
+ 5-8  1 1-- 00  Harvey sacrifice bunted to first, Kelly to second (Xb)
+ 5-8  2 -2- 22  Sanders struck out (BSBCS)
+ 
+**************  Top of the 9th inning, Endorphins batting
+ 5-8  0 --- 11  Slaught flied out to left (CBX)
+ 5-8  1 --- 12  Dykstra flied out to right (CFBX)
+ 5-8  2 --- 11  Grace flied out to center (BCX)
+
+
+
+10/5/1993, BMB93-GCS93, Comiskey Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Beavis            0  0  0  2  1  0  0  0  0     3  7  1     5  0
+1993 Shebazzle!        1  0  0  1  1  0  0  1  x     4  5  1     5  1
+ 
+Beavis               AB  R  H BI   AVG    Shebazzle!           AB  R  H BI   AVG
+Sandberg          2b  4  0  1  0  .300    Henderson,R       lf  3  0  0  1  .231       
+Gonzales,R        ss  4  0  0  0  .333    Butler            cf  4  1  1  0  .333       
+McGwire           1b  3  1  1  0  .286    Mitchell          rf  4  2  2  2  .273       
+Gonzalez          lf  4  1  1  2  .231    Baines            1b  3  0  2  1  .455       
+Williams          3b  4  0  1  0  .250     Hrbek            1b  0  0  0  0  .000       
+ Martin           pr  0  0  0  0  .000    Daulton           c   4  0  0  0  .000       
+Steinbach         c   4  0  1  0  .364     West             p   0  0  0  0  .000       
+Dawson            rf  4  0  0  0  .286    Treadway          2b  4  0  0  0  .182       
+Devereaux         cf  4  0  1  0  .222     Gates            2b  0  0  0  0  .000       
+Hill              p   3  1  1  0  .333    Johnson           3b  1  1  0  0  .000       
+                     34  3  7  2          Clayton           ss  2  0  0  0  .333       
+                                          Langston          p   2  0  0  0  .000       
+                                           Harper           c   0  0  0  0  .500       
+                                                               27  4  5  4             
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Hill             L 0-1           8.0  5  4  3  3  2 105  62  3.38
+                                 8.0  5  4  3  3  2 105  62 
+ 
+Shebazzle!                       INN  H  R ER BB  K PCH STR   ERA
+Langston         W 1-0           8.0  7  3  3  1  4 123  74  3.38
+West             S 1             1.0  0  0  0  0  0  17  11  4.50
+                                 9.0  7  3  3  1  4 140  85 
+ 
+BMB: Martin ran for Williams in the 9th
+GCS: Hrbek inserted at 1b in the 9th
+     Gates inserted at 2b in the 9th
+     Harper inserted at c in the 9th
+ 
+E-Hill, Clayton. 2B-McGwire, Baines. HR-Gonzalez(2), Mitchell 2(2). 
+K-Gonzales,R, McGwire, Steinbach, Dawson, Daulton 2. BB-McGwire, Baines, 
+Johnson 2. SH-Clayton, Langston. SF-Henderson,R. WP-Langston. 
+GWRBI: Mitchell
+Temperature: 60, Sky: clear, Wind: left to right at 18 MPH.
+
+....................................................................................................
+10/5/1993, BMB93-GCS93, Comiskey Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Beavis            0  0  0  2  1  0  0  0  0     3  7  1     5  0
+1993 Shebazzle!        1  0  0  1  1  0  0  1  x     4  5  1     5  1
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Sandberg          2b 1>63           7            S.1-3        63/gdp                 
+Gonzales,R        ss   53         4>9            wp.3-H;1-2 8>53                     
+                                                 k                                   
+McGwire           1b   9            D            IW           k                      
+Gonzalez          lf 2>6            HR.2-H       3            6                      
+Williams          3b   e6.B-1       6          6>7          9>S                      
+ Martin           pr                                                                 
+Steinbach         c    k            S            7            West                   
+                                                              9                      
+Dawson            rf   k            7            8            53.1-2                 
+Devereaux         cf 3>7          5>S          7>7            9                      
+Hill              p    63           54/f.B-1     S                                   
+ 
+ 
+Shebazzle!           -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson,R       lf 1>43           63           8/SF.3-H     9                      
+Butler            cf   S/b          8            63         8>63                     
+Mitchell          rf   9          4>HR         6>63           HR                     
+Baines            1b   D.1-H        63           W            S                      
+ Hrbek            1b                                                                 
+Daulton           c    8            k            53.1-2       k                      
+ West             p                                                                  
+Treadway          2b 2>6            13           8            6                      
+ Gates            2b                                                                 
+Johnson           3b   8          5>W          7>W                                   
+Clayton           ss   9            e1.1-2;B-1   24/SH.1-2                           
+Langston          p  3>53           note 1       6/L                                 
+ Harper           c                                                                  
+ 
+ 1: 13/SH.2-3;1-2 
+ 
+ 
+Beavis           IN OUT ER                  Shebazzle!       IN OUT ER                  
+Hill             A1  D6  3 L 0-1            Langston         A1  D5  3 W 1-0            
+                                            West             D6  D8  0 S 1              
+
+....................................................................................................
+10/5/1993, BMB93-GCS93, Comiskey Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Beavis            0  0  0  2  1  0  0  0  0     3  7  1     5  0
+1993 Shebazzle!        1  0  0  1  1  0  0  1  x     4  5  1     5  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Beavis batting
+ 0-0  0 --- 01  Sandberg grounded out to short (CX)
+ 0-0  1 --- 01  Gonzales,R grounded out to third (CX)
+ 0-0  2 --- 20  McGwire flied out to right (BBX)
+ 
+**************  Bottom of the 1st inning, Shebazzle! batting
+ 0-0  0 --- 12  Henderson,R grounded out to second (CBSX)
+ 0-0  1 --- 00  Butler bunted for a single (Xb)
+ 0-0  1 1-- 22  Mitchell flied out to right (BSFBFFX)
+ 0-0  2 1-- 01  Baines lined a double to left center, Butler scored (SX)
+ 0-1  2 -2- 31  Daulton flied out to center (BBBFX)
+ 
+**************  Top of the 2nd inning, Beavis batting
+ 0-1  0 --- 02  Gonzalez popped out to short (CFX)
+ 0-1  1 --- 22  Williams to first on an error by the shortstop Clayton 
+                  (CCFBFBX)
+ 0-1  1 1-- 12  Steinbach struck out (FBSFS)
+ 0-1  2 1-- 02  Dawson struck out (CFS)
+ 
+**************  Bottom of the 2nd inning, Shebazzle! batting
+ 0-1  0 --- 12  Treadway popped out to short (FSBX)
+ 0-1  1 --- 00  Johnson lined out to center (X)
+ 0-1  2 --- 12  Clayton flied out to right (CFBX)
+ 
+**************  Top of the 3rd inning, Beavis batting
+ 0-1  0 --- 11  Devereaux flied out to left (BCX)
+ 0-1  1 --- 20  Hill grounded out to short (BBX)
+ 0-1  2 --- 10  Sandberg flied out to left (BX)
+ 
+**************  Bottom of the 3rd inning, Shebazzle! batting
+ 0-1  0 --- 31  Langston grounded out to third (BBCBX)
+ 0-1  1 --- 00  Henderson,R grounded out to short (X)
+ 0-1  2 --- 30  Butler lined out to center (BBBX)
+ 
+**************  Top of the 4th inning, Beavis batting
+ 0-1  0 --- 20  Gonzales,R flied out to right (BBX)
+ 0-1  1 --- 20  McGwire lined a double to left center (BBX)
+ 0-1  1 -2- 12  Gonzalez homered deep to left center, McGwire scored 
+                  (CBFX)
+ 2-1  1 --- 21  Williams popped out to short (CBBX)
+ 2-1  2 --- 21  Steinbach lined a single to right (BFBX)
+ 2-1  2 1-- 22  Dawson flied out to left (CBBCX)
+ 
+**************  Bottom of the 4th inning, Shebazzle! batting
+ 2-1  0 --- 00  Mitchell homered deep to left (X)
+ 2-2  0 --- 10  Baines grounded out to short (BX)
+ 2-2  1 --- 32  Daulton struck out (FFBFBBS)
+ 2-2  2 --- 10  Treadway grounded out to the mound (BX)
+ 
+**************  Top of the 5th inning, Beavis batting
+ 2-2  0 --- 22  Devereaux grounded a single up the middle (BCBSFFX)
+ 2-2  0 1-- 10  Hill grounded to third, forcing Devereaux at second, Hill 
+                  to first (BX)
+ 2-2  1 1-- 10  Sandberg lined a single down the left field line, Hill to 
+                  third (BX)
+ 2-2  1 1-3 00  Langston threw a wild pitch, Hill scored, Sandberg to 
+                  second (B)
+ 3-2  1 -2- 22  Gonzales,R struck out (B.FFFBC)
+ 3-2  2 -2- 30  McGwire was walked intentionally (IIII)
+ 3-2  2 12- 10  Gonzalez popped out to first (BX)
+ 
+**************  Bottom of the 5th inning, Shebazzle! batting
+ 3-2  0 --- 30  Johnson walked (BBBB)
+ 3-2  0 1-- 10  Johnson to second, Clayton to first on an error by the 
+                  pitcher Hill (1BX)
+ 3-2  0 12- 00  Langston sacrifice bunted to the mound, Johnson to third, 
+                  Clayton to second (Xb)
+ 3-2  1 -23 00  Henderson,R lined out to center, Johnson scored (X)
+ 3-3  2 -2- 11  Butler grounded out to short (SBX)
+ 
+**************  Top of the 6th inning, Beavis batting
+ 3-3  0 --- 32  Williams flied out to left (BBCFBX)
+ 3-3  1 --- 20  Steinbach flied out to left (BBX)
+ 3-3  2 --- 31  Dawson flied out to center (BBBCX)
+ 
+**************  Bottom of the 6th inning, Shebazzle! batting
+ 3-3  0 --- 01  Mitchell grounded out to short (FX)
+ 3-3  1 --- 32  Baines walked (SBFBBFB)
+ 3-3  1 1-- 12  Daulton grounded out to third, Baines to second (CCBX)
+ 3-3  2 -2- 01  Treadway popped out to center (CX)
+ 
+**************  Top of the 7th inning, Beavis batting
+ 3-3  0 --- 11  Devereaux flied out to left (BFX)
+ 3-3  1 --- 10  Hill reached on an infield single to second (BX)
+ 3-3  1 1-- 22  Sandberg grounded into a double play, Clayton to Baines 
+                  (CFBBX)
+ 
+**************  Bottom of the 7th inning, Shebazzle! batting
+ 3-3  0 --- 31  Johnson walked (CBBBB)
+ 3-3  0 1-- 00  Clayton sacrifice bunted to the catcher, Johnson to 
+                  second (Xb)
+ 3-3  1 -2- 10  Langston lined out to short (BX)
+ 3-3  2 -2- 12  Henderson,R flied out to right (CBFX)
+ 
+**************  Top of the 8th inning, Beavis batting
+ 3-3  0 --- 22  Gonzales,R grounded out to third (FFFBBX)
+ 3-3  1 --- 22  McGwire struck out (BCFBFS)
+ 3-3  2 --- 12  Gonzalez popped out to short (SCFBX)
+ 
+**************  Bottom of the 8th inning, Shebazzle! batting
+ 3-3  0 --- 31  Butler grounded out to short (BBBCX)
+ 3-3  1 --- 00  Mitchell homered deep to left (X)
+ 3-4  1 --- 11  Baines grounded a single between first and second (FBX)
+ 3-4  1 1-- 32  Daulton struck out (BBFBSS)
+ 3-4  2 1-- 01  Treadway popped out to short (1CX)
+ 
+**************  Top of the 9th inning, Beavis batting
+                Hrbek now playing first base
+                Gates now playing second base
+ 3-4  0 --- 11  Williams lined a single down the left field line (CBX)
+                Harper now playing catcher
+                West now pitching
+                Martin pinch running for Williams
+ 3-4  0 1-- 22  Steinbach flied out to right (CBCFBX)
+ 3-4  1 1-- 11  Dawson grounded out to third, Martin to second (FBX)
+ 3-4  2 -2- 32  Devereaux flied out to right (FBSFBFBX)
+
+-------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------
+
+GPCC leads Butt Mountain 2 games to 1
+Tewksbury leads Evanston 2 games to 1
+
+-------------------------------------------------------------------------------------------
+CURRENT INJURIES                               (*** new'ish injury)  (<-- can be activated)
+-------------------------------------------------------------------------------------------
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/2/1993  GCS     Mills            General             10/5/1993     3    1 
+9/28/1993  NEP     Merced           General             10/7/1993     9    3 
+8/30/1993  GCS     Easley           Hit by pitch        10/8/1993    39    4 
+9/25/1993  GCS     Fleming          General             10/11/1993   16    7 
+9/12/1993  GCS     Deer             Collision on bases  10/17/1993   35   13 
+
+-------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+-------------------------------------------------------------------------------------------
+
+                          Playoff Team Status -- 1993 Butt Mountain Beavis                          
+                               Divisional playoff -- as of 10/5/1993                                
+
+                                --Plate App--  Inj 
+S Name                    Usage    Sim   Real Days 
+  Mark McGwire                8      9    107   0  
+  Jerry Goff                  4      2     46   0  
+  Terry Steinbach             3     11    420   0  
+  Juan Gonzalez               2     13    587   0  
+  Matt Williams               2     13    619   0  
+  Rene Gonzales               2      8    389   0  
+  Ryne Sandberg               2     10    503   0  
+  Andre Dawson                2      8    498   0  
+  Mike Devereaux              2      9    577   0  
+  Tim Hulett                  1      4    289   0  
+  Al Martin                   1      5    528   0  
+  John Valentin               1      5    539   0  
+  John Kruk                   1      6    651   0  
+  Mark Whiten                 1      5    626   0  
+  Julio Franco                0      1    607   0  
+f Rico Brogna                 0      0      0   0  
+f Kirt Manwaring              0      0    486   0  
+f Dan Gladden                 0      0    386   0  
+f Harvey Pulliam              0      0     65   0  
+f Dave Silvestri              0      0     26   0  
+f Rafael Bournigal            0      0     18   0  
+f Rick Parker                 0      0     49   0  
+f Ben Shelton                 0      0     27   0  
+f Carlton Fisk                0      0     58   0  
+f Charlie Montoyo             0      0      5   0  
+f Steve Balboni               0      0      5   0  
+  Total                            109   8111      
+
+
+
+                                --Games--  Inj            ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/5   10/4   10/3   10/2   10/1 
+  Paul Kilgus                 5    1   22   0   10/2/1993                         30r        
+  Ken Hill                    4    1   28   0   10/5/1993   105s                             
+  Roger Clemens               3    1   29   0   10/3/1993                 131s               
+  Frank Viola                 3    1   29   0   10/2/1993                         45r        
+  Greg Maddux                 3    1   36   0   10/2/1993                         58s        
+  Jay Howell                  2    1   54   0   10/2/1993                          6r        
+  Greg Harris                 1    1   80   0   10/2/1993                         20r        
+  John Smoltz                 0    0   35   0   9/30/1993                                    
+f Mike Ignasiak               0    0   27   0   9/17/1993                                    
+f Steve Ontiveros             0    0   14   0    9/1/1993                                    
+f Terry Leach                 0    0   14   0    9/9/1993                                    
+f James Austin                0    0   31   0                                                
+f Jose Melendez               0    0    9   0   9/28/1993                                    
+  Mark Wohlers                0    0   46   0   7/21/1993                                    
+f Barry Manuel                0    0    0   0                                                
+  Jeff Montgomery             0    0   69   0   9/28/1993                                    
+f Mike Oquist                 0    0    5   0                                                
+f Ross Powell                 0    0    9   0   9/28/1993                                    
+f Nolan Ryan                  0    0   13   0   9/29/1993                                    
+f Matt Whiteside              0    0   60   0   9/24/1993                                    
+f Vince Horsman               0    0   40   0   9/22/1993                                    
+f John Briscoe                0    0   17   0   9/24/1993                                    
+f Rich Robertson              0    0    9   0    7/3/1993                                    
+  Total                            3  172                   
+
+
+
+                             Playoff Team Status -- 1993 Tewksbury Bobs                             
+                               Divisional playoff -- as of 10/5/1993                                
+
+                                --Plate App--  Inj 
+S Name                    Usage    Sim   Real Days 
+  Jim Leyritz                 4     13    305   0  
+  Rico Rossy                  4      4     97   0  
+  Andres Galarraga            3     14    506   0  
+  Pat Kelly                   3     12    451   0  
+  Greg Vaughn                 2     14    667   0  
+  Darryl Hamilton             2     11    573   0  
+  Luis Gonzalez               1      9    610   0  
+  Chuck Knoblauch             1     10    685   0  
+  Reggie Sanders              1      7    563   0  
+  Scott Cooper                1      7    597   0  
+  Mike Blowers                1      5    429   0  
+  Kevin Bass                  0      1    258   0  
+f Javier Lopez                0      0     17   0  
+f Hubie Brooks                0      0    181   0  
+f Doug Strange                0      0    542   0  
+  Sandy Alomar                0      0    237   0  
+  Paul Sorrento               0      0    527   0  
+f Greg Myers                  0      0    315   0  
+  Todd Benzinger              0      0    194   0  
+f Bill Pecota                 0      0     65   0  
+f Brian Dorsett               0      0     66   0  
+f Derrick White               0      0     52   0  
+f Tim Spehr                   0      0     99   0  
+f Dan Walters                 0      0    102   0  
+f Alex Diaz                   0      0     72   0  
+f Bernardo Brito              0      0     55   0  
+f Mario Diaz                  0      0    226   0  
+  Total                            107   8491      
+
+
+
+                                --Games--  Inj            ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/5   10/4   10/3   10/2   10/1 
+  Chris Bosio                 3    1   29   0   10/3/1993                  49r               
+  Tommy Greene                3    1   31   0   10/2/1993                         89s        
+  Tom Candiotti               3    1   33   0   10/3/1993                  46s               
+  Steve Avery                 3    1   35   0   10/5/1993    84s                             
+  Xavier Hernandez            3    2   72   0   10/5/1993    16r           30r               
+  Bryan Harvey                2    1   59   0   10/5/1993    15r                             
+  Mitch Williams              2    1   65   0   10/3/1993                   2r               
+  John Wetteland              1    1   70   0   10/3/1993                  41r               
+f Anthony Telford             0    0    3   0   9/17/1993                                    
+  Mark Dewey                  0    0   21   0   9/27/1993                                    
+f Pete Smith                  0    0   20   0   9/27/1993                                    
+f Nate Minchey                0    0    5   0   9/22/1993                                    
+f Rick Reed                   0    0    3   0   5/18/1993                                    
+f Kevin Gross                 0    0   33   0   9/28/1993                                    
+f Ryan Bowen                  0    0   27   0   9/29/1993                                    
+  Scott Bankhead              0    0   40   0   8/17/1993                                    
+f Richie Lewis                0    0   57   0   9/27/1993                                    
+  Total                            3  199                                                    
+
+
+
+                          Playoff Team Status -- 1993 Evanston Endorphins                           
+                               Divisional playoff -- as of 10/5/1993                                
+
+                                --Plate App--  Inj 
+S Name                    Usage    Sim   Real Days 
+  Alan Trammell               3     12    447   0  
+  Don Slaught                 2     10    420   0  
+  Mike Greenwell              2     13    603   0  
+  Mark Grace                  2     14    676   0  
+  Lenny Dykstra               2     14    773   0  
+  Bernard Gilkey              2     11    622   0  
+  Ozzie Guillen               2      8    486   0  
+  Scott Fletcher              1      7    531   0  
+  Scott Servais               1      3    291   0  
+  Ryan Thompson               1      3    316   0  
+  Jose Vizcaino               1      5    617   0  
+  Mark Lemke                  1      3    569   0  
+  Brian Jordan                0      1    242   0  
+f Tony Pena                   0      0    347   0  
+f Derrick May                 0      0    503   0  
+f Alvaro Espinoza             0      0    283   0  
+f Raul Mondesi                0      0     91   0  
+f Dwight Smith                0      0    343   0  
+f John Flaherty               0      0     29   0  
+f Fernando Vina               0      0     53   0  
+f Greg Litton                 0      0    199   0  
+  Eddie Murray                0      0    659   0  
+f Dave Winfield               0      0    594   0  
+f Scott Livingstone           0      0    330   0  
+  Total                            104  10024      
+
+
+
+                                --Games--  Inj            ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/5   10/4   10/3   10/2   10/1 
+  Brad Holman                 5    1   19   0   10/3/1993                  11r               
+  Terry Mulholland            3    1   29   0   10/3/1993                 114s               
+  Darren Holmes               3    2   62   0   10/5/1993    33r                  27r        
+  Pete Harnisch               3    1   33   0   10/5/1993    56s                             
+  Tom Henke                   3    2   66   0   10/5/1993    20r           20r               
+  Jose Rijo                   3    1   36   0   10/2/1993                        106s        
+  Lee Guetterman              3    1   40   0   10/5/1993    11r                             
+  Jeff Fassero                2    1   56   0   10/2/1993                         17r        
+  Jesse Orosco                2    1   57   0   10/5/1993    25r                             
+  Roberto Hernandez           0    0   70   0   9/28/1993                                    
+f Joe Grahe                   0    0   45   0   5/20/1993                                    
+f Scott Sanders               0    0    9   0    7/1/1993                                    
+f Bill Wegman                 0    0   20   0   9/18/1993                                    
+f Les Lancaster               0    0   50   0   4/25/1993                                    
+f Kevin Rogers                0    0   64   0   6/17/1993                                    
+f Jim Deshaies                0    0   32   0                                                
+f Steve Cooke                 0    0   32   0   9/28/1993                                    
+f Chris Nabholz               0    0   26   0                                                
+f Bill Landrum                0    0   18   0   9/28/1993                                    
+f Mark Hutton                 0    0    7   0    9/9/1993                                    
+  Dwight Gooden               0    0   29   0   9/30/1993                                    
+  Total                            3  256                                                    
+
+
+
+                            Playoff Team Status -- 1993 GPCC Shebazzle!                             
+                               Divisional playoff -- as of 10/5/1993                                
+
+                                --Plate App--  Inj 
+S Name                    Usage    Sim   Real Days 
+  Jeff Treadway               5     11    240   0  
+  Howard Johnson              4     11    280   0  
+  Kevin Mitchell              4     13    353   0  
+  Harold Baines               3     13    480   0  
+  Rickey Henderson            2     14    610   0  
+  Brett Butler                2     14    716   0  
+  Darren Daulton              2     12    637   0  
+  Royce Clayton               2     10    607   0  
+  Kevin Stocker               1      2    302   0  
+  Brian Harper                0      2    573   0  
+  Brent Gates                 0      2    609   0  
+  Andy Van Slyke              0      1    354   0  
+  Kent Hrbek                  0      1    471   0  
+  Chris Sabo                  0      1    611   0  
+f Craig Grebeck               0      0    223   0  
+d Damion Easley               0      0    264   3  
+f Warren Newson               0      0     49   0  
+d Rob Deer                    0      0    532  12  
+f Geno Petralli               0      0    156   0  
+f Lou Frazier                 0      0    211   0  
+f Andy Tomberlin              0      0     45   0  
+f Kevin McReynolds            0      0    393   0  
+f Darnell Coles               0      0    217   0  
+f Skeeter Barnes              0      0    180   0  
+f Matias Carrillo             0      0     58   0  
+  Kim Batiste                 0      0    161   0  
+f Steve Lyons                 0      0     25   0  
+f Kevin Koslofski             0      0     32   0  
+  Total                            107   9389      
+
+
+
+                                --Games--  Inj            ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/5   10/4   10/3   10/2   10/1 
+  Roger Smithberg             8    1   13   0   10/3/1993                  37r               
+  Angel Miranda               5    1   22   0   10/3/1993                  58s               
+  David West                  4    3   76   0   10/5/1993    17r           16r    35r        
+  Jack McDowell               3    1   34   0   10/2/1993                         76s        
+  Mark Langston               3    1   35   0   10/5/1993   123s                             
+  Jeff Schwarz                2    1   41   0   10/2/1993                         15r        
+  Alan Mills                  2    1   45   0   10/2/1993                          1r        
+  Cris Carpenter              2    1   56   0   10/2/1993                         43r        
+f Wally Whitehurst            0    0   21   0   9/12/1993                                    
+f Willie Blair                0    0   46   0   9/22/1993                                    
+d Dave Fleming                0    0   26   6   9/25/1993                                    
+f Joe Boever                  0    0   61   0   9/28/1993                                    
+  Jason Bere                  0    0   24   0    8/8/1993                                    
+f Armando Reynoso             0    0   30   0   9/28/1993                                    
+  Carl Willis                 0    0   53   0   8/28/1993                                    
+f Pete Young                  0    0    4   0                                                
+f Roger Salkeld               0    0    3   0   9/10/1993                                    
+f Mauro Gozzo                 0    0   10   0    9/7/1993                                    
+f Bud Black                   0    0   16   0   9/29/1993                                    
+f Gino Minutelli              0    0    9   0   9/27/1993                                    
+f Mike Hartley                0    0   53   0   9/28/1993                                    
+f Gene Harris                 0    0   59   0   8/24/1993                                    
+  Steve Frey                  0    0   55   0   9/30/1993                                    
+  Total                            3  221                                                                                     

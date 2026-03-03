@@ -1,0 +1,37 @@
+***CHANGE IN POSITION ELIGIBILITY***
+
+EXISTING RULE:
+
+Hitters may only play positions for which they have defensive ratings, with the following exceptions:
+"	CF can play any OF;
+"	LF/RF can play the other LF/RF for which they are not rated;
+"	LF/RF rated Vg or Ex may play CF;
+"	SS can play 2nd base;
+"	2nd base can play SS if rated Vg or Ex at 2nd base;
+"	Anyone can play 1B.
+It is important to note than playing someone at a difficult position for which he has no defensive rating can have dire consequences within the simulation.
+
+
+PROPOSAL:
+
+DELETE LF/RF RATED Vg OR Ex MAY PLAY CF;
+DELETE SS CAN PLAY 2B
+DELETE 2ND BASE CAN PLAY SHORTSTOP IF RATED Vg OR Ex AT 2ND BASE
+
+
+PROPOSED RULE:
+
+Hitters may only play positions for which they have defensive ratings, with the following three exceptions:
+* CF can play any OF;
+* LF/RF can play the other LF/RF for which they are not rated;
+* Anyone can play 1B.
+It is important to note than playing someone at a difficult position for which he has no defensive rating can have dire consequences within the simulation.
+
+
+*** CHANGE IN DRAFT LOTTERY ***
+
+Existing Rule:
+The number of chances out of 1,000 for each seed are: 1st-250 (25%), 2nd-199 (20%), 3rd-156 (15.6%), 4th-119, 5th-88, 6th-63, 7th-43, 8th-28, 9th-17, 10th-11, 11th-8, 12th-7, 13th-6, 14th-5 (0.5%)
+
+Proposed Rule:
+Instead of the above, the 1st seed would have 14 chances 13.3%, the 2nd seed 13 (12.4%) chances ... the 14th seed 1 chance (1%).

@@ -1,0 +1,68 @@
+                            DMB team fielding -- 1988 Baraboo GoiterMen                             
+                                           Regular season                                           
+
+Pos  S Name                     G  GS    INN   PO    A   E  DP   TC    PCT  PB  SB  CS   SB%  PK 
+p      Mark Gubicza            34  34  242.7   20   39   1   3   60   .983      17   9  .654   5 
+       Orel Hershiser          34  34  264.0   19   30   1   0   50   .980      16   2  .889   6 
+       Mike Scott              34  34  225.0   13   25   1   0   39   .974      31   5  .861   1 
+       Bret Saberhagen         31  31  204.7   11   16   1   1   28   .964       6   5  .545   0 
+       Scott Bankhead          20  18  139.3    2   17   0   0   19  1.000      11   6  .647   3 
+       Scott Garrelts          47   4   76.3    7    9   1   0   17   .941      15   2  .882   0 
+       Don August              67   4  108.3    3   13   0   0   16  1.000      11   8  .579   2 
+       Brian Holton            70   0   89.7    4    9   1   2   14   .929       6   2  .750   0 
+       Rob Murphy              38   0   34.0    0    6   0   0    6  1.000       3   1  .750   1 
+       Craig Lefferts          52   2   78.0    4    2   0   0    6  1.000       5   4  .556   0 
+       Odell Jones              7   1   11.7    1    2   0   0    3  1.000       1   1  .500   0 
+     f Gary Eave                3   0    4.0    0    1   0   0    1  1.000       0   1  .000   0 
+       Total                  437 162 1477.7   84  169   6   6  259   .977     122  46  .726  18 
+                                                                                                 
+c      Ernie Whitt            127 101  870.7  624   44   1   2  669   .999   3  73  28  .723   0 
+     f Mike Heath             118  53  545.3  375   27   8   1  410   .980   5  44  18  .710   0 
+       Bob Brenly               9   8   61.7   39    2   0   0   41  1.000   1   5   0 1.000   0 
+       Total                  254 162 1477.7 1038   73   9   3 1120   .992   9 122  46  .726   0 
+                                                                                                 
+1b     Keith Hernandez        120  65  685.3  741   45   0  56  786  1.000                       
+       Don Mattingly           95  90  711.0  672   50   9  51  731   .988                       
+       Wallace Johnson          8   6   56.0   56    5   1   9   62   .984                       
+     f Von Hayes                3   1   17.0   18    0   0   1   18  1.000                       
+       Pat Tabler               3   0    8.3    9    2   0   0   11  1.000                       
+       Total                  229 162 1477.7 1496  102  10 117 1608   .994                       
+                                                                                                 
+2b     Julio Franco           158 158 1306.7  282  450  13  82  745   .983                       
+       Jose Lind               78   4  160.7   32   59   1  15   92   .989                       
+     f Bip Roberts              3   0    5.7    2    1   2   1    5   .600                       
+       Glenn Hubbard            2   0    4.7    0    2   0   0    2  1.000                       
+       Total                  241 162 1477.7  316  512  16  98  844   .981                       
+                                                                                                 
+3b     Wade Boggs             157 157 1400.7  108  287  12  29  407   .971                       
+     f Mike Heath               3   3   27.0    0    4   0   0    4  1.000                       
+       Keith Hernandez          1   0    7.3    1    2   1   0    4   .750                       
+     f Von Hayes                2   2   18.0    1    3   0   0    4  1.000                       
+     f Bip Roberts             17   0   24.7    1    3   0   0    4  1.000                       
+       Total                  180 162 1477.7  111  299  13  29  423   .969                       
+                                                                                                 
+ss   f Garry Templeton        135  98  904.7  154  310  22  54  486   .955                       
+       Rafael Ramirez          91  64  573.0   85  222  14  25  321   .956                       
+       Total                  226 162 1477.7  239  532  36  79  807   .955                       
+                                                                                                 
+lf   f Von Hayes              120  90  819.3  194   11   4   0  209   .981                       
+       Pete Incaviglia         78  60  539.3  136   10   2   2  148   .986                       
+       Don Mattingly           14  12  112.0   23    2   1   0   26   .962                       
+     f Mike Heath               2   0    4.0    2    0   0   0    2  1.000                       
+       Pat Tabler               1   0    3.0    0    0   0   0    0   .000                       
+       Total                  215 162 1477.7  355   23   7   2  385   .982                       
+                                                                                                 
+cf   f Tony Gwynn             138 138 1230.0  365   19   7   3  391   .982                       
+       Curt Ford               23   1   47.7   23    1   2   1   26   .923                       
+       Herm Winningham         15  11   85.3   25    0   0   0   25  1.000                       
+       Thad Bosley             11   9   67.3   21    1   0   0   22  1.000                       
+     f Von Hayes                7   2   38.3    9    0   0   0    9  1.000                       
+     f Mike Heath               1   1    9.0    4    0   0   0    4  1.000                       
+       Total                  195 162 1477.7  447   21   9   4  477   .981                       
+                                                                                                 
+rf     Mike Greenwell         162 162 1451.0  340   17  11   1  368   .970                       
+       Pat Tabler               9   0   26.7    7    0   1   0    8   .875                       
+       Total                  171 162 1477.7  347   17  12   1  376   .968                       
+                                                                                                 
+       Total                  162 162 1477.7 4433 1748 118 126 6299   .981   9                   
+

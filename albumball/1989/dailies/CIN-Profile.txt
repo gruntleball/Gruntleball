@@ -1,0 +1,154 @@
+                    Manager Profile for 1989 Cincinnati Reds
+ 
+Manager Tendencies
+ 
+Bunting:                  Most frequent
+Hit and run:              Most frequent
+Stealing:                 Most frequent
+Running:                  More frequent
+Take pitch:               Neutral
+PH for a pitcher:         Neutral
+PH for a non-pitcher:     Neutral
+PH for platoon player:    Neutral
+PH in a blowout:          Neutral
+Pitching around:          Neutral
+Intentional walk:         Less frequent
+Pickoff throws:           More frequent
+Pitching out:             More frequent
+Using relievers:          Most frequent
+Using closers:            Most frequent
+Holding runners:          More frequent
+Infield in:               Neutral
+Guard lines:              Neutral
+ 
+ 
+Pitching Chart
+ 
+Usage mode:    Strict
+Rotation size: 5
+Next starter:  4
+ 
+Starting Rotation   Fernandez         Gross             Welch             Benes             Candiotti         
+Spot Starters                                                                                                 
+Spot Pct                                                                                                      
+ 
+Mopup situations    Murphy            Jackson           Charlton          Pena              Myers             
+Long relievers      Jackson           Murphy            Pena              Charlton          Myers             
+Setup vs LHB        Charlton          Myers             Pena              Murphy            Jackson           
+Setup vs RHB        Pena              Charlton          Jackson           Myers             Murphy            
+Closers vs LHB      Myers             Charlton          Pena              Murphy            Jackson           
+Closers vs RHB      Myers             Pena              Charlton          Jackson           Murphy            
+
+....................................................................................................
+                    Manager Profile for 1989 Cincinnati Reds
+ 
+Depth Chart for 1989 Cincinnati Reds -- vs LHP
+ 
+ 
+Usage: Game by game        Versus: Left        DH: No
+ 
+Starting Lineup
+ 
+1: Van Slyke        cf
+2: Larkin           ss
+3: Caminiti         3b
+4: Esasky           1b
+5: Brunansky        rf
+6: Parrish          c
+7: Berroa           lf
+8: Lee              2b
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Parrish              Esasky               Lee                  Caminiti        
+Plat                                                                                 
+Def                                                                                  
+Util1                      Palmeiro         33  Newman           33                  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Larkin               Berroa               Van Slyke            Brunansky       
+Plat                       Daniels              Thompson                             
+Def                                                                                  
+Util1 Newman           25  Palmeiro         20  Nixon            20                  
+Util2                      Daniels          20                                       
+Util3                      Nixon            20                                       
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Thompson             Daniels         
+Util2                      Daniels              Palmeiro        
+Util3                      Newman               Thompson        
+Util4                      Williams             Sasser          
+Util5                      Palmeiro             Williams        
+
+....................................................................................................
+                    Manager Profile for 1989 Cincinnati Reds
+ 
+Depth Chart for 1989 Cincinnati Reds -- vs RHP
+ 
+ 
+Usage: Game by game        Versus: Right        DH: No
+ 
+Starting Lineup
+ 
+1: Thompson         cf
+2: Newman           2b
+3: Daniels          lf
+4: Esasky           1b
+5: Sasser           c
+6: Brunansky        rf
+7: Caminiti         3b
+8: Larkin           ss
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Sasser               Esasky               Newman               Caminiti        
+Plat  Parrish                                                                        
+Def   Parrish                                                                        
+Util1 Parrish          65  Palmeiro         40                       Williams         33  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Larkin               Daniels              Thompson             Brunansky       
+Plat                                            Van Slyke                            
+Def                        Berroa               Van Slyke                            
+Util1 Lee              40  Palmeiro         40  Van Slyke        30                  
+Util2                      Nixon            20  Nixon            10                  
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Parrish              Palmeiro        
+Util2                      Lee                  Williams        
+Util3                      Van Slyke            Parrish         
+Util4                      Berroa               Van Slyke       
+Util5                      Palmeiro             Nixon           

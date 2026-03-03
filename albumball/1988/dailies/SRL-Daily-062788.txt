@@ -1,0 +1,502 @@
+SRL Daily - June 27, 1988
+
+
+***TRANSACTIONS***
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/27/1988  CEN     Fermin              Promoted to active roster                          Before   
+6/27/1988  CEN     Henderson           Activated from disabled list                       Before   
+6/27/1988  CEN     Jackson             Demoted to reserve roster                          Before   
+6/27/1988  CEN     Williams            Demoted to reserve roster                          Before   
+6/27/1988  CIN     Bell                Promoted to active roster                          Before   
+6/27/1988  CIN     Daniels             Activated from disabled list                       Before   
+6/27/1988  CIN     Flannery            Demoted to reserve roster                          Before   
+6/27/1988  CIN     Jones               Demoted to reserve roster                          Before   
+6/27/1988  CIN     Lee                 Placed on disabled list                 6/25/1988  Before   
+6/27/1988  CIN     Lombardozzi         Promoted to active roster                          Before   
+6/27/1988  FER     Gonzalez            Demoted to reserve roster                          Before   
+6/27/1988  FER     Gordon              Demoted to reserve roster                          Before   
+6/27/1988  FER     John                Demoted to reserve roster                          Before   
+6/27/1988  FER     Marshall            Promoted to active roster                          Before   
+6/27/1988  FER     Milligan            Promoted to active roster                          Before   
+6/27/1988  FER     Valle               Demoted to reserve roster                          Before   
+6/27/1988  FER     Ward                Promoted to active roster                          Before   
+6/27/1988  NEE     Teufel              Placed on disabled list                 6/26/1988  Before   
+6/27/1988  NEE     Wellman             Promoted to active roster                          Before 
+
+
+***GAMES***
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Huskies           2  0  2  0  0  0  0  0  1     5 11  2     7  0
+1988 Beavis            0  0  0  0  1  0  0  0  0     1  8  0    10  0
+Deshaies(W,4-9), Power(L,2-3), HR-Martinez(5)
+Jim Deshaies goes 8 strong innings.  Andy Allanson gets 3 hits and
+Glenn Davis gets 2 RBIs.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 101ers            0  0  0  0  1  2  0  0  0     3  7  1     6  1
+1988 Slayers           0  1  0  0  1  0  0  0  0     2  9  0     7  1
+Reuschel(W,7-7), Perez,P(L,9-5), Worrell(S,18), HR-Alicea(1)
+The Whale also pitches 8 solid innings and Juan Samuel gets the game-
+winning RBI.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Magellans         0  0  2  0  1  0  0  1  1     5 12  2     9  0
+1988 Challengers       2  1  1  0  1  0  1  1  x     7 10  0     7  0
+Tanana(W,4-9), Perez,M(L,2-7), Eichhorn(S,7), HR-McClendon(1), Pendleton(3)
+Willie McGee swipes 3 bases, raps 3 hits and scores 4 runs.
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Brewers           0  1  0  0  0  0  0  0  0     1  7  0     5  0
+1988 Atoms             0  0  0  3  1  2  0  2  x     8  8  0     9  1
+Robinson(W,10-1), Bordi(L,1-1), HR-Strawberry(20), Winfield(12)
+Straw scores 4 times and Winfield drives in 4 as Jeff Robinson pitches
+a complete game 7-hitter.
+
+
+***STANDINGS***
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA 
+Gigantic
+1988 Tewksbury Bobs                 51   29  .637       -    5-5   W1  wlwlwwwlll    324  267 
+1988 Cincinnati Reds                50   30  .625       1    8-2   W3  wwwlwwwlww    398  308 
+1988 ChinaTrust Whales              43   37  .538       8    6-4   W1  wlwlwlwwwl    331  305 
+1988 Marshall McDougalls            41   39  .512      10    4-6   L3  lllwwllwlw    347  321 
+1988 Reykjavik 101ers               31   50  .383  20 1/2    2-8   W1  wllllwllll    269  372 
+1988 Nederland FrozenDeadGuys       28   52  .350      23    1-9   L2  llwlllllll    288  375 
+                                                                                              
+Cactus
+1988 Sunnydale Slayers              53   28  .654       -    6-4   L2  llwlwwwwwl    392  320 
+1988 Baraboo GoiterMen              47   33  .587   5 1/2    8-2   W4  wwwwlwlwww    353  284 
+1988 Evanston Endorphins            41   39  .512  11 1/2    3-7   W2  wwlllllllw    344  286 
+1988 Grain Belt Premiums            41   39  .512  11 1/2    6-4   L3  lllwlwwwww    335  327 
+1988 Needmore Shebazzum             39   41  .488  13 1/2    7-3   W4  wwwwlwwlwl    316  335 
+1988 Enough Shebazzle?              29   51  .363  23 1/2    5-5   L1  lwlwlllwww    302  406 
+                                                                                              
+Vamos
+1988 Century Atoms                  60   23  .723       -    8-2   W7  wwwwwwwllw    439  254 
+1988 Ferlin Huskies                 43   40  .518      17    5-5   W1  wlwwllllww    274  289 
+1988 Barcelona Brewers              37   46  .446      23    6-4   L1  lwllwwwwwl    282  315 
+1988 Cape Canaveral Challengers     35   48  .422      25    5-5   W3  wwwllllwwl    289  371 
+1988 Ferdinand Magellans            34   49  .410      26    4-6   L4  llllwwwwll    347  369 
+1988 Butt Mountain Beavis           27   56  .325      33    2-8   L3  lllwlllllw    277  403 
+
+
+***BOXSCORES AND SCORESHEETS***
+
+6/27/1988, FHK88-BMB88, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Huskies           2  0  2  0  0  0  0  0  1     5 11  2     7  0
+1988 Beavis            0  0  0  0  1  0  0  0  0     1  8  0    10  0
+ 
+Huskies              AB  R  H BI   AVG    Beavis               AB  R  H BI   AVG
+Burks             cf  4  2  2  0  .280    Javier            cf  5  0  1  0  .247       
+Kruk              lf  5  1  2  0  .203    Martinez          rf  4  1  2  1  .254       
+Davis             1b  1  0  0  2  .243    McGwire           1b  4  0  0  0  .247       
+Bell              rf  4  1  1  0  .209    Steinbach         c   4  0  2  0  .304       
+Allanson          c   4  0  3  1  .249    Jacoby            3b  4  0  0  0  .192       
+Pagliarulo        3b  4  0  0  0  .200    Treadway          2b  4  0  2  0  .288       
+Gagne             ss  4  0  0  0  .260    Jeltz             ss  3  0  0  0  .230       
+Browne            2b  4  1  2  0  .186     Traber           ph  1  0  0  0  .167       
+Deshaies          p   3  0  0  0  .031     Rivera           ss  0  0  0  0  .250       
+ Reynolds         ph  1  0  1  1  .189     Palacios         p   0  0  0  0  .000       
+ Cook             p   0  0  0  0  .000    Morman            lf  4  0  1  0  .177       
+                     34  5 11  4          Power             p   2  0  0  0  .000       
+                                           Griffey          ph  1  0  0  0  .167       
+                                           Gossage          p   0  0  0  0  .000       
+                                           Griffin          ss  1  0  0  0  .500       
+                                                               37  1  8  1             
+ 
+Huskies                          INN  H  R ER BB  K PCH STR   ERA
+Deshaies         W 4-9           8.0  8  1  1  0  4 110  80  3.71
+Cook                             1.0  0  0  0  0  1  11   7  0.00
+                                 9.0  8  1  1  0  5 121  87 
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Power            L 2-3           7.0  7  4  4  1  5  84  56  6.39
+Gossage                          1.2  3  1  1  0  0  31  19  3.68
+Palacios                         0.1  1  0  0  0  0   5   4  3.77
+                                 9.0 11  5  5  1  5 120  79 
+ 
+FHK: Reynolds batted for Deshaies in the 9th
+BMB: Griffey batted for Power in the 7th
+     Traber batted for Jeltz in the 8th
+     Rivera inserted at ss in the 9th
+     Griffin inserted at ss in the 9th
+ 
+E-Burks, Browne. 2B-Kruk, Bell, Allanson 2. 3B-Treadway. HR-Martinez(5). 
+SB-Burks(10), Browne(3). CS-Browne. K-Burks, Bell, Pagliarulo, Deshaies 2, 
+Javier, McGwire, Treadway, Morman, Power. BB-Davis. SF-Davis 2. HBP-Burks, 
+Davis, Martinez. HB-Deshaies, Gossage 2. WP-Power. BALK-Power. 
+GWRBI: Davis
+Temperature: 83, Sky: cloudy, Wind: left to right at 16 MPH.
+
+....................................................................................................
+6/27/1988, FHK88-BMB88, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Huskies           2  0  2  0  0  0  0  0  1     5 11  2     7  0
+1988 Beavis            0  0  0  0  1  0  0  0  0     1  8  0    10  0
+ 
+ 
+Huskies              -----A------ -----B------ -----C------ -----D------ -----E------
+Burks             cf 1>S            CS2(24)    5>43           k            HP.1-2    
+                                  3>S                                                
+Kruk              lf   D.1-3        SB2          13         8>Gossage      Palacios  
+                                    7.2-3                     13           S.2-3;1-2 
+Davis             1b   note 1       7/SF.3-H     W            HP           64/f      
+Bell              rf   wp.3-H       D            8            2/fl                   
+                       k                                                             
+Allanson          c    S            bk.2-3     6>43           D.1XH(762)             
+                                    D.3-H                                            
+Pagliarulo        3b   31           9            k          9>9                      
+Gagne             ss 2>8          4>43           8            2/fl                   
+Browne            2b   S            43         7>8            S                      
+Deshaies          p    k            k            7                                   
+ Reynolds         ph                                          SB2                    
+                                                              S.2-H                  
+ Cook             p                                                                  
+ 
+ 1: 8/SF.3-H;2-3 
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Javier            cf 1>63         3>S          5>9            63           k         
+Martinez          rf   HP           9            HR           S            4/L       
+McGwire           1b   k            9            8            5                      
+Steinbach         c    S.1-2        S.1-3        53         8>8                      
+Jacoby            3b   53           3/fl       6>43           e8.B-1                 
+Treadway          2b 2>k          4>53           T            S.1-2                  
+Jeltz             ss   63           1/L          6                                   
+ Traber           ph                                          8                      
+ Rivera           ss                                                                 
+ Palacios         p                                                                  
+Morman            lf   S            e4.B-1       k            64/f                   
+Power             p    k            2/fl                                             
+ Griffey          ph                           7>63                                  
+ Gossage          p                                                                  
+ Griffin          ss                                        9>Cook                   
+                                                              53                     
+ 
+ 
+Huskies          IN OUT ER                  Beavis           IN OUT ER                  
+Deshaies         A1  D8  1 W 4-9            Power            A1  D1  4 L 2-3            
+Cook             D9  E2  0                  Gossage          D2  E1  1                  
+                                            Palacios         E2  E3  0                  
+
+6/27/1988, RYK88-SUN88, County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 101ers            0  0  0  0  1  2  0  0  0     3  7  1     6  1
+1988 Slayers           0  1  0  0  1  0  0  0  0     2  9  0     7  1
+ 
+101ers               AB  R  H BI   AVG    Slayers              AB  R  H BI   AVG
+James             lf  1  0  0  0  .234    Whitaker          2b  3  1  2  0  .237       
+ Leonard          ph  1  0  0  0  .261    Brett             1b  4  0  1  1  .282       
+White             cf  4  1  1  0  .240    McReynolds        cf  4  0  1  0  .297       
+Joyner            1b  2  1  1  0  .285    Buhner            lf  4  0  0  0  .265       
+Maldonado         rf  4  0  0  0  .230    Sheridan          rf  4  1  1  0  .301       
+Samuel            3b  4  0  2  2  .233    Quirk             c   4  0  1  0  .229       
+Virgil            c   4  0  0  0  .272    Brookens          3b  4  0  1  1  .296       
+Washington        ss  4  0  1  0  .268    Bell              ss  2  0  0  0  .236       
+ Pedrique         ss  0  0  0  0  .000     Phelps           ph  1  0  0  0  .351       
+Alicea            2b  3  1  1  1  .220     Gonzales         ss  0  0  0  0  .404       
+ Sveum            ph  1  0  1  0  .245     Martinez         ph  1  0  1  0  .344       
+Reuschel          p   3  0  0  0  .086     Salazar          pr  0  0  0  0  .261       
+ Uribe            ph  1  0  0  0  .266    Perez             p   2  0  0  0  .050       
+ Worrell          p   0  0  0  0  .000     Snyder           ph  1  0  0  0  .267       
+                     32  3  7  3           Meads            p   0  0  0  0  .000       
+                                           Stanley          ph  1  0  1  0  .254       
+                                                               35  2  9  2             
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Reuschel         W 7-7           8.0  7  2  2  1  3  99  73  2.75
+Worrell          S 18            1.0  2  0  0  0  0  14  10  1.20
+                                 9.0  9  2  2  1  3 113  83 
+ 
+Slayers                          INN  H  R ER BB  K PCH STR   ERA
+Perez            L 9-5           7.0  3  3  3  4  3 113  66  4.49
+Meads                            2.0  4  0  0  0  2  37  25  1.17
+                                 9.0  7  3  3  4  5 150  91 
+ 
+RYK: Leonard batted for James in the 8th
+     Leonard moved to lf in the 8th
+     Sveum batted for Alicea in the 9th
+     Uribe batted for Reuschel in the 9th
+     Pedrique inserted at ss in the 9th
+     Sveum moved to 2b in the 9th
+SUN: Phelps batted for Bell in the 7th
+     Snyder batted for Perez in the 7th
+     Gonzales inserted at ss in the 8th
+     Martinez batted for Gonzales in the 9th
+     Stanley batted for Meads in the 9th
+     Salazar ran for Martinez in the 9th
+ 
+E-Washington. 2B-Brookens. 3B-Samuel, Whitaker. HR-Alicea(1). CS-James. 
+K-White, Maldonado 2, Virgil, Reuschel, Buhner, Bell, Perez. BB-James 2, 
+Joyner 2, Whitaker. 
+GWRBI: Samuel
+Temperature: 65, Sky: clear, Wind: in from right at 11 MPH.
+
+....................................................................................................
+6/27/1988, RYK88-SUN88, County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 101ers            0  0  0  0  1  2  0  0  0     3  7  1     6  1
+1988 Slayers           0  1  0  0  1  0  0  0  0     2  9  0     7  1
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+James             lf 1>53           W          6>W          8>Meads                  
+ Leonard          ph                                          8                      
+White             cf   31           13           S.1-2        k                      
+Joyner            1b   W          4>3/fl         note 1       S                      
+                                                 W                                   
+Maldonado         rf   54/f         k            9            k                      
+Samuel            3b 2>7            53           T.2-H;1-H  9>S                      
+Virgil            c    8          5>k            63           463/gdp                
+Washington        ss   7            6          7>13           S                      
+ Pedrique         ss                                                                 
+Alicea            2b 3>63           HR           43                                  
+ Sveum            ph                                          S.1-2                  
+Reuschel          p    k            7            31                                  
+ Uribe            ph                                          64/f                   
+ Worrell          p                                                                  
+ 
+ 1: CS3(25).1-2 
+ 
+ 
+Slayers              -----A------ -----B------ -----C------ -----D------ -----E------
+Whitaker          2b 1>S          3>9            T            W                      
+Brett             1b   2/fl         9            S.3-H        23                     
+McReynolds        cf   643/gdp      e6.B-1       S.1-2      8>63                     
+Buhner            lf 2>k            53           8            8                      
+Sheridan          rf   S          4>3/fl       6>3/fl         63                     
+Quirk             c    S.1-2        4            23         9>Worrell                
+                                                              63                     
+Brookens          3b   D.2-H;1-3    43           7            3/fl                   
+Bell              ss   k          5>7                                                
+ Phelps           ph                           7>43                                  
+ Gonzales         ss                                                                 
+ Martinez         ph                                          S                      
+ Salazar          pr                                                                 
+Perez             p    k            3/g                                              
+ Snyder           ph                             7                                   
+ Meads            p                                                                  
+ Stanley          ph                                          S.1X3(95)              
+ 
+ 
+101ers           IN OUT ER                  Slayers          IN OUT ER                  
+Reuschel         A1  D5  2 W 7-7            Perez            A1  C9  3 L 9-5            
+Worrell          D6  D9  0 S 18             Meads            D1  D9  0                  
+
+6/27/1988, FER88-CCC88, Tiger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Magellans         0  0  2  0  1  0  0  1  1     5 12  2     9  0
+1988 Challengers       2  1  1  0  1  0  1  1  x     7 10  0     7  0
+ 
+Magellans            AB  R  H BI   AVG    Challengers          AB  R  H BI   AVG
+James             cf  3  1  1  0  .256    McGee             cf  3  4  3  1  .241       
+Quinones          ss  5  0  2  0  .280    Ripken,C          ss  4  1  1  2  .256       
+ Cangelosi        pr  0  0  0  0  .270    Brock             1b  4  0  0  0  .243       
+Weiss             2b  5  2  3  1  .244    Carter            lf  3  0  1  2  .224       
+Trevino           c   5  0  1  1  .239    O'Neill           rf  4  0  1  1  .225       
+Wallach           1b  4  0  1  1  .255    Sax               2b  4  0  1  0  .291       
+Dwyer             lf  3  0  1  1  .357    Prince            c   4  0  1  0  .161       
+ McClendon        ph  1  1  1  1  .189    Pendleton         3b  3  2  2  1  .230       
+Seitzer           3b  4  0  1  0  .262    Tanana            p   4  0  0  0  .133       
+Marshall          rf  4  0  0  0  .261     Mulholland       p   0  0  0  0  .000       
+Perez             p   2  0  0  0  .074     Eichhorn         p   0  0  0  0  .083       
+ Ward             p   0  0  0  0  .500                         33  7 10  7             
+ Ripken,B         ph  1  1  1  0  .256                                              
+                     37  5 12  5                                                    
+ 
+Magellans                        INN  H  R ER BB  K PCH STR   ERA
+Perez            L 2-7           5.1  7  5  3  2  4 108  67  5.57
+Ward                             2.2  3  2  2  2  1  43  22  3.82
+                                 8.0 10  7  5  4  5 151  89 
+ 
+Challengers                      INN  H  R ER BB  K PCH STR   ERA
+Tanana           W 4-9           8.1 11  5  5  3  4 109  71  5.11
+Mulholland                       0.0  1  0  0  0  0   1   1  5.66
+Eichhorn         S 7             0.2  0  0  0  0  0   6   5  2.52
+                                 9.0 12  5  5  3  4 116  77 
+ 
+FER: McClendon batted for Dwyer in the 8th
+     McClendon moved to lf in the 8th
+     Ripken,B batted for Ward in the 9th
+     Cangelosi ran for Quinones in the 9th
+ 
+E-Trevino 2. 2B-Quinones, McGee, Carter, Pendleton. 3B-McGee. 
+HR-McClendon(1), Pendleton(3). SB-McGee 3(23), Ripken,C(1), Sax(18). 
+K-Quinones, Wallach, Dwyer, Seitzer, Brock, O'Neill, Prince 3. BB-James 2, 
+Wallach, McGee 2, Carter, Pendleton. SH-Perez. SF-Ripken,C. 
+GWRBI: Ripken,C
+Temperature: 83, Sky: threatening, Wind: out to right at 10 MPH.
+
+....................................................................................................
+6/27/1988, FER88-CCC88, Tiger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Magellans         0  0  2  0  1  0  0  1  1     5 12  2     9  0
+1988 Challengers       2  1  1  0  1  0  1  1  x     7 10  0     7  0
+ 
+ 
+Magellans            -----A------ -----B------ -----C------ -----D------ -----E------
+James             cf 1>43           W            W          7>63           S.1-2     
+Quinones          ss   D            k            3            53           S.2-3;1-2 
+ Cangelosi        pr                                                                 
+Weiss             2b   9            S.1-3      5>S            9            Mulholland
+                                                                           note 1    
+Trevino           c    8            S.3-H;1-2    53.1-2     8>23           Eichhorn  
+                                                                           9         
+Wallach           1b 2>W            S.2-H;1-3    k            13           46/f      
+Dwyer             lf   note 2       k            note 3                              
+ McClendon        ph                                          HR                     
+Seitzer           3b   9          4>S          6>k            13                     
+Marshall          rf   3/g          6            43         9>63                     
+Perez             p  3>43           14/SH.1-2    53                                  
+ Ward             p                                                                  
+ Ripken,B         ph                                          S                      
+ 
+ 1: S.3-H;2-3;1-2  2: 16/b.1X2;B-1  3: S.2-H;BX2(836) 
+ 
+ 
+Challengers          -----A------ -----B------ -----C------ -----D------ -----E------
+McGee             cf 1>W          3>T          5>S          7>W            D.2-H     
+Ripken,C          ss   note 1       8/SF.3-H     8            SB2          153       
+                       S.3-H                                  63                     
+Brock             1b   note 2       63           SB2          43.2-3                 
+                       k                         31.2-3                              
+Carter            lf   63.3-H       7            D.3-H        W                      
+O'Neill           rf   43         4>8            k            S.3-H;1-2              
+Sax               2b 2>53           S          6>43           64/f                   
+Prince            c    k            SB2          S          8>k                      
+                                    k                                                
+Pendleton         3b   HR           W            Ward         D                      
+                                                 8                                   
+Tanana            p    4/L          4            54/f         8                      
+ Mulholland       p                                                                  
+ Eichhorn         p                                                                  
+ 
+ 1: SB2+e2(th).2-3  2: SB2+e2(th).2-3 
+ 
+ 
+Magellans        IN OUT ER                  Challengers      IN OUT ER                  
+Perez            A1  C7  3 L 2-7            Tanana           A1  E2  5 W 4-9            
+Ward             C8  E2  2                  Mulholland       E3  E3  0                  
+                                            Eichhorn         E4  E5  0 S 7              
+
+6/27/1988, BAR88-CEN88, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Brewers           0  1  0  0  0  0  0  0  0     1  7  0     5  0
+1988 Atoms             0  0  0  3  1  2  0  2  x     8  8  0     9  1
+ 
+Brewers              AB  R  H BI   AVG    Atoms                AB  R  H BI   AVG
+Barrett           2b  2  0  0  0  .336    Henderson         cf  3  1  1  1  .291       
+ Phillips         ph  1  0  0  0  .254    Ray               2b  4  1  0  0  .339       
+Barfield          cf  4  0  0  0  .224    Strawberry        lf  3  4  3  2  .302       
+Murray            1b  4  0  0  0  .297     Wilson           lf  0  0  0  0  .340       
+Davis,C           rf  4  0  4  0  .258    Winfield          rf  5  1  3  4  .372       
+Boston            lf  4  1  0  0  .135    Davis             1b  2  1  0  0  .279       
+Moreland          3b  4  0  2  1  .225    Magadan           3b  2  0  0  0  .262       
+Daulton           c   2  0  0  0  .120    Wilkerson         ss  4  0  0  0  .239       
+ Bradley          ph  1  0  0  0  .278    Boone             c   4  0  1  0  .195       
+ Karkovice        c   0  0  0  0  .235    Robinson          p   4  0  0  0  .195       
+Smith             ss  3  0  0  0  .251                         31  8  8  7             
+Bordi             p   1  0  1  0  .333                                              
+ Righetti         p   1  0  0  0  .000                                              
+ Gibson           p   0  0  0  0  .000                                              
+ Jefferies        ph  1  0  0  0  .375                                              
+ Schilling        p   0  0  0  0  .400                                              
+ Leiper           p   0  0  0  0  .200                                              
+                     32  1  7  1                                                    
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Bordi            L 1-1           3.0  3  2  2  2  3  62  34  2.70
+Righetti                         1.0  1  2  2  4  1  37  18  9.00
+Gibson                           3.0  3  2  2  1  2  49  28  4.94
+Schilling                        0.2  1  2  2  2  0  18   7  6.75
+Leiper                           0.1  0  0  0  0  1   6   3  1.76
+                                 8.0  8  8  8  9  7 172  90 
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Robinson         W 10-1          9.0  7  1  1  0  2 104  72  2.98
+                                 9.0  7  1  1  0  2 104  72 
+ 
+BAR: Bradley batted for Daulton in the 7th
+     Karkovice inserted at c in the 7th
+     Jefferies batted for Gibson in the 8th
+     Phillips batted for Barrett in the 8th
+     Phillips moved to 2b in the 8th
+CEN: Wilson inserted at lf in the 9th
+ 
+2B-Davis,C 3, Moreland, Henderson, Strawberry 2, Winfield. HR-Strawberry(20), 
+Winfield(12). SB-Boston(6), Henderson(34), Strawberry(21), Winfield(6). 
+CS-Henderson. K-Barrett, Barfield, Henderson, Ray 2, Winfield, Davis, 
+Robinson 2. BB-Henderson 2, Ray, Strawberry 2, Davis 2, Magadan 2. 
+SH-Barrett. HBP-Davis. HB-Gibson. WP-Gibson, Schilling. BALK-Gibson. 
+GWRBI: Winfield
+Temperature: 70, Wind: none.
+
+....................................................................................................
+6/27/1988, BAR88-CEN88, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 Brewers           0  1  0  0  0  0  0  0  0     1  7  0     5  0
+1988 Atoms             0  0  0  3  1  2  0  2  x     8  8  0     9  1
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Barrett           2b 1>7            13/SH.1-2    k                                   
+ Phillips         ph                                          5                      
+Barfield          cf   k            31.2-3     6>7            63                     
+Murray            1b   3/g          9            7          9>63                     
+Davis,C           rf 2>S          4>D            D            D                      
+Boston            lf   54/f         7            7            43.2-3                 
+Moreland          3b   SB2          8.2-3      7>S            8                      
+                       D.2-H                                                         
+Daulton           c    9            3/g                                              
+ Bradley          ph                             643/gdp                             
+ Karkovice        c                                                                  
+Smith             ss   63         5>43           43                                  
+Bordi             p  3>S                                                             
+ Righetti         p                 5                                                
+ Gibson           p                                                                  
+ Jefferies        ph                           8>8                                   
+ Schilling        p                                                                  
+ Leiper           p                                                                  
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson         cf 1>W            k            note 1       D            8         
+Ray               2b   SB2          9            5/f          k            W         
+                       k                                                             
+Strawberry        lf   CS3(25)    4>D          5>W            HR.2-H       wp.1-2    
+                       D                                                   W         
+ Wilson           lf                                                                 
+Winfield          rf   k            HR.2-H       Gibson       7/fl         D.2-H;1-H 
+                                                 S.1-2                               
+Davis             1b 2>W            Righetti     7          7>HP           Leiper    
+                                    W                                      k         
+Magadan           3b   6            W.1-2        SB3;SB2      9                      
+                                                 W                                   
+Wilkerson         ss   36/f         5/L          4            64/f                   
+Boone             c    4            S.2-3;1-2    note 2       wp.1-2                 
+                                                 13           9                      
+Robinson          p  3>7            k          6>k          8>Schilling              
+                                                              3/g                    
+ 
+ 1: W.3-H;2-3;1-2  2: bk.3-H;2-3;1-2 
+ 
+ 
+Brewers          IN OUT ER                  Atoms            IN OUT ER                  
+Bordi            A1  B4  2 L 1-1            Robinson         A1  D6  1 W 10-1           
+Righetti         B5  C3  2                                                              
+Gibson           C4  D8  2                                                              
+Schilling        D9  E4  2                                                              
+Leiper           E5  E5  0                                                              

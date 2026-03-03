@@ -1,0 +1,109 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="1977.css">
+</head>
+<h1> Hot Buttered Soul </h1>
+<img src="http://www.gruntleball.com/hbsl/Images/IsaacHayesInChains.jpg", Height=300/>
+<h4> 1977 INSIDER BASEBALL LEAGUE DAILY</h4>
+<p><b> date <br><br>
+</b><br><br>
+<br><br>
+<br><br>
+</p>
+<a href="http://www.gruntleball.com/hbsl/HBSL_Directory.html">HBSL DIRECTORY!</a></p>
+<a href="http://www.gruntleball.com/hbsl/1977/web/index.html">League homepage</a></p>
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p><br> 
+
+<h2><br> ROSTER NOTES </h2><p><pre>
+
+</pre></p>
+
+<h2><br> CURRENT INJURIES </h2>
+<pre> 
+
+</pre>
+
+
+<h2><br> TRANSACTIONS </h2>
+<pre>
+
+</pre>
+
+
+<h2><br> GAME RESULTS <a name="Results"></a></h2>
+<h3><a href="#Game 1"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3><a href="#Game 2"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3><a href="#Game 3"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3><a href="#Game 4"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3><a href="#Game 5"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3><a href="#Game 6"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3><a href="#Game 7"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3><a href="#Game 8"><br> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+
+
+
+<h2><br> STANDINGS </h2>
+<pre>
+
+</pre>
+
+
+<h2><br> BOXSCORES-SCORESHEETS-GAME LOGS</h2>
+      <h3><a name="Game 1"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 2"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 3"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 4"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 5"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 6"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 7"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 8"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre>
+
+
+<h2><a name="Playing Time Report"></a><br> PLAYING TIME REPORT </h2><pre>
+
+</pre>
+</body></html>
+<!-- 
+http://www.gruntleball.com/hbsl/1977/dailies/xxxx.html
+ -->

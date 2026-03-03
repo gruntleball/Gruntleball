@@ -1,0 +1,132 @@
+<html>
+<head>
+<style type="text/css">
+p         {color: #000000; font-size: 14; font-weight:normal; font-family: arial; }
+h1        {color: #000000; font-size: 38; font-weight:heavy; font-family: arial; }
+h2        {color: #000000; font-size: 15; font-family: arial; padding-top: 12px; border-top: 3px ; border-top-style: solid; border-top-color: #666666; }
+h3        {color: #000000; font-size: 14; font-family: arial; font-weight:normal; padding-top: 6px; border-top: 1px ; border-top-style: solid; border-top-color: #666666; }
+h4        {color: #000000; font-size: 20; font-weight:normal; font-family: arial; }
+a:link    {color: #0000FF; font-size: 14; font-family: arial; }
+a:visited {color: #00FF00; font-size: 14; font-family: arial; }
+a:hover   {color: #FF0000; font-size: 14; font-family: arial; }
+pre       {font-size: 14; font-family: "courier" ; }
+body      {background-color: #ffffff; color:#000000; font-family: arial; font-size: 12;}
+</style>
+</head>
+<img src="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/Images/2004b.jpg" width=355 alt="Les Savy Fav | Inches"/>
+<h1> 2.54 CENTIMETERS </h1>
+<h4><b> INSIDER BASEBALL LEAGUE DAILY </b></h4>
+ 
+<p><b> 2004 </b></p><br>
+<p> 
+<br><br>
+
+</p><br><br>
+<a href="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/2004/Web/index.htm">League statistics only</a></p>
+<a href="#Standings"> Jump to Standings </a></p> 
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p> 
+
+<h2> ROSTER NOTES </h2><pre>
+
+</pre>
+
+
+<h2> CURRENT INJURIES </h2><pre>
+
+</pre>
+
+
+<h2> TRANSACTIONS </h2><pre>
+
+</pre>
+
+
+<h2> RESULTS <a name="Results"></a> </h2>
+<h3> <a href="#Game 1"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 2"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 3"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 4"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 5"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 6"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 7"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 8"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 9"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+<h3> <a href="#Game 10"> Details</a></h3><pre>
+
+</pre> 
+<br> HR - 
+<br> 
+
+
+<h2> <a name="Standings"></a> STANDINGS </h2>
+<pre>
+
+</pre>
+
+
+<h2> BOXSCORES, SCORESHEETS, AND GAME LOGS </h2><pre>
+</pre><h3> <a name="Game 1"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 2"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 3"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 4"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 5"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 6"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 7"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 8"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 9"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 10"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre>
+
+
+<h2> <a name="Playing Time Report"></a> PLAYING TIME REPORT </h2><pre>
+
+</pre></body></html>
+<!-- 
+https://dl.dropbox.com/u/3641528/Gruntleball/Albumball/2004/Dailies/xxxx.htm
+-->

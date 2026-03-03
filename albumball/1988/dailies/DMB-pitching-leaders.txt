@@ -1,0 +1,399 @@
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+------Earned run average------     ----------Strikeouts----------     -------------Walks------------ 
+                                                                                                     
+Ojeda          TEW        1.92     Langston       ES?         223     DeLeon         ES?          91 
+Stieb          EVN        2.02     Clemens        NFG         215     Stewart        MAR          85 
+Moore          CEN        2.08     Ryan           ES?         208     Langston       ES?          79 
+Gooden         FHK        2.11     Scott          BBG         201     Gubicza        BBG          76 
+Higuera        CIN        2.26     Moore          CEN         200     Finley         NEE          75 
+Gubicza        BBG        2.45     Hershiser      BBG         192     Hough          CTW          74 
+Scott          BBG        2.48     DeLeon         ES?         185     Jackson        CEN          74 
+Robinson       CEN        2.57     Higuera        CIN         183     Stieb          EVN          73 
+Moyer          BAR        2.58     Hurst          MAR         180     Fernandez      CIN          71 
+Viola          CTW        2.59     Fernandez      CIN         178     Maddux         BMB          70 
+                                                                                                     
+                                                                                                     
+-------------Wins-------------     ------Winning percentage------     ------------Losses------------ 
+                                                                                                     
+Moore          CEN        23-3     Robinson       CEN        .941     Flanagan       CCC        3-21 
+Jackson        CEN        23-9     Moore          CEN        .885     Davis          RYK        5-19 
+Hershiser      BBG        22-7     Smith,P        MAR        .800     Maddux         BMB        7-19 
+Swindell       CEN        20-7     Ojeda          TEW        .762     Ryan           ES?        7-17 
+Moyer          BAR        18-9     Hershiser      BBG        .759     Mahler         RYK        8-17 
+Hurst          MAR        17-6     Rijo           GBP        .750     Martinez,De    NEE        9-16 
+Robinson       CEN        16-1     Swindell       CEN        .741     Leibrandt      GBP        7-14 
+Ojeda          TEW        16-5     Hurst          MAR        .739     Sutcliffe      NFG        8-14 
+Fernandez      CIN        16-6     Fernandez      CIN        .727     Tudor          BAR        8-14 
+Viola          CTW        16-8     Stieb          EVN        .722     Jones          RYK        9-14 
+                                                                                                     
+                                                                                                     
+--------Batting average-------     ------On-base percentage------     ------Slugging percentage----- 
+                                                                                                     
+Stieb          EVN        .187     Ojeda          TEW        .247     Stieb          EVN        .268 
+Gubicza        BBG        .202     Moore          CEN        .259     Gubicza        BBG        .285 
+Ojeda          TEW        .205     Stieb          EVN        .262     Moore          CEN        .289 
+Moore          CEN        .211     Gubicza        BBG        .266     Ojeda          TEW        .297 
+Fernandez      CIN        .215     Higuera        CIN        .267     Witt           TEW        .304 
+Magrane        EVN        .216     Browning       EVN        .271     Gooden         FHK        .307 
+Hershiser      BBG        .220     Rasmussen      MAR        .273     Walk           CTW        .314 
+Robinson       CEN        .220     Hershiser      BBG        .274     Magrane        EVN        .315 
+Scott          BBG        .221     Deshaies       FHK        .274     Hershiser      BBG        .317 
+Browning       EVN        .223     Robinson       CEN        .275     Higuera        CIN        .324 
+                                                                                                     
+                                                                                                     
+------Hits per 9 innings------     ------Walks per 9 innings-----     -----Runners per 9 innings---- 
+                                                                                                     
+Stieb          EVN         5.9     Mahler         RYK         1.1     Ojeda          TEW         8.5 
+Ojeda          TEW         6.6     Bosio          SUN         1.2     Moore          CEN         9.1 
+Gubicza        BBG         6.6     Reuschel       RYK         1.2     Stieb          EVN         9.1 
+Moore          CEN         6.9     Swindell       CEN         1.2     Higuera        CIN         9.5 
+Fernandez      CIN         7.0     Saberhagen     BBG         1.5     Gubicza        BBG         9.5 
+Magrane        EVN         7.1     Tudor          BAR         1.6     Rasmussen      MAR         9.8 
+Robinson       CEN         7.3     Higuera        CIN         1.7     Robinson       CEN         9.8 
+Scott          BBG         7.3     Gooden         FHK         1.8     Browning       EVN         9.8 
+Hershiser      BBG         7.3     Ojeda          TEW         1.8     Moyer          BAR         9.9 
+Higuera        CIN         7.5     Wegman         CCC         1.8     Hershiser      BBG         9.9 
+                                                                                                     
+                                                                                                     
+---Strikeouts per 9 innings---     ----Homeruns per 9 innings----     --Stolen bases per 9 innings-- 
+                                                                                                     
+Clemens        NFG         9.8     Witt           TEW         0.1     Walk           CTW         0.2 
+Ryan           ES?         9.5     Walk           CTW         0.2     Viola          CTW         0.2 
+Fernandez      CIN         8.7     Gooden         FHK         0.4     Saberhagen     BBG         0.3 
+DeLeon         ES?         8.4     Morris         TEW         0.4     Browning       EVN         0.3 
+Langston       ES?         8.2     DeLeon         ES?         0.4     Ojeda          TEW         0.3 
+Cone           SUN         8.1     Stieb          EVN         0.4     Reuschel       RYK         0.3 
+Scott          BBG         8.0     Bosio          SUN         0.4     Robinson       CEN         0.3 
+Higuera        CIN         7.4     Ojeda          TEW         0.4     Downs          FHK         0.3 
+Moore          CEN         7.3     Gubicza        BBG         0.4     Welch          CIN         0.4 
+Darling        FHK         6.8     Moore          CEN         0.5     Glavine        CCC         0.4 
+                                                                                                     
+                                                                                                     
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+-----------Shutouts-----------     ---Quality start percentage---     ------Average run support----- 
+                                                                                                     
+Moore          CEN           6     Ojeda          TEW        .870     Hershiser      BBG         5.4 
+Swindell       CEN           5     Viola          CTW        .824     Moore          CEN         5.4 
+Anderson       CTW           4     Gubicza        BBG        .794     Candiotti      CIN         5.4 
+Ojeda          TEW           4     Gooden         FHK        .788     Stewart        MAR         5.3 
+Higuera        CIN           4     Moore          CEN        .781     Jackson        CEN         5.3 
+Rasmussen      MAR           4     Hershiser      BBG        .765     Show           SUN         5.1 
+Jackson        CEN           4     Magrane        EVN        .765     Fernandez      CIN         5.1 
+Witt           TEW           3     Walk           CTW        .750     Robinson       CEN         5.1 
+Stieb          EVN           3     Robinson       CEN        .741     Rasmussen      MAR         5.1 
+Gubicza        BBG           3     Reuschel       RYK        .735     Drabek         TEW         5.1 
+                                                                                                     
+                                                                                                     
+------Save Opportunities------     -------------Saves------------     --------Save percentage------- 
+                                                                                                     
+Harvey         TEW          49     Harvey         TEW          40     Jones          FHK        .861 
+Worrell        RYK          37     Jones          FHK          31     McMurtry       CEN        .844 
+Franco         SUN          36     Franco         SUN          30     Myers          CIN        .840 
+Jones          FHK          36     Worrell        RYK          28     Franco         SUN        .833 
+Thigpen        GBP          35     McMurtry       CEN          27     Reardon        CTW        .828 
+McMurtry       CEN          32     Thigpen        GBP          26     Harvey         TEW        .816 
+Holton         BBG          30     Reardon        CTW          24     Howell,J       MAR        .760 
+Reardon        CTW          29     Holton         BBG          22     Worrell        RYK        .757 
+Youmans        EVN          29     Myers          CIN          21     Thigpen        GBP        .743 
+Orosco         ES?          28     Orosco         ES?          20     Holton         BBG        .733 
+                                                                                                     
+                                                                                                     
+-------------Holds------------     ----------Blown saves---------     -----Blown save percentage---- 
+                                                                                                     
+Harris         MAR          15     Gott           BMB          10     Gott           BMB        .385 
+Bailes         TEW          13     Youmans        EVN           9     Youmans        EVN        .310 
+Pico           TEW          13     Thigpen        GBP           9     Holton         BBG        .267 
+August         BBG          13     Worrell        RYK           9     Thigpen        GBP        .257 
+Cerutti        MAR          12     Harvey         TEW           9     Orosco         ES?        .250 
+Lefferts       BBG          11     Holton         BBG           8     Worrell        RYK        .243 
+Jones          GBP          11     Orosco         ES?           7     Howell,J       MAR        .240 
+Tekulve        NEE          11     Bedrosian      FHK           6     Harvey         TEW        .184 
+Henneman       CTW          11     Howell,J       MAR           6     Reardon        CTW        .172 
+Meads          SUN          10     Franco         SUN           6     Franco         SUN        .167 
+                                                                                                     
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+------------Innings-----------     ----Batters faced per game----     --------Complete games-------- 
+                                                                                                     
+Hershiser      BBG       264.0     Hershiser      BBG       31.41     Swindell       CEN          12 
+Jackson        CEN       261.0     Bosio          SUN       30.58     Hershiser      BBG          12 
+Viola          CTW       253.2     Jackson        CEN       30.40     Moore          CEN           9 
+Moore          CEN       246.1     Swindell       CEN       30.32     Witt           TEW           8 
+Langston       ES?       245.0     Moore          CEN       30.22     Maddux         BMB           8 
+Hurst          MAR       243.2     Witt           TEW       30.07     Jackson        CEN           8 
+Gubicza        BBG       242.2     Viola          CTW       29.85     Saberhagen     BBG           7 
+Reuschel       RYK       235.1     Wegman         CCC       29.34     Gubicza        BBG           7 
+Gooden         FHK       234.1     Maddux         BMB       29.24     Magrane        EVN           6 
+Swindell       CEN       232.2     Walk           CTW       29.16     Anderson       CTW           6 
+                                                                                                     
+                                                                                                     
+------------Doubles-----------     ------------Triples-----------     -----------Homeruns----------- 
+                                                                                                     
+Mahler         RYK          52     Saberhagen     BBG          14     Deshaies       FHK          32 
+Reuschel       RYK          47     Jones          RYK          12     Browning       EVN          30 
+Jackson        CEN          43     Robinson       CEN          10     Ryan           ES?          29 
+Flanagan       CCC          42     Landrum        ES?           9     Leibrandt      GBP          29 
+Saberhagen     BBG          42     Perez          FER           9     Langston       ES?          27 
+Walk           CTW          42     Deshaies       FHK           9     Martinez,De    NEE          26 
+Morris         TEW          42     Whitson        GBP           8     Fernandez      CIN          24 
+Maddux         BMB          42     Fernandez      CIN           8     Darwin         NEE          23 
+Stewart        MAR          41     Darling        FHK           8     Darling        FHK          23 
+Langston       ES?          41     Drabek         TEW           8     Boyd           GBP          22 
+                                                                                                     
+                                                                                                     
+---------Stolen bases---------     -------Steal percentage-------     -----------Pickoffs----------- 
+                                                                                                     
+Ryan           ES?          37     Glavine        CCC        .421     Hershiser      BBG           6 
+Blyleven       NFG          33     Witt           TEW        .526     Davis          RYK           6 
+Scott          BBG          31     LaPoint        CTW        .526     Dopson         FER           6 
+Dopson         FER          29     Candiotti      CIN        .529     Blyleven       NFG           6 
+Gross,K        TEW          25     Tanana         CCC        .529     Reuschel       RYK           5 
+DeLeon         ES?          24     Robinson       TEW        .550     Candiotti      CIN           5 
+Gooden         FHK          23     Darwin         NEE        .565     Morris         TEW           5 
+Hurst          MAR          23     Fraser         BMB        .576     Jackson        CEN           5 
+Mahler         RYK          23     Leibrandt      GBP        .579     Gubicza        BBG           5 
+Jones          RYK          22     August         BBG        .579     Jones          RYK           5 
+                                                                                                     
+                                                                                                     
+---------Hit by pitch---------     ---------Wild pitches---------     -------------Balks------------ 
+                                                                                                     
+Boddicker      CIN          11     Witt           FER          17     Perez          SUN          15 
+Reuss          FHK          10     Perez          FER          17     Stewart        MAR          13 
+Trout          FER           9     Davis          RYK          16     Deshaies       FHK          12 
+Maddux         CCC           9     Walk           CTW          15     Morris         TEW          11 
+Hillegas       RYK           9     McCaskill      ES?          11     Mahler         RYK          10 
+Key            NEE           9     McDowell       RYK          10     Martinez,De    NEE           9 
+Flanagan       CCC           9     Cone           SUN          10     Honeycutt      EVN           8 
+Glavine        CCC           9     Fraser         BMB          10     Russell        ES?           8 
+Ryan           ES?           9     Stewart        MAR          10     Smith,B        EVN           8 
+Higuera        CIN           9     Assenmacher    GBP           9     Guzman         FER           8 
+                                                                                                     
+                                                                                                     
+-------------Games------------     ------------Starts------------     ---------Batters faced-------- 
+                                                                                                     
+Henneman       CTW          71     Moyer          BAR          36     Hershiser      BBG        1068 
+Pena           CIN          71     Hurst          MAR          35     Jackson        CEN        1064 
+Holton         BBG          70     Langston       ES?          35     Viola          CTW        1015 
+Harris         MAR          70     Jackson        CEN          35     Langston       ES?        1014 
+Thigpen        GBP          69     DeLeon         ES?          35     Hurst          MAR         987 
+Jackson        CIN          68     Gubicza        BBG          34     Gubicza        BBG         970 
+Stanley        CTW          67     Viola          CTW          34     Stewart        MAR         968 
+August         BBG          67     Scott          BBG          34     Moore          CEN         967 
+Smith          BAR          66     Hershiser      BBG          34     Maddux         BMB         965 
+Harvey         TEW          66     Reuschel       RYK          34     Swindell       CEN         940 
+                                                                                                     
+                                                                                                     
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+--------Games finished--------     Runners left scored percentage      Inherited runners scored pct  
+                                                                                                     
+Holton         BBG          58     Scott          BBG        .000     Swift          NFG        .077 
+Harvey         TEW          57     Downs          FHK        .000     Thigpen        GBP        .125 
+Franco         SUN          47     Robinson       CEN        .000     Crim           MAR        .125 
+Thigpen        GBP          46     Robinson       TEW        .063     Franco         SUN        .135 
+Jones          FHK          45     Clemens        NFG        .071     Harvey         TEW        .147 
+Gott           BMB          41     Hurst          MAR        .091     Bailes         TEW        .171 
+McMurtry       CEN          40     LaPoint        CTW        .129     Worrell        RYK        .212 
+Howell,J       MAR          40     Stieb          EVN        .143     Smith          BMB        .214 
+Reardon        CTW          39     Moore          CEN        .143     Dayley         EVN        .222 
+Worrell        RYK          38     Mahler         RYK        .150     Cerutti        MAR        .226 
+                                                                                                     
+                                                                                                     
+--------Ground ball DP--------     ------------------------------     ------------------------------ 
+                                                                                                     
+Reuschel       RYK          30                                                                       
+Gooden         FHK          27                                                                       
+Jackson        CEN          25                                                                       
+Tudor          BAR          24                                                                       
+Swift          NFG          23                                                                       
+Leibrandt      GBP          23                                                                       
+Langston       ES?          22                                                                       
+Stieb          EVN          21                                                                       
+Viola          CTW          21                                                                       
+Farrell        NFG          20                                                                       
+                                                                                                     
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+----Batting average vs LHB----     ---On-base percentage vs LHB--     --Slugging percentage vs LHB-- 
+                                                                                                     
+Moyer          BAR        .127     Moyer          BAR        .196     Moyer          BAR        .187 
+Jones          FHK        .167     Jones          FHK        .202     Jones          FHK        .220 
+Higuera        CIN        .188     Tanana         CCC        .228     Tekulve        NEE        .225 
+Berenguer      CCC        .190     Viola          CTW        .233     Higuera        CIN        .242 
+McCullers      MAR        .194     Langston       ES?        .237     Gubicza        BBG        .254 
+Langston       ES?        .194     Tekulve        NEE        .248     Reardon        CTW        .257 
+Viola          CTW        .197     Higuera        CIN        .256     Stieb          EVN        .260 
+Stieb          EVN        .198     Moore          CEN        .258     Viola          CTW        .268 
+Tekulve        NEE        .199     Reardon        CTW        .265     Langston       ES?        .269 
+Robinson       TEW        .201     Downs          FHK        .271     Moore          CEN        .277 
+                                                                                                     
+                                                                                                     
+----------Hits vs LHB---------     -----Runs batted in vs LHB----     -----Isolated power vs LHB---- 
+                                                                                                     
+Reuschel       RYK         151     Hershiser      BBG          52     Tekulve        NEE        .026 
+Morris         TEW         125     Saberhagen     BBG          50     Reardon        CTW        .033 
+Walk           CTW         124     Darwin         NEE          48     Pena           CIN        .036 
+Mahler         RYK         120     Bosio          SUN          48     Gubicza        BBG        .051 
+Hershiser      BBG         117     Sutcliffe      NFG          47     Swift          NFG        .052 
+Wegman         CCC         115     Fraser         BMB          46     Higuera        CIN        .054 
+Maddux         BMB         114     Stewart        MAR          46     Jones          FHK        .054 
+Martinez,De    NEE         113     Martinez,De    NEE          45     Gooden         FHK        .056 
+Darling        FHK         113     Walk           CTW          45     McCaskill      ES?        .057 
+Whitson        GBP         112     Boddicker      CIN          44     Jackson        CEN        .058 
+                                                                                                     
+                                                                                                     
+--------Doubles vs LHB--------     --------Triples vs LHB--------     --------Homeruns vs LHB------- 
+                                                                                                     
+Reuschel       RYK          34     Perez          FER           8     Fraser         BMB          16 
+Walk           CTW          27     Robinson       CEN           8     Martinez,De    NEE          13 
+Candiotti      CIN          25     Acker          ES?           7     Ryan           ES?          13 
+Sutcliffe      NFG          24     Jones          RYK           7     Deshaies       FHK          12 
+Darwin         NEE          24     Whitson        GBP           6     Hershiser      BBG          12 
+Robinson       CEN          24     Ontiveros      BMB           5     Portugal       NFG          11 
+Wegman         CCC          24     Boyd           GBP           5     Darling        FHK          11 
+Fraser         BMB          23     Perez          SUN           5     Scott          BBG          10 
+Stewart        MAR          23     Witt           FER           5     Smith,B        EVN           9 
+Welch          CIN          22     Show           SUN           5     Darwin         NEE           9 
+                                                                                                     
+                                                                                                     
+----Extra base hits vs LHB----     ------Total bases vs LHB------     ------Hit by pitch vs LHB----- 
+                                                                                                     
+Reuschel       RYK          44     Reuschel       RYK         210     Trout          FER           8 
+Fraser         BMB          43     Martinez,De    NEE         181     Reuss          FHK           8 
+Robinson       CEN          38     Hershiser      BBG         179     Flanagan       CCC           6 
+Martinez,De    NEE          37     Fraser         BMB         177     Clemens        NFG           6 
+Darwin         NEE          36     Darling        FHK         171     Finley         NEE           5 
+Candiotti      CIN          35     Whitson        GBP         161     Boddicker      CIN           5 
+Hershiser      BBG          35     Ryan           ES?         161     Honeycutt      EVN           4 
+Stewart        MAR          34     Morris         TEW         160     Key            NEE           4 
+Jones          RYK          33     Robinson       CEN         158     Hammaker       BAR           4 
+Whitson        GBP          33     Stewart        MAR         158     Maddux         CCC           4 
+                                                                                                     
+                                                                                                     
+---------Walks vs LHB---------     -------Strikeouts vs LHB------     ----Sacrifice bunts vs LHB---- 
+                                                                                                     
+DeLeon         ES?          63     Clemens        NFG          98     Finley         NEE           7 
+Hershiser      BBG          52     Ryan           ES?          97     Russell        ES?           7 
+Maddux         BMB          49     Scott          BBG          89     Jones          RYK           7 
+Stewart        MAR          48     Moore          CEN          89     Hershiser      BBG           7 
+Cone           SUN          47     Darling        FHK          86     McCaskill      ES?           6 
+Gubicza        BBG          47     Rijo           GBP          82     Downs          FHK           6 
+Ryan           ES?          46     Stewart        MAR          81     Davis          RYK           6 
+Rijo           GBP          45     Gooden         FHK          78     DeLeon         ES?           6 
+Scott          BBG          45     Belcher        NEE          75     Maddux         BMB           6 
+Show           SUN          42     Robinson       CEN          75     Reuschel       RYK           6 
+                                                                                                     
+                                                                                                     
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+----Sacrifice flies vs LHB----     ---------Atbats vs LHB--------     ---Plate appearances vs LHB--- 
+                                                                                                     
+Wegman         CCC           8     Gubicza        BBG         512     Hershiser      BBG         567 
+Sutcliffe      NFG           7     Reuschel       RYK         510     Gubicza        BBG         564 
+Bosio          SUN           7     Hershiser      BBG         507     Reuschel       RYK         546 
+Saberhagen     BBG           7     Moore          CEN         466     Stewart        MAR         520 
+Belcher        NEE           6     Mahler         RYK         464     Morris         TEW         508 
+Stewart        MAR           6     Morris         TEW         462     Moore          CEN         501 
+Costello       EVN           5     Stewart        MAR         461     Maddux         BMB         501 
+Witt           FER           5     Drabek         TEW         452     Drabek         TEW         500 
+Smith,B        EVN           5     Walk           CTW         443     Walk           CTW         488 
+DeLeon         ES?           5     Maddux         BMB         442     Mahler         RYK         485 
+                                                                                                     
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+----Batting average vs RHB----     ---On-base percentage vs RHB--     --Slugging percentage vs RHB-- 
+                                                                                                     
+Robinson       CEN        .176     Robinson       CEN        .210     Stieb          EVN        .275 
+Stieb          EVN        .176     Reuschel       RYK        .222     Hershiser      BBG        .278 
+Gubicza        BBG        .201     Clemens        NFG        .238     Walk           CTW        .278 
+Reuschel       RYK        .204     Smith,B        EVN        .241     Rijo           GBP        .293 
+Clemens        NFG        .205     Hershiser      BBG        .243     Witt           TEW        .298 
+Smith,B        EVN        .205     Rijo           GBP        .244     Reuschel       RYK        .302 
+Rijo           GBP        .207     Stieb          EVN        .248     Moore          CEN        .302 
+Hershiser      BBG        .208     Darling        FHK        .249     Ojeda          TEW        .310 
+Jackson        CEN        .208     Browning       EVN        .250     Smith,B        EVN        .318 
+Moore          CEN        .209     Gubicza        BBG        .259     Gooden         FHK        .321 
+                                                                                                     
+                                                                                                     
+----------Hits vs RHB---------     -----Runs batted in vs RHB----     -----Isolated power vs RHB---- 
+                                                                                                     
+Langston       ES?         190     Leibrandt      GBP          94     Walk           CTW        .059 
+Leibrandt      GBP         189     Langston       ES?          89     Witt           TEW        .059 
+Viola          CTW         186     Jackson        CEN          80     Hershiser      BBG        .070 
+Hurst          MAR         183     Flanagan       CCC          77     Gooden         FHK        .072 
+LaPoint        CTW         176     Finley         NEE          74     Smith,Z        FER        .085 
+Swindell       CEN         176     Browning       EVN          69     DeLeon         ES?        .085 
+Moyer          BAR         169     LaPoint        CTW          67     Rijo           GBP        .087 
+Jackson        CEN         163     Tanana         CCC          63     Whitson        GBP        .088 
+Flanagan       CCC         157     Deshaies       FHK          61     Ojeda          TEW        .090 
+Finley         NEE         157     Glavine        CCC          60     Bosio          SUN        .091 
+                                                                                                     
+                                                                                                     
+--------Doubles vs RHB--------     --------Triples vs RHB--------     --------Homeruns vs RHB------- 
+                                                                                                     
+Jackson        CEN          37     Landrum        ES?           9     Browning       EVN          27 
+Flanagan       CCC          35     Saberhagen     BBG           9     Langston       ES?          26 
+Langston       ES?          33     Swindell       CEN           8     Leibrandt      GBP          25 
+Mahler         RYK          32     Finley         NEE           7     Fernandez      CIN          20 
+Higuera        CIN          32     Langston       ES?           7     Deshaies       FHK          20 
+Tudor          BAR          31     Drabek         TEW           6     Tanana         CCC          19 
+Tanana         CCC          30     Fernandez      CIN           6     Finley         NEE          19 
+Smiley         EVN          30     Anderson       NFG           5     Wells          BAR          18 
+Deshaies       FHK          30     Guante         CIN           5     Moyer          BAR          18 
+Leibrandt      GBP          30     Jones          RYK           5     Flanagan       CCC          17 
+                                                                                                     
+                                                                                                     
+----Extra base hits vs RHB----     ------Total bases vs RHB------     ------Hit by pitch vs RHB----- 
+                                                                                                     
+Langston       ES?          66     Langston       ES?         315     Gossage        BMB           8 
+Leibrandt      GBP          60     Leibrandt      GBP         304     Candiotti      CIN           8 
+Jackson        CEN          56     Viola          CTW         266     Welch          CIN           8 
+Deshaies       FHK          55     Swindell       CEN         265     Ryan           ES?           8 
+Flanagan       CCC          53     Hurst          MAR         265     Eichhorn       CCC           7 
+Tanana         CCC          53     Moyer          BAR         256     Gross,K        TEW           7 
+Browning       EVN          51     Jackson        CEN         253     Hillegas       RYK           7 
+Swindell       CEN          51     LaPoint        CTW         252     Swift          NFG           7 
+Moyer          BAR          48     Flanagan       CCC         245     Saberhagen     BBG           7 
+Higuera        CIN          48     Finley         NEE         244     Drabek         TEW           7 
+                                                                                                     
+                                                                                                     
+---------Walks vs RHB---------     -------Strikeouts vs RHB------     ----Sacrifice bunts vs RHB---- 
+                                                                                                     
+Langston       ES?          69     Langston       ES?         188     Hurst          MAR          11 
+Jackson        CEN          64     Hurst          MAR         144     Langston       ES?          10 
+Finley         NEE          58     Fernandez      CIN         138     Witt           FER           9 
+Fernandez      CIN          54     Jackson        CEN         138     Finley         NEE           9 
+Magrane        EVN          50     Higuera        CIN         137     Downs          FHK           8 
+Hurst          MAR          49     Viola          CTW         135     Candiotti      CIN           8 
+Viola          CTW          46     Swindell       CEN         125     Fraser         BMB           8 
+Flanagan       CCC          45     Hershiser      BBG         124     Ryan           ES?           8 
+Tanana         CCC          45     Clemens        NFG         117     Leibrandt      GBP           8 
+LaPoint        CTW          42     DeLeon         ES?         112     Gross,K        TEW           7 
+                                                                                                     
+                                                                                                     
+                          DMB pitching leaders -- All players in database                           
+                                           Regular season                                           
+
+----Sacrifice flies vs RHB----     ---------Atbats vs RHB--------     ---Plate appearances vs RHB--- 
+                                                                                                     
+Rasmussen      MAR           7     Jackson        CEN         783     Jackson        CEN         855 
+Russell        ES?           6     Viola          CTW         762     Langston       ES?         825 
+Flanagan       CCC           6     Hurst          MAR         741     Viola          CTW         821 
+Deshaies       FHK           6     Langston       ES?         738     Hurst          MAR         806 
+Finley         NEE           6     Swindell       CEN         713     Leibrandt      GBP         767 
+Leibrandt      GBP           6     Leibrandt      GBP         708     Swindell       CEN         745 
+Langston       ES?           6     Higuera        CIN         680     Moyer          BAR         728 
+Perez          SUN           5     Moyer          BAR         678     Higuera        CIN         723 
+Saberhagen     BBG           5     Rasmussen      MAR         666     Rasmussen      MAR         718 
+Drabek         TEW           5     LaPoint        CTW         658     Finley         NEE         712 
+                                                                                                     
+

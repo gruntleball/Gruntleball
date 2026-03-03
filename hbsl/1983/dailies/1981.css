@@ -1,0 +1,9 @@
+p         {color: #ffeecc; font-size: 12; font-weight: 200; font-family: "arial"; font-size: 14;}
+h1        {color: #ff5511; font-size: 46; font-weight: 600; font-family: "arial"; }
+h2        {color: #ffeecc; font-size: 15; font-weight: 600; font-family: "arial"; border-top: 2px ; border-top-style: solid; border-top-color: #dd7755; }
+h3        {color: #ffeecc; font-size: 12; font-weight: 200; font-family: "arial"; border-top: 1px ; border-top-style: dotted; border-top-color: #773322; }
+h4        {color: #aabb55; font-size: 20; font-weight: 600; font-family: "arial"; }
+a:link    {color: #ff5511; font-size: 14; font-weight: 200; font-family: "arial"; }
+a:visited {color: #dd7755; font-size: 14; font-weight: 200; font-family: "arial"; }
+a:hover   {color: #ccdd88; font-size: 14; font-weight: 800; font-family: "arial"; }
+body      {background-color: #000000; color:#ffeecc; font-family: "arial"; font-size: 14;}

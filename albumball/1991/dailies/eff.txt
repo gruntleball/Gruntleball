@@ -1,0 +1,223 @@
+                   Manager Profile for 1991 Effin Shebazzle!
+ 
+Pitching Chart
+ 
+Usage mode:    Strict
+Rotation size: 5
+Next starter:  3
+ 
+Starting Rotation   Morgan            McDowell          Guzman            Swindell          Langston          
+Spot Starters                                                                                                 
+Spot Pct                                                                                                      
+ 
+Mopup situations    Corsi             Olin                                                                    
+Long relievers      McDowell          Corsi             Olin                                                  
+Setup vs LHB        Russell,Je        Corsi             Frohwirth                                             
+Setup vs RHB        McDowell          Olin              Frohwirth                                             
+Closers vs LHB      Frohwirth         Eichhorn          Russell,Je                                            
+Closers vs RHB      Eichhorn          Frohwirth         McDowell                                              
+
+....................................................................................................
+                   Manager Profile for 1991 Effin Shebazzle!
+ 
+Depth Chart for 1991 Effin Shebazzle! -- vs LHP
+ 
+ 
+Usage: Game by game        Versus: Left        DH: No
+ 
+Starting Lineup
+ 
+1: Randolph         2b
+2: Molitor          1b
+3: Mack             cf
+4: Sabo             3b
+5: Mitchell         rf
+6: Grebeck          ss
+7: Smith,L          lf
+8: Spehr            c
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Spehr                Molitor              Randolph             Sabo            
+Plat                                                                                 
+Def                                                                                  
+Util1 Harper            0                                            Johnson          10  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Grebeck              Smith,L              Mack                 Mitchell        
+Plat  Johnson                                                                        
+Def                        Jackson                                   Johnson         
+Util1 Johnson          10                                            Johnson          50  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Johnson              Johnson         
+Util2                      Baines               Newson          
+Util3                      Jackson              Baines          
+Util4                      Harper               Treadway        
+Util5                      Treadway             Jackson         
+
+....................................................................................................
+                   Manager Profile for 1991 Effin Shebazzle!
+ 
+Depth Chart for 1991 Effin Shebazzle! -- vs RHP
+ 
+ 
+Usage: Game by game        Versus: Right        DH: No
+ 
+Starting Lineup
+ 
+1: Molitor          1b
+2: Treadway         2b
+3: Baines           rf
+4: Johnson          ss
+5: Mitchell         lf
+6: Sabo             3b
+7: Mack             cf
+8: Harper           c
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Harper               Molitor              Treadway             Sabo            
+Plat                                            Randolph                             
+Def                                                                                  
+Util1 LaValliere       25                       Randolph         30  Grebeck          20  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Johnson              Mitchell             Mack                 Baines          
+Plat                                                                                 
+Def                        Jackson                                   Jackson         
+Util1                                           Jackson          25                  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Grebeck              Newson          
+Util2                      Smith,L              Randolph        
+Util3                      Randolph             Smith,L         
+Util4                      Jackson              Jackson         
+Util5                      Spehr                Grebeck         
+
+....................................................................................................
+                   Manager Profile for 1991 Effin Shebazzle!
+ 
+Manager Tendencies
+ 
+Bunting for a hit:        Neutral
+Sacrifice bunting:        Least frequent
+Squeeze bunting:          Neutral
+Hit and run:              Less frequent
+Stealing:                 Least frequent
+Running:                  Neutral
+Taking pitches:           Neutral
+ 
+PH for a pitcher:         Neutral
+PH for a non-pitcher:     Neutral
+PH for platoon player:    More frequent
+PH in a blowout:          Neutral
+ 
+Pitching around:          Less frequent
+Intentional walk:         Least frequent
+Pickoff throws:           Neutral
+Pitching out:             Least frequent
+Using relievers:          Neutral
+Using closers:            Neutral
+ 
+Holding runners:          Less frequent
+Infield in:               Less frequent
+Guard lines:              Least frequent
+ 
+ 
+Player-specific tendencies
+(++ most, + more, = neutral, - less, -- least, N never)
+ 
+Player          BHt BSc BSq H&R Stl Run Tak PHL PHR PHP Blw Ard IBB Pck Out Rel Cls 
+
+....................................................................................................
+                   Manager Profile for 1991 Effin Shebazzle!
+ 
+Playing Time Limits
+ 
+                  Maximum Atbats
+Player            vsLHP    vsRHP    Starts    Relief App
+Baines              83      405          0            0
+Bell                 0        0          0           10
+Brumley             39       79          0            0
+Bush                 2      163          0            0
+Campbell             0        0          0           14
+Canale               6       28          0            0
+Christopher          0        0          0            3
+Cochrane            49      129          0            0
+Conine               0        0          0            0
+Cook                 0        0          1           19
+Corsi                0        0          0           47
+DeLeon               0        0         28            0
+Eichhorn             0        0          0           70
+Frohwirth            0        0          0           51
+Grebeck            115      109          0            0
+Guzman               0        0         23            0
+Harper             114      327          0            0
+Jackson            163      196          0            0
+Johnson            217      347          0            0
+Johnson              0        0          0            0
+Kittle              16       31          0            0
+LaValliere          54      282          0            0
+Langston             0        0         34            0
+Lyons               12      200          0            0
+Mack               137      305          0            0
+Martinez           131      144          0            0
+McDowell             0        0         35            0
+McDowell             0        0          0           71
+Mitchell           114      257          0            0
+Molitor            174      491          0            0
+Morgan               0        0         33            1
+Newson               7      125          0            0
+Olin                 0        0          0           48
+Orosco               0        0          0           47
+Randolph           148      283          0            0
+Reynoso              0        0          5            1
+Rodriguez            0        0          1           63
+Russell,Je           0        0          0           68
+Ryan                 0        0         27            0
+Sabo               193      389          0            0
+Salazar            166      167          0            0
+Sierra             188      473          0            0
+Smith,L            115      238          0            0
+Spehr               43       31          0            0
+Swindell             0        0         33            0
+Tackett              3        5          0            0
+Treadway            20      286          0            0
+Wehner              52       54          0            0

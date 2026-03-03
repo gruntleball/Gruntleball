@@ -1,0 +1,927 @@
+Frank Black League Playoffs
+Round 2 - Game 5
+
+-------------------------------------------------------------------------------------------
+TRANSACTIONS
+-------------------------------------------------------------------------------------------
+
+NEP - Demote Denis Boucher
+
+-------------------------------------------------------------------------------------------
+ROSTER NOTES
+-------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Perfectos         0  0  0  0  0  0  2  1  2     5 10  0     7  1
+1993 Beavis            0  0  0  0  0  0  0  0  0     0  6  0     4  0
+Darwin (W,2-0), Maddux (L,0-3)
+HR - Griffey (1), Tartabull (1), Wilkins (2)
+Danny Darwin pitches a strong eight innings to shut down Beavis.  A 
+rough postseason for Greg Maddux as he loses 3 games and finishes with
+an ERA of 9.47.
+
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Whales            0  0  1  0  0  0  0  0  3  0  0  1     5 13  0     9  0
+1993 Endorphins        0  0  0  1  1  1  0  0  1  0  0  0     4  8  0    10  3
+Martinez (W,1-0), Orosco (L,1-1), DiPoto (S,1)
+HR - Servais (1), Thompson,Ry (1)
+Jose Rijo was very much on his game, allowing only 5 hits and one walk
+through 8.0 innings.  The Whales rallied in the 9th off of Roberto 
+Hernandez, but Jim Gott, once again, could not hold the lead, handing
+the game off to (the lesser) Pedro Martinez.  The Whales had two runners
+gunned down at the plate during this game.
+
+-------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------
+
+Needmore defeats Butt Mountain 4 games to 1.
+Chinatrust leads Evanston 3 games to 2.
+
+-------------------------------------------------------------------------------------------
+CURRENT INJURIES                               (*** new'ish injury)  (<-- can be activated)
+-------------------------------------------------------------------------------------------
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/17/1993 CTW     Gott             General             10/18/1993    1    1 
+10/13/1993 BMB     Hulett           General             10/22/1993    9    5 
+10/12/1993 CTW     Hansen           Hit by pitch        10/30/1993   18   13 
+
+-------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+-------------------------------------------------------------------------------------------
+
+10/17/1993, NEP93-BMB93, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Perfectos         0  0  0  0  0  0  2  1  2     5 10  0     7  1
+1993 Beavis            0  0  0  0  0  0  0  0  0     0  6  0     4  0
+ 
+Perfectos            AB  R  H BI   AVG    Beavis               AB  R  H BI   AVG
+Hale              2b  5  0  2  2  .381    Kruk              1b  4  0  1  0  .194       
+ Russell          p   0  0  0  0  .000    Whiten            cf  4  0  1  0  .182       
+Whitaker          ss  3  0  1  0  .267    Martin            rf  4  0  0  0  .346       
+ Bell             lf  0  0  0  0  .500    Gonzalez          lf  4  0  1  0  .220       
+Olerud            1b  5  0  0  0  .273    Williams          3b  3  0  1  0  .347       
+Griffey           cf  4  1  1  1  .227    Valentin          ss  3  0  1  0  .241       
+Tartabull         lf  4  1  1  1  .200    Sandberg          2b  2  0  0  0  .343       
+ Amaral           ss  0  0  0  0  .333     McGwire          ph  1  0  0  0  .412       
+Wilkins           c   3  2  1  1  .214     Gonzales,R       2b  0  0  0  0  .125       
+Merced            rf  4  1  3  0  .533    Steinbach         c   2  0  0  0  .295       
+Sheffield         3b  4  0  1  0  .308     Goff             ph  1  0  0  0  .286       
+Darwin            p   3  0  0  0  .000    Maddux            p   2  0  1  0  .125       
+ Clark            ph  1  0  0  0  .500     Franco           ph  1  0  0  0  .000       
+ DeShields        2b  0  0  0  0 1.000     Harris           p   0  0  0  0  .000       
+                     36  5 10  5                               31  0  6  0             
+ 
+Perfectos                        INN  H  R ER BB  K PCH STR   ERA
+Darwin           W 2-0           8.0  5  0  0  0  4 104  79  1.80
+Russell                          1.0  1  0  0  0  1  11   8  0.00
+                                 9.0  6  0  0  0  5 115  87 
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Maddux           L 0-3           8.0  8  3  3  0  5  98  65  9.47
+Harris                           1.0  2  2  2  1  2  27  16  6.00
+                                 9.0 10  5  5  1  7 125  81 
+ 
+NEP: Bell inserted at lf in the 8th
+     Amaral inserted at ss in the 8th
+     Clark batted for Darwin in the 9th
+     DeShields inserted at 2b in the 9th
+BMB: McGwire batted for Sandberg in the 8th
+     Goff batted for Steinbach in the 8th
+     Franco batted for Maddux in the 8th
+     Gonzales,R inserted at 2b in the 9th
+     Goff moved to c in the 9th
+ 
+2B-Merced 3, Williams. HR-Griffey(1), Tartabull(1), Wilkins(2). K-Whitaker, 
+Olerud, Tartabull 2, Wilkins, Sheffield, Clark, Martin, Gonzalez 2, Sandberg, 
+Steinbach. BB-Wilkins. SH-Whitaker. HBP-Bell. HB-Harris. WP-Maddux. 
+GWRBI: Tartabull
+Temperature: 61, Sky: clear, Wind: none.
+
+....................................................................................................
+10/17/1993, NEP93-BMB93, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Perfectos         0  0  0  0  0  0  2  1  2     5 10  0     7  1
+1993 Beavis            0  0  0  0  0  0  0  0  0     0  6  0     4  0
+ 
+ 
+Perfectos            -----A------ -----B------ -----C------ -----D------ -----E------
+Hale              2b 1>31           9          6>S            8            S.3-H;2-H 
+ Russell          p                                                                  
+Whitaker          ss   4          4>S            53/SH.1-2  8>k                      
+ Bell             lf                                                       HBP.1-2   
+Olerud            1b   k            3            9            7            7         
+Griffey           cf 2>53           8            wp.2-3       HR                     
+                                                 63                                  
+Tartabull         lf   k            k          7>HR           63                     
+ Amaral           ss                                                                 
+Wilkins           c    2/fl       5>k            HR         9>Harris                 
+                                                              W                      
+Merced            rf 3>53           D            D            D.1-3                  
+Sheffield         3b   S            43.2-3       8.2-3        k                      
+Darwin            p    53.1-2       13           53                                  
+ Clark            ph                                          k                      
+ DeShields        2b                                                                 
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Kruk              1b 1>S            8          6>8          9>Russell                
+                                                              3/g                    
+Whiten            cf   46/f.B-1     64/f         3/g          S                      
+Martin            rf   463/gdp    4>7            8            k                      
+Gonzalez          lf 2>k            S          7>k            7                      
+Williams          3b   D            43.1-2       63                                  
+Valentin          ss   7            S.2xH(92)    8                                   
+Sandberg          2b   8          5>k                                                
+ McGwire          ph                           8>6                                   
+ Gonzales,R       2b                                                                 
+Steinbach         c  3>8            k                                                
+ Goff             ph                             6                                   
+Maddux            p    S            43                                               
+ Franco           ph                             63                                  
+ Harris           p                                                                  
+ 
+ 
+Perfectos        IN OUT ER                  Beavis           IN OUT ER                  
+Darwin           A1  C9  0 W 2-0            Maddux           A1  D5  3 L 0-3            
+Russell          D1  D4  0                  Harris           D6  E3  2                  
+
+....................................................................................................
+10/17/1993, NEP93-BMB93, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Perfectos         0  0  0  0  0  0  2  1  2     5 10  0     7  1
+1993 Beavis            0  0  0  0  0  0  0  0  0     0  6  0     4  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Perfectos batting
+ 0-0  0 --- 12  Hale grounded out to first (BCCX)
+ 0-0  1 --- 32  Whitaker popped out to second (BCBFBFX)
+ 0-0  2 --- 22  Olerud struck out (BBCCFS)
+ 
+**************  Bottom of the 1st inning, Beavis batting
+ 0-0  0 --- 12  Kruk lined a single to shallow center (SCBX)
+ 0-0  0 1-- 11  Whiten grounded to second, forcing Kruk at second, Whiten 
+                  to first (BSX)
+ 0-0  1 1-- 01  Martin grounded into a double play, Hale to Whitaker to 
+                  Olerud (1CX)
+ 
+**************  Top of the 2nd inning, Perfectos batting
+ 0-0  0 --- 00  Griffey grounded out to third (X)
+ 0-0  1 --- 12  Tartabull struck out (CBFS)
+ 0-0  2 --- 10  Wilkins popped out to the catcher (BX)
+ 
+**************  Bottom of the 2nd inning, Beavis batting
+ 0-0  0 --- 02  Gonzalez struck out (CSFFC)
+ 0-0  1 --- 12  Williams lined a double down the left field line (CFBX)
+ 0-0  1 -2- 10  Valentin flied out to left (BX)
+ 0-0  2 -2- 00  Sandberg flied out to center (X)
+ 
+**************  Top of the 3rd inning, Perfectos batting
+ 0-0  0 --- 01  Merced grounded out to third (SX)
+ 0-0  1 --- 00  Sheffield grounded a single up the middle (X)
+ 0-0  1 1-- 12  Darwin grounded out to third, Sheffield to second (CBCX)
+ 0-0  2 -2- 00  Hale flied out to right (X)
+ 
+**************  Bottom of the 3rd inning, Beavis batting
+ 0-0  0 --- 01  Steinbach flied out to center (FX)
+ 0-0  1 --- 11  Maddux lined a single to shallow center (FBX)
+ 0-0  1 1-- 10  Kruk flied out to center (BX)
+ 0-0  2 1-- 02  Whiten grounded to short, forcing Maddux at second (CFFX)
+ 
+**************  Top of the 4th inning, Perfectos batting
+ 0-0  0 --- 21  Whitaker lined a single to center (SBBX)
+ 0-0  0 1-- 10  Olerud popped out to first (BX)
+ 0-0  1 1-- 22  Griffey flied out to center (BCCBX)
+ 0-0  2 1-- 32  Tartabull struck out (FBBCFFB>C)
+ 
+**************  Bottom of the 4th inning, Beavis batting
+ 0-0  0 --- 32  Martin flied out to left (BBFBFX)
+ 0-0  1 --- 12  Gonzalez grounded a single between first and second (SFBX)
+ 0-0  1 1-- 01  Williams grounded out to second, Gonzalez to second (FX)
+ 0-0  2 -2- 01  Valentin lined a single to right, Gonzalez out at home 
+                  (FX)
+ 
+**************  Top of the 5th inning, Perfectos batting
+ 0-0  0 --- 32  Wilkins struck out (CCBBBC)
+ 0-0  1 --- 01  Merced doubled down the right field line (CX)
+ 0-0  1 -2- 10  Sheffield grounded out to second, Merced to third (BX)
+ 0-0  2 --3 00  Darwin grounded out to the mound (X)
+ 
+**************  Bottom of the 5th inning, Beavis batting
+ 0-0  0 --- 22  Sandberg struck out (SFBBFC)
+ 0-0  1 --- 32  Steinbach struck out (BCCBFFFFBC)
+ 0-0  2 --- 22  Maddux grounded out to second (CSBBX)
+ 
+**************  Top of the 6th inning, Perfectos batting
+ 0-0  0 --- 11  Hale lined a single to center (CBX)
+ 0-0  0 1-- 00  Whitaker sacrifice bunted to third, Hale to second (Xb)
+ 0-0  1 -2- 10  Olerud lined out to right (BX)
+ 0-0  2 -2- 00  Maddux threw a wild pitch, Hale to third (B)
+ 0-0  2 --3 10  Griffey grounded out to short (B.X)
+ 
+**************  Bottom of the 6th inning, Beavis batting
+ 0-0  0 --- 22  Kruk flied out to center (CFBFBX)
+ 0-0  1 --- 01  Whiten grounded out to first (CX)
+ 0-0  2 --- 12  Martin flied out to center (BCSFX)
+ 
+**************  Top of the 7th inning, Perfectos batting
+ 0-0  0 --- 00  Tartabull homered deep to left (X)
+ 1-0  0 --- 01  Wilkins homered deep to center (FX)
+ 2-0  0 --- 00  Merced grounded a double down the third base line (X)
+ 2-0  0 -2- 11  Sheffield flied out to center, Merced to third (BSX)
+ 2-0  1 --3 11  Darwin grounded out to third (CBX)
+ 2-0  2 --3 01  Hale flied out to center (CX)
+ 
+**************  Bottom of the 7th inning, Beavis batting
+ 2-0  0 --- 02  Gonzalez struck out (CCFFS)
+ 2-0  1 --- 01  Williams grounded out to short (FX)
+ 2-0  2 --- 12  Valentin flied out to center (CFBFX)
+ 
+**************  Top of the 8th inning, Perfectos batting
+ 2-0  0 --- 32  Whitaker struck out (BFBCBS)
+ 2-0  1 --- 21  Olerud flied out to left (BBFX)
+ 2-0  2 --- 00  Griffey homered deep to right center (X)
+ 3-0  2 --- 22  Tartabull grounded out to short (CBBFX)
+ 
+**************  Bottom of the 8th inning, Beavis batting
+                Bell now playing left field
+                Amaral now playing shortstop
+                McGwire pinch hitting for Sandberg
+ 3-0  0 --- 22  McGwire popped out to short (BBCCFX)
+                Goff pinch hitting for Steinbach
+ 3-0  1 --- 21  Goff popped out to short (CBBX)
+                Franco pinch hitting for Maddux
+ 3-0  2 --- 01  Franco grounded out to short (FX)
+ 
+**************  Top of the 9th inning, Perfectos batting
+                Gonzales,R now playing second base
+                Harris now pitching
+                Goff moved to catcher
+ 3-0  0 --- 31  Wilkins walked (BBBCB)
+ 3-0  0 1-- 01  Merced doubled deep to right center, Wilkins to third (CX)
+ 3-0  0 -23 22  Sheffield struck out (BCCBC)
+                Clark pinch hitting for Darwin
+ 3-0  1 -23 12  Clark struck out (CFBFFFC)
+ 3-0  2 -23 21  Hale grounded a single between third and short, Wilkins 
+                  scored, Merced scored (BFBX)
+ 5-0  2 1-- 11  Bell was hit by a pitch, Hale to second (BFH)
+ 5-0  2 12- 00  Olerud flied out to left (X)
+ 
+**************  Bottom of the 9th inning, Beavis batting
+                DeShields now playing second base
+                Russell now pitching
+ 5-0  0 --- 01  Kruk grounded out to first (CX)
+ 5-0  1 --- 20  Whiten lined a single to shallow left (BBX)
+ 5-0  1 1-- 12  Martin struck out (BFSS)
+ 5-0  2 1-- 01  Gonzalez flied out to left (CX)
+
+___________________________________________________________________________________________
+
+10/17/1993, CTW93-EVN93, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Whales            0  0  1  0  0  0  0  0  3  0  0  1     5 13  0     9  0
+1993 Endorphins        0  0  0  1  1  1  0  0  1  0  0  0     4  8  0    10  3
+ 
+Whales               AB  R  H BI   AVG    Endorphins           AB  R  H BI   AVG
+Clark             1b  6  1  2  0  .500    Dykstra           cf  5  1  1  0  .333       
+O'Neill           rf  5  0  1  1  .235    Grace             1b  6  0  1  0  .265       
+James             cf  4  0  3  0  .333    Gilkey            lf  5  0  0  0  .326       
+ Amaro            cf  1  0  0  0  .500    Greenwell         rf  5  0  1  1  .255       
+Kreuter           c   4  1  0  0  .133    Trammell          ss  5  0  0  0  .244       
+ Valle            ph  1  0  1  1  .667    Vizcaino          3b  3  1  0  0  .333       
+Raines            lf  5  1  2  0  .200    Servais           c   5  1  3  1  .357       
+Thompson          2b  4  1  1  0  .158    Lemke             2b  1  0  1  1  .273       
+Gallego           3b  5  0  1  2  .250     Thompson         ph  1  1  1  1  .429       
+Gagne             ss  4  1  1  1  .143     Fletcher         2b  1  0  0  0  .241       
+Johnson           p   2  0  0  0  .000    Rijo              p   3  0  0  0  .300       
+ Horn             ph  1  0  0  0  .000     Hernandez        p   0  0  0  0  .000       
+ Ward,D           p   0  0  0  0  .000     Henke            p   0  0  0  0  .000       
+ Staton           ph  1  0  0  0  .667     Guillen          ph  1  0  0  0  .273       
+ Gott             p   0  0  0  0  .000     Holman           p   0  0  0  0  .000       
+ Martinez         p   0  0  0  0  .000     Guetterman       p   0  0  0  0  .000       
+ Fielder          ph  1  0  1  0  .200     Jordan           ph  1  0  0  0  .167       
+ DiPoto           p   0  0  0  0  .000     Orosco           p   0  0  0  0  .000       
+                     44  5 13  5           Holmes           p   0  0  0  0  .000       
+                                                               42  4  8  4             
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Johnson                          7.0  5  3  3  5  6 118  74  3.60
+Ward,D                           1.0  0  0  0  0  0  11   7  0.00
+Gott             BS 1            1.0  2  1  1  1  1  19  12 18.00
+Martinez         W 1-0           2.0  1  0  0  0  2  31  21  0.00
+DiPoto           S 1             1.0  0  0  0  0  0   8   4  0.00
+                                12.0  8  4  4  6  9 187 118 
+ 
+Endorphins                       INN  H  R ER BB  K PCH STR   ERA
+Rijo                             8.0  5  1  1  1  9 111  77  5.18
+Hernandez        BS 1            0.1  3  3  3  1  0  15   8  6.75
+Henke                            0.2  0  0  0  0  1   7   5 15.19
+Holman                           1.0  2  0  0  1  0  16   7  0.00
+Guetterman                       1.0  0  0  0  0  0   7   5  0.00
+Orosco           L 1-1           0.2  2  1  1  1  0  12   7  2.57
+Holmes                           0.1  1  0  0  0  0   9   6  2.84
+                                12.0 13  5  5  4 10 177 115 
+ 
+CTW: Horn batted for Johnson in the 8th
+     Staton batted for Ward,D in the 9th
+     Amaro inserted at cf in the 9th
+     Fielder batted for Martinez in the 12th
+     Valle batted for Kreuter in the 12th
+     Valle moved to c in the 12th
+EVN: Thompson batted for Lemke in the 9th
+     Guillen batted for Henke in the 9th
+     Fletcher inserted at 2b in the 10th
+     Jordan batted for Guetterman in the 11th
+ 
+2B-Clark, Dykstra. HR-Servais(1), Thompson(1). SB-Vizcaino(1). K-Clark, 
+Kreuter 2, Raines, Thompson, Gallego 2, Gagne 2, Staton, Dykstra 2, Grace 2, 
+Gilkey 2, Trammell, Rijo, Fletcher. BB-Kreuter, Raines, Thompson, Amaro, 
+Dykstra, Gilkey, Vizcaino 2, Lemke 2. SF-O'Neill, Gagne, Greenwell. 
+HBP-Trammell. HB-Johnson. 
+GWRBI: Valle
+Jim Gott was injured for this game only
+Temperature: 44, Sky: clear, Wind: right to left at 8 MPH.
+
+....................................................................................................
+10/17/1993, CTW93-EVN93, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Whales            0  0  1  0  0  0  0  0  3  0  0  1     5 13  0     9  0
+1993 Endorphins        0  0  0  1  1  1  0  0  1  0  0  0     4  8  0    10  3
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Clark             1b 1>7            S.1-3      6>63           k          0>Holman    
+                                                                           8         
+O'Neill           rf   63           9/SF.3-H     43           43           S         
+James             cf   S            7            S          9>Hernandez              
+                                                              S                      
+ Amaro            cf                                                       463/gdp   
+Kreuter           c    k          4>k(23)        54/f         46/f.B-1   1>W         
+ Valle            ph                                                                 
+                                                                                     
+Raines            lf 2>S            7          7>k            W.1-2        S.1-2     
+Thompson          2b   543/gdp      k            W            S.2-3;1-2    Guetterman
+                                                                           note 1    
+Gallego           3b   k          5>53           k            note 2       note 3    
+Gagne             ss 3>S            k            k            Henke        4         
+                                                              8/SF.3-H               
+Johnson           p    5/b          43                                               
+ Horn             ph                           8>3/fl                                
+ Ward,D           p                                                                  
+ Staton           ph                                          k                      
+ Gott             p                                                                  
+ Martinez         p                                                      2>Orosco    
+ Fielder          ph                                                       S         
+ DiPoto           p                                                                  
+ 
+ 1: 36/f.2-3;B-1  2: S.3-H;2-H;1-3  3: 32.3xH;1-2;B-1 
+ 
+ 
+Endorphins           -----A------ -----B------ -----C------ -----D------ -----E------
+Dykstra           cf 1>63         3>k          5>D            k            W         
+Grace             1b   63           63           S.2-3      7>6/L          k         
+Gilkey            lf   W            k            k            53           64/f      
+                                                                                     
+Greenwell         rf   8          4>5            8/SF.3-H     2/fl       0>S         
+Trammell          ss 2>k            53           HBP.1-2    8>Ward,D       Martinez  
+                                                              53           8         
+Vizcaino          3b   W            W            OA.2x3(25)   8            4/L       
+                                               6>9                                   
+Servais           c    SB2          S.1-2        HR           43           S.1-2     
+                       63                                                            
+Lemke             2b   W            S.2-H;1-2    W          9>Gott                   
+ Thompson         ph                                          HR                     
+ Fletcher         2b                                                       k         
+Rijo              p    8            43           k                                   
+ Hernandez        p                                                                  
+ Henke            p                                                                  
+ Guillen          ph                                          7                      
+ Holman           p                                                                  
+ Guetterman       p                                                                  
+ Jordan           ph                                                     1>63        
+ Orosco           p                                                                  
+ Holmes           p                                                                  
+ 
+ 
+
+....................................................................................................
+Whales               -----F------ -----G------ -----H------ -----I------ -----J------
+Clark             1b   D.1-3                                                         
+                                                                                     
+O'Neill           rf   note 1                                                        
+James             cf                                                                 
+                                                                                     
+ Amaro            cf   IW                                                            
+Kreuter           c                                                                  
+ Valle            ph   Holmes                                                        
+                       S.3-H;1-2                                                     
+Raines            lf   8                                                             
+Thompson          2b                                                                 
+                                                                                     
+Gallego           3b                                                                 
+Gagne             ss                                                                 
+                                                                                     
+Johnson           p                                                                  
+ Horn             ph                                                                 
+ Ward,D           p                                                                  
+ Staton           ph                                                                 
+ Gott             p                                                                  
+ Martinez         p                                                                  
+ Fielder          ph                                                                 
+ DiPoto           p                                                                  
+ 
+ 1: 9/dp.3xH(92);2-3 
+ 
+ 
+Endorphins           -----F------ -----G------ -----H------ -----I------ -----J------
+Dykstra           cf   7                                                             
+Grace             1b   k                                                             
+Gilkey            lf 2>DiPoto                                                        
+                       9                                                             
+Greenwell         rf   31                                                            
+Trammell          ss   3/fl                                                          
+                                                                                     
+Vizcaino          3b                                                                 
+                                                                                     
+Servais           c                                                                  
+                                                                                     
+Lemke             2b                                                                 
+ Thompson         ph                                                                 
+ Fletcher         2b                                                                 
+Rijo              p                                                                  
+ Hernandez        p                                                                  
+ Henke            p                                                                  
+ Guillen          ph                                                                 
+ Holman           p                                                                  
+ Guetterman       p                                                                  
+ Jordan           ph                                                                 
+ Orosco           p                                                                  
+ Holmes           p                                                                  
+ 
+ 
+Whales           IN OUT ER                  Endorphins       IN OUT ER                  
+Johnson          A1  D4  3                  Rijo             A1  D2  1                  
+Ward,D           D5  D7  0                  Hernandez        D3  D7  3 BS 1             
+Gott             D8  E4  1 BS 1             Henke            D8  D9  0                  
+Martinez         E5  F2  0 W 1-0            Holman           E1  E5  0                  
+DiPoto           F3  F5  0 S 1              Guetterman       E6  E8  0                  
+                                            Orosco           E9  F3  1 L 1-1            
+                                            Holmes           F4  F5  0                  
+
+....................................................................................................
+10/17/1993, CTW93-EVN93, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Whales            0  0  1  0  0  0  0  0  3  0  0  1     5 13  0     9  0
+1993 Endorphins        0  0  0  1  1  1  0  0  1  0  0  0     4  8  0    10  3
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Whales batting
+ 0-0  0 --- 22  Clark flied out to left (CSFBBX)
+ 0-0  1 --- 01  O'Neill grounded out to short (SX)
+ 0-0  2 --- 21  James grounded a single up the middle (BBCX)
+ 0-0  2 1-- 02  Kreuter struck out (CFC)
+ 
+**************  Bottom of the 1st inning, Endorphins batting
+ 0-0  0 --- 31  Dykstra grounded out to short (BCBBX)
+ 0-0  1 --- 02  Grace grounded out to short (CFX)
+ 0-0  2 --- 32  Gilkey walked (BBCSBB)
+ 0-0  2 1-- 00  Greenwell flied out to center (X)
+ 
+**************  Top of the 2nd inning, Whales batting
+ 0-0  0 --- 11  Raines grounded a single up the middle (CBX)
+ 0-0  0 1-- 10  Thompson grounded into a double play, Vizcaino to Lemke 
+                  to Grace (1BbX)
+ 0-0  2 --- 22  Gallego struck out (CCBBS)
+ 
+**************  Bottom of the 2nd inning, Endorphins batting
+ 0-0  0 --- 12  Trammell struck out (FbSBC)
+ 0-0  1 --- 30  Vizcaino walked (BBBB)
+ 0-0  1 1-- 00  Vizcaino stole second (>C)
+ 0-0  1 -2- 32  Servais grounded out to short (>C.CBFBBFX)
+ 0-0  2 -2- 31  Lemke walked (BSBBB)
+ 0-0  2 12- 00  Rijo flied out to center (X)
+ 
+**************  Top of the 3rd inning, Whales batting
+ 0-0  0 --- 32  Gagne grounded a single up the middle (CBBSFFBX)
+ 0-0  0 1-- 11  Johnson popped out on a bunt to third (FbBbXb)
+ 0-0  1 1-- 00  Clark lined a single to right, Gagne to third (X)
+ 0-0  1 1-3 00  O'Neill hit a sacrifice fly to right, Gagne scored (X)
+ 1-0  2 1-- 10  James lined out to left (BX)
+ 
+**************  Bottom of the 3rd inning, Endorphins batting
+ 1-0  0 --- 32  Dykstra struck out (SBBSBFS)
+ 1-0  1 --- 00  Grace grounded out to short (X)
+ 1-0  2 --- 22  Gilkey struck out (BFCBS)
+ 
+**************  Top of the 4th inning, Whales batting
+ 1-0  0 --- 12  Kreuter struck out, Servais to Grace (SFBS)
+ 1-0  1 --- 32  Raines flied out to left (BBFFFFFBX)
+ 1-0  2 --- 02  Thompson struck out (CFC)
+ 
+**************  Bottom of the 4th inning, Endorphins batting
+ 1-0  0 --- 01  Greenwell popped out to third (CX)
+ 1-0  1 --- 01  Trammell grounded out to third (SX)
+ 1-0  2 --- 31  Vizcaino walked (SBBBB)
+ 1-0  2 1-- 10  Servais grounded a single up the middle, Vizcaino to 
+                  second (BX)
+ 1-0  2 12- 11  Lemke lined a single to center, Vizcaino scored, Servais 
+                  to second (SBX)
+ 1-1  2 12- 01  Rijo grounded out to second (CX)
+ 
+**************  Top of the 5th inning, Whales batting
+ 1-1  0 --- 22  Gallego grounded out to third (CBBCFFFX)
+ 1-1  1 --- 12  Gagne struck out (FBFFS)
+ 1-1  2 --- 00  Johnson grounded out to second (X)
+ 
+**************  Bottom of the 5th inning, Endorphins batting
+ 1-1  0 --- 12  Dykstra doubled deep to right center (CBFX)
+ 1-1  0 -2- 02  Grace lined a single to shallow center, Dykstra to third 
+                  (CCX)
+ 1-1  0 1-3 32  Gilkey struck out (BSBSFBFS)
+ 1-1  1 1-3 01  Greenwell hit a sacrifice fly to center, Dykstra scored 
+                  (1CX)
+ 1-2  2 1-- 02  Trammell was hit by a pitch, Grace to second (FCFH)
+ 1-2  2 12- 01  Grace out at third attempting to advance (CB)
+ 
+**************  Top of the 6th inning, Whales batting
+ 1-2  0 --- 10  Clark grounded out to short (BX)
+ 1-2  1 --- 00  O'Neill grounded out to second (X)
+ 1-2  2 --- 22  James lined a single to left center (BBFSX)
+ 1-2  2 1-- 02  Kreuter grounded to third, forcing James at second (SFFX)
+ 
+**************  Bottom of the 6th inning, Endorphins batting
+ 1-2  0 --- 10  Vizcaino flied out to right (BX)
+ 1-2  1 --- 01  Servais homered deep to right (SX)
+ 1-3  1 --- 31  Lemke walked (BBFBB)
+ 1-3  1 1-- 02  Rijo struck out (FCS)
+ 1-3  2 1-- 12  Dykstra struck out (FCFBFS)
+ 
+**************  Top of the 7th inning, Whales batting
+ 1-3  0 --- 02  Raines struck out (CSS)
+ 1-3  1 --- 32  Thompson walked (BBCBSB)
+ 1-3  1 1-- 12  Gallego struck out (CBFS)
+ 1-3  2 1-- 12  Gagne struck out (CBSC)
+ 
+**************  Bottom of the 7th inning, Endorphins batting
+ 1-3  0 --- 12  Grace lined out to short (SBCFX)
+ 1-3  1 --- 12  Gilkey grounded out to third (CSBFX)
+ 1-3  2 --- 00  Greenwell popped out to the catcher (X)
+ 
+**************  Top of the 8th inning, Whales batting
+                Horn pinch hitting for Johnson
+ 1-3  0 --- 11  Horn popped out to first (CBX)
+ 1-3  1 --- 32  Clark struck out (BCBFBS)
+ 1-3  2 --- 11  O'Neill grounded out to second (FBX)
+ 
+**************  Bottom of the 8th inning, Endorphins batting
+                Ward,D now pitching
+ 1-3  0 --- 12  Trammell grounded out to third (CSBX)
+ 1-3  1 --- 11  Vizcaino popped out to center (BCX)
+ 1-3  2 --- 21  Servais grounded out to second (CBBX)
+ 
+**************  Top of the 9th inning, Whales batting
+                Hernandez now pitching
+ 1-3  0 --- 00  James lined a single to shallow right (X)
+ 1-3  0 1-- 22  Kreuter grounded to second, forcing James at second, 
+                  Kreuter to first (BCBFX)
+ 1-3  1 1-- 32  Raines walked, Kreuter to second (CBSBBB)
+ 1-3  1 12- 00  Thompson grounded a single between third and short, 
+                  Kreuter to third, Raines to second (X)
+ 1-3  1 123 10  Gallego grounded a single between first and second, 
+                  Kreuter scored, Raines scored, Thompson to third (BX)
+                Henke now pitching
+ 3-3  1 1-3 01  Gagne hit a sacrifice fly to center, Thompson scored (SX)
+                Staton pinch hitting for Ward,D
+ 4-3  2 1-- 22  Staton struck out (CBBFS)
+ 
+**************  Bottom of the 9th inning, Endorphins batting
+                Amaro now playing center field
+                Gott now pitching
+                Thompson pinch hitting for Lemke
+ 4-3  0 --- 01  Thompson homered deep to left (CX)
+                Guillen pinch hitting for Henke
+ 4-4  0 --- 02  Guillen flied out to left (SFX)
+ 4-4  1 --- 30  Dykstra walked (BBBB)
+ 4-4  1 1-- 12  Grace struck out (>FCBS)
+ 4-4  2 1-- 11  Gilkey grounded to short, forcing Dykstra at second (SBX)
+ 
+**************  Top of the 10th inning, Whales batting
+                Fletcher now playing second base
+                Holman now pitching
+ 4-4  0 --- 31  Clark flied out to center (BBBCX)
+ 4-4  1 --- 00  O'Neill grounded a single up the middle (X)
+ 4-4  1 1-- 00  Amaro grounded into a double play, Fletcher to Trammell 
+                  to Grace (1X)
+ 
+**************  Bottom of the 10th inning, Endorphins batting
+ 4-4  0 --- 11  Greenwell lined a single to shallow center (SBX)
+                Gott left the game with an injury
+                Martinez now pitching
+ 4-4  0 1-- 11  Trammell flied out to center (FbBX)
+ 4-4  1 1-- 22  Vizcaino lined out to second (FBSBX)
+ 4-4  2 1-- 01  Servais grounded a single up the middle, Greenwell to 
+                  second (CX)
+ 4-4  2 12- 22  Fletcher struck out (SBFBS)
+ 
+**************  Top of the 11th inning, Whales batting
+ 4-4  0 --- 31  Kreuter walked (SBBBB)
+ 4-4  0 1-- 21  Raines reached on an infield single to second, Kreuter to 
+                  second (CBBX)
+                Guetterman now pitching
+ 4-4  0 12- 21  Thompson grounded to first, forcing Raines at second, 
+                  Kreuter to third, Thompson to first (BbSbBX)
+ 4-4  1 1-3 00  Gallego out to first, Kreuter out at home, Thompson to 
+                  second, Gallego to first (X)
+ 4-4  2 12- 01  Gagne popped out to second (CX)
+ 
+**************  Bottom of the 11th inning, Endorphins batting
+                Jordan pinch hitting for Guetterman
+ 4-4  0 --- 12  Jordan grounded out to short (CFFFBFX)
+ 4-4  1 --- 21  Dykstra flied out to left (BBCX)
+ 4-4  2 --- 22  Grace struck out (BBCCS)
+ 
+**************  Top of the 12th inning, Whales batting
+                Orosco now pitching
+                Fielder pinch hitting for Martinez
+ 4-4  0 --- 12  Fielder grounded a single between first and second (BCSX)
+ 4-4  0 1-- 02  Clark doubled deep to right center, Fielder to third 
+                  (CbCX)
+ 4-4  0 -23 00  O'Neill flied out into a double play, Greenwell to 
+                  Servais, Fielder out at home, Clark to third (X)
+ 4-4  2 --3 30  Amaro was walked intentionally (IIII)
+                Valle pinch hitting for Kreuter
+                Holmes now pitching
+ 4-4  2 1-3 11  Valle lined a single to left, Clark scored, Amaro to 
+                  second (CBX)
+ 5-4  2 12- 22  Raines flied out to center (FFFBBX)
+ 
+**************  Bottom of the 12th inning, Endorphins batting
+                DiPoto now pitching
+                Valle moved to catcher
+ 5-4  0 --- 21  Gilkey lined out to right (CBBX)
+ 5-4  1 --- 20  Greenwell grounded out to first (BBX)
+ 5-4  2 --- 00  Trammell popped out to first (X)
+
+-------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+-------------------------------------------------------------------------------------------
+
+                          Playoff Team Status -- 1993 Butt Mountain Beavis                          
+                               Divisional playoff -- as of 10/17/1993                               
+
+S Name                    Usage     PA     PA Days 
+  Mark McGwire               20     21    107    0 
+  Jerry Goff                 17      8     46    0 
+  Terry Steinbach            11     47    420    0 
+  Juan Gonzalez               9     52    587    0 
+  Matt Williams               8     50    619    0 
+  Ryne Sandberg               7     36    503    0 
+  Tim Hulett                  7     19    289    5 
+  John Kruk                   6     39    651    0 
+  John Valentin               6     32    539    0 
+  Al Martin                   5     28    528    0 
+  Andre Dawson                5     26    498    0 
+  Rene Gonzales               5     19    389    0 
+  Mike Devereaux              5     27    577    0 
+  Mark Whiten                 4     25    626    0 
+  Julio Franco                0      3    607    0 
+f Rico Brogna                 0      0      0    0 
+f Kirt Manwaring              0      0    486    0 
+f Dan Gladden                 0      0    386    0 
+f Harvey Pulliam              0      0     65    0 
+f Dave Silvestri              0      0     26    0 
+f Rafael Bournigal            0      0     18    0 
+f Rick Parker                 0      0     49    0 
+f Ben Shelton                 0      0     27    0 
+f Carlton Fisk                0      0     58    0 
+f Charlie Montoyo             0      0      5    0 
+f Steve Balboni               0      0      5    0 
+  Total                            432   8111      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/17  10/16  10/15  10/14  10/13 
+f Paul Kilgus                18    4   22    0 10/15/1993                  22r           27r 
+  Greg Maddux                11    4   36    0 10/17/1993    98s                             
+  Ken Hill                   11    3   28    0 10/16/1993          129s                      
+  Roger Clemens              10    3   29    0 10/13/1993                                79s 
+  Jay Howell                  9    5   54    0 10/16/1993           21r                      
+  Mark Wohlers                9    4   46    0 10/15/1993                  25r               
+  John Smoltz                 9    3   35    0 10/15/1993                  18r               
+  Frank Viola                 7    2   29    0 10/15/1993                  88s               
+  Greg Harris                 6    5   80    0 10/17/1993    27r                         38r 
+  Jeff Montgomery             3    2   69    0  10/9/1993                                    
+f Mike Ignasiak               0    0   27    0  9/17/1993                                    
+f Steve Ontiveros             0    0   14    0   9/1/1993                                    
+f Terry Leach                 0    0   14    0   9/9/1993                                    
+f James Austin                0    0   31    0                                               
+f Jose Melendez               0    0    9    0  9/28/1993                                    
+f Barry Manuel                0    0    0    0                                               
+f Mike Oquist                 0    0    5    0                                               
+f Ross Powell                 0    0    9    0  9/28/1993                                    
+f Nolan Ryan                  0    0   13    0  9/29/1993                                    
+f Matt Whiteside              0    0   60    0  9/24/1993                                    
+f Vince Horsman               0    0   40    0  9/22/1993                                    
+f John Briscoe                0    0   17    0  9/24/1993                                    
+f Rich Robertson              0    0    9    0   7/3/1993                                    
+  Total                           12  172                                                    
+
+
+
+                           Playoff Team Status -- 1993 Needmore Perfectos                           
+                               Divisional playoff -- as of 10/17/1993                               
+
+S Name                    Usage     PA     PA Days 
+  Chip Hale                  10     22    213    0 
+  Lou Whitaker                4     19    476    0 
+  Rick Wilkins                4     18    500    0 
+  John Olerud                 4     24    679    0 
+  Jack Voigt                  3      6    177    0 
+  Ken Griffey                 3     23    691    0 
+  Orlando Merced              3     17    527    0 
+  Danny Tartabull             3     17    611    0 
+  Gary Sheffield              3     15    557    0 
+  Lonnie Smith                2      7    284    0 
+  Phil Clark                  2      5    256    0 
+  Derek Bell                  1      6    585    0 
+  Rich Amaral                 1      4    421    0 
+  Delino DeShields            1      3    562    0 
+  Scott Hemond                0      1    255    0 
+f Todd Haney                  0      0      0    0 
+f Pete Incaviglia             0      0    402    0 
+f Curtis Pride                0      0      9    0 
+f Jim Lindeman                0      0     23    0 
+f Jose Valentin               0      0     63    0 
+f Nelson Liriano              0      0    175    0 
+f Tim Jones                   0      0     73    0 
+f Norberto Martin             0      0     15    0 
+f Stan Royer                  0      0     48    0 
+f Jacob Brumfield             0      0    299    0 
+f J.R. Phillips               0      0     16    0 
+f Karl Rhodes                 0      0     65    0 
+f Dave Gallagher              0      0    229    0 
+  Total                            187   8211      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/17  10/16  10/15  10/14  10/13 
+f Denis Boucher              20    1    5    0 10/16/1993           85s                      
+  Danny Darwin                6    2   34    0 10/17/1993   104s                             
+  Jeff Russell                6    3   51    0 10/17/1993    11r           13r               
+  Steve Bedrosian             4    2   49    0 10/16/1993           10r                  29r 
+  Joel Johnston               3    1   33    0 10/13/1993                                28r 
+  Jimmy Key                   3    1   34    0 10/13/1993                                18s 
+  Ben McDonald                3    1   34    0 10/15/1993                 116s               
+  Chuck Finley                3    1   35    0 10/13/1993                                51r 
+  Gregg Olson                 2    1   50    0 10/16/1993            4r                      
+  Stan Belinda                2    1   63    0 10/13/1993                                44r 
+f Scott Service               0    0   29    0                                               
+f Robb Nen                    0    0   24    0  7/19/1993                                    
+f Danny Cox                   0    0   44    0  9/27/1993                                    
+f Erik Hanson                 0    0   31    0  9/28/1993                                    
+f Sterling Hitchcock          0    0    6    0  9/29/1993                                    
+f Donn Pall                   0    0   47    0  9/30/1993                                    
+f Ricky Trlicek               0    0   41    0                                               
+f Chris Howard                0    0    3    0  9/15/1993                                    
+f John Johnstone              0    0    7    0  9/23/1993                                    
+  Total                            5  182                                                    
+
+
+
+                           Playoff Team Status -- 1993 Chinatrust Whales                            
+                               Divisional playoff -- as of 10/17/1993                               
+
+S Name                    Usage     PA     PA Days 
+  Dave Staton                 9      4     46    0 
+  Sam Horn                    8      3     36    0 
+  Ruben Amaro                 5      3     58    0 
+  Tim Raines                  5     23    486    0 
+  Mike Gallego                4     20    465    0 
+  Dion James                  4     16    378    0 
+  Chad Kreuter                4     17    431    0 
+  Robby Thompson              4     21    559    0 
+  Paul O'Neill                3     19    547    0 
+  Greg Gagne                  3     16    581    0 
+  Will Clark                  2     14    567    0 
+d Dave Hansen                 2      3    127   13 
+  Mark Carreon                2      3    169    0 
+  Dave Valle                  1      7    500    0 
+  Wes Chamberlain             1      4    306    0 
+  Cecil Fielder               1      5    672    0 
+f Wade Boggs                  0      0    644    0 
+f Matt Nokes                  0      0    238    0 
+f Kirk Gibson                 0      0    454    0 
+f Mike Pagliarulo             0      0    405    0 
+f Tim Teufel                  0      0    231    0 
+f Chipper Jones               0      0      4    0 
+f Shawn Green                 0      0      6    0 
+f Randy Ready                 0      0    159    0 
+f Kurt Abbott                 0      0     67    0 
+f Jerome Walton               0      0      3    0 
+f Gary Redus                  0      0    248    0 
+f Don Mattingly               0      0    596    0 
+f Phil Plantier               0      0    536    0 
+  Total                            178   9519      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/17  10/16  10/15  10/14  10/13 
+  Randy Johnson               6    2   35    0 10/17/1993   118s                             
+  Duane Ward                  6    4   71    0 10/17/1993    11r           20r            2r 
+  Jim Gott                    5    3   62    1 10/17/1993    19r           13r            7r 
+  Jerry DiPoto                4    2   46    0 10/17/1993     8r    10r                      
+  Roger Pavlik                4    1   26    0 10/13/1993                               129s 
+  Pedro A. Martinez           3    1   32    0 10/17/1993    31r                             
+  Cal Eldred                  3    1   36    0 10/15/1993                 107s               
+  Jose Bautista               2    1   58    0 10/16/1993          106s                      
+f Bill Swift                  0    0   34    0  9/28/1993                                    
+f Terry Mathews               0    0    0    0                                               
+  Jim Poole                   0    0   55    0  9/25/1993                                    
+f Luis Aquino                 0    0   38    0  9/25/1993                                    
+f Roger Mason                 0    0   68    0                                               
+f Willie Banks                0    0   31    0   8/3/1993                                    
+f Mike Henneman               0    0   63    0  9/29/1993                                    
+f Mike Butcher                0    0   23    0  9/26/1993                                    
+f Kip Gross                   0    0   10    0   9/2/1993                                    
+f Charlie Hough               0    0   34    0                                               
+f Paul Gibson                 0    0   28    0                                               
+f Matt Turner                 0    0   55    0  9/23/1993                                    
+f Tim Scott                   0    0   56    0  9/28/1993                                    
+  Total                            5  214                                                    
+
+
+                          Playoff Team Status -- 1993 Evanston Endorphins                           
+                               Divisional playoff -- as of 10/17/1993                               
+
+S Name                    Usage     PA     PA Days 
+  Alan Trammell              11     51    447    0 
+  Don Slaught                 9     38    420    0 
+  Mike Greenwell              9     52    603    0 
+  Bernard Gilkey              8     50    622    0 
+  Mark Grace                  8     54    676    0 
+  Lenny Dykstra               8     58    773    0 
+  Ozzie Guillen               7     33    486    0 
+  Scott Fletcher              6     33    531    0 
+  Scott Servais               5     14    291    0 
+  Jose Vizcaino               4     22    617    0 
+  Ryan Thompson               3      8    316    0 
+  Brian Jordan                2      6    242    0 
+  Mark Lemke                  2     14    569    0 
+  Eddie Murray                0      3    659    0 
+f Tony Pena                   0      0    347    0 
+f Derrick May                 0      0    503    0 
+f Alvaro Espinoza             0      0    283    0 
+f Raul Mondesi                0      0     91    0 
+f Dwight Smith                0      0    343    0 
+f John Flaherty               0      0     29    0 
+f Fernando Vina               0      0     53    0 
+f Greg Litton                 0      0    199    0 
+f Dave Winfield               0      0    594    0 
+f Scott Livingstone           0      0    330    0 
+  Total                            436  10024      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/17  10/16  10/15  10/14  10/13 
+  Brad Holman                16    3   19    0 10/17/1993    16r                             
+  Jose Rijo                  11    4   36    0 10/17/1993   111s                             
+  Terry Mulholland           10    3   29    0 10/15/1993                 121s               
+  Lee Guetterman             10    4   40    0 10/17/1993     7r                         15r 
+  Pete Harnisch               9    3   33    0 10/16/1993          103s                      
+  Jesse Orosco                9    5   57    0 10/17/1993    12r                             
+  Darren Holmes               8    5   62    0 10/17/1993     9r                         34r 
+  Tom Henke                   8    5   66    0 10/17/1993     7r                             
+  Dwight Gooden               7    2   29    0 10/13/1993                               125s 
+  Roberto Hernandez           4    3   70    0 10/17/1993    15r           25r               
+  Jeff Fassero                4    2   56    0 10/12/1993                                    
+f Joe Grahe                   0    0   45    0  5/20/1993                                    
+f Scott Sanders               0    0    9    0   7/1/1993                                    
+f Bill Wegman                 0    0   20    0  9/18/1993                                    
+f Les Lancaster               0    0   50    0  4/25/1993                                    
+f Kevin Rogers                0    0   64    0  6/17/1993                                    
+f Jim Deshaies                0    0   32    0                                               
+f Steve Cooke                 0    0   32    0  9/28/1993                                    
+f Chris Nabholz               0    0   26    0                                               
+f Bill Landrum                0    0   18    0  9/28/1993                                    
+f Mark Hutton                 0    0    7    0   9/9/1993                                    
+  Total                           12  256                                                    

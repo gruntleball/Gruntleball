@@ -1,0 +1,1461 @@
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age    ERA   W   L   S   G  GS  CG SHO    INN   H   R  ER  BB   K  HR GDP 
+Jim Acker               ES?    mr  29   6.14   1   0   3  24   0   0   0   36.2  57  29  25  10  28   5   1 
+Juan Agosto*            EVN    mr  30   2.61   2   8  11  37   6   0   0   72.1  64  25  21  22  26   6  10 
+Rick Aguilera           GBP    mr  26   7.11   0   4   0   4   4   0   0   19.0  28  17  15   8  11   4   1 
+Gibson Alba*            CTW    mr  28   0.00   0   0   1   4   0   0   0    5.1   1   0   0   1   4   0   0 
+Neil Allen              CCC    mr  30   4.98   1   3   1  14   2   0   0   34.1  39  20  19  13  21   7   4 
+Jose Alvarez            MAR    mr  32   2.62   1   2   4  35   0   0   0   44.2  43  16  13  18  34   3   6 
+Larry Andersen          GBP    mr  35   4.45   2   3   0  45   0   0   0   62.2  81  36  31  10  52   7   5 
+Allan Anderson*         CTW    sp  24   2.22   7   3   0  13  13   5   4   97.1  91  31  24  11  45   5  14 
+Allan Anderson*         EVN    sp  24   5.18   2   5   0   9   9   1   0   57.1  71  34  33  10  23   4   4 
+Allan Anderson*                sp  24   3.32   9   8   0  22  22   6   4  154.2 162  65  57  21  68   9  18 
+Rick Anderson           NFG    sp  31   7.03   0   1   0  16   0   0   0   32.0  52  29  25   7  11   2   2 
+Joaquin Andujar         GBP    mr  35   6.08   0   0   0  24   0   0   0   37.0  53  26  25   6  19   2   1 
+Luis Aquino             CCC    sp  24   4.86   1   2   0  11   5   0   0   37.0  31  20  20  23  13   3   4 
+Jack Armstrong          NFG    sp  23   7.21   1   6   0  11  10   0   0   48.2  58  41  39  37  27   6   4 
+Paul Assenmacher*       GBP    mr  27   2.41   5   0   0  45   0   0   0   71.0  56  20  19  18  69   4   7 
+Keith Atherton          CIN    mr  29   4.50   0   1   2   3   0   0   0    4.0   4   2   2   1   7   1   0 
+Don August              BBG    sp  24   1.58  10   4   1  67   4   0   0  108.1  77  22  19  25  45   3   9 
+Scott Bailes*           TEW    sp  26   2.99   8   2   0  52   1   0   0   69.1  53  23  23  22  17   9   9 
+Doug Bair               EVN    mr  38   2.57   2   0   0   2   2   0   0   14.0  10   4   4   5   8   2   0 
+Jeff Ballard*           BAR    sp  24   3.66   1   2   0   3   3   0   0   19.2  14   9   8   7   4   3   2 
+Scott Bankhead          BBG    sp  24   2.07   9   5   0  20  18   5   0  139.1 106  39  32  31  82   3   6 
+Floyd Bannister*        RYK    sp  33   4.81   5   7   0  15  15   1   0   88.0  86  55  47  23  51  17   5 
+Jose Bautista           CTW    sp  23   7.50   0   2   0   3   2   1   0   12.0  18  11  10   2   4   3   1 
+Steve Bedrosian         FHK    cl  30   2.71   8   8   3  60   0   0   0   79.2  82  27  24  29  56   4   6 
+Tim Belcher             NEE    sp  26   2.53   8   7   0  21  21   4   0  142.1 120  48  40  39 110   6   2 
+Juan Berenguer          CCC    mr  33   1.91   7   1   6  52   6   0   0  108.1  71  23  23  50 118   7   3 
+Mike Bielecki           NFG    mr  28   5.22   1   5   0  14   4   0   0   39.2  46  24  23  14  26   5   2 
+Tim Birtsas*            NFG    mr  27   2.75   1   3   0   4   4   0   0   19.2  20   9   6   7   8   0   2 
+Jeff Bittiger           RYK    mr  26   4.56   0   2   0  27   0   0   0   53.1  52  30  27  24  29   8   0 
+Bud Black*              BAR    mr  31   2.33   5   5   8  54   3   1   1   92.2  70  27  24  31  80   4   8 
+Bert Blyleven           NFG    sp  37   4.69   4  12   0  30  28   0   0  157.1 198 100  82  34 108  18  10 
+Mike Boddicker          CIN    sp  30   4.13   9  11   0  30  30   4   2  185.1 193  99  85  52 129  19  19 
+Joe Boever              CEN    mr  27   1.74   2   1   0  15   0   0   0   20.2  14   4   4   0   7   1   3 
+Tom Bolton*             BMB    mr  26   3.22   1   2   1  29   0   0   0   36.1  39  20  13  11  10   3   4 
+Greg Booker             RYK    mr  28   5.24   2   0   0  39   0   0   0   67.0  75  44  39  22  45   9  10 
+Rich Bordi              BAR    sp  29   2.70   1   1   0   2   2   0   0   10.0   7   3   3   6   7   1   1 
+Chris Bosio             SUN    sp  25   3.39  12   8   0  26  26   5   0  191.1 207  90  72  26  96   9  12 
+Oil Can Boyd            GBP    sp  28   4.33   5  11   0  20  20   0   0  116.1 122  62  56  21  71  22   6 
+Jeff Brantley           CCC    mr  24   5.49   1   0   0   9   0   0   0   19.2  20  13  12   9   8   1   1 
+Keith Brown             EVN    sp  24   0.82   0   1   1   9   0   0   0   11.0   7   1   1   2   3   1   0 
+Kevin Brown             FHK    sp  23   1.15   2   1   0   5   5   0   0   31.1  27  10   4   5  12   2   4 
+Tom Browning*           EVN    sp  28   3.71  12  10   4  41  27   4   2  204.0 169  88  84  51  89  30  16 
+Tim Burke               RYK    cl  29   4.92   4   5   2  44   0   0   0   56.2  63  35  31  16  19   5   7 
+Todd Burns              CTW    sp  24   3.86   7   4   2  32   9   3   1  109.2 101  48  47  29  64  12   6 
+Greg Cadaret*           FHK    mr  26   3.29   3   1   2  40   2   0   0   65.2  47  26  24  32  62   3   4 
+John Candelaria*        SUN    sp  34   4.14   6   6   0  18  18   1   0  113.0 129  58  52  15  75  15   3 
+Tom Candiotti           CIN    sp  30   4.59  12   8   0  35  25   3   1  174.2 201  97  89  36 108  21  19 
+Don Carman*             CCC    sp  28   6.68   1   4   0   6   6   0   0   31.0  46  25  23  11  14   6   2 
+Cris Carpenter          NEE    sp  23   8.21   2   5   2  34   1   0   0   49.1  82  47  45   5  30   4   3 
+Chuck Cary*             NEE    mr  28   1.64   0   1   1   8   0   0   0   11.0   5   2   2   6  11   2   1 
+Tony Castillo*          CTW    mr  25   0.61   1   1   1  13   0   0   0   14.2  14   3   1   0  13   1   2 
+John Cerutti*           MAR    mr  28   3.97   8   8   2  59   5   0   0  104.1 102  52  46  25  58  14   5 
+Norm Charlton*          CIN    sp  25   2.70   6   5   1  45   1   0   0   63.1  63  23  19  19  30   6   3 
+Jim Clancy              NEE    sp  32   3.00   0   0   2   5   1   0   0   15.0  17   5   5   4  11   1   3 
+Mark Clear              TEW    mr  32   2.34   1   3   2  27   0   0   0   34.2  23   9   9  14  32   3   1 
+Roger Clemens           NFG    sp  25   3.32   8   9   0  30  29   2   0  198.0 167  78  73  45 215  22   7 
+Stew Cliburn            BAR    mr  31   1.50   0   0   0   1   1   0   0    6.0   1   1   1   1   4   0   0 
+Keith Comstock*         BAR    mr  32   6.52   0   0   0   2   2   0   0    9.2  12   8   7   3  14   4   0 
+David Cone              SUN    sp  25   3.64  11  10   0  27  27   2   1  175.1 174  87  71  68 157  19  13 
+Dennis Cook*            FHK    sp  25   2.28   2   1   1   7   3   1   0   23.2  20   8   6   6  15   0   0 
+Sherman Corbett*        BMB    mr  25   5.53   2   3   0  31   0   0   0   40.2  53  30  25  20  26   2   0 
+Jim Corsi               ES?    mr  26   2.41   1   3   1  15   0   0   0   18.2  28   7   5   3   9   0   2 
+John Costello           EVN    mr  27   3.66   3   3   0  23   5   0   0   51.2  46  24  21  28  47   6   4 
+Danny Cox               NEE    sp  28   4.43   4   2   1  61   1   0   0   89.1 107  48  44  22  59   8  13 
+Tim Crews               GBP    mr  27   3.92   2   8   3  48   0   0   0   78.0  79  36  34  10  53   3   7 
+Chuck Crim              MAR    mr  26   3.29   5   3   4  53   2   0   0   82.0  78  34  30  24  54   7  11 
+Ron Darling             FHK    sp  27   3.03  14   8   0  31  31   4   2  205.0 185  77  69  58 155  23  13 
+Danny Darwin            NEE    mr  32   4.53   6  13   0  26  25   1   0  157.0 175  97  79  33 107  23   6 
+Mark Davis*             CEN    cl  27   3.11   6   2   4  43   5   0   0   84.0  68  33  29  29  83   5   7 
+Ron Davis               CIN    mr  32   0.00   0   0   0   1   0   0   0    1.0   0   0   0   0   1   0   0 
+Storm Davis             RYK    sp  26   4.99   5  19   0  32  32   0   0  155.0 180  99  86  62 112  13  11 
+Ken Dayley*             EVN    mr  29   1.26   2   0   0  41   0   0   0   57.0  50   8   8   8  37   1   2 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age    ERA   W   L   S   G  GS  CG SHO    INN   H   R  ER  BB   K  HR GDP 
+Jose DeJesus            CEN    sp  23   4.76   0   0   0   1   1   0   0    5.2   5   3   3   4   4   0   0 
+Jose DeLeon             ES?    sp  27   3.64   9  13   0  35  35   0   0  197.2 194  87  80  91 185   9   5 
+Jim Deshaies*           FHK    sp  28   3.53  13  12   0  32  32   3   2  211.2 182 100  83  50 106  32  10 
+Rob Dibble              ES?    mr  24   2.91   5   3  13  46   0   0   0   58.2  52  24  19  23  60   5   2 
+Frank DiPino*           NFG    mr  31   3.82   0   3   3  44   0   0   0   66.0  84  32  28  20  45   2   5 
+John Dopson             FER    sp  24   3.98   5   7   0  24  19   1   1  126.2 120  62  56  46  64  10  14 
+Rich Dotson             GBP    sp  29   5.25   0   4   0   6   6   1   0   36.0  36  21  21  20  23   1   2 
+Kelly Downs             FHK    sp  27   2.92  12   7   0  33  26   2   0  182.0 168  68  59  39 114  11  18 
+Doug Drabek             TEW    sp  25   3.51  13   9   0  33  33   6   2  220.1 209  93  86  60 109  18  19 
+Dave Dravecky*          FHK    sp  32   1.93   5   2   3  29   0   0   0   42.0  36  13   9   7  19   3   2 
+Mike Dunne              BMB    sp  25   6.10   0   1   1  35   0   0   0   48.2  58  35  33  35  14   5   7 
+Gary Eave               BBG    mr  24  18.00   1   0   0   3   0   0   0    4.0   7   8   8   4   0   3   1 
+Dennis Eckersley        NFG    cl  33   2.67   3   1   3  39   0   0   0   54.0  49  19  16   8  49   4   4 
+Juan Eichelberger       RYK    mr  34   4.54   1   0   0  19   0   0   0   39.2  47  26  20   8   6   7   1 
+Mark Eichhorn           CCC    mr  27   2.69   3   3   8  48   0   0   0   73.2  69  24  22  14  36   3   6 
+Steve Farr              GBP    cl  31   2.87   5   2   1  16   8   0   0   69.0  53  25  22  10  51   8   3 
+John Farrell            NFG    sp  25   3.95  13   8   0  40  19   3   2  161.2 151  76  71  50  72  14  20 
+Sid Fernandez*          CIN    sp  25   3.67  16   6   0  30  29   2   1  184.0 144  79  75  71 178  24  10 
+Chuck Finley*           NEE    sp  25   3.76  11  13   0  33  32   1   0  203.1 203 100  85  75 109  21  14 
+Mike Flanagan*          CCC    sp  36   5.17   3  21   0  30  30   2   0  170.2 208 110  98  51  74  21  15 
+Tony Fossas*            BAR    mr  30   7.59   1   1   0   2   2   0   0   10.2  15  10   9   2   1   2   0 
+John Franco*            SUN    cl  27   1.48   5   2  30  59   0   0   0   79.0  66  15  13  23  33   2   9 
+Willie Fraser           BMB    sp  24   3.66   9  13   0  31  29   0   0  189.1 182  90  77  65  81  22  17 
+Marvin Freeman          BMB    sp  25   5.43   0   5   0  11  11   0   0   56.1  66  36  34  45  37   3   1 
+Todd Frohwirth          BAR    mr  25   9.00   1   1   0   4   4   0   0   12.0  13  12  12  12   9   3   0 
+Gene Garber             TEW    cl  40   3.98   1   0   1  22   0   0   0   31.2  26  14  14  11  22   5   3 
+Wes Gardner             CEN    sp  27   3.00   5   5   0  16  14   0   0   84.0  70  37  28  30  60   9   4 
+Scott Garrelts          BBG    mr  26   2.24   6   4   0  47   4   0   0   76.1  67  25  19  23  66   1   4 
+Paul Gibson*            BAR    mr  28   2.94   3   5   4  46   0   0   0   79.2  73  32  26  20  43   4   5 
+Tom Glavine*            CCC    sp  22   3.24   6   8   0  35  26   2   1  186.1 179  82  67  54  75  18  12 
+Jerry Gleaton*          FER    mr  30   3.41   2   2   2  28   0   0   0   31.2  32  13  12  16  28   1   1 
+German Gonzalez         TEW    mr  26   0.00   0   0   0   1   0   0   0    1.0   0   0   0   0   2   0   0 
+Dwight Gooden           FHK    sp  23   2.11  15   8   0  33  33   5   1  234.1 213  64  55  47 153  10  27 
+Don Gordon              NEE    mr  28   4.85   1   1   2  17   0   0   0   26.0  28  14  14   5   8   3   4 
+Tom Gordon              FER    mr  20   3.86   1   0   0   2   2   0   0   11.2  16   6   5   3  12   1   1 
+Goose Gossage           BMB    cl  36   3.86   1   0   2  35   0   0   0   46.2  50  22  20  13  41   1   1 
+Jim Gott                BMB    cl  28   4.99   8   9  16  55   0   0   0   66.2  77  38  37  21  68   9   6 
+Jeff Gray               BMB    mr  25   1.38   1   0   0   5   0   0   0   13.0  10   2   2   1   8   1   1 
+Kevin Gross             TEW    sp  27   4.36   5   6   0  16  16   0   0   99.0 121  58  48  46  67   7   2 
+Cecilio Guante          CIN    mr  28   2.83   7   2   1  45   1   0   0   63.2  51  22  20  11  59   8   0 
+Mark Gubicza            BBG    sp  25   2.45  16   9   0  34  34   7   3  242.2 179  76  66  76 147  12  18 
+Lee Guetterman*         BMB    mr  29   4.36   0   6   0  11   5   0   0   43.1  66  25  21  15  15   2  11 
+Ron Guidry*             CIN    sp  37   1.45   2   1   4  18   1   0   0   37.1  22   7   6   6  15   0   0 
+Jose Guzman             FER    sp  25   3.82   5  11   1  46  18   2   0  155.1 140  79  66  61 116  12   8 
+John Habyan             CCC    mr  24   3.86   1   0   1  11   0   0   0   18.2  21   8   8   7   2   1   2 
+Drew Hall*              FER    mr  25   3.20   2   0   2  21   0   0   0   25.1  28  11   9   6  21   4   0 
+Atlee Hammaker*         BAR    mr  30   3.78   3   8   0  19  19   0   0  109.2 104  52  46  32  50   6  10 
+Erik Hanson             NEE    sp  23   2.76   2   2   0   6   6   1   0   45.2  40  15  14  13  37   0   0 
+Mike Harkey             GBP    sp  21   6.23   1   3   0   5   5   0   0   30.1  37  22  21  13  18   5   1 
+Pete Harnisch           CCC    sp  21   4.91   0   0   1  10   0   0   0   11.0  15   6   6   2   3   1   0 
+Greg Harris             MAR    mr  32   4.55   7   6   2  70   2   0   0   95.0  83  50  48  41  66  12  11 
+Greg W. Harris          FHK    mr  24   2.66   1   0   2  14   0   0   0   20.1  12   7   6   5  20   2   4 
+Bryan Harvey            TEW    cl  25   2.25   8   6  40  66   0   0   0   80.0  62  20  20  17  80   4   5 
+Andy Hawkins            SUN    sp  28   3.01   4   3   0  10  10   1   0   71.2  69  28  24  26  33   5   4 
+Neal Heaton*            FER    mr  28   4.19   4  11   1  24  15   1   1   96.2 102  59  45  40  49  13  13 
+Don Heinkel             BAR    mr  28   2.61   1   3   3  29   0   0   0   38.0  31  15  11   9  34   3   2 
+Tom Henke               SUN    cl  30   2.37   6   0   3  46   0   0   0   68.1  62  23  18  14  67   6   5 
+Mike Henneman           CTW    cl  26   2.86   4   5   3  71   0   0   0   97.2  83  35  31  17  69   8   6 
+Dwayne Henry            CCC    mr  26  10.80   1   2   2  12   0   0   0   11.2  15  14  14   6   9   5   0 
+Willie Hernandez*       FHK    mr  33   3.80   0   1   0  28   0   0   0   45.0  36  20  19  13  37   6   6 
+Orel Hershiser          BBG    sp  29   2.59  22   7   0  34  34  12   2  264.0 215  90  76  70 192  16  14 
+Joe Hesketh*            CIN    mr  29   0.00   0   1   1  10   0   0   0   11.1  10   1   0   4  11   0   0 
+Teddy Higuera*          CIN    sp  29   2.26  14   6   0  32  32   6   4  223.1 185  62  56  42 183  13  14 
+Ken Hill                BMB    mr  22  12.08   0   3   0   4   4   0   0   12.2  14  17  17  14   9   2   0 
+Shawn Hillegas          RYK    sp  23   4.00   3   5   0  17  17   0   0   96.2  95  49  43  40  46   9   6 
+Brian Holman            FHK    sp  23   3.00   1   5   0  37   6   0   0   87.0  83  42  29  29  42   7   6 
+Brian Holton            BBG    mr  28   2.81   6   8  22  70   0   0   0   89.2  83  33  28  23  49   5  17 
+Rick Honeycutt*         EVN    mr  34   3.39   5   4   2  44   4   0   0   66.1  76  27  25  25  41   4   7 
+Ricky Horton*           GBP    mr  28   6.16   0   2   0  14   0   0   0   19.0  30  19  13   9   9   2   0 
+Charlie Hough           CTW    sp  40   4.28   7   9   1  31  21   3   1  153.1 141  78  73  74 103  14   6 
+Jay Howell              MAR    cl  32   1.44   4   1  14  34   0   0   0   43.2  36   9   7  10  47   1   2 
+Jay Howell              FER    cl  32   0.73   3   1   5  19   0   0   0   24.2  18   4   2  11  23   1   1 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age    ERA   W   L   S   G  GS  CG SHO    INN   H   R  ER  BB   K  HR GDP 
+Jay Howell                     cl  32   1.19   7   2  19  53   0   0   0   68.1  54  13   9  21  70   2   3 
+Ken Howell              ES?    mr  27   2.84   3   1   0  11   0   0   0   12.2  18   4   4   5  15   0   2 
+Mark Huismann           BAR    mr  30   3.86   1   0   1   2   1   0   0    7.0   6   3   3   4   4   0   1 
+Bruce Hurst*            MAR    sp  30   2.66  17   6   0  35  35   5   2  243.2 221  77  72  59 180  21  10 
+Jeff Innis              SUN    mr  25   4.66   1   0   0  13   0   0   0   19.1  27  11  10   3  14   1   1 
+Danny Jackson*          CEN    sp  26   3.07  23   9   0  35  35   8   4  261.0 218 105  89  74 161  16  25 
+Mike Jackson            CIN    mr  23   2.65   5   3   0  68   0   0   0   95.0  76  32  28  31  76   4   4 
+Mike Jeffcoat*          NEE    mr  28   4.26   1   1   0   2   2   0   0   12.2  21   6   6   1   5   0   1 
+German Jimenez*         NEE    sp  25   6.75   0   2   0   2   2   0   0   12.0  19  10   9   1   4   2   0 
+Tommy John*             FER    sp  45   2.21   3   4   6  35   0   0   0   57.0  50  22  14  13  17   0  11 
+Randy Johnson*          BMB    sp  24   3.42   1   3   0   4   4   0   0   26.1  34  10  10   5  24   2   0 
+Barry Jones             GBP    mr  25   3.61   6   4   4  58   0   0   0   72.1  83  35  29  22  55   9   8 
+Doug Jones              FHK    cl  31   1.70   3   5  31  62   0   0   0   84.2  65  16  16  13  50   2   3 
+Jimmy Jones             RYK    sp  24   5.05   9  14   0  31  31   2   0  165.2 204 103  93  58  81  10  14 
+Odell Jones             BBG    mr  35   4.63   0   1   0   7   1   0   0   11.2  12   6   6   7   7   0   1 
+Jimmy Key*              NEE    sp  27   3.62   4   9   0  20  20   1   0  134.1 129  63  54  23  65  16   7 
+Paul Kilgus*            FER    sp  26   3.33   6   2   0  13  13   1   0   81.0  73  31  30  16  28   9   8 
+Eric King               BAR    mr  24   3.28   2   4   0  31   7   0   0   74.0  67  34  27  41  54   4   5 
+Bob Kipper*             ES?    mr  23   4.64   4   4   0  47   0   0   0   54.1  58  30  28  20  41   5   0 
+Bob Knepper*            MAR    sp  34   4.50   3   8   1  16  14   0   0   84.0  83  43  42  28  56   5   7 
+Mark Knudson            FER    mr  27   4.22   0   0   0   7   0   0   0   10.2  15   7   5   2   5   2   0 
+Bill Krueger*           CCC    sp  30  15.43   0   3   1   5   0   0   0    2.1   7   4   4   3   0   1   0 
+Mike Krukow             EVN    sp  36   2.78   5   4   0  10  10   3   0   71.1  54  25  22  14  34   4   5 
+Mike LaCoss             GBP    sp  32   3.89   5   4   0  14  14   0   0   88.0  80  40  38  35  54   9   8 
+Dennis Lamp             ES?    mr  35   2.65   7   3   2  46   0   0   0   78.0  75  29  23  15  37   3   8 
+Lester Lancaster        ES?    mr  26   5.01   2   0   0  36   0   0   0   64.2  81  37  36  19  30   3   5 
+Bill Landrum            ES?    mr  30   9.45   0   0   1  10   0   0   0   13.1  26  14  14   1   3   0   1 
+Mark Langston*          ES?    sp  27   3.71  14  11   0  35  35   5   1  245.0 224 115 101  79 223  27  22 
+Dave LaPoint*           CTW    sp  28   3.61  11  14   0  33  32   1   0  209.1 219  96  84  50 107  22  12 
+Bill Laskey             NEE    mr  30   7.04   0   1   0  18   0   0   0   23.0  34  19  18   9  14   1   0 
+Charlie Lea             CCC    sp  31   5.73   3   5   1  17   6   0   0   48.2  66  36  31  17  34  10   4 
+Terry Leach             SUN    mr  34   3.55   3   5   4  44   0   0   0   76.0  75  34  30  22  37   2   8 
+Tim Leary               CCC    sp  29   5.40   0   1   0   2   1   0   0    6.2   8   4   4   4   3   2   0 
+Tim Leary               CIN    sp  29   3.45   3   3   0  10   9   0   0   60.0  58  23  23  11  39   4   2 
+Tim Leary                      sp  29   3.64   3   4   0  12  10   0   0   66.2  66  27  27  15  42   6   2 
+Mark Lee*               GBP    mr  23   0.00   2   0   0   5   0   0   0    5.0   3   0   0   2   0   0   1 
+Craig Lefferts*         BBG    mr  30   2.42   2   1   3  52   2   0   0   78.0  63  22  21  20  46   7   6 
+Charlie Leibrandt*      GBP    sp  31   4.52   7  14   0  33  33   1   0  211.0 223 121 106  44 110  29  23 
+Dave Leiper*            BAR    mr  26   2.88   3   6   8  45   0   0   0   56.1  57  20  18  16  37   3   6 
+Al Leiter*              SUN    sp  22   5.36   2   5   0  12   8   0   0   48.2  56  31  29  20  54  11   5 
+Bill Long               FER    mr  28   4.43   4  11   1  23  17   0   0  107.2 130  58  53  32  43  13  10 
+Greg Maddux             BMB    sp  22   3.70   7  19   0  33  33   8   2  226.0 238 103  93  70 102  14  18 
+Mike Maddux             CCC    mr  26   3.36   4   7   2  48   0   0   0   72.1  91  37  27  26  54   4   6 
+Alex Madrid             SUN    mr  25   3.15   1   0   0  13   0   0   0   20.0  16   7   7   7   0   1   0 
+Joe Magrane*            CTW    sp  23   2.93   9   4   0  32  13   5   1  123.0  97  51  40  34  64  11   7 
+Joe Magrane*            EVN    sp  23   3.08   3   1   0  18   4   1   0   49.2  40  18  17  22  21   3   2 
+Joe Magrane*                   sp  23   2.97  12   5   0  50  17   6   1  172.2 137  69  57  56  85  14   9 
+Rick Mahler             RYK    sp  34   3.45   8  17   0  33  33   3   1  206.0 242  96  79  26  92  13  12 
+Dennis Martinez         NEE    sp  33   4.81   9  16   0  32  32   2   1  192.2 202 123 103  52 104  26  16 
+Ramon Martinez          SUN    sp  20   2.76   6   1   0   7   7   0   0   42.1  30  14  13  20  20   1   3 
+Greg Mathews*           RYK    sp  26   2.22   0   0   0  32   0   0   0   52.2  36  13  13  23  30   2   8 
+Tom McCarthy            CEN    mr  27   2.08   1   0   1  11   0   0   0   13.0  11   3   3   5   3   0   1 
+Kirk McCaskill          MAR    sp  27   3.67   1   2   0  26   4   0   0   49.0  45  23  20  20  38   2   3 
+Kirk McCaskill          ES?    sp  27   2.95   3   5   0  12  12   1   0   82.1  76  35  27  26  55   2   9 
+Kirk McCaskill                 sp  27   3.22   4   7   0  38  16   1   0  131.1 121  58  47  46  93   4  12 
+Bob McClure*            ES?    mr  36   5.56   1   3   1  22   0   0   0   22.2  26  14  14  10  16   3   2 
+Lance McCullers         MAR    mr  24   4.03   9   6  11  42  12   0   0   98.1  91  54  44  66  84  13   8 
+Jack McDowell           ES?    sp  22   4.41   0  11   0  21  21   0   0  122.1 137  74  60  49  79   7   8 
+Roger McDowell          RYK    cl  27   2.34   2   3   0  51   0   0   0   57.2  56  20  15  24  28   0   5 
+Andy McGaffigan         GBP    mr  31   3.08   4   3   0  27   9   0   0   76.0  61  32  26  44  72   4   3 
+Craig McMurtry          CEN    mr  28   1.62   3   5  27  51   0   0   0   61.0  41  15  11  20  39   2   5 
+Larry McWilliams*       FER    mr  34   2.88   2   2   2  22   1   1   0   40.2  31  13  13   7  21   2   2 
+Dave Meads*             SUN    mr  24   2.54   6   2   1  36   0   0   0   39.0  42  13  11  20  26   5   1 
+Scott Medvin            BAR    mr  26   2.70   2   0   2  13   0   0   0   16.2  13   6   5   3  13   0   0 
+Brian Meyer             GBP    mr  25   3.00   1   2   0   9   0   0   0    9.0  10   3   3   6   7   0   0 
+Bob Milacki             SUN    sp  23   3.68   2   1   0   4   4   1   0   29.1  18  14  12  14  21   3   1 
+Greg Minton             CEN    mr  36   2.82   7   1   3  37   5   0   0   83.0  72  31  26  30  52   6  13 
+Paul Mirabella*         CEN    mr  34   2.90   4   5  18  47   0   0   0   59.0  58  21  19  22  34   1   2 
+Dale Mohorcic           NEE    mr  32   7.22   1   2   0   7   7   0   0   28.2  39  27  23   9  15   4   3 
+Rich Monteleone         FHK    mr  25  15.00   0   0   0   4   0   0   0    3.0   9   5   5   0   2   0   0 
+Jeff Montgomery         BAR    mr  26   4.21   5   1   0  49   0   0   0   66.1  64  34  31  20  49  11   2 
+Brad Moore              CTW    mr  24   4.91   0   0   0   3   0   0   0    3.2   2   2   2   3   4   0   0 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age    ERA   W   L   S   G  GS  CG SHO    INN   H   R  ER  BB   K  HR GDP 
+Mike Moore              CEN    sp  28   2.08  23   3   0  32  32   9   6  246.1 189  59  57  50 200  13  19 
+Mike Morgan             ES?    mr  28   5.68   5   3   0  15   8   0   0   57.0  68  38  36  22  18   4   4 
+Jack Morris             TEW    sp  33   3.30  14   7   0  33  33   3   0  223.2 234  95  82  51 129  10  20 
+Jamie Moyer*            BAR    sp  25   2.58  18   9   0  37  36   1   0  223.2 188  73  64  50 131  19  17 
+Terry Mulholland*       CCC    sp  25   5.08   2   2   8  43   0   0   0   44.1  71  25  25   8  16   5   7 
+Rob Murphy*             BBG    mr  28   2.38   3   3   9  38   0   0   0   34.0  30  13   9  17  30   1   2 
+Jeff Musselman*         BAR    sp  25   1.44   3   2   0  12   8   0   0   56.1  48  13   9  13  28   2   7 
+Randy Myers*            CIN    cl  25   1.53   2   1  21  56   0   0   0   70.2  57  13  12  15  71   7   5 
+Gene Nelson             CEN    mr  27   2.59   7   4   0  26  11   1   0   93.2  85  32  27  24  64   4   7 
+Rod Nichols             NEE    sp  23   3.25   7   6   4  55   0   0   0   74.2  77  36  27  20  35   5   8 
+Juan Nieves*            CEN    sp  23   1.87   2   2   0   9   6   1   1   43.1  26  10   9  10  23   3   3 
+Al Nipper               SUN    sp  29   5.23   1   1   0  11   4   1   0   32.2  35  24  19   9   9   5   3 
+Ed Nunez                GBP    mr  25   5.30   2   4   0   8   6   0   0   37.1  43  23  22  20  30   7   8 
+Jose Nunez              ES?    mr  24   2.45   1   0   1   4   0   0   0    3.2   4   1   1   0   3   0   0 
+Randy O'Neal            RYK    sp  27   2.79   5   3   1  40   0   0   0   51.2  39  18  16   7  19   6   3 
+Bobby Ojeda*            TEW    sp  30   1.92  16   5   0  23  23   6   4  168.2 124  40  36  34 115   8  17 
+Gregg Olson             CEN    mr  21   5.73   0   1   0   2   2   0   0   11.0  11   7   7   9  10   0   0 
+Steve Ontiveros         BMB    sp  27   4.92   1   5   0  19   8   0   0   60.1  71  36  33  15  36   5   3 
+Jesse Orosco*           ES?    mr  31   3.88   0   6  20  49   0   0   0   53.1  48  26  23  31  36   5   3 
+Vincente Palacios       BMB    sp  24   6.20   0   5   2  23   0   0   0   24.2  30  18  17  21  13   1   2 
+Donn Pall               MAR    mr  26   5.84   1   0   0   8   0   0   0   12.1  16   9   8   3   3   1   4 
+David Palmer            EVN    sp  30   7.36   0   0   0   1   1   0   0    3.2   7   3   3   3   2   0   0 
+Jeff Parrett            NFG    mr  26   3.17   3   2   4  43   0   0   0   65.1  57  31  23  27  42  11   5 
+Ken Patterson*          CCC    mr  23   4.67   1   1   0  18   0   0   0   17.1  22  12   9  10   5   1   1 
+Alejandro Pena          CIN    mr  29   1.57   6   4   9  71   0   0   0   97.2  85  28  17  19  90   7   7 
+Hipolito Pena*          CTW    mr  24   6.14   1   2   1   7   0   0   0    7.1  12   5   5   3   4   1   0 
+Melido Perez            FER    sp  22   4.22   6  10   0  30  25   0   0  143.0 141  78  67  54 111  17   9 
+Pascual Perez           SUN    sp  31   4.65   9   7   0  19  19   3   0  131.2 131  74  68  48 100  11   7 
+Pat Perry*              NFG    mr  29   5.02   1   4   0   8   6   0   0   43.0  40  26  24  17  24   3   0 
+Jeff Pico               TEW    mr  22   3.03   6   3   4  59   0   0   0   92.0  97  33  31  34  59   5   4 
+Dan Plesac*             FER    cl  26   4.04   0   2   2  30   0   0   0   35.2  37  20  16  11  23   1   1 
+Eric Plunk              FER    mr  24   2.47   2   5   1  42   0   0   0   62.0  48  19  17  24  75   3   3 
+Mark Portugal           NFG    mr  25   8.81   0   7   0  12   8   0   0   48.0  67  47  47  35  24  17   3 
+Ted Power               BMB    sp  33   5.66   4  12   0  20  17   0   0   98.2 129  65  62  31  53   7   1 
+Joe Price*              RYK    mr  31   3.50   6   3   1  51   0   0   0   69.1  65  34  27  20  57   7   8 
+Charlie Puleo           FER    mr  33   3.57   1   3   4  28   6   0   0   63.0  61  34  25  34  45   3   1 
+Dan Quisenberry         NFG    mr  35   5.48   1   9  13  48   0   0   0   64.0  99  43  39  13  31   3   7 
+Dennis Rasmussen*       MAR    sp  29   2.70  14   6   0  32  32   5   4  213.1 181  71  64  45 121  19  11 
+Shane Rawley*           GBP    sp  32   4.91   0   0   1   4   0   0   0    3.2   2   2   2   2   0   1   0 
+Jeff Reardon            CTW    cl  32   2.79   7   5  24  53   1   0   0   77.1  74  24  24   8  48   8   4 
+Jerry Reed              CTW    mr  32   1.74   0   0   0  13   0   0   0   20.2  17   4   4   4  17   2   2 
+Jerry Reed              EVN    mr  32   3.03   3   2   0  11  11   0   0   65.1  63  28  22  28  51   0   6 
+Jerry Reed                     mr  32   2.72   3   2   0  24  11   0   0   86.0  80  32  26  32  68   2   8 
+Rick Reed               TEW    sp  22   1.80   1   0   0   5   0   0   0   10.0  11   3   2   4   4   0   0 
+Rick Reuschel           RYK    sp  39   2.68  10  14   0  34  34   4   1  235.1 228  81  70  32  68  13  30 
+Jerry Reuss*            FHK    sp  39   2.41   9   8   0  23  23   4   2  156.2 131  58  42  27  57   8  12 
+Dave Righetti*          BAR    cl  29   4.27   3   1   0  27   0   0   0   46.1  43  27  22  21  35   3   4 
+Jose Rijo               GBP    mr  23   2.78  12   4   0  24  24   1   0  155.1 121  50  48  59 147  10   7 
+Wally Ritchie*          CTW    mr  22   2.96   4   0   0   6   4   0   0   24.1  17   8   8  18   9   2   3 
+Don Robinson            TEW    mr  31   2.77  15   6   0  30  29   1   0  188.1 164  61  58  62 128  16  14 
+Jeff Robinson           EVN    mr  27   3.36   5   2   2  52   0   0   0   72.1  74  31  27  23  48   6   7 
+Jeff M. Robinson        CEN    sp  26   2.57  16   1   0  27  27   2   0  189.1 153  60  54  51 129  16  14 
+Ron Robinson            SUN    sp  26   3.54   7   5   0  16  11   1   0   84.0  86  40  33  26  32   6   6 
+Bruce Ruffin*           BMB    mr  24   5.02   7  13   0  25  24   2   1  141.2 150  86  79  62  72  10  17 
+Jeff Russell            ES?    sp  26   5.33   4  12   1  31  18   0   0  135.0 162  92  80  46  56  11   9 
+Nolan Ryan              ES?    sp  41   4.16   7  17   0  33  33   4   2  196.2 189 108  91  67 208  29   4 
+Bret Saberhagen         BBG    sp  24   4.35   9  11   0  31  31   7   0  204.2 221 117  99  33 121  16  18 
+Roger Samuels*          CIN    mr  27   9.39   1   3   1   8   0   0   0    7.2   9  12   8   3   8   6   1 
+Israel Sanchez*         MAR    mr  24   3.50   2   7   5  29   0   0   0   36.0  34  17  14  15  17   2   0 
+Scott Sanderson         CCC    mr  31   0.00   3   0   4  12   0   0   0   17.2   8   0   0   3   3   0   0 
+Rich Sauveur*           NFG    mr  24   3.52   1   0   0   1   1   0   0    7.2   9   4   3   1   4   1   1 
+Dan Schatzeder*         BMB    mr  33   7.57   1   0   0  24   0   0   0   27.1  44  26  23   4  16   8   4 
+Curt Schilling          BAR    sp  21   4.96   1   0   0  12   1   0   0   16.1  18  10   9   9   3   1   2 
+Calvin Schiraldi        TEW    sp  26   4.26   5   1   0  43   0   0   0   63.1  60  31  30  40  59   3   3 
+Dave Schmidt            FHK    mr  31  18.00   1   1   0   3   0   0   0    2.0   5   4   4   0   1   0   0 
+Mike Schooler           NEE    cl  25   1.26   6   3  12  53   0   0   0   57.1  32  14   8  24  57   6   5 
+Mike Scott              BBG    sp  33   2.48  16   9   0  34  34   4   3  225.0 182  74  62  58 201  20  13 
+Scott Service           NEE    mr  21  10.57   0   1   0   2   2   0   0    7.2  13   9   9   6   7   0   0 
+Jeff Shaver             CTW    mr  24   2.57   1   0   0   1   1   0   0    7.0   7   2   2   2   0   1   1 
+Steve Shields           BMB    mr  29   3.81   1   1   2  49   0   0   0   75.2  84  36  32  34  47   5  13 
+Eric Show               SUN    sp  32   3.91  10   8   0  28  28   4   0  191.0 191  90  83  56 125  19  15 
+John Smiley*            EVN    sp  23   3.75   8   8   0  29  29   1   1  175.1 158  78  73  52 108  19   6 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age    ERA   W   L   S   G  GS  CG SHO    INN   H   R  ER  BB   K  HR GDP 
+Bryn Smith              EVN    sp  32   3.28   6   7   0  24  24   2   0  161.2 145  63  59  30 100  16  16 
+Dave Smith              BMB    cl  33   5.90   1   2   1  50   0   0   0   58.0  76  41  38  24  40   4   3 
+Lee Smith               BAR    cl  30   1.84   6   4  16  66   0   0   0   97.2  63  24  20  30 116   5   5 
+Mike Smith              BAR    mr  27   3.72   0   0   0   6   0   0   0    9.2   7   5   4   6   3   0   1 
+Pete Smith              MAR    sp  22   2.40  12   3   0  22  22   0   0  131.0 105  37  35  56  82   9   9 
+Roy Smith               CEN    sp  26   0.95   3   0   3  26   0   0   0   38.0  26   9   4  18  12   0   3 
+Zane Smith*             FER    sp  27   3.35   6   5   2  31  15   0   0  113.0 124  50  42  35  49   5  18 
+Zane Smith*             NFG    sp  27   0.00   0   0   0   1   0   0   0    0.1   0   0   0   0   0   0   0 
+Zane Smith*                    sp  27   3.34   6   5   2  32  15   0   0  113.1 124  50  42  35  49   5  18 
+Mike Smithson           GBP    sp  33   5.76   0   4   0   5   5   0   0   25.0  29  17  16   4  12   2   1 
+John Smoltz             BMB    sp  21   5.50   4   5   0  13  13   0   0   68.2  90  52  42  37  31   8   7 
+Julio Solano            CTW    mr  28   1.93   0   0   1   3   0   0   0    4.2   4   1   1   0   4   1   0 
+Mario Soto              CIN    sp  31   2.81   4   2   0   7   7   1   1   48.0  37  17  15  11  15   5   0 
+Bob Stanley             CTW    mr  33   3.13   3   2   3  19   0   0   0   31.2  25  11  11  10  18   1   4 
+Bob Stanley             EVN    mr  33   3.05   5   6   0  48   0   0   0   65.0  55  25  22  13  30   6   5 
+Bob Stanley                    mr  33   3.07   8   8   3  67   0   0   0   96.2  80  36  33  23  48   7   9 
+Dave Stewart            MAR    sp  31   3.39  10  10   0  35  34   6   1  230.2 199 112  87  85 155  17  14 
+Dave Stieb              EVN    sp  30   2.02  13   5   0  30  30   5   3  213.1 139  50  48  73 153  10  21 
+Todd Stottlemyre        CCC    sp  23   4.35   3   7   0  24  17   0   0  101.1 120  57  49  50  74  13   6 
+Rick Sutcliffe          NFG    sp  32   4.49   8  14   0  26  26   3   1  166.1 178  94  83  49 102  13   7 
+Bruce Sutter            TEW    cl  35   0.00   1   0   0   3   0   0   0    3.0   1   0   0   0   1   0   0 
+Billy Swift             NFG    sp  26   3.48   6   6   3  56  10   0   0  137.0 130  59  53  55  39   2  23 
+Greg Swindell*          CCC    sp  23   3.11   4   2   0   7   7   2   1   46.1  41  16  16   6  27   6   5 
+Greg Swindell*          CEN    sp  23   2.51  16   5   0  24  24  10   4  186.1 181  58  52  26 124  11  12 
+Greg Swindell*                 sp  23   2.63  20   7   0  31  31  12   5  232.2 222  74  68  32 151  17  17 
+Frank Tanana*           CCC    sp  34   4.10  11  12   4  32  27   4   1  182.0 177  91  83  50 105  22  11 
+Kent Tekulve            NEE    mr  41   2.75   1   5   7  64   0   0   0   75.1  68  24  23  13  35   1   7 
+Walt Terrell            FER    sp  30   1.13   1   0   1   7   0   0   0    8.0   5   1   1   6   2   1   2 
+Scott Terry             SUN    mr  28   2.25   5   1   2  60   0   0   0   80.0  73  23  20  19  37   3  12 
+Bob Tewksbury           FHK    sp  27   5.40   0   1   0   1   1   0   0    5.0   6   6   3   2   3   2   1 
+Bobby Thigpen           GBP    cl  24   3.86   3   9  26  69   0   0   0   74.2  79  37  32  34  47   5  12 
+Mark Thurmond*          CCC    mr  31   5.06   1   2   0  15   0   0   0   16.0  22   9   9   4   8   2   3 
+Jay Tibbs               BMB    sp  26   4.65   1   5   0  14  14   1   1   81.1  96  43  42  25  38  10   9 
+Fred Toliver            MAR    sp  27   5.40   0   0   0   2   0   0   0    1.2   6   5   1   1   1   0   0 
+Steve Trout*            FER    sp  30   6.32   1   8   0  14  11   0   0   57.0  69  48  40  27  19   7   4 
+John Tudor*             BAR    sp  34   2.72   8  14   0  30  30   5   1  188.2 181  69  57  34  82  15  24 
+Fernando Valenzuela*    NFG    sp  27   6.64   3   8   0  20  13   2   1   84.0 102  62  62  49  35  15   9 
+Ed Vande Berg*          NEE    mr  29   4.08   3   2   0   7   6   0   0   39.2  51  20  18  11  23   5   4 
+Frank Viola*            CTW    sp  28   2.59  16   8   0  34  34   3   1  253.2 222  80  73  52 172  15  21 
+Bob Walk                CTW    sp  31   3.11  13  12   0  32  32   2   0  220.0 214  90  76  63  78   4  11 
+Duane Ward              FER    mr  24   3.40   4   6   5  60   0   0   0   90.0  76  36  34  40  70   5   7 
+Bill Wegman             CCC    sp  25   3.14  11   8   0  29  29   4   0  203.1 212  84  71  41  70  15  15 
+Bob Welch               CIN    sp  31   4.85   8  10   0  27  27   1   0  167.0 184  92  90  50 120  17   9 
+David Wells*            BAR    mr  25   6.26   3   9   0  17  17   0   0   69.0  77  55  48  30  60  18   4 
+David West*             BMB    sp  23  10.57   0   0   0   6   0   0   0    7.2  12  10   9   7   3   0   2 
+Ed Whitson              GBP    sp  33   4.11   6   9   0  28  28   2   1  164.1 192  85  75  43 100   9  12 
+Bill Wilkinson*         NEE    mr  23   2.43   1   1   4  24   0   0   0   33.1  27   9   9  14  17   2   2 
+Frank Williams          FHK    mr  30   4.61   1   3   0  28   0   0   0   27.1  38  20  14  22  20   3   7 
+Mitch Williams*         NFG    cl  23   5.10   3   7   4  31   4   0   0   54.2  43  34  31  41  44   5   2 
+Mark Williamson         BAR    mr  28   3.68   7   6   0  23  23   0   0  127.1 120  58  52  38  69  17   4 
+Carl Willis             BAR    mr  27  13.50   1   1   0   3   3   0   0    9.1  16  14  14   7   7   5   0 
+Steve Wilson*           BMB    mr  23   3.52   0   0   0   3   0   0   0    7.2   9   3   3   4   2   0   1 
+Trevor Wilson*          NEE    sp  22   5.14   0   2   0   4   4   0   0   21.0  26  13  12  10  21   2   1 
+Bobby Witt              FER    sp  24   4.71   5   9   0  24  20   4   0  130.0 114  69  68  60 105  13   5 
+Mike Witt               TEW    sp  27   2.74  13   7   0  27  27   8   3  197.0 174  66  60  67 100   3  17 
+Todd Worrell            RYK    cl  28   2.77   4   6  28  53   0   0   0   65.0  53  21  20  16  59   6   6 
+Floyd Youmans           EVN    sp  24   4.50   7  13  18  55   0   0   0   64.0  51  37  32  36  47   9   8 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  SB  CS  IW HBP WP BK SH SF   H/9  BB/9   R/9   K/9  HR/9 
+Jim Acker               ES?    mr  29   5   2   1   2  1  1  1  0  14.0   2.5  16.9   6.9   1.2 
+Juan Agosto*            EVN    mr  30   3   3   3   1  4  2  1  1   8.0   2.7  10.8   3.2   0.7 
+Rick Aguilera           GBP    mr  26   1   0   0   0  2  3  1  0  13.3   3.8  17.1   5.2   1.9 
+Gibson Alba*            CTW    mr  28   0   0   0   0  0  0  0  0   1.7   1.7   3.4   6.8   0.0 
+Neil Allen              CCC    mr  30   0   2   1   0  0  0  4  1  10.2   3.4  13.6   5.5   1.8 
+Jose Alvarez            MAR    mr  32   0   3   0   1  1  0  1  0   8.7   3.6  12.5   6.9   0.6 
+Larry Andersen          GBP    mr  35  11   1   1   0  0  3  5  2  11.6   1.4  13.1   7.5   1.0 
+Allan Anderson*         CTW    sp  24   4   2   0   3  0  3  4  3   8.4   1.0   9.7   4.2   0.5 
+Allan Anderson*         EVN    sp  24   6   2   0   2  1  3  0  1  11.1   1.6  13.0   3.6   0.6 
+Allan Anderson*                sp  24  10   4   0   5  1  6  4  4   9.4   1.2  10.9   4.0   0.5 
+Rick Anderson           NFG    sp  31   8   2   0   1  0  1  1  1  14.6   2.0  16.9   3.1   0.6 
+Joaquin Andujar         GBP    mr  35   4   1   1   0  0  1  1  1  12.9   1.5  14.4   4.6   0.5 
+Luis Aquino             CCC    sp  24   4   2   3   3  0  0  3  1   7.5   5.6  13.9   3.2   0.7 
+Jack Armstrong          NFG    sp  23  14   2   2   1  1  5  3  3  10.7   6.8  17.8   5.0   1.1 
+Paul Assenmacher*       GBP    mr  27   6   3   2   0  9  0  0  3   7.1   2.3   9.4   8.7   0.5 
+Keith Atherton          CIN    mr  29   0   0   0   0  0  0  0  0   9.0   2.3  11.3  15.8   2.3 
+Don August              BBG    sp  24  11   8   0   1  2  0  3  4   6.4   2.1   8.6   3.7   0.2 
+Scott Bailes*           TEW    sp  26   2   8   1   0  1  2  1  1   6.9   2.9   9.7   2.2   1.2 
+Doug Bair               EVN    mr  38   0   0   3   0  2  0  1  0   6.4   3.2   9.6   5.1   1.3 
+Jeff Ballard*           BAR    sp  24   0   1   1   2  0  0  2  1   6.4   3.2  10.5   1.8   1.4 
+Scott Bankhead          BBG    sp  24  11   6   3   2  2  0  8  4   6.8   2.0   9.0   5.3   0.2 
+Floyd Bannister*        RYK    sp  33  13   8   2   4  1  2  3  2   8.8   2.4  11.6   5.2   1.7 
+Jose Bautista           CTW    sp  23   2   0   0   0  0  0  0  0  13.5   1.5  15.0   3.0   2.3 
+Steve Bedrosian         FHK    cl  30  10   3   4   0  0  0  4  3   9.3   3.3  12.5   6.3   0.5 
+Tim Belcher             NEE    sp  26  14   6   0   0  1  0  9 10   7.6   2.5  10.1   7.0   0.4 
+Juan Berenguer          CCC    mr  33  10   5   2   2  3  3  2  3   5.9   4.2  10.2   9.8   0.6 
+Mike Bielecki           NFG    mr  28   6   0   0   2  4  1  1  3  10.4   3.2  14.1   5.9   1.1 
+Tim Birtsas*            NFG    mr  27   6   3   0   1  0  1  1  3   9.2   3.2  12.8   3.7   0.0 
+Jeff Bittiger           RYK    mr  26   2   3   0   0  4  1  3  3   8.8   4.0  12.8   4.9   1.3 
+Bud Black*              BAR    mr  31   5   2   4   4  7  3  3  3   6.8   3.0  10.2   7.8   0.4 
+Bert Blyleven           NFG    sp  37  33   7   0   8  3  5  5  4  11.3   1.9  13.7   6.2   1.0 
+Mike Boddicker          CIN    sp  30  18  10   1  11  4  2  8  2   9.4   2.5  12.4   6.3   0.9 
+Joe Boever              CEN    mr  27   0   2   0   4  0  0  0  1   6.1   0.0   7.8   3.0   0.4 
+Tom Bolton*             BMB    mr  26   1   0   0   0  0  1  2  2   9.7   2.7  12.4   2.5   0.7 
+Greg Booker             RYK    mr  28  15   4   3   3  3  0  5  2  10.1   3.0  13.4   6.0   1.2 
+Rich Bordi              BAR    sp  29   2   1   0   0  0  0  2  0   6.3   5.4  11.7   6.3   0.9 
+Chris Bosio             SUN    sp  25  22   8   0   2  0  1  9  9   9.7   1.2  11.1   4.5   0.4 
+Oil Can Boyd            GBP    sp  28  10   6   1   0  0  2  3  6   9.4   1.6  11.1   5.5   1.7 
+Jeff Brantley           CCC    mr  24   1   0   1   3  0  0  0  1   9.2   4.1  14.6   3.7   0.5 
+Keith Brown             EVN    sp  24   3   0   0   0  0  0  0  0   5.7   1.6   7.4   2.5   0.8 
+Kevin Brown             FHK    sp  23   6   1   0   3  0  0  2  0   7.8   1.4  10.1   3.4   0.6 
+Tom Browning*           EVN    sp  28   6   2   0   2  1  2  3  7   7.5   2.3   9.8   3.9   1.3 
+Tim Burke               RYK    cl  29   3   0   2   0  5  0  2  0  10.0   2.5  12.5   3.0   0.8 
+Todd Burns              CTW    sp  24   9   5   0   1  3  5  5  6   8.3   2.4  10.8   5.3   1.0 
+Greg Cadaret*           FHK    mr  26   7   1   1   2  8  1  2  1   6.4   4.4  11.1   8.5   0.4 
+John Candelaria*        SUN    sp  34   4   3   1   0  3  2  5  2  10.3   1.2  11.5   6.0   1.2 
+Tom Candiotti           CIN    sp  30   9   8   2   8  4  5 10  4  10.4   1.9  12.6   5.6   1.1 
+Don Carman*             CCC    sp  28   0   1   1   2  1  0  0  1  13.4   3.2  17.1   4.1   1.7 
+Cris Carpenter          NEE    sp  23   0   2   0   2  2  1  1  1  15.0   0.9  16.2   5.5   0.7 
+Chuck Cary*             NEE    mr  28   0   1   0   1  0  0  0  0   4.1   4.9   9.8   9.0   1.6 
+Tony Castillo*          CTW    mr  25   0   0   0   0  1  0  1  0   8.6   0.0   8.6   8.0   0.6 
+John Cerutti*           MAR    mr  28  14   7   6   4  4  3  3  3   8.8   2.2  11.3   5.0   1.2 
+Norm Charlton*          CIN    sp  25   3   6   4   2  0  2  4  0   9.0   2.7  11.9   4.3   0.9 
+Jim Clancy              NEE    sp  32   0   1   0   1  0  0  1  1  10.2   2.4  13.2   6.6   0.6 
+Mark Clear              TEW    mr  32   1   0   0   0  1  3  2  1   6.0   3.6   9.6   8.3   0.8 
+Roger Clemens           NFG    sp  25  15   8   0   7  1  3  4  7   7.6   2.0  10.0   9.8   1.0 
+Stew Cliburn            BAR    mr  31   0   0   0   0  0  0  0  0   1.5   1.5   3.0   6.0   0.0 
+Keith Comstock*         BAR    mr  32   2   1   0   0  0  0  0  1  11.2   2.8  14.0  13.0   3.7 
+David Cone              SUN    sp  25  21   8   3   6 10  6 10  2   8.9   3.5  12.7   8.1   1.0 
+Dennis Cook*            FHK    sp  25   4   2   0   1  1  1  0  2   7.6   2.3  10.3   5.7   0.0 
+Sherman Corbett*        BMB    mr  25   3   0   1   0  5  1  4  4  11.7   4.4  16.2   5.8   0.4 
+Jim Corsi               ES?    mr  26   4   1   1   0  1  1  0  0  13.5   1.4  14.9   4.3   0.0 
+John Costello           EVN    mr  27   5   1   0   1  0  0  1  7   8.0   4.9  13.1   8.2   1.0 
+Danny Cox               NEE    sp  28   7   2   5   1  2  4  2  7  10.8   2.2  13.1   5.9   0.8 
+Tim Crews               GBP    mr  27   3   3   3   4  0  0  6  5   9.1   1.2  10.7   6.1   0.3 
+Chuck Crim              MAR    mr  26   3   2   1   2  7  1  3  2   8.6   2.6  11.4   5.9   0.8 
+Ron Darling             FHK    sp  27  16  10   0   2  6  3  8  3   8.1   2.5  10.8   6.8   1.0 
+Danny Darwin            NEE    mr  32  13  10   1   4  0  1  3  3  10.0   1.9  12.2   6.1   1.3 
+Mark Davis*             CEN    cl  27   8   3   0   0  7  2  2  5   7.3   3.1  10.4   8.9   0.5 
+Ron Davis               CIN    mr  32   0   0   0   0  0  0  0  0   0.0   0.0   0.0   9.0   0.0 
+Storm Davis             RYK    sp  26  20   6   1   1 16  4 11  4  10.5   3.6  14.1   6.5   0.8 
+Ken Dayley*             EVN    mr  29   3   1   3   0  4  0  2  1   7.9   1.3   9.2   5.8   0.2 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  SB  CS  IW HBP WP BK SH SF   H/9  BB/9   R/9   K/9  HR/9 
+Jose DeJesus            CEN    sp  23   1   0   0   0  0  0  2  0   7.9   6.4  14.3   6.4   0.0 
+Jose DeLeon             ES?    sp  27  24   7   1   1  5  0 11  6   8.8   4.1  13.0   8.4   0.4 
+Jim Deshaies*           FHK    sp  28  14   3   0   4  0 12  6  7   7.7   2.1  10.0   4.5   1.4 
+Rob Dibble              ES?    mr  24  13   0   1   1  4  2  2  2   8.0   3.5  11.7   9.2   0.8 
+Frank DiPino*           NFG    mr  31   3   1   5   0  3  2  4  1  11.5   2.7  14.2   6.1   0.3 
+John Dopson             FER    sp  24  29   4   5   3  2  0 10  3   8.5   3.3  12.0   4.5   0.7 
+Rich Dotson             GBP    sp  29   2   2   1   1  1  1  4  2   9.0   5.0  14.3   5.8   0.3 
+Kelly Downs             FHK    sp  27   6   9   0   7  4  1 14  3   8.3   1.9  10.6   5.6   0.5 
+Doug Drabek             TEW    sp  25  12   7   3   9  1  0  7  8   8.5   2.5  11.4   4.5   0.7 
+Dave Dravecky*          FHK    sp  32   1   3   4   0  0  1  3  3   7.7   1.5   9.2   4.1   0.6 
+Mike Dunne              BMB    sp  25   3   4   0   0  6  1  2  1  10.7   6.5  17.2   2.6   0.9 
+Gary Eave               BBG    mr  24   0   1   0   0  0  0  0  0  15.8   9.0  24.8   0.0   6.8 
+Dennis Eckersley        NFG    cl  33   5   1   0   1  0  2  2  3   8.2   1.3   9.7   8.2   0.7 
+Juan Eichelberger       RYK    mr  34   1   3   0   1  2  1  2  1  10.7   1.8  12.7   1.4   1.6 
+Mark Eichhorn           CCC    mr  27   3   4   3   7  0  3  4  5   8.4   1.7  11.0   4.4   0.4 
+Steve Farr              GBP    cl  31   5   3   1   0  2  0  1  0   6.9   1.3   8.2   6.7   1.0 
+John Farrell            NFG    sp  25  15   4   1   5  0  2  4  3   8.4   2.8  11.5   4.0   0.8 
+Sid Fernandez*          CIN    sp  25  20   2   0   5  3  7  9  7   7.0   3.5  10.8   8.7   1.2 
+Chuck Finley*           NEE    sp  25  20   6   1   7  3  7 16  7   9.0   3.3  12.6   4.8   0.9 
+Mike Flanagan*          CCC    sp  36  16  11   3   9  2  2 10  6  11.0   2.7  14.1   3.9   1.1 
+Tony Fossas*            BAR    mr  30   0   0   0   0  0  0  0  0  12.7   1.7  14.3   0.8   1.7 
+John Franco*            SUN    cl  27   5   6   1   0  1  4  2  2   7.5   2.6  10.1   3.8   0.2 
+Willie Fraser           BMB    sp  24  19  14   2   4 10  2 10  2   8.7   3.1  11.9   3.9   1.0 
+Marvin Freeman          BMB    sp  25  16   3   2   0  2  1  4  2  10.5   7.2  17.7   5.9   0.5 
+Todd Frohwirth          BAR    mr  25   3   1   1   0  0  0  0  0   9.8   9.0  18.8   6.8   2.3 
+Gene Garber             TEW    cl  40   0   1   0   0  1  0  1  2   7.4   3.1  10.5   6.3   1.4 
+Wes Gardner             CEN    sp  27   8   2   0   3  3  0  4  2   7.5   3.2  11.0   6.4   1.0 
+Scott Garrelts          BBG    mr  26  15   2   1   2  6  5  4  1   7.9   2.7  10.8   7.8   0.1 
+Paul Gibson*            BAR    mr  28  10   2   4   3  4  1  2  3   8.2   2.3  10.8   4.9   0.5 
+Tom Glavine*            CCC    sp  22   8  11   3   9  2  1  5  3   8.6   2.6  11.7   3.6   0.9 
+Jerry Gleaton*          FER    mr  30   2   1   5   1  2  0  1  0   9.1   4.5  13.9   8.0   0.3 
+German Gonzalez         TEW    mr  26   0   0   0   0  0  0  0  0   0.0   0.0   0.0  18.0   0.0 
+Dwight Gooden           FHK    sp  23  23   6   0   5  1  2  8  4   8.2   1.8  10.2   5.9   0.4 
+Don Gordon              NEE    mr  28   1   1   0   3  0  2  2  2   9.7   1.7  12.5   2.8   1.0 
+Tom Gordon              FER    mr  20   0   2   1   0  0  1  3  0  12.3   2.3  14.7   9.3   0.8 
+Goose Gossage           BMB    cl  36   9   0   3   8  2  1  3  3   9.6   2.5  13.7   7.9   0.2 
+Jim Gott                BMB    cl  28   3   0   2   2  0  4  1  2  10.4   2.8  13.5   9.2   1.2 
+Jeff Gray               BMB    mr  25   0   0   0   0  0  0  1  2   6.9   0.7   7.6   5.5   0.7 
+Kevin Gross             TEW    sp  27  25   2   5   7  5  2 10  5  11.0   4.2  15.8   6.1   0.6 
+Cecilio Guante          CIN    mr  28   3   1   1   4  0  1  3  1   7.2   1.6   9.3   8.3   1.1 
+Mark Gubicza            BBG    sp  25  17   9   0   2  6  1  5  2   6.6   2.8   9.5   5.5   0.4 
+Lee Guetterman*         BMB    mr  29   4   1   3   3  3  0  2  1  13.7   3.1  17.4   3.1   0.4 
+Ron Guidry*             CIN    sp  37   1   2   2   2  3  0  1  0   5.3   1.4   7.2   3.6   0.0 
+Jose Guzman             FER    sp  25  17   7   2   5  8  8  2  1   8.1   3.5  11.9   6.7   0.7 
+John Habyan             CCC    mr  24   3   0   1   0  2  0  2  0  10.1   3.4  13.5   1.0   0.5 
+Drew Hall*              FER    mr  25   4   0   2   0  0  0  1  2   9.9   2.1  12.1   7.5   1.4 
+Atlee Hammaker*         BAR    mr  30  13   4   3   4  1  1  6  3   8.5   2.6  11.5   4.1   0.5 
+Erik Hanson             NEE    sp  23   3   2   0   1  2  4  3  6   7.9   2.6  10.6   7.3   0.0 
+Mike Harkey             GBP    sp  21   2   0   0   0  2  1  2  2  11.0   3.9  14.8   5.3   1.5 
+Pete Harnisch           CCC    sp  21   0   0   0   0  0  0  0  0  12.3   1.6  13.9   2.5   0.8 
+Greg Harris             MAR    mr  32   8   4   1   5  5  2  2  3   7.9   3.9  12.2   6.3   1.1 
+Greg W. Harris          FHK    mr  24   1   0   0   0  1  0  0  1   5.3   2.2   7.5   8.9   0.9 
+Bryan Harvey            TEW    cl  25  11   0   0   2  2  0  0  1   7.0   1.9   9.1   9.0   0.4 
+Andy Hawkins            SUN    sp  28  11   1   2   0  0  0  0  1   8.7   3.3  11.9   4.1   0.6 
+Neal Heaton*            FER    mr  28   9   1   6   2  0  4  3  2   9.5   3.7  13.4   4.6   1.2 
+Don Heinkel             BAR    mr  28   0   1   2   2  1  0  2  1   7.3   2.1   9.9   8.1   0.7 
+Tom Henke               SUN    cl  30   4   3   0   2  0  1  1  3   8.2   1.8  10.3   8.8   0.8 
+Mike Henneman           CTW    cl  26   0   1   0   2  8  3  3  2   7.6   1.6   9.4   6.4   0.7 
+Dwayne Henry            CCC    mr  26   0   1   0   2  0  0  2  0  11.6   4.6  17.7   6.9   3.9 
+Willie Hernandez*       FHK    mr  33   4   1   0   2  1  4  4  0   7.2   2.6  10.2   7.4   1.2 
+Orel Hershiser          BBG    sp  29  16   2   0   5  3  2 10  4   7.3   2.4   9.9   6.5   0.5 
+Joe Hesketh*            CIN    mr  29   0   0   0   0  1  0  0  0   7.9   3.2  11.1   8.7   0.0 
+Teddy Higuera*          CIN    sp  29  11   7   0   9  0  3  3  4   7.5   1.7   9.5   7.4   0.5 
+Ken Hill                BMB    mr  22   1   0   0   0  1  0  1  0   9.9   9.9  19.9   6.4   1.4 
+Shawn Hillegas          RYK    sp  23  12   3   0   9  4  0  4  2   8.8   3.7  13.4   4.3   0.8 
+Brian Holman            FHK    sp  23   4   4   0   1  4  0  8  0   8.6   3.0  11.7   4.3   0.7 
+Brian Holton            BBG    mr  28   6   2   1   0  5  5  2  1   8.3   2.3  10.6   4.9   0.5 
+Rick Honeycutt*         EVN    mr  34   3   3   3   4  3  8  2  1  10.3   3.4  14.2   5.6   0.5 
+Ricky Horton*           GBP    mr  28   4   1   2   0  0  0  0  0  14.2   4.3  18.5   4.3   0.9 
+Charlie Hough           CTW    sp  40  12   4   0   4  7  2  4  3   8.3   4.3  12.9   6.0   0.8 
+Jay Howell              MAR    cl  32   3   0   0   0  1  0  0  1   7.4   2.1   9.5   9.7   0.2 
+Jay Howell              FER    cl  32   4   2   1   1  0  0  0  1   6.6   4.0  10.9   8.4   0.4 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  SB  CS  IW HBP WP BK SH SF   H/9  BB/9   R/9   K/9  HR/9 
+Jay Howell                     cl  32   7   2   1   1  1  0  0  2   7.1   2.8  10.0   9.2   0.3 
+Ken Howell              ES?    mr  27   2   0   2   0  1  1  1  0  12.8   3.6  16.3  10.7   0.0 
+Mark Huismann           BAR    mr  30   0   1   0   0  0  0  0  0   7.7   5.1  12.9   5.1   0.0 
+Bruce Hurst*            MAR    sp  30  23   9   4   3  5  1 15  4   8.2   2.2  10.5   6.6   0.8 
+Jeff Innis              SUN    mr  25   3   0   1   2  0  0  0  0  12.6   1.4  14.9   6.5   0.5 
+Danny Jackson*          CEN    sp  26  16   9   6   8  6  1  6  2   7.5   2.6  10.3   5.6   0.6 
+Mike Jackson            CIN    mr  23  14   4   1   5  9  3  1  3   7.2   2.9  10.6   7.2   0.4 
+Mike Jeffcoat*          NEE    mr  28   0   0   0   1  0  0  1  2  14.9   0.7  16.3   3.6   0.0 
+German Jimenez*         NEE    sp  25   1   0   0   0  0  0  2  1  14.3   0.8  15.0   3.0   1.5 
+Tommy John*             FER    sp  45   2   1   4   2  1  1  1  0   7.9   2.1  10.3   2.7   0.0 
+Randy Johnson*          BMB    sp  24   1   1   0   1  2  0  2  0  11.6   1.7  13.7   8.2   0.7 
+Barry Jones             GBP    mr  25   6   1   0   1  7  2  2  2  10.3   2.7  13.2   6.8   1.1 
+Doug Jones              FHK    cl  31   4   4   0   3  2  1  0  3   6.9   1.4   8.6   5.3   0.2 
+Jimmy Jones             RYK    sp  24  22   4   0   6  1  1  9  3  11.1   3.2  14.6   4.4   0.5 
+Odell Jones             BBG    mr  35   1   1   0   0  0  0  2  1   9.3   5.4  14.7   5.4   0.0 
+Jimmy Key*              NEE    sp  27   5   7   1   9  0  0  6  3   8.6   1.5  10.8   4.4   1.1 
+Paul Kilgus*            FER    sp  26   2   0   2   5  0  0  2  0   8.1   1.8  10.4   3.1   1.0 
+Eric King               BAR    mr  24   8   3   1   5  4  1  2  2   8.1   5.0  13.7   6.6   0.5 
+Bob Kipper*             ES?    mr  23   0   1   0   2  1  3  1  1   9.6   3.3  13.3   6.8   0.8 
+Bob Knepper*            MAR    sp  34   3   0   1   1  2  2  4  0   8.9   3.0  12.0   6.0   0.5 
+Mark Knudson            FER    mr  27   2   0   1   0  0  2  0  0  12.7   1.7  14.3   4.2   1.7 
+Bill Krueger*           CCC    sp  30   1   0   1   0  0  0  0  0  27.0  11.6  38.6   0.0   3.9 
+Mike Krukow             EVN    sp  36   5   0   1   3  4  1  7  2   6.8   1.8   9.0   4.3   0.5 
+Mike LaCoss             GBP    sp  32   9   6   0   0  2  1  3  2   8.2   3.6  11.8   5.5   0.9 
+Dennis Lamp             ES?    mr  35   9   2   2   2  0  5  6  3   8.7   1.7  10.6   4.3   0.3 
+Lester Lancaster        ES?    mr  26   2   4   1   3  2  1  5  1  11.3   2.6  14.3   4.2   0.4 
+Bill Landrum            ES?    mr  30   0   0   0   0  1  0  1  1  17.5   0.7  18.2   2.0   0.0 
+Mark Langston*          ES?    sp  27  17  11   2   2  4  4 13  7   8.2   2.9  11.2   8.2   1.0 
+Dave LaPoint*           CTW    sp  28  10   9   0   1  0  7  5  4   9.4   2.1  11.6   4.6   0.9 
+Bill Laskey             NEE    mr  30   1   3   1   1  3  2  0  0  13.3   3.5  17.2   5.5   0.4 
+Charlie Lea             CCC    sp  31   4   3   2   0  3  3  3  4  12.2   3.1  15.3   6.3   1.8 
+Terry Leach             SUN    mr  34   8   2   2   0  0  0  4  4   8.9   2.6  11.5   4.4   0.2 
+Tim Leary               CCC    sp  29   0   1   0   0  0  0  0  1  10.8   5.4  16.2   4.0   2.7 
+Tim Leary               CIN    sp  29   8   0   0   1  1  0  2  0   8.7   1.6  10.5   5.8   0.6 
+Tim Leary                      sp  29   8   1   0   1  1  0  2  1   8.9   2.0  11.1   5.7   0.8 
+Mark Lee*               GBP    mr  23   0   0   1   0  0  0  0  1   5.4   3.6   9.0   0.0   0.0 
+Craig Lefferts*         BBG    mr  30   5   4   1   1  3  0  3  2   7.3   2.3   9.7   5.3   0.8 
+Charlie Leibrandt*      GBP    sp  31  11   8   3   8  3  2  9  8   9.5   1.9  11.7   4.7   1.2 
+Dave Leiper*            BAR    mr  26   1   3   2   0  2  0  2  2   9.1   2.6  11.7   5.9   0.5 
+Al Leiter*              SUN    sp  22   4   4   1   5  0  5  2  0  10.4   3.7  15.0  10.0   2.0 
+Bill Long               FER    mr  28  12   6  10   2  0  0  4  3  10.9   2.7  13.7   3.6   1.1 
+Greg Maddux             BMB    sp  22  15   8   0   5  4  1  8  7   9.5   2.8  12.5   4.1   0.6 
+Mike Maddux             CCC    mr  26   3   3   4   9  0  1  7  0  11.3   3.2  15.7   6.7   0.5 
+Alex Madrid             SUN    mr  25   0   1   0   0  1  0  0  2   7.2   3.1  10.3   0.0   0.4 
+Joe Magrane*            CTW    sp  23   9   5   0   3  5  1  6  3   7.1   2.5   9.8   4.7   0.8 
+Joe Magrane*            EVN    sp  23   3   3   2   0  1  4  3  0   7.2   4.0  11.2   3.8   0.5 
+Joe Magrane*                   sp  23  12   8   2   3  6  5  9  3   7.1   2.9  10.2   4.4   0.7 
+Rick Mahler             RYK    sp  34  23  10   1   6  1 10  9  7  10.6   1.1  12.0   4.0   0.6 
+Dennis Martinez         NEE    sp  33  15   7   1   6  5  9 10  6   9.4   2.4  12.1   4.9   1.2 
+Ramon Martinez          SUN    sp  20   2   2   0   0  1  0  1  1   6.4   4.3  10.6   4.3   0.2 
+Greg Mathews*           RYK    sp  26   3   0   0   0  2  2  5  0   6.2   3.9  10.1   5.1   0.3 
+Tom McCarthy            CEN    mr  27   3   0   2   2  0  0  0  1   7.6   3.5  12.5   2.1   0.0 
+Kirk McCaskill          MAR    sp  27   1   2   2   1  6  1  5  2   8.3   3.7  12.1   7.0   0.4 
+Kirk McCaskill          ES?    sp  27   3   4   0   1  5  2  7  1   8.3   2.8  11.3   6.0   0.2 
+Kirk McCaskill                 sp  27   4   6   2   2 11  3 12  3   8.3   3.2  11.6   6.4   0.3 
+Bob McClure*            ES?    mr  36   3   1   1   2  1  0  0  0  10.3   4.0  15.1   6.4   1.2 
+Lance McCullers         MAR    mr  24   5   1   2   0  5  2  2  3   8.3   6.0  14.4   7.7   1.2 
+Jack McDowell           ES?    sp  22  14   5   1   4  9  1  6  3  10.1   3.6  14.0   5.8   0.5 
+Roger McDowell          RYK    cl  27   3   2   0   1 10  0  2  4   8.7   3.7  12.6   4.4   0.0 
+Andy McGaffigan         GBP    mr  31   7   6   0   3  1  0  6  2   7.2   5.2  12.8   8.5   0.5 
+Craig McMurtry          CEN    mr  28   5   2   0   3  1  0  0  3   6.0   3.0   9.4   5.8   0.3 
+Larry McWilliams*       FER    mr  34   1   0   1   2  2  0  2  2   6.9   1.5   8.9   4.6   0.4 
+Dave Meads*             SUN    mr  24   1   2   2   0  0  0  1  1   9.7   4.6  14.3   6.0   1.2 
+Scott Medvin            BAR    mr  26   1   1   1   0  3  0  0  1   7.0   1.6   8.6   7.0   0.0 
+Brian Meyer             GBP    mr  25   0   0   0   0  0  0  1  1  10.0   6.0  16.0   7.0   0.0 
+Bob Milacki             SUN    sp  23   3   2   0   1  2  0  2  1   5.5   4.3  10.1   6.4   0.9 
+Greg Minton             CEN    mr  36   7   1   2   4  3  0  3  1   7.8   3.3  11.5   5.6   0.7 
+Paul Mirabella*         CEN    mr  34   2   3   3   1  2  1  2  2   8.8   3.4  12.4   5.2   0.2 
+Dale Mohorcic           NEE    mr  32   2   0   0   3  0  0  2  2  12.2   2.8  16.0   4.7   1.3 
+Rich Monteleone         FHK    mr  25   0   1   0   2  1  0  0  0  27.0   0.0  33.0   6.0   0.0 
+Jeff Montgomery         BAR    mr  26   1   2   1   0  7  4  4  1   8.7   2.7  11.4   6.6   1.5 
+Brad Moore              CTW    mr  24   0   0   0   0  0  0  0  0   4.9   7.4  12.3   9.8   0.0 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  SB  CS  IW HBP WP BK SH SF   H/9  BB/9   R/9   K/9  HR/9 
+Mike Moore              CEN    sp  28  12   2   0   9  1  1  9  2   6.9   1.8   9.1   7.3   0.5 
+Mike Morgan             ES?    mr  28   6   5   1   4  3  0  3  5  10.7   3.5  14.8   2.8   0.6 
+Jack Morris             TEW    sp  33  17   5   1   6  9 11  9  7   9.4   2.1  11.7   5.2   0.4 
+Jamie Moyer*            BAR    sp  25  17  10   2   7  3  0  7  2   7.6   2.0   9.9   5.3   0.8 
+Terry Mulholland*       CCC    sp  25   3   0   4   2  1  0  3  1  14.4   1.6  16.4   3.2   1.0 
+Rob Murphy*             BBG    mr  28   3   1   0   1  6  1  1  1   7.9   4.5  12.7   7.9   0.3 
+Jeff Musselman*         BAR    sp  25   4   5   2   1  0  3  3  3   7.7   2.1   9.9   4.5   0.3 
+Randy Myers*            CIN    cl  25   3   4   2   0  1  0  1  1   7.3   1.9   9.2   9.0   0.9 
+Gene Nelson             CEN    mr  27   7   3   1   0  3  0  6  2   8.2   2.3  10.5   6.1   0.4 
+Rod Nichols             NEE    sp  23  10   0   1   1  2  0  2  2   9.3   2.4  11.8   4.2   0.6 
+Juan Nieves*            CEN    sp  23   4   0   0   1  3  0  1  0   5.4   2.1   7.7   4.8   0.6 
+Al Nipper               SUN    sp  29   4   3   0   0  0  0  2  2   9.6   2.5  12.1   2.5   1.4 
+Ed Nunez                GBP    mr  25   3   1   2   0  0  1  2  3  10.4   4.8  15.2   7.2   1.7 
+Jose Nunez              ES?    mr  24   0   0   0   1  1  0  0  1   9.8   0.0  12.3   7.4   0.0 
+Randy O'Neal            RYK    sp  27   1   1   0   2  2  0  3  0   6.8   1.2   8.4   3.3   1.0 
+Bobby Ojeda*            TEW    sp  30   5   5   1   1  1  6  7  3   6.6   1.8   8.5   6.1   0.4 
+Gregg Olson             CEN    mr  21   2   1   0   0  0  1  0  0   9.0   7.4  16.4   8.2   0.0 
+Steve Ontiveros         BMB    sp  27   1   4   0   1  6  4  1  4  10.6   2.2  13.0   5.4   0.7 
+Jesse Orosco*           ES?    mr  31   1   3   0   4  2  1  2  4   8.1   5.2  14.0   6.1   0.8 
+Vincente Palacios       BMB    sp  24   6   2   1   1  1  0  1  1  10.9   7.7  19.0   4.7   0.4 
+Donn Pall               MAR    mr  26   3   1   0   1  0  0  0  1  11.7   2.2  14.6   2.2   0.7 
+David Palmer            EVN    sp  30   1   0   0   0  0  0  1  0  17.2   7.4  24.5   4.9   0.0 
+Jeff Parrett            NFG    mr  26   4   2   0   1  2  0  3  1   7.9   3.7  11.7   5.8   1.5 
+Ken Patterson*          CCC    mr  23   0   1   2   1  1  1  1  0  11.4   5.2  17.1   2.6   0.5 
+Alejandro Pena          CIN    mr  29   5   3   2   2  3  1  2  2   7.8   1.8   9.8   8.3   0.6 
+Hipolito Pena*          CTW    mr  24   2   1   2   0  0  0  1  0  14.7   3.7  18.4   4.9   1.2 
+Melido Perez            FER    sp  22  11   0   6   0 17  1  9  6   8.9   3.4  12.3   7.0   1.1 
+Pascual Perez           SUN    sp  31  12   5   0   6  3 15  6  7   9.0   3.3  12.6   6.8   0.8 
+Pat Perry*              NFG    mr  29   9   5   0   1  1  0  5  2   8.4   3.6  12.1   5.0   0.6 
+Jeff Pico               TEW    mr  22   2   6  11   0  3  1  3  2   9.5   3.3  12.8   5.8   0.5 
+Dan Plesac*             FER    cl  26   1   1   2   2  1  4  2  2   9.3   2.8  12.6   5.8   0.3 
+Eric Plunk              FER    mr  24   8   4   1   1  4  4  0  2   7.0   3.5  10.6  10.9   0.4 
+Mark Portugal           NFG    mr  25   2   1   1   1  3  2  2  2  12.6   6.6  19.3   4.5   3.2 
+Ted Power               BMB    sp  33   5   8   2   4  5  5  7  5  11.8   2.8  15.0   4.8   0.6 
+Joe Price*              RYK    mr  31   3   2   2   0  1  4  5  4   8.4   2.6  11.0   7.4   0.9 
+Charlie Puleo           FER    mr  33   5   3  13   1  0  1  3  1   8.7   4.9  13.7   6.4   0.4 
+Dan Quisenberry         NFG    mr  35   8   1   4   1  4  3  4  1  13.9   1.8  15.9   4.4   0.4 
+Dennis Rasmussen*       MAR    sp  29  16  10   0   6  6  3  5  7   7.6   1.9   9.8   5.1   0.8 
+Shane Rawley*           GBP    sp  32   0   0   0   0  0  0  1  0   4.9   4.9   9.8   0.0   2.5 
+Jeff Reardon            CTW    cl  32   6   2   1   2  0  4  3  1   8.6   0.9   9.8   5.6   0.9 
+Jerry Reed              CTW    mr  32   0   0   1   0  0  1  2  0   7.4   1.7   9.1   7.4   0.9 
+Jerry Reed              EVN    mr  32   3   3   3   0  0  1  4  0   8.7   3.9  12.5   7.0   0.0 
+Jerry Reed                     mr  32   3   3   4   0  0  2  6  0   8.4   3.3  11.7   7.1   0.2 
+Rick Reed               TEW    sp  22   0   0   0   0  0  0  0  0   9.9   3.6  13.5   3.6   0.0 
+Rick Reuschel           RYK    sp  39   7   7   0   6  5  0  7  1   8.7   1.2  10.2   2.6   0.5 
+Jerry Reuss*            FHK    sp  39   5   3   2  10  1  2  8  3   7.5   1.6   9.7   3.3   0.5 
+Dave Righetti*          BAR    cl  29   1   1   0   1  1  3  3  3   8.4   4.1  12.6   6.8   0.6 
+Jose Rijo               GBP    mr  23  18   2   1   2  0  3  9  1   7.0   3.4  10.5   8.5   0.6 
+Wally Ritchie*          CTW    mr  22   3   0   0   1  2  0  1  1   6.3   6.7  13.3   3.3   0.7 
+Don Robinson            TEW    mr  31  11   9   2   6  6  3  6  3   7.8   3.0  11.1   6.1   0.8 
+Jeff Robinson           EVN    mr  27   5   1   4   3  9  0  2  1   9.2   2.9  12.4   6.0   0.7 
+Jeff M. Robinson        CEN    sp  26   6   4   1   2  3  0  6  2   7.3   2.4   9.8   6.1   0.8 
+Ron Robinson            SUN    sp  26   8   4   0   0  3  0  2  2   9.2   2.8  12.0   3.4   0.6 
+Bruce Ruffin*           BMB    mr  24   9   6   0   2  5  0  8  3   9.5   3.9  13.6   4.6   0.6 
+Jeff Russell            ES?    sp  26  20   4   1   5  3  8 13  7  10.8   3.1  14.2   3.7   0.7 
+Nolan Ryan              ES?    sp  41  37   7   0   9  6  3 12  5   8.6   3.1  12.1   9.5   1.3 
+Bret Saberhagen         BBG    sp  24   6   5   0   7  4  0  8 12   9.7   1.5  11.5   5.3   0.7 
+Roger Samuels*          CIN    mr  27   1   0   1   0  0  0  0  0  10.6   3.5  14.1   9.4   7.0 
+Israel Sanchez*         MAR    mr  24   2   2   1   0  0  1  1  3   8.5   3.8  12.3   4.3   0.5 
+Scott Sanderson         CCC    mr  31   0   1   2   0  1  0  1  0   4.1   1.5   5.6   1.5   0.0 
+Rich Sauveur*           NFG    mr  24   0   0   0   0  0  0  0  0  10.6   1.2  11.7   4.7   1.2 
+Dan Schatzeder*         BMB    mr  33   0   1   0   3  1  0  1  1  14.5   1.3  16.8   5.3   2.6 
+Curt Schilling          BAR    sp  21   3   1   2   0  1  0  0  0   9.9   5.0  14.9   1.7   0.6 
+Calvin Schiraldi        TEW    sp  26  13   1   8   2  3  1  3  2   8.5   5.7  14.5   8.4   0.4 
+Dave Schmidt            FHK    mr  31   2   0   0   0  0  0  0  0  22.5   0.0  22.5   4.5   0.0 
+Mike Schooler           NEE    cl  25   5   3   2   4  4  3  4  2   5.0   3.8   9.4   8.9   0.9 
+Mike Scott              BBG    sp  33  31   5   1   8  0  0 12  5   7.3   2.3   9.9   8.0   0.8 
+Scott Service           NEE    mr  21   1   0   0   0  0  0  0  0  15.3   7.0  22.3   8.2   0.0 
+Jeff Shaver             CTW    mr  24   0   0   0   6  1  0  0  0   9.0   2.6  19.3   0.0   1.3 
+Steve Shields           BMB    mr  29   7   1   4   2  2  1  4  5  10.0   4.0  14.3   5.6   0.6 
+Eric Show               SUN    sp  32  21   4   2   5  7  3  2  5   9.0   2.6  11.9   5.9   0.9 
+John Smiley*            EVN    sp  23  18   8   6   5  3  5  7  1   8.1   2.7  11.0   5.5   1.0 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  SB  CS  IW HBP WP BK SH SF   H/9  BB/9   R/9   K/9  HR/9 
+Bryn Smith              EVN    sp  32  12   8   0   7  2  8  4  6   8.1   1.7  10.1   5.6   0.9 
+Dave Smith              BMB    cl  33   4   3   3   1  5  2  3  2  11.8   3.7  15.7   6.2   0.6 
+Lee Smith               BAR    cl  30   7   2   1   0  3  0  3  4   5.8   2.8   8.6  10.7   0.5 
+Mike Smith              BAR    mr  27   2   1   0   0  0  1  1  1   6.5   5.6  12.1   2.8   0.0 
+Pete Smith              MAR    sp  22   9   4   0   1  1  3  3  2   7.2   3.8  11.1   5.6   0.6 
+Roy Smith               CEN    sp  26   2   2   3   3  2  1  1  1   6.2   4.3  11.1   2.8   0.0 
+Zane Smith*             FER    sp  27   3   5  11   0  1  1  2  2   9.9   2.8  12.7   3.9   0.4 
+Zane Smith*             NFG    sp  27   0   0   0   0  0  0  0  0   0.0   0.0   0.0   0.0   0.0 
+Zane Smith*                    sp  27   3   5  11   0  1  1  2  2   9.8   2.8  12.6   3.9   0.4 
+Mike Smithson           GBP    sp  33   4   0   1   2  1  1  1  0  10.4   1.4  12.6   4.3   0.7 
+John Smoltz             BMB    sp  21  12   2   0   0  3  2  1  5  11.8   4.8  16.6   4.1   1.0 
+Julio Solano            CTW    mr  28   0   0   0   0  0  0  0  0   7.7   0.0   7.7   7.7   1.9 
+Mario Soto              CIN    sp  31   5   4   0   2  0  3  2  1   6.9   2.1   9.4   2.8   0.9 
+Bob Stanley             CTW    mr  33   0   0   2   2  1  0  1  1   7.1   2.8  10.5   5.1   0.3 
+Bob Stanley             EVN    mr  33   2   1   2   4  3  2  1  4   7.6   1.8  10.0   4.2   0.8 
+Bob Stanley                    mr  33   2   1   4   6  4  2  2  5   7.4   2.1  10.1   4.5   0.7 
+Dave Stewart            MAR    sp  31  17  11   0   6 10 13  9 11   7.8   3.3  11.3   6.0   0.7 
+Dave Stieb              EVN    sp  30  18   6   0   4  5  2  9  4   5.9   3.1   9.1   6.5   0.4 
+Todd Stottlemyre        CCC    sp  23   6   6   4   3  2  3  7  4  10.7   4.4  15.4   6.6   1.2 
+Rick Sutcliffe          NFG    sp  32  20   5   1   1  7  4  7  9   9.6   2.7  12.3   5.5   0.7 
+Bruce Sutter            TEW    cl  35   0   0   0   0  0  0  0  0   3.0   0.0   3.0   3.0   0.0 
+Billy Swift             NFG    sp  26   8   2   4   7  3  1  7  3   8.5   3.6  12.6   2.6   0.1 
+Greg Swindell*          CCC    sp  23   1   0   0   1  1  0  3  0   8.0   1.2   9.3   5.2   1.2 
+Greg Swindell*          CEN    sp  23  14   4   1   2  1  0  4  3   8.7   1.3  10.1   6.0   0.5 
+Greg Swindell*                 sp  23  15   4   1   3  2  0  7  3   8.6   1.2   9.9   5.8   0.7 
+Frank Tanana*           CCC    sp  34   9   8   5   0  4  0  6  3   8.8   2.5  11.2   5.2   1.1 
+Kent Tekulve            NEE    mr  41  11   4   0   2  0  0  4  3   8.1   1.6   9.9   4.2   0.1 
+Walt Terrell            FER    sp  30   1   0   1   0  0  0  1  0   5.6   6.8  12.4   2.3   1.1 
+Scott Terry             SUN    mr  28   7   2   1   2  1  1  1  1   8.2   2.1  10.6   4.2   0.3 
+Bob Tewksbury           FHK    sp  27   1   0   0   0  0  0  0  0  10.8   3.6  14.4   5.4   3.6 
+Bobby Thigpen           GBP    cl  24   7   6   3   3  6  2  2  2   9.5   4.1  14.0   5.7   0.6 
+Mark Thurmond*          CCC    mr  31   1   3   1   0  0  0  1  0  12.4   2.3  14.6   4.5   1.1 
+Jay Tibbs               BMB    sp  26  12   5   0   1  2  2  3  5  10.6   2.8  13.5   4.2   1.1 
+Fred Toliver            MAR    sp  27   0   0   0   0  0  0  1  0  32.4   5.4  37.8   5.4   0.0 
+Steve Trout*            FER    sp  30  17   3   9   9  3  5  2  1  10.9   4.3  16.6   3.0   1.1 
+John Tudor*             BAR    sp  34  11   5   1   2  1  2  6  3   8.6   1.6  10.4   3.9   0.7 
+Fernando Valenzuela*    NFG    sp  27   7   5   0   1  4  0  5  1  10.9   5.3  16.3   3.8   1.6 
+Ed Vande Berg*          NEE    mr  29   1   1   1   0  2  1  1  0  11.6   2.5  14.1   5.2   1.1 
+Frank Viola*            CTW    sp  28   7   7   0   6  2  2  6  6   7.9   1.8   9.9   6.1   0.5 
+Bob Walk                CTW    sp  31   6   3   0   5 15  6 10  2   8.8   2.6  11.5   3.2   0.2 
+Duane Ward              FER    mr  24   7   7   0   1  6  1  4  2   7.6   4.0  11.7   7.0   0.5 
+Bill Wegman             CCC    sp  25  14   4   2   1  1  3  7 10   9.4   1.8  11.2   3.1   0.7 
+Bob Welch               CIN    sp  31   7   5   2   8  3  4  9  2   9.9   2.7  13.0   6.5   0.9 
+David Wells*            BAR    mr  25   5   0   0   3  8  1  4  2  10.0   3.9  14.3   7.8   2.3 
+David West*             BMB    sp  23   1   0   1   0  0  1  0  3  14.1   8.2  22.3   3.5   0.0 
+Ed Whitson              GBP    sp  33  21   7   3   1  3  1  7  6  10.5   2.4  12.9   5.5   0.5 
+Bill Wilkinson*         NEE    mr  23   1   1   0   1  1  0  2  2   7.3   3.8  11.3   4.6   0.5 
+Frank Williams          FHK    mr  30   2   0   1   0  1  2  1  1  12.5   7.2  19.8   6.6   1.0 
+Mitch Williams*         NFG    cl  23   6   1   3   4  5  7  3  3   7.1   6.8  14.5   7.2   0.8 
+Mark Williamson         BAR    mr  28   7   4   1   2  5  2  1  3   8.5   2.7  11.3   4.9   1.2 
+Carl Willis             BAR    mr  27   1   0   0   1  1  0  0  0  15.4   6.8  23.1   6.8   4.8 
+Steve Wilson*           BMB    mr  23   1   1   0   0  0  0  0  2  10.6   4.7  15.3   2.3   0.0 
+Trevor Wilson*          NEE    sp  22   1   2   0   0  1  0  1  1  11.1   4.3  15.4   9.0   0.9 
+Bobby Witt              FER    sp  24  17   4   3   1 17  7 10  6   7.9   4.2  12.1   7.3   0.9 
+Mike Witt               TEW    sp  27  10   9   2   7  6  0  7  3   7.9   3.1  11.3   4.6   0.1 
+Todd Worrell            RYK    cl  28   7   3   1   0  6  0  2  2   7.3   2.2   9.6   8.2   0.8 
+Floyd Youmans           EVN    sp  24   6   1   0   2  1  0  2  2   7.2   5.1  12.5   6.6   1.3 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  GS  CG   CG% SHO  QS   QS%    RS  RS/G   RL  RLS   RL%  PCH/G  STR% 
+Jim Acker               ES?    mr  29   0   0  .000   0   0  .000     0   0.0    5    2  .400   26.0  .636 
+Juan Agosto*            EVN    mr  30   6   0  .000   0   3  .500    20   3.3    9    3  .333   27.6  .633 
+Rick Aguilera           GBP    mr  26   4   0  .000   0   1  .250     8   2.0    3    0  .000   84.5  .618 
+Gibson Alba*            CTW    mr  28   0   0  .000   0   0  .000     0   0.0    0    0  .000   18.8  .587 
+Neil Allen              CCC    mr  30   2   0  .000   0   0  .000    10   5.0    4    2  .500   35.9  .665 
+Jose Alvarez            MAR    mr  32   0   0  .000   0   0  .000     0   0.0   18    7  .389   21.3  .616 
+Larry Andersen          GBP    mr  35   0   0  .000   0   0  .000     0   0.0   15    4  .267   21.4  .678 
+Allan Anderson*         CTW    sp  24  13   5  .385   4   8  .615    58   4.5    5    2  .400   96.9  .688 
+Allan Anderson*         EVN    sp  24   9   1  .111   0   3  .333    33   3.7    5    2  .400   91.6  .699 
+Allan Anderson*                sp  24  22   6  .273   4  11  .500    91   4.1   10    4  .400   94.7  .692 
+Rick Anderson           NFG    sp  31   0   0  .000   0   0  .000     0   0.0    5    3  .600   35.0  .670 
+Joaquin Andujar         GBP    mr  35   0   0  .000   0   0  .000     0   0.0    5    3  .600   23.2  .655 
+Luis Aquino             CCC    sp  24   5   0  .000   0   3  .600    13   2.6   10    6  .600   52.6  .575 
+Jack Armstrong          NFG    sp  23  10   0  .000   0   1  .100    26   2.6    6    3  .500   83.2  .563 
+Paul Assenmacher*       GBP    mr  27   0   0  .000   0   0  .000     0   0.0   11    1  .091   24.4  .637 
+Keith Atherton          CIN    mr  29   0   0  .000   0   0  .000     0   0.0    0    0  .000   25.3  .671 
+Don August              BBG    sp  24   4   0  .000   0   3  .750    17   4.3   11    0  .000   21.6  .627 
+Scott Bailes*           TEW    sp  26   1   0  .000   0   0  .000    10  10.0   15    2  .133   18.6  .617 
+Doug Bair               EVN    mr  38   2   0  .000   0   1  .500    14   7.0    0    0  .000   92.5  .611 
+Jeff Ballard*           BAR    sp  24   3   0  .000   0   2  .667     7   2.3    1    1 1.000   84.3  .601 
+Scott Bankhead          BBG    sp  24  18   5  .278   0  15  .833    90   5.0    7    3  .429   92.7  .668 
+Floyd Bannister*        RYK    sp  33  15   1  .067   0   8  .533    63   4.2   13    3  .231   89.7  .637 
+Jose Bautista           CTW    sp  23   2   1  .500   0   1  .500     3   1.5    1    1 1.000   58.3  .657 
+Steve Bedrosian         FHK    cl  30   0   0  .000   0   0  .000     0   0.0   30    6  .200   19.9  .640 
+Tim Belcher             NEE    sp  26  21   4  .190   0  17  .810    80   3.8   12    4  .333  103.1  .652 
+Juan Berenguer          CCC    mr  33   6   0  .000   0   4  .667    19   3.2    9    0  .000   33.0  .582 
+Mike Bielecki           NFG    mr  28   4   0  .000   0   0  .000    11   2.8    5    1  .200   47.4  .611 
+Tim Birtsas*            NFG    mr  27   4   0  .000   0   2  .500    10   2.5    3    0  .000   77.3  .602 
+Jeff Bittiger           RYK    mr  26   0   0  .000   0   0  .000     0   0.0   16    7  .438   33.2  .608 
+Bud Black*              BAR    mr  31   3   1  .333   1   3 1.000     9   3.0   20    7  .350   27.2  .621 
+Bert Blyleven           NFG    sp  37  28   0  .000   0  10  .357   114   4.1   25   10  .400   81.6  .655 
+Mike Boddicker          CIN    sp  30  30   4  .133   2  15  .500   128   4.3   23    9  .391   94.1  .638 
+Joe Boever              CEN    mr  27   0   0  .000   0   0  .000     0   0.0    5    1  .200   15.4  .766 
+Tom Bolton*             BMB    mr  26   0   0  .000   0   0  .000     0   0.0    8    2  .250   18.4  .632 
+Greg Booker             RYK    mr  28   0   0  .000   0   0  .000     0   0.0   21   10  .476   27.7  .624 
+Rich Bordi              BAR    sp  29   2   0  .000   0   1  .500     4   2.0    0    0  .000   82.5  .570 
+Chris Bosio             SUN    sp  25  26   5  .192   0  17  .654   115   4.4    5    2  .400  102.1  .675 
+Oil Can Boyd            GBP    sp  28  20   0  .000   0  11  .550    79   4.0   11    5  .455   89.4  .643 
+Jeff Brantley           CCC    mr  24   0   0  .000   0   0  .000     0   0.0    3    0  .000   33.9  .616 
+Keith Brown             EVN    sp  24   0   0  .000   0   0  .000     0   0.0    0    0  .000   17.1  .669 
+Kevin Brown             FHK    sp  23   5   0  .000   0   3  .600    22   4.4    2    0  .000   84.0  .652 
+Tom Browning*           EVN    sp  28  27   4  .148   2  14  .519   127   4.7   19    8  .421   66.4  .643 
+Tim Burke               RYK    cl  29   0   0  .000   0   0  .000     0   0.0   14    9  .643   19.0  .665 
+Todd Burns              CTW    sp  24   9   3  .333   1   6  .667    42   4.7    5    2  .400   52.2  .623 
+Greg Cadaret*           FHK    mr  26   2   0  .000   0   2 1.000     7   3.5   16    7  .438   27.4  .588 
+John Candelaria*        SUN    sp  34  18   1  .056   0  10  .556   100   5.6    8    2  .250   96.7  .675 
+Tom Candiotti           CIN    sp  30  25   3  .120   1  14  .560   134   5.4   19   11  .579   75.5  .650 
+Don Carman*             CCC    sp  28   6   0  .000   0   1  .167    19   3.2    6    1  .167   81.0  .638 
+Cris Carpenter          NEE    sp  23   1   0  .000   0   0  .000     3   3.0    7    5  .714   22.5  .692 
+Chuck Cary*             NEE    mr  28   0   0  .000   0   0  .000     0   0.0    4    0  .000   21.0  .619 
+Tony Castillo*          CTW    mr  25   0   0  .000   0   0  .000     0   0.0    3    0  .000   14.5  .735 
+John Cerutti*           MAR    mr  28   5   0  .000   0   1  .200    23   4.6   14    6  .429   26.7  .639 
+Norm Charlton*          CIN    sp  25   1   0  .000   0   0  .000     3   3.0   17    3  .176   20.0  .639 
+Jim Clancy              NEE    sp  32   1   0  .000   0   1 1.000     3   3.0    0    0  .000   44.4  .640 
+Mark Clear              TEW    mr  32   0   0  .000   0   0  .000     0   0.0    7    1  .143   21.4  .607 
+Roger Clemens           NFG    sp  25  29   2  .069   0  14  .483   107   3.7   14    1  .071   97.8  .663 
+Stew Cliburn            BAR    mr  31   1   0  .000   0   1 1.000     5   5.0    1    1 1.000   68.0  .647 
+Keith Comstock*         BAR    mr  32   2   0  .000   0   0  .000    12   6.0    0    0  .000   92.5  .605 
+David Cone              SUN    sp  25  27   2  .074   1  15  .556   112   4.1   16    4  .250  106.7  .614 
+Dennis Cook*            FHK    sp  25   3   1  .333   0   2  .667    13   4.3    2    0  .000   49.9  .628 
+Sherman Corbett*        BMB    mr  25   0   0  .000   0   0  .000     0   0.0   19    7  .368   22.6  .597 
+Jim Corsi               ES?    mr  26   0   0  .000   0   0  .000     0   0.0    3    2  .667   18.7  .673 
+John Costello           EVN    mr  27   5   0  .000   0   3  .600    22   4.4   12    3  .250   37.7  .583 
+Danny Cox               NEE    sp  28   1   0  .000   0   0  .000     7   7.0   15    6  .400   21.5  .641 
+Tim Crews               GBP    mr  27   0   0  .000   0   0  .000     0   0.0    9    5  .556   22.0  .682 
+Chuck Crim              MAR    mr  26   2   0  .000   0   2 1.000     6   3.0   16    3  .188   22.9  .632 
+Ron Darling             FHK    sp  27  31   4  .129   2  20  .645   128   4.1   14    3  .214   99.9  .638 
+Danny Darwin            NEE    mr  32  25   1  .040   0  10  .400    94   3.8   23    7  .304   91.2  .654 
+Mark Davis*             CEN    cl  27   5   0  .000   0   3  .600    37   7.4    7    0  .000   32.0  .623 
+Ron Davis               CIN    mr  32   0   0  .000   0   0  .000     0   0.0    0    0  .000   13.0  .769 
+Storm Davis             RYK    sp  26  32   0  .000   0  12  .375   116   3.6   32   10  .313   81.8  .616 
+Ken Dayley*             EVN    mr  29   0   0  .000   0   0  .000     0   0.0    2    0  .000   19.3  .654 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  GS  CG   CG% SHO  QS   QS%    RS  RS/G   RL  RLS   RL%  PCH/G  STR% 
+Jose DeJesus            CEN    sp  23   1   0  .000   0   0  .000     7   7.0    2    0  .000  106.0  .509 
+Jose DeLeon             ES?    sp  27  35   0  .000   0  19  .543   119   3.4   17    9  .529   95.2  .608 
+Jim Deshaies*           FHK    sp  28  32   3  .094   2  19  .594   144   4.5   16    8  .500   96.1  .651 
+Rob Dibble              ES?    mr  24   0   0  .000   0   0  .000     0   0.0   12    4  .333   20.2  .641 
+Frank DiPino*           NFG    mr  31   0   0  .000   0   0  .000     0   0.0   11    2  .182   23.8  .632 
+John Dopson             FER    sp  24  19   1  .053   1  12  .632    79   4.2   12    7  .583   78.3  .604 
+Rich Dotson             GBP    sp  29   6   1  .167   0   3  .500    19   3.2    6    4  .667  100.8  .613 
+Kelly Downs             FHK    sp  27  26   2  .077   0  19  .731    91   3.5   10    0  .000   79.8  .645 
+Doug Drabek             TEW    sp  25  33   6  .182   2  21  .636   167   5.1   22    6  .273   95.6  .647 
+Dave Dravecky*          FHK    sp  32   0   0  .000   0   0  .000     0   0.0    6    1  .167   18.5  .700 
+Mike Dunne              BMB    sp  25   0   0  .000   0   0  .000     0   0.0   23    8  .348   24.8  .562 
+Gary Eave               BBG    mr  24   0   0  .000   0   0  .000     0   0.0    4    3  .750   30.7  .543 
+Dennis Eckersley        NFG    cl  33   0   0  .000   0   0  .000     0   0.0    7    2  .286   18.4  .709 
+Juan Eichelberger       RYK    mr  34   0   0  .000   0   0  .000     0   0.0    5    4  .800   29.2  .623 
+Mark Eichhorn           CCC    mr  27   0   0  .000   0   0  .000     0   0.0   10    4  .400   21.9  .637 
+Steve Farr              GBP    cl  31   8   0  .000   0   6  .750    33   4.1    1    0  .000   61.2  .667 
+John Farrell            NFG    sp  25  19   3  .158   2   9  .474    83   4.4   16    4  .250   60.1  .629 
+Sid Fernandez*          CIN    sp  25  29   2  .069   1  18  .621   148   5.1   15    3  .200   98.4  .614 
+Chuck Finley*           NEE    sp  25  32   1  .031   0  19  .594   106   3.3   18    6  .333   98.7  .626 
+Mike Flanagan*          CCC    sp  36  30   2  .067   0  10  .333   104   3.5   23   10  .435   84.1  .639 
+Tony Fossas*            BAR    mr  30   2   0  .000   0   0  .000    11   5.5    2    1  .500   76.5  .686 
+John Franco*            SUN    cl  27   0   0  .000   0   0  .000     0   0.0    1    0  .000   19.5  .657 
+Willie Fraser           BMB    sp  24  29   0  .000   0  19  .655   107   3.7   20    8  .400   93.3  .626 
+Marvin Freeman          BMB    sp  25  11   0  .000   0   4  .364    39   3.5    9    1  .111   92.1  .556 
+Todd Frohwirth          BAR    mr  25   4   0  .000   0   1  .250    24   6.0    5    0  .000   55.5  .532 
+Gene Garber             TEW    cl  40   0   0  .000   0   0  .000     0   0.0    3    1  .333   21.2  .649 
+Wes Gardner             CEN    sp  27  14   0  .000   0   7  .500    65   4.6    8    0  .000   82.3  .610 
+Scott Garrelts          BBG    mr  26   4   0  .000   0   2  .500    18   4.5   16    4  .250   26.0  .622 
+Paul Gibson*            BAR    mr  28   0   0  .000   0   0  .000     0   0.0   12    5  .417   24.5  .637 
+Tom Glavine*            CCC    sp  22  26   2  .077   1  18  .692    83   3.2   16    6  .375   78.0  .636 
+Jerry Gleaton*          FER    mr  30   0   0  .000   0   0  .000     0   0.0   16    5  .313   20.0  .613 
+German Gonzalez         TEW    mr  26   0   0  .000   0   0  .000     0   0.0    0    0  .000   12.0  .667 
+Dwight Gooden           FHK    sp  23  33   5  .152   1  26  .788   121   3.7   16    3  .188  100.8  .660 
+Don Gordon              NEE    mr  28   0   0  .000   0   0  .000     0   0.0    1    0  .000   21.7  .621 
+Tom Gordon              FER    mr  20   2   0  .000   0   0  .000    15   7.5    1    0  .000   92.0  .636 
+Goose Gossage           BMB    cl  36   0   0  .000   0   0  .000     0   0.0   21    7  .333   20.7  .646 
+Jim Gott                BMB    cl  28   0   0  .000   0   0  .000     0   0.0   12    3  .250   20.3  .628 
+Jeff Gray               BMB    mr  25   0   0  .000   0   0  .000     0   0.0    0    0  .000   34.8  .684 
+Kevin Gross             TEW    sp  27  16   0  .000   0   7  .438    65   4.1   13    2  .154  104.6  .607 
+Cecilio Guante          CIN    mr  28   1   0  .000   0   1 1.000     4   4.0   13    5  .385   20.2  .674 
+Mark Gubicza            BBG    sp  25  34   7  .206   3  27  .794   147   4.3   21    9  .429  103.5  .636 
+Lee Guetterman*         BMB    mr  29   5   0  .000   0   1  .200    13   2.6    7    5  .714   62.5  .631 
+Ron Guidry*             CIN    sp  37   1   0  .000   0   1 1.000     3   3.0    3    0  .000   27.2  .684 
+Jose Guzman             FER    sp  25  18   2  .111   0   7  .389    72   4.0   15    7  .467   54.6  .606 
+John Habyan             CCC    mr  24   0   0  .000   0   0  .000     0   0.0    4    2  .500   24.0  .625 
+Drew Hall*              FER    mr  25   0   0  .000   0   0  .000     0   0.0    7    1  .143   18.1  .637 
+Atlee Hammaker*         BAR    mr  30  19   0  .000   0   8  .421    87   4.6   13    5  .385   84.6  .642 
+Erik Hanson             NEE    sp  23   6   1  .167   0   5  .833    16   2.7    4    0  .000  113.0  .627 
+Mike Harkey             GBP    sp  21   5   0  .000   0   1  .200    20   4.0    6    3  .500   99.4  .596 
+Pete Harnisch           CCC    sp  21   0   0  .000   0   0  .000     0   0.0    3    1  .333   16.2  .580 
+Greg Harris             MAR    mr  32   2   0  .000   0   0  .000     2   1.0   26    8  .308   21.6  .592 
+Greg W. Harris          FHK    mr  24   0   0  .000   0   0  .000     0   0.0    0    0  .000   19.5  .663 
+Bryan Harvey            TEW    cl  25   0   0  .000   0   0  .000     0   0.0    0    0  .000   16.9  .664 
+Andy Hawkins            SUN    sp  28  10   1  .100   0   8  .800    40   4.0    6    1  .167  106.2  .612 
+Neal Heaton*            FER    mr  28  15   1  .067   1   7  .467    45   3.0   14    6  .429   65.4  .615 
+Don Heinkel             BAR    mr  28   0   0  .000   0   0  .000     0   0.0    5    5 1.000   19.3  .664 
+Tom Henke               SUN    cl  30   0   0  .000   0   0  .000     0   0.0    7    1  .143   22.6  .639 
+Mike Henneman           CTW    cl  26   0   0  .000   0   0  .000     0   0.0   12    3  .250   19.2  .665 
+Dwayne Henry            CCC    mr  26   0   0  .000   0   0  .000     0   0.0    7    5  .714   17.7  .552 
+Willie Hernandez*       FHK    mr  33   0   0  .000   0   0  .000     0   0.0    5    1  .200   23.5  .608 
+Orel Hershiser          BBG    sp  29  34  12  .353   2  26  .765   184   5.4   11    4  .364  115.7  .640 
+Joe Hesketh*            CIN    mr  29   0   0  .000   0   0  .000     0   0.0    6    0  .000   18.9  .651 
+Teddy Higuera*          CIN    sp  29  32   6  .188   4  23  .719   139   4.3   17    4  .235  101.7  .669 
+Ken Hill                BMB    mr  22   4   0  .000   0   0  .000     5   1.3    6    4  .667   70.0  .546 
+Shawn Hillegas          RYK    sp  23  17   0  .000   0  11  .647    68   4.0   19    4  .211   87.9  .617 
+Brian Holman            FHK    sp  23   6   0  .000   0   4  .667    12   2.0   12    7  .583   34.2  .648 
+Brian Holton            BBG    mr  28   0   0  .000   0   0  .000     0   0.0    5    1  .200   17.7  .649 
+Rick Honeycutt*         EVN    mr  34   4   0  .000   0   2  .500    10   2.5   19    3  .158   24.2  .604 
+Ricky Horton*           GBP    mr  28   0   0  .000   0   0  .000     0   0.0    8    2  .250   24.1  .648 
+Charlie Hough           CTW    sp  40  21   3  .143   1  11  .524   102   4.9   10    6  .600   80.9  .595 
+Jay Howell              MAR    cl  32   0   0  .000   0   0  .000     0   0.0    0    0  .000   19.1  .625 
+Jay Howell              FER    cl  32   0   0  .000   0   0  .000     0   0.0    4    1  .250   22.1  .607 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  GS  CG   CG% SHO  QS   QS%    RS  RS/G   RL  RLS   RL%  PCH/G  STR% 
+Jay Howell                     cl  32   0   0  .000   0   0  .000     0   0.0    4    1  .250   20.2  .618 
+Ken Howell              ES?    mr  27   0   0  .000   0   0  .000     0   0.0    1    0  .000   19.4  .657 
+Mark Huismann           BAR    mr  30   1   0  .000   0   1 1.000     4   4.0    0    0  .000   60.5  .545 
+Bruce Hurst*            MAR    sp  30  35   5  .143   2  20  .571   152   4.3   11    1  .091  101.0  .655 
+Jeff Innis              SUN    mr  25   0   0  .000   0   0  .000     0   0.0    5    1  .200   23.6  .681 
+Danny Jackson*          CEN    sp  26  35   8  .229   4  24  .686   184   5.3   15    5  .333  109.1  .628 
+Mike Jackson            CIN    mr  23   0   0  .000   0   0  .000     0   0.0   17    4  .235   21.6  .624 
+Mike Jeffcoat*          NEE    mr  28   2   0  .000   0   1  .500     7   3.5    1    0  .000   90.5  .718 
+German Jimenez*         NEE    sp  25   2   0  .000   0   1  .500     4   2.0    2    1  .500   87.0  .667 
+Tommy John*             FER    sp  45   0   0  .000   0   0  .000     0   0.0    8    4  .500   22.3  .649 
+Randy Johnson*          BMB    sp  24   4   0  .000   0   4 1.000     7   1.8    1    1 1.000  107.5  .663 
+Barry Jones             GBP    mr  25   0   0  .000   0   0  .000     0   0.0   23    2  .087   19.7  .638 
+Doug Jones              FHK    cl  31   0   0  .000   0   0  .000     0   0.0    3    0  .000   18.7  .660 
+Jimmy Jones             RYK    sp  24  31   2  .065   0  15  .484   114   3.7   31   12  .387   83.6  .637 
+Odell Jones             BBG    mr  35   1   0  .000   0   0  .000     1   1.0    0    0  .000   28.6  .610 
+Jimmy Key*              NEE    sp  27  20   1  .050   0  13  .650    68   3.4   12    6  .500   98.1  .665 
+Paul Kilgus*            FER    sp  26  13   1  .077   0   8  .615    69   5.3    9    4  .444   88.4  .647 
+Eric King               BAR    mr  24   7   0  .000   0   4  .571    32   4.6   17    4  .235   40.5  .592 
+Bob Kipper*             ES?    mr  23   0   0  .000   0   0  .000     0   0.0   18   10  .556   18.9  .629 
+Bob Knepper*            MAR    sp  34  14   0  .000   0   8  .571    42   3.0    7    3  .429   78.8  .623 
+Mark Knudson            FER    mr  27   0   0  .000   0   0  .000     0   0.0    5    0  .000   21.7  .684 
+Bill Krueger*           CCC    sp  30   0   0  .000   0   0  .000     0   0.0    2    1  .500    9.4  .553 
+Mike Krukow             EVN    sp  36  10   3  .300   0   6  .600    48   4.8    2    0  .000   92.5  .658 
+Mike LaCoss             GBP    sp  32  14   0  .000   0   9  .643    57   4.1   12    3  .250   94.4  .599 
+Dennis Lamp             ES?    mr  35   0   0  .000   0   0  .000     0   0.0    8    4  .500   23.6  .676 
+Lester Lancaster        ES?    mr  26   0   0  .000   0   0  .000     0   0.0   14   10  .714   26.6  .624 
+Bill Landrum            ES?    mr  30   0   0  .000   0   0  .000     0   0.0    4    1  .250   20.5  .663 
+Mark Langston*          ES?    sp  27  35   5  .143   1  22  .629   153   4.4   16    9  .563  110.6  .622 
+Dave LaPoint*           CTW    sp  28  32   1  .031   0  19  .594   124   3.9   31    4  .129   93.2  .652 
+Bill Laskey             NEE    mr  30   0   0  .000   0   0  .000     0   0.0    7    6  .857   21.1  .629 
+Charlie Lea             CCC    sp  31   6   0  .000   0   2  .333    22   3.7   10    3  .300   46.9  .630 
+Terry Leach             SUN    mr  34   0   0  .000   0   0  .000     0   0.0   21    9  .429   25.0  .637 
+Tim Leary               CCC    sp  29   1   0  .000   0   0  .000     2   2.0    0    0  .000   60.5  .612 
+Tim Leary               CIN    sp  29   9   0  .000   0   4  .444    30   3.3    2    1  .500   85.3  .651 
+Tim Leary                      sp  29  10   0  .000   0   4  .400    32   3.2    2    1  .500   81.2  .646 
+Mark Lee*               GBP    mr  23   0   0  .000   0   0  .000     0   0.0    0    0  .000   13.2  .682 
+Craig Lefferts*         BBG    mr  30   2   0  .000   0   1  .500    11   5.5   14    2  .143   21.1  .658 
+Charlie Leibrandt*      GBP    sp  31  33   1  .030   0  20  .606   132   4.0   18    8  .444   93.7  .657 
+Dave Leiper*            BAR    mr  26   0   0  .000   0   0  .000     0   0.0    6    3  .500   18.0  .642 
+Al Leiter*              SUN    sp  22   8   0  .000   0   4  .500    28   3.5    5    1  .200   72.5  .603 
+Bill Long               FER    mr  28  17   0  .000   0   9  .529    45   2.6   12    4  .333   68.6  .628 
+Greg Maddux             BMB    sp  22  33   8  .242   2  18  .545    82   2.5   18    8  .444  101.2  .633 
+Mike Maddux             CCC    mr  26   0   0  .000   0   0  .000     0   0.0   28    5  .179   25.4  .630 
+Alex Madrid             SUN    mr  25   0   0  .000   0   0  .000     0   0.0    0    0  .000   19.1  .621 
+Joe Magrane*            CTW    sp  23  13   5  .385   1  10  .769    60   4.6    7    3  .429   52.7  .618 
+Joe Magrane*            EVN    sp  23   4   1  .250   0   3  .750     9   2.3    4    1  .250   41.7  .607 
+Joe Magrane*                   sp  23  17   6  .353   1  13  .765    69   4.1   11    4  .364   48.7  .615 
+Rick Mahler             RYK    sp  34  33   3  .091   1  18  .545   113   3.4   20    3  .150   88.6  .680 
+Dennis Martinez         NEE    sp  33  32   2  .063   1  15  .469   131   4.1   28   13  .464   91.8  .636 
+Ramon Martinez          SUN    sp  20   7   0  .000   0   4  .571    33   4.7    6    2  .333   92.7  .570 
+Greg Mathews*           RYK    sp  26   0   0  .000   0   0  .000     0   0.0    4    0  .000   24.3  .602 
+Tom McCarthy            CEN    mr  27   0   0  .000   0   0  .000     0   0.0   10    0  .000   19.1  .643 
+Kirk McCaskill          MAR    sp  27   4   0  .000   0   2  .500    12   3.0   14    5  .357   30.0  .613 
+Kirk McCaskill          ES?    sp  27  12   1  .083   0   9  .750    43   3.6    8    5  .625  101.7  .623 
+Kirk McCaskill                 sp  27  16   1  .063   0  11  .688    55   3.4   22   10  .455   52.6  .619 
+Bob McClure*            ES?    mr  36   0   0  .000   0   0  .000     0   0.0   10    3  .300   17.4  .629 
+Lance McCullers         MAR    mr  24  12   0  .000   0   6  .500    50   4.2   11    5  .455   42.1  .556 
+Jack McDowell           ES?    sp  22  21   0  .000   0  11  .524    72   3.4   11    3  .273   97.4  .606 
+Roger McDowell          RYK    cl  27   0   0  .000   0   0  .000     0   0.0   21    6  .286   17.6  .615 
+Andy McGaffigan         GBP    mr  31   9   0  .000   0   5  .556    24   2.7   13    5  .385   46.4  .591 
+Craig McMurtry          CEN    mr  28   0   0  .000   0   0  .000     0   0.0    7    2  .286   18.2  .620 
+Larry McWilliams*       FER    mr  34   1   1 1.000   0   1 1.000     2   2.0    9    3  .333   24.1  .640 
+Dave Meads*             SUN    mr  24   0   0  .000   0   0  .000     0   0.0   11    1  .091   18.3  .624 
+Scott Medvin            BAR    mr  26   0   0  .000   0   0  .000     0   0.0    1    0  .000   18.7  .671 
+Brian Meyer             GBP    mr  25   0   0  .000   0   0  .000     0   0.0    0    0  .000   16.9  .566 
+Bob Milacki             SUN    sp  23   4   1  .250   0   3  .750    21   5.3    0    0  .000  119.8  .576 
+Greg Minton             CEN    mr  36   5   0  .000   0   2  .400    35   7.0   11    3  .273   34.2  .630 
+Paul Mirabella*         CEN    mr  34   0   0  .000   0   0  .000     0   0.0   12    4  .333   19.1  .633 
+Dale Mohorcic           NEE    mr  32   7   0  .000   0   2  .286    35   5.0    6    3  .500   73.6  .625 
+Rich Monteleone         FHK    mr  25   0   0  .000   0   0  .000     0   0.0    3    1  .333   17.8  .690 
+Jeff Montgomery         BAR    mr  26   0   0  .000   0   0  .000     0   0.0   12    4  .333   20.3  .619 
+Brad Moore              CTW    mr  24   0   0  .000   0   0  .000     0   0.0    2    0  .000   23.3  .529 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  GS  CG   CG% SHO  QS   QS%    RS  RS/G   RL  RLS   RL%  PCH/G  STR% 
+Mike Moore              CEN    sp  28  32   9  .281   6  25  .781   172   5.4    7    1  .143  111.1  .656 
+Mike Morgan             ES?    mr  28   8   0  .000   0   4  .500    35   4.4    6    0  .000   58.3  .612 
+Jack Morris             TEW    sp  33  33   3  .091   0  22  .667   135   4.1   21    8  .381  100.5  .644 
+Jamie Moyer*            BAR    sp  25  36   1  .028   0  26  .722   154   4.3   15    3  .200   86.5  .652 
+Terry Mulholland*       CCC    sp  25   0   0  .000   0   0  .000     0   0.0   17    4  .235   15.2  .669 
+Rob Murphy*             BBG    mr  28   0   0  .000   0   0  .000     0   0.0   13    3  .231   14.7  .586 
+Jeff Musselman*         BAR    sp  25   8   0  .000   0   6  .750    22   2.8    5    3  .600   64.9  .646 
+Randy Myers*            CIN    cl  25   0   0  .000   0   0  .000     0   0.0    4    1  .250   19.2  .642 
+Gene Nelson             CEN    mr  27  11   1  .091   0   7  .636    49   4.5    4    0  .000   54.2  .629 
+Rod Nichols             NEE    sp  23   0   0  .000   0   0  .000     0   0.0   23    5  .217   20.5  .622 
+Juan Nieves*            CEN    sp  23   6   1  .167   1   4  .667    29   4.8    1    1 1.000   70.9  .639 
+Al Nipper               SUN    sp  29   4   1  .250   0   2  .500    25   6.3    6    3  .500   45.0  .614 
+Ed Nunez                GBP    mr  25   6   0  .000   0   2  .333    17   2.8    2    1  .500   81.1  .612 
+Jose Nunez              ES?    mr  24   0   0  .000   0   0  .000     0   0.0    3    1  .333   14.0  .714 
+Randy O'Neal            RYK    sp  27   0   0  .000   0   0  .000     0   0.0    7    0  .000   18.0  .664 
+Bobby Ojeda*            TEW    sp  30  23   6  .261   4  20  .870   102   4.4    2    1  .500   99.8  .672 
+Gregg Olson             CEN    mr  21   2   0  .000   0   0  .000     7   3.5    0    0  .000  102.0  .520 
+Steve Ontiveros         BMB    sp  27   8   0  .000   0   4  .500    24   3.0    8    5  .625   45.8  .637 
+Jesse Orosco*           ES?    mr  31   0   0  .000   0   0  .000     0   0.0   12    4  .333   18.5  .584 
+Vincente Palacios       BMB    sp  24   0   0  .000   0   0  .000     0   0.0    7    2  .286   20.5  .559 
+Donn Pall               MAR    mr  26   0   0  .000   0   0  .000     0   0.0    4    2  .500   23.9  .717 
+David Palmer            EVN    sp  30   1   0  .000   0   0  .000    10  10.0    2    0  .000   82.0  .549 
+Jeff Parrett            NFG    mr  26   0   0  .000   0   0  .000     0   0.0    8    4  .500   24.0  .591 
+Ken Patterson*          CCC    mr  23   0   0  .000   0   0  .000     0   0.0    5    1  .200   17.2  .632 
+Alejandro Pena          CIN    mr  29   0   0  .000   0   0  .000     0   0.0   14    4  .286   20.9  .643 
+Hipolito Pena*          CTW    mr  24   0   0  .000   0   0  .000     0   0.0    1    0  .000   19.4  .625 
+Melido Perez            FER    sp  22  25   0  .000   0  11  .440    81   3.2   12    1  .083   79.3  .622 
+Pascual Perez           SUN    sp  31  19   3  .158   0   7  .368   101   5.3    8    3  .375  107.1  .630 
+Pat Perry*              NFG    mr  29   6   0  .000   0   2  .333    19   3.2    7    6  .857   83.1  .618 
+Jeff Pico               TEW    mr  22   0   0  .000   0   0  .000     0   0.0   22    3  .136   23.6  .621 
+Dan Plesac*             FER    cl  26   0   0  .000   0   0  .000     0   0.0    8    3  .375   19.3  .633 
+Eric Plunk              FER    mr  24   0   0  .000   0   0  .000     0   0.0    2    0  .000   23.7  .623 
+Mark Portugal           NFG    mr  25   8   0  .000   0   1  .125    17   2.1    7    1  .143   73.6  .593 
+Ted Power               BMB    sp  33  17   0  .000   0   7  .412    56   3.3   15    7  .467   75.9  .630 
+Joe Price*              RYK    mr  31   0   0  .000   0   0  .000     0   0.0   19    7  .368   20.7  .630 
+Charlie Puleo           FER    mr  33   6   0  .000   0   3  .500    16   2.7    7    4  .571   37.7  .570 
+Dan Quisenberry         NFG    mr  35   0   0  .000   0   0  .000     0   0.0   18    5  .278   19.8  .676 
+Dennis Rasmussen*       MAR    sp  29  32   5  .156   4  20  .625   162   5.1   17    6  .353   93.9  .640 
+Shane Rawley*           GBP    sp  32   0   0  .000   0   0  .000     0   0.0    0    0  .000   13.3  .547 
+Jeff Reardon            CTW    cl  32   1   0  .000   0   1 1.000     1   1.0    2    1  .500   19.5  .676 
+Jerry Reed              CTW    mr  32   0   0  .000   0   0  .000     0   0.0    2    0  .000   22.5  .610 
+Jerry Reed              EVN    mr  32  11   0  .000   0   7  .636    46   4.2   12    7  .583   93.2  .601 
+Jerry Reed                     mr  32  11   0  .000   0   7  .636    46   4.2   14    7  .500   54.9  .603 
+Rick Reed               TEW    sp  22   0   0  .000   0   0  .000     0   0.0    5    0  .000   31.8  .660 
+Rick Reuschel           RYK    sp  39  34   4  .118   1  25  .735    97   2.9   14    3  .214   86.1  .673 
+Jerry Reuss*            FHK    sp  39  23   4  .174   2  17  .739    74   3.2   10    5  .500   90.9  .674 
+Dave Righetti*          BAR    cl  29   0   0  .000   0   0  .000     0   0.0   15    7  .467   28.7  .606 
+Jose Rijo               GBP    mr  23  24   1  .042   0  18  .750   121   5.0   11    5  .455  100.0  .620 
+Wally Ritchie*          CTW    mr  22   4   0  .000   0   2  .500    28   7.0    1    0  .000   65.7  .538 
+Don Robinson            TEW    mr  31  29   1  .034   0  21  .724   131   4.5   16    1  .063   93.1  .634 
+Jeff Robinson           EVN    mr  27   0   0  .000   0   0  .000     0   0.0   20   10  .500   21.8  .628 
+Jeff M. Robinson        CEN    sp  26  27   2  .074   0  20  .741   137   5.1    8    0  .000  104.3  .629 
+Ron Robinson            SUN    sp  26  11   1  .091   0   5  .455    56   5.1   11    4  .364   71.8  .644 
+Bruce Ruffin*           BMB    mr  24  24   2  .083   1  11  .458    81   3.4   17    9  .529   92.0  .611 
+Jeff Russell            ES?    sp  26  18   0  .000   0   5  .278    65   3.6   14    7  .500   68.1  .621 
+Nolan Ryan              ES?    sp  41  33   4  .121   2  17  .515   106   3.2   18    7  .389   96.6  .630 
+Bret Saberhagen         BBG    sp  24  31   7  .226   0  15  .484   149   4.8    9    5  .556   91.5  .668 
+Roger Samuels*          CIN    mr  27   0   0  .000   0   0  .000     0   0.0    1    0  .000   18.0  .625 
+Israel Sanchez*         MAR    mr  24   0   0  .000   0   0  .000     0   0.0    5    2  .400   19.4  .612 
+Scott Sanderson         CCC    mr  31   0   0  .000   0   0  .000     0   0.0    0    0  .000   17.3  .686 
+Rich Sauveur*           NFG    mr  24   1   0  .000   0   1 1.000     8   8.0    1    1 1.000  100.0  .650 
+Dan Schatzeder*         BMB    mr  33   0   0  .000   0   0  .000     0   0.0    7    3  .429   17.8  .685 
+Curt Schilling          BAR    sp  21   1   0  .000   0   0  .000     3   3.0    3    0  .000   24.4  .573 
+Calvin Schiraldi        TEW    sp  26   0   0  .000   0   0  .000     0   0.0   17    4  .235   26.3  .613 
+Dave Schmidt            FHK    mr  31   0   0  .000   0   0  .000     0   0.0    3    2  .667    7.0  .857 
+Mike Schooler           NEE    cl  25   0   0  .000   0   0  .000     0   0.0    6    1  .167   16.7  .600 
+Mike Scott              BBG    sp  33  34   4  .118   3  22  .647   145   4.3   14    0  .000   97.9  .649 
+Scott Service           NEE    mr  21   2   0  .000   0   0  .000     9   4.5    3    0  .000   80.5  .578 
+Jeff Shaver             CTW    mr  24   1   0  .000   0   1 1.000     6   6.0    0    0  .000   98.0  .653 
+Steve Shields           BMB    mr  29   0   0  .000   0   0  .000     0   0.0   15   12  .800   24.9  .632 
+Eric Show               SUN    sp  32  28   4  .143   0  15  .536   143   5.1   14    6  .429  101.6  .660 
+John Smiley*            EVN    sp  23  29   1  .034   1  16  .552   126   4.3   19    5  .263   91.0  .644 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age  GS  CG   CG% SHO  QS   QS%    RS  RS/G   RL  RLS   RL%  PCH/G  STR% 
+Bryn Smith              EVN    sp  32  24   2  .083   0  17  .708    87   3.6   10    5  .500   94.8  .658 
+Dave Smith              BMB    cl  33   0   0  .000   0   0  .000     0   0.0   16    5  .313   18.7  .608 
+Lee Smith               BAR    cl  30   0   0  .000   0   0  .000     0   0.0    6    1  .167   22.4  .636 
+Mike Smith              BAR    mr  27   0   0  .000   0   0  .000     0   0.0    6    2  .333   27.2  .595 
+Pete Smith              MAR    sp  22  22   0  .000   0  18  .818    94   4.3   10    3  .300   96.9  .606 
+Roy Smith               CEN    sp  26   0   0  .000   0   0  .000     0   0.0    7    2  .286   21.0  .609 
+Zane Smith*             FER    sp  27  15   0  .000   0   8  .533    57   3.8   16    6  .375   54.7  .631 
+Zane Smith*             NFG    sp  27   0   0  .000   0   0  .000     0   0.0    0    0  .000    1.0 1.000 
+Zane Smith*                    sp  27  15   0  .000   0   8  .533    57   3.8   16    6  .375   53.1  .631 
+Mike Smithson           GBP    sp  33   5   0  .000   0   2  .400    13   2.6    2    1  .500   74.4  .669 
+John Smoltz             BMB    sp  21  13   0  .000   0   5  .385    67   5.2   11    4  .364   92.1  .581 
+Julio Solano            CTW    mr  28   0   0  .000   0   0  .000     0   0.0    0    0  .000   16.7  .720 
+Mario Soto              CIN    sp  31   7   1  .143   1   5  .714    38   5.4    4    1  .250   87.9  .631 
+Bob Stanley             CTW    mr  33   0   0  .000   0   0  .000     0   0.0    1    0  .000   23.5  .655 
+Bob Stanley             EVN    mr  33   0   0  .000   0   0  .000     0   0.0    6    2  .333   19.0  .631 
+Bob Stanley                    mr  33   0   0  .000   0   0  .000     0   0.0    7    2  .286   20.3  .639 
+Dave Stewart            MAR    sp  31  34   6  .176   1  20  .588   179   5.3   25    8  .320  101.7  .612 
+Dave Stieb              EVN    sp  30  30   5  .167   3  20  .667   107   3.6   14    2  .143  100.4  .617 
+Todd Stottlemyre        CCC    sp  23  17   0  .000   0   9  .529    56   3.3   16    3  .188   71.1  .594 
+Rick Sutcliffe          NFG    sp  32  26   3  .115   1  14  .538    82   3.2   16    3  .188   96.8  .644 
+Bruce Sutter            TEW    cl  35   0   0  .000   0   0  .000     0   0.0    0    0  .000   13.3  .600 
+Billy Swift             NFG    sp  26  10   0  .000   0   5  .500    50   5.0   17    5  .294   36.5  .608 
+Greg Swindell*          CCC    sp  23   7   2  .286   1   3  .429    29   4.1    4    2  .500   91.4  .667 
+Greg Swindell*          CEN    sp  23  24  10  .417   4  17  .708   115   4.8    9    0  .000  108.0  .692 
+Greg Swindell*                 sp  23  31  12  .387   5  20  .645   144   4.6   13    2  .154  104.3  .687 
+Frank Tanana*           CCC    sp  34  27   4  .148   1  15  .556   115   4.3   24   10  .417   80.8  .638 
+Kent Tekulve            NEE    mr  41   0   0  .000   0   0  .000     0   0.0   23    9  .391   14.9  .677 
+Walt Terrell            FER    sp  30   0   0  .000   0   0  .000     0   0.0    1    0  .000   17.1  .525 
+Scott Terry             SUN    mr  28   0   0  .000   0   0  .000     0   0.0   16    3  .188   19.5  .627 
+Bob Tewksbury           FHK    sp  27   1   0  .000   0   0  .000     0   0.0    0    0  .000   76.0  .592 
+Bobby Thigpen           GBP    cl  24   0   0  .000   0   0  .000     0   0.0   20    5  .250   16.9  .604 
+Mark Thurmond*          CCC    mr  31   0   0  .000   0   0  .000     0   0.0    6    3  .500   15.5  .677 
+Jay Tibbs               BMB    sp  26  14   1  .071   1   6  .429    62   4.4   11    4  .364   88.3  .628 
+Fred Toliver            MAR    sp  27   0   0  .000   0   0  .000     0   0.0    1    0  .000   26.5  .566 
+Steve Trout*            FER    sp  30  11   0  .000   0   2  .182    39   3.5   16    6  .375   69.9  .593 
+John Tudor*             BAR    sp  34  30   5  .167   1  18  .600    73   2.4   17   10  .588   84.2  .673 
+Fernando Valenzuela*    NFG    sp  27  13   2  .154   1   2  .154    39   3.0   10    3  .300   70.8  .568 
+Ed Vande Berg*          NEE    mr  29   6   0  .000   0   3  .500    29   4.8    3    0  .000   87.4  .637 
+Frank Viola*            CTW    sp  28  34   3  .088   1  28  .824   146   4.3   21    8  .381  106.0  .662 
+Bob Walk                CTW    sp  31  32   2  .063   0  24  .750   114   3.6   19    4  .211  101.9  .629 
+Duane Ward              FER    mr  24   0   0  .000   0   0  .000     0   0.0   18    9  .500   24.2  .594 
+Bill Wegman             CCC    sp  25  29   4  .138   0  20  .690   115   4.0   17    5  .294   98.9  .654 
+Bob Welch               CIN    sp  31  27   1  .037   0  13  .481   110   4.1   21    6  .286   96.6  .634 
+David Wells*            BAR    mr  25  17   0  .000   0   4  .235    60   3.5   12    4  .333   67.5  .612 
+David West*             BMB    sp  23   0   0  .000   0   0  .000     0   0.0    4    3  .750   25.3  .546 
+Ed Whitson              GBP    sp  33  28   2  .071   1  16  .571   102   3.6   26   14  .538   91.7  .639 
+Bill Wilkinson*         NEE    mr  23   0   0  .000   0   0  .000     0   0.0    5    1  .200   21.4  .597 
+Frank Williams          FHK    mr  30   0   0  .000   0   0  .000     0   0.0   20    8  .400   19.0  .576 
+Mitch Williams*         NFG    cl  23   4   0  .000   0   0  .000    18   4.5   13    3  .231   32.5  .549 
+Mark Williamson         BAR    mr  28  23   0  .000   0  10  .435    91   4.0   16    6  .375   86.4  .639 
+Carl Willis             BAR    mr  27   3   0  .000   0   0  .000    20   6.7    4    3  .750   58.3  .600 
+Steve Wilson*           BMB    mr  23   0   0  .000   0   0  .000     0   0.0    0    0  .000   42.3  .543 
+Trevor Wilson*          NEE    sp  22   4   0  .000   0   2  .500    17   4.3    1    1 1.000   89.3  .591 
+Bobby Witt              FER    sp  24  20   4  .200   0   6  .300    86   4.3   16    5  .313   92.9  .589 
+Mike Witt               TEW    sp  27  27   8  .296   3  19  .704   111   4.1   19    5  .263  108.7  .629 
+Todd Worrell            RYK    cl  28   0   0  .000   0   0  .000     0   0.0    2    0  .000   17.5  .655 
+Floyd Youmans           EVN    sp  24   0   0  .000   0   0  .000     0   0.0   15    7  .467   18.8  .589 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age SVO   S   SV%  BS   BS% HLD  IR IRS   IR%   G  GR  GF  PCH/G  STR% 
+Jim Acker               ES?    mr  29   3   3 1.000   0  .000   0  11   5  .455  24  24  11   26.0  .636 
+Juan Agosto*            EVN    mr  30  14  11  .786   3  .214   2  24   7  .292  37  31  20   27.6  .633 
+Rick Aguilera           GBP    mr  26   0   0  .000   0  .000   0   0   0  .000   4   0   0   84.5  .618 
+Gibson Alba*            CTW    mr  28   1   1 1.000   0  .000   0   1   0  .000   4   4   2   18.8  .587 
+Neil Allen              CCC    mr  30   2   1  .500   1  .500   0  10   4  .400  14  12   4   35.9  .665 
+Jose Alvarez            MAR    mr  32   6   4  .667   1  .167   7  22   8  .364  35  35  17   21.3  .616 
+Larry Andersen          GBP    mr  35   2   0  .000   2 1.000   6  33  21  .636  45  45  14   21.4  .678 
+Allan Anderson*         CTW    sp  24   0   0  .000   0  .000   0   0   0  .000  13   0   0   96.9  .688 
+Allan Anderson*         EVN    sp  24   0   0  .000   0  .000   0   0   0  .000   9   0   0   91.6  .699 
+Allan Anderson*                sp  24   0   0  .000   0  .000   0   0   0  .000  22   0   0   94.7  .692 
+Rick Anderson           NFG    sp  31   1   0  .000   1 1.000   2  11   3  .273  16  16   7   35.0  .670 
+Joaquin Andujar         GBP    mr  35   0   0  .000   0  .000   2  21  14  .667  24  24  10   23.2  .655 
+Luis Aquino             CCC    sp  24   0   0  .000   0  .000   1   7   2  .286  11   6   2   52.6  .575 
+Jack Armstrong          NFG    sp  23   0   0  .000   0  .000   0   0   0  .000  11   1   0   83.2  .563 
+Paul Assenmacher*       GBP    mr  27   2   0  .000   2 1.000   9  30   8  .267  45  45  11   24.4  .637 
+Keith Atherton          CIN    mr  29   2   2 1.000   0  .000   0   0   0  .000   3   3   3   25.3  .671 
+Don August              BBG    sp  24   5   1  .200   2  .400  13  35  11  .314  67  63  11   21.6  .627 
+Scott Bailes*           TEW    sp  26   2   0  .000   2 1.000  13  35   6  .171  52  51  19   18.6  .617 
+Doug Bair               EVN    mr  38   0   0  .000   0  .000   0   0   0  .000   2   0   0   92.5  .611 
+Jeff Ballard*           BAR    sp  24   0   0  .000   0  .000   0   0   0  .000   3   0   0   84.3  .601 
+Scott Bankhead          BBG    sp  24   0   0  .000   0  .000   0   1   0  .000  20   2   2   92.7  .668 
+Floyd Bannister*        RYK    sp  33   0   0  .000   0  .000   0   0   0  .000  15   0   0   89.7  .637 
+Jose Bautista           CTW    sp  23   0   0  .000   0  .000   0   0   0  .000   3   1   1   58.3  .657 
+Steve Bedrosian         FHK    cl  30   9   3  .333   6  .667   7  27  13  .481  60  60  22   19.9  .640 
+Tim Belcher             NEE    sp  26   0   0  .000   0  .000   0   0   0  .000  21   0   0  103.1  .652 
+Juan Berenguer          CCC    mr  33   6   6 1.000   0  .000   4  34  13  .382  52  46  19   33.0  .582 
+Mike Bielecki           NFG    mr  28   0   0  .000   0  .000   0   4   1  .250  14  10   5   47.4  .611 
+Tim Birtsas*            NFG    mr  27   0   0  .000   0  .000   0   0   0  .000   4   0   0   77.3  .602 
+Jeff Bittiger           RYK    mr  26   0   0  .000   0  .000   0  18   4  .222  27  27   5   33.2  .608 
+Bud Black*              BAR    mr  31  12   8  .667   3  .250   6  19   9  .474  54  51  24   27.2  .621 
+Bert Blyleven           NFG    sp  37   0   0  .000   0  .000   0   0   0  .000  30   2   2   81.6  .655 
+Mike Boddicker          CIN    sp  30   0   0  .000   0  .000   0   0   0  .000  30   0   0   94.1  .638 
+Joe Boever              CEN    mr  27   2   0  .000   0  .000   2  10   0  .000  15  15   8   15.4  .766 
+Tom Bolton*             BMB    mr  26   3   1  .333   2  .667   5  20   9  .450  29  29  15   18.4  .632 
+Greg Booker             RYK    mr  28   0   0  .000   0  .000   0  49  15  .306  39  39   7   27.7  .624 
+Rich Bordi              BAR    sp  29   0   0  .000   0  .000   0   0   0  .000   2   0   0   82.5  .570 
+Chris Bosio             SUN    sp  25   0   0  .000   0  .000   0   0   0  .000  26   0   0  102.1  .675 
+Oil Can Boyd            GBP    sp  28   0   0  .000   0  .000   0   0   0  .000  20   0   0   89.4  .643 
+Jeff Brantley           CCC    mr  24   1   0  .000   1 1.000   0  10   3  .300   9   9   2   33.9  .616 
+Keith Brown             EVN    sp  24   1   1 1.000   0  .000   1   2   1  .500   9   9   5   17.1  .669 
+Kevin Brown             FHK    sp  23   0   0  .000   0  .000   0   0   0  .000   5   0   0   84.0  .652 
+Tom Browning*           EVN    sp  28   6   4  .667   1  .167   1   3   2  .667  41  14  11   66.4  .643 
+Tim Burke               RYK    cl  29   3   2  .667   0  .000   0  24  13  .542  44  44  22   19.0  .665 
+Todd Burns              CTW    sp  24   3   2  .667   1  .333   1  11   6  .545  32  23  10   52.2  .623 
+Greg Cadaret*           FHK    mr  26   3   2  .667   1  .333   4  19   3  .158  40  38  11   27.4  .588 
+John Candelaria*        SUN    sp  34   0   0  .000   0  .000   0   0   0  .000  18   0   0   96.7  .675 
+Tom Candiotti           CIN    sp  30   0   0  .000   0  .000   1   9   4  .444  35  10   0   75.5  .650 
+Don Carman*             CCC    sp  28   0   0  .000   0  .000   0   0   0  .000   6   0   0   81.0  .638 
+Cris Carpenter          NEE    sp  23   6   2  .333   3  .500   0  15   3  .200  34  33  21   22.5  .692 
+Chuck Cary*             NEE    mr  28   2   1  .500   1  .500   0   9   2  .222   8   8   3   21.0  .619 
+Tony Castillo*          CTW    mr  25   1   1 1.000   0  .000   2   3   0  .000  13  13   8   14.5  .735 
+John Cerutti*           MAR    mr  28   3   2  .667   1  .333  12  31   7  .226  59  54  18   26.7  .639 
+Norm Charlton*          CIN    sp  25   4   1  .250   1  .250   3  28   7  .250  45  44  16   20.0  .639 
+Jim Clancy              NEE    sp  32   2   2 1.000   0  .000   0   1   1 1.000   5   4   4   44.4  .640 
+Mark Clear              TEW    mr  32   3   2  .667   1  .333   4  12   1  .083  27  27  14   21.4  .607 
+Roger Clemens           NFG    sp  25   0   0  .000   0  .000   1   0   0  .000  30   1   0   97.8  .663 
+Stew Cliburn            BAR    mr  31   0   0  .000   0  .000   0   0   0  .000   1   0   0   68.0  .647 
+Keith Comstock*         BAR    mr  32   0   0  .000   0  .000   0   0   0  .000   2   0   0   92.5  .605 
+David Cone              SUN    sp  25   0   0  .000   0  .000   0   0   0  .000  27   0   0  106.7  .614 
+Dennis Cook*            FHK    sp  25   1   1 1.000   0  .000   1   2   2 1.000   7   4   2   49.9  .628 
+Sherman Corbett*        BMB    mr  25   2   0  .000   2 1.000   4  16   6  .375  31  31  11   22.6  .597 
+Jim Corsi               ES?    mr  26   2   1  .500   1  .500   1  12   3  .250  15  15   9   18.7  .673 
+John Costello           EVN    mr  27   0   0  .000   0  .000   6  17   7  .412  23  18   6   37.7  .583 
+Danny Cox               NEE    sp  28   4   1  .250   0  .000   2  41  16  .390  61  60  19   21.5  .641 
+Tim Crews               GBP    mr  27   8   3  .375   5  .625   2  35   9  .257  48  48  17   22.0  .682 
+Chuck Crim              MAR    mr  26   5   4  .800   0  .000   4  32   4  .125  53  51  14   22.9  .632 
+Ron Darling             FHK    sp  27   0   0  .000   0  .000   0   0   0  .000  31   0   0   99.9  .638 
+Danny Darwin            NEE    mr  32   0   0  .000   0  .000   0   3   1  .333  26   1   0   91.2  .654 
+Mark Davis*             CEN    cl  27   4   4 1.000   0  .000   9  16   3  .188  43  38  15   32.0  .623 
+Ron Davis               CIN    mr  32   0   0  .000   0  .000   0   0   0  .000   1   1   1   13.0  .769 
+Storm Davis             RYK    sp  26   0   0  .000   0  .000   0   0   0  .000  32   0   0   81.8  .616 
+Ken Dayley*             EVN    mr  29   1   0  .000   1 1.000   3  27   6  .222  41  41  16   19.3  .654 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age SVO   S   SV%  BS   BS% HLD  IR IRS   IR%   G  GR  GF  PCH/G  STR% 
+Jose DeJesus            CEN    sp  23   0   0  .000   0  .000   0   0   0  .000   1   0   0  106.0  .509 
+Jose DeLeon             ES?    sp  27   0   0  .000   0  .000   0   0   0  .000  35   0   0   95.2  .608 
+Jim Deshaies*           FHK    sp  28   0   0  .000   0  .000   0   0   0  .000  32   0   0   96.1  .651 
+Rob Dibble              ES?    mr  24  19  13  .684   4  .211   5  29  15  .517  46  46  26   20.2  .641 
+Frank DiPino*           NFG    mr  31   3   3 1.000   0  .000   1  19   5  .263  44  44  19   23.8  .632 
+John Dopson             FER    sp  24   0   0  .000   0  .000   0   1   1 1.000  24   5   4   78.3  .604 
+Rich Dotson             GBP    sp  29   0   0  .000   0  .000   0   0   0  .000   6   0   0  100.8  .613 
+Kelly Downs             FHK    sp  27   0   0  .000   0  .000   0   7   2  .286  33   7   2   79.8  .645 
+Doug Drabek             TEW    sp  25   0   0  .000   0  .000   0   0   0  .000  33   0   0   95.6  .647 
+Dave Dravecky*          FHK    sp  32   3   3 1.000   0  .000   1  19   6  .316  29  29  15   18.5  .700 
+Mike Dunne              BMB    sp  25   3   1  .333   2  .667   2  34  17  .500  35  35   7   24.8  .562 
+Gary Eave               BBG    mr  24   0   0  .000   0  .000   0   1   1 1.000   3   3   0   30.7  .543 
+Dennis Eckersley        NFG    cl  33   4   3  .750   1  .250   7  21   7  .333  39  39  18   18.4  .709 
+Juan Eichelberger       RYK    mr  34   0   0  .000   0  .000   1  18   9  .500  19  19   5   29.2  .623 
+Mark Eichhorn           CCC    mr  27  11   8  .727   3  .273   2  37  10  .270  48  48  19   21.9  .637 
+Steve Farr              GBP    cl  31   1   1 1.000   0  .000   1   6   1  .167  16   8   3   61.2  .667 
+John Farrell            NFG    sp  25   0   0  .000   0  .000   1  15   3  .200  40  21   4   60.1  .629 
+Sid Fernandez*          CIN    sp  25   0   0  .000   0  .000   0   0   0  .000  30   1   0   98.4  .614 
+Chuck Finley*           NEE    sp  25   0   0  .000   0  .000   0   0   0  .000  33   1   1   98.7  .626 
+Mike Flanagan*          CCC    sp  36   0   0  .000   0  .000   0   0   0  .000  30   0   0   84.1  .639 
+Tony Fossas*            BAR    mr  30   0   0  .000   0  .000   0   0   0  .000   2   0   0   76.5  .686 
+John Franco*            SUN    cl  27  36  30  .833   6  .167   0  37   5  .135  59  59  47   19.5  .657 
+Willie Fraser           BMB    sp  24   0   0  .000   0  .000   0   0   0  .000  31   2   2   93.3  .626 
+Marvin Freeman          BMB    sp  25   0   0  .000   0  .000   0   0   0  .000  11   0   0   92.1  .556 
+Todd Frohwirth          BAR    mr  25   0   0  .000   0  .000   0   0   0  .000   4   0   0   55.5  .532 
+Gene Garber             TEW    cl  40   1   1 1.000   0  .000   2  10   4  .400  22  22  14   21.2  .649 
+Wes Gardner             CEN    sp  27   0   0  .000   0  .000   0   0   0  .000  16   2   2   82.3  .610 
+Scott Garrelts          BBG    mr  26   2   0  .000   1  .500   8  16   4  .250  47  43  11   26.0  .622 
+Paul Gibson*            BAR    mr  28   6   4  .667   2  .333   0  32  11  .344  46  46  18   24.5  .637 
+Tom Glavine*            CCC    sp  22   0   0  .000   0  .000   0   8   3  .375  35   9   1   78.0  .636 
+Jerry Gleaton*          FER    mr  30   4   2  .500   1  .250   3  13   4  .308  28  28   7   20.0  .613 
+German Gonzalez         TEW    mr  26   0   0  .000   0  .000   0   0   0  .000   1   1   1   12.0  .667 
+Dwight Gooden           FHK    sp  23   0   0  .000   0  .000   0   0   0  .000  33   0   0  100.8  .660 
+Don Gordon              NEE    mr  28   3   2  .667   1  .333   0  12   7  .583  17  17   8   21.7  .621 
+Tom Gordon              FER    mr  20   0   0  .000   0  .000   0   0   0  .000   2   0   0   92.0  .636 
+Goose Gossage           BMB    cl  36   2   2 1.000   0  .000   1  23   8  .348  35  35  11   20.7  .646 
+Jim Gott                BMB    cl  28  26  16  .615  10  .385   1  34  15  .441  55  55  41   20.3  .628 
+Jeff Gray               BMB    mr  25   0   0  .000   0  .000   0   7   3  .429   5   5   0   34.8  .684 
+Kevin Gross             TEW    sp  27   0   0  .000   0  .000   0   0   0  .000  16   0   0  104.6  .607 
+Cecilio Guante          CIN    mr  28   5   1  .200   2  .400   2  21   8  .381  45  44  16   20.2  .674 
+Mark Gubicza            BBG    sp  25   0   0  .000   0  .000   0   0   0  .000  34   0   0  103.5  .636 
+Lee Guetterman*         BMB    mr  29   0   0  .000   0  .000   0   3   1  .333  11   6   2   62.5  .631 
+Ron Guidry*             CIN    sp  37   4   4 1.000   0  .000   0   6   3  .500  18  17  12   27.2  .684 
+Jose Guzman             FER    sp  25   2   1  .500   1  .500   0  12   4  .333  46  28  11   54.6  .606 
+John Habyan             CCC    mr  24   1   1 1.000   0  .000   1  11   3  .273  11  11   3   24.0  .625 
+Drew Hall*              FER    mr  25   2   2 1.000   0  .000   5  16   7  .438  21  21   8   18.1  .637 
+Atlee Hammaker*         BAR    mr  30   0   0  .000   0  .000   0   0   0  .000  19   0   0   84.6  .642 
+Erik Hanson             NEE    sp  23   0   0  .000   0  .000   0   0   0  .000   6   0   0  113.0  .627 
+Mike Harkey             GBP    sp  21   0   0  .000   0  .000   0   0   0  .000   5   0   0   99.4  .596 
+Pete Harnisch           CCC    sp  21   1   1 1.000   0  .000   0   6   0  .000  10  10   8   16.2  .580 
+Greg Harris             MAR    mr  32   6   2  .333   4  .667  15  29  11  .379  70  68  21   21.6  .592 
+Greg W. Harris          FHK    mr  24   2   2 1.000   0  .000   1   7   0  .000  14  14  10   19.5  .663 
+Bryan Harvey            TEW    cl  25  49  40  .816   9  .184   1  34   5  .147  66  66  57   16.9  .664 
+Andy Hawkins            SUN    sp  28   0   0  .000   0  .000   0   0   0  .000  10   0   0  106.2  .612 
+Neal Heaton*            FER    mr  28   1   1 1.000   0  .000   0   3   0  .000  24   9   6   65.4  .615 
+Don Heinkel             BAR    mr  28   5   3  .600   2  .400   2  11   2  .182  29  29  15   19.3  .664 
+Tom Henke               SUN    cl  30   5   3  .600   2  .400   1  20   8  .400  46  46  23   22.6  .639 
+Mike Henneman           CTW    cl  26   7   3  .429   4  .571  11  49  16  .327  71  71  35   19.2  .665 
+Dwayne Henry            CCC    mr  26   3   2  .667   1  .333   0   6   1  .167  12  12   6   17.7  .552 
+Willie Hernandez*       FHK    mr  33   0   0  .000   0  .000   0  15   4  .267  28  28  11   23.5  .608 
+Orel Hershiser          BBG    sp  29   0   0  .000   0  .000   0   0   0  .000  34   0   0  115.7  .640 
+Joe Hesketh*            CIN    mr  29   1   1 1.000   0  .000   2   1   0  .000  10  10   2   18.9  .651 
+Teddy Higuera*          CIN    sp  29   0   0  .000   0  .000   0   0   0  .000  32   0   0  101.7  .669 
+Ken Hill                BMB    mr  22   0   0  .000   0  .000   0   0   0  .000   4   0   0   70.0  .546 
+Shawn Hillegas          RYK    sp  23   0   0  .000   0  .000   0   0   0  .000  17   0   0   87.9  .617 
+Brian Holman            FHK    sp  23   0   0  .000   0  .000   1  18   4  .222  37  31   9   34.2  .648 
+Brian Holton            BBG    mr  28  30  22  .733   8  .267   3  34  10  .294  70  70  58   17.7  .649 
+Rick Honeycutt*         EVN    mr  34   6   2  .333   2  .333   9  20   8  .400  44  40  13   24.2  .604 
+Ricky Horton*           GBP    mr  28   1   0  .000   1 1.000   2   3   1  .333  14  14   4   24.1  .648 
+Charlie Hough           CTW    sp  40   1   1 1.000   0  .000   0   5   2  .400  31  10   7   80.9  .595 
+Jay Howell              MAR    cl  32  19  14  .737   5  .263   0  15   6  .400  34  34  26   19.1  .625 
+Jay Howell              FER    cl  32   6   5  .833   1  .167   0   8   4  .500  19  19  14   22.1  .607 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age SVO   S   SV%  BS   BS% HLD  IR IRS   IR%   G  GR  GF  PCH/G  STR% 
+Jay Howell                     cl  32  25  19  .760   6  .240   0  23  10  .435  53  53  40   20.2  .618 
+Ken Howell              ES?    mr  27   2   0  .000   2 1.000   0   6   2  .333  11  11   7   19.4  .657 
+Mark Huismann           BAR    mr  30   1   1 1.000   0  .000   0   0   0  .000   2   1   1   60.5  .545 
+Bruce Hurst*            MAR    sp  30   0   0  .000   0  .000   0   0   0  .000  35   0   0  101.0  .655 
+Jeff Innis              SUN    mr  25   0   0  .000   0  .000   0   9   1  .111  13  13   5   23.6  .681 
+Danny Jackson*          CEN    sp  26   0   0  .000   0  .000   0   0   0  .000  35   0   0  109.1  .628 
+Mike Jackson            CIN    mr  23   3   0  .000   0  .000   5  43  11  .256  68  68  19   21.6  .624 
+Mike Jeffcoat*          NEE    mr  28   0   0  .000   0  .000   0   0   0  .000   2   0   0   90.5  .718 
+German Jimenez*         NEE    sp  25   0   0  .000   0  .000   0   0   0  .000   2   0   0   87.0  .667 
+Tommy John*             FER    sp  45   6   6 1.000   0  .000   1  17   6  .353  35  35  18   22.3  .649 
+Randy Johnson*          BMB    sp  24   0   0  .000   0  .000   0   0   0  .000   4   0   0  107.5  .663 
+Barry Jones             GBP    mr  25   5   4  .800   1  .200  11  20   7  .350  58  58  34   19.7  .638 
+Doug Jones              FHK    cl  31  36  31  .861   5  .139   0  31   9  .290  62  62  45   18.7  .660 
+Jimmy Jones             RYK    sp  24   0   0  .000   0  .000   0   0   0  .000  31   0   0   83.6  .637 
+Odell Jones             BBG    mr  35   0   0  .000   0  .000   0   5   2  .400   7   6   5   28.6  .610 
+Jimmy Key*              NEE    sp  27   0   0  .000   0  .000   0   0   0  .000  20   0   0   98.1  .665 
+Paul Kilgus*            FER    sp  26   0   0  .000   0  .000   0   0   0  .000  13   0   0   88.4  .647 
+Eric King               BAR    mr  24   0   0  .000   0  .000   2  19   7  .368  31  24   8   40.5  .592 
+Bob Kipper*             ES?    mr  23   1   0  .000   1 1.000   9  22  10  .455  47  47  20   18.9  .629 
+Bob Knepper*            MAR    sp  34   1   1 1.000   0  .000   0   0   0  .000  16   2   1   78.8  .623 
+Mark Knudson            FER    mr  27   0   0  .000   0  .000   1   8   2  .250   7   7   0   21.7  .684 
+Bill Krueger*           CCC    sp  30   2   1  .500   1  .500   0   2   0  .000   5   5   4    9.4  .553 
+Mike Krukow             EVN    sp  36   0   0  .000   0  .000   0   0   0  .000  10   0   0   92.5  .658 
+Mike LaCoss             GBP    sp  32   0   0  .000   0  .000   0   0   0  .000  14   0   0   94.4  .599 
+Dennis Lamp             ES?    mr  35   4   2  .500   1  .250   6  23  11  .478  46  46  18   23.6  .676 
+Lester Lancaster        ES?    mr  26   0   0  .000   0  .000   0  26  13  .500  36  36   9   26.6  .624 
+Bill Landrum            ES?    mr  30   1   1 1.000   0  .000   3   8   6  .750  10  10   2   20.5  .663 
+Mark Langston*          ES?    sp  27   0   0  .000   0  .000   0   0   0  .000  35   0   0  110.6  .622 
+Dave LaPoint*           CTW    sp  28   0   0  .000   0  .000   0   0   0  .000  33   1   1   93.2  .652 
+Bill Laskey             NEE    mr  30   0   0  .000   0  .000   3  10   6  .600  18  18   4   21.1  .629 
+Charlie Lea             CCC    sp  31   3   1  .333   2  .667   0   2   1  .500  17  11   3   46.9  .630 
+Terry Leach             SUN    mr  34   6   4  .667   2  .333   3  29  12  .414  44  44  15   25.0  .637 
+Tim Leary               CCC    sp  29   0   0  .000   0  .000   0   1   0  .000   2   1   1   60.5  .612 
+Tim Leary               CIN    sp  29   0   0  .000   0  .000   0   1   0  .000  10   1   1   85.3  .651 
+Tim Leary                      sp  29   0   0  .000   0  .000   0   2   0  .000  12   2   2   81.2  .646 
+Mark Lee*               GBP    mr  23   0   0  .000   0  .000   1   4   1  .250   5   5   3   13.2  .682 
+Craig Lefferts*         BBG    mr  30   3   3 1.000   0  .000  11  14   1  .071  52  50  22   21.1  .658 
+Charlie Leibrandt*      GBP    sp  31   0   0  .000   0  .000   0   0   0  .000  33   0   0   93.7  .657 
+Dave Leiper*            BAR    mr  26  12   8  .667   3  .250   7  16   7  .438  45  45  21   18.0  .642 
+Al Leiter*              SUN    sp  22   1   0  .000   1 1.000   1   0   0  .000  12   4   1   72.5  .603 
+Bill Long               FER    mr  28   1   1 1.000   0  .000   1   6   2  .333  23   6   2   68.6  .628 
+Greg Maddux             BMB    sp  22   0   0  .000   0  .000   0   0   0  .000  33   0   0  101.2  .633 
+Mike Maddux             CCC    mr  26   4   2  .500   0  .000   4  32  12  .375  48  48  23   25.4  .630 
+Alex Madrid             SUN    mr  25   0   0  .000   0  .000   1  12   5  .417  13  13   5   19.1  .621 
+Joe Magrane*            CTW    sp  23   0   0  .000   0  .000   3  15   2  .133  32  19   7   52.7  .618 
+Joe Magrane*            EVN    sp  23   1   0  .000   1 1.000   0  14   6  .429  18  14   2   41.7  .607 
+Joe Magrane*                   sp  23   1   0  .000   1 1.000   3  29   8  .276  50  33   9   48.7  .615 
+Rick Mahler             RYK    sp  34   0   0  .000   0  .000   0   0   0  .000  33   0   0   88.6  .680 
+Dennis Martinez         NEE    sp  33   0   0  .000   0  .000   0   0   0  .000  32   0   0   91.8  .636 
+Ramon Martinez          SUN    sp  20   0   0  .000   0  .000   0   0   0  .000   7   0   0   92.7  .570 
+Greg Mathews*           RYK    sp  26   0   0  .000   0  .000   0  28   9  .321  32  32   8   24.3  .602 
+Tom McCarthy            CEN    mr  27   1   1 1.000   0  .000   4   8   2  .250  11  11   3   19.1  .643 
+Kirk McCaskill          MAR    sp  27   0   0  .000   0  .000   1  14   7  .500  26  22   8   30.0  .613 
+Kirk McCaskill          ES?    sp  27   0   0  .000   0  .000   0   0   0  .000  12   0   0  101.7  .623 
+Kirk McCaskill                 sp  27   0   0  .000   0  .000   1  14   7  .500  38  22   8   52.6  .619 
+Bob McClure*            ES?    mr  36   4   1  .250   2  .500   1   2   0  .000  22  22   7   17.4  .629 
+Lance McCullers         MAR    mr  24  15  11  .733   4  .267   2  19  11  .579  42  30  22   42.1  .556 
+Jack McDowell           ES?    sp  22   0   0  .000   0  .000   0   0   0  .000  21   0   0   97.4  .606 
+Roger McDowell          RYK    cl  27   3   0  .000   2  .667   6  27  10  .370  51  51  31   17.6  .615 
+Andy McGaffigan         GBP    mr  31   2   0  .000   1  .500   3   9   4  .444  27  18   4   46.4  .591 
+Craig McMurtry          CEN    mr  28  32  27  .844   5  .156   8  19   2  .105  51  51  40   18.2  .620 
+Larry McWilliams*       FER    mr  34   3   2  .667   1  .333   2  17   6  .353  22  21   8   24.1  .640 
+Dave Meads*             SUN    mr  24   1   1 1.000   0  .000  10  17   6  .353  36  36  18   18.3  .624 
+Scott Medvin            BAR    mr  26   3   2  .667   1  .333   0   4   1  .250  13  13   6   18.7  .671 
+Brian Meyer             GBP    mr  25   0   0  .000   0  .000   2   6   1  .167   9   9   7   16.9  .566 
+Bob Milacki             SUN    sp  23   0   0  .000   0  .000   0   0   0  .000   4   0   0  119.8  .576 
+Greg Minton             CEN    mr  36   5   3  .600   2  .400   6  18   3  .167  37  32  14   34.2  .630 
+Paul Mirabella*         CEN    mr  34  22  18  .818   4  .182   3  24   5  .208  47  47  32   19.1  .633 
+Dale Mohorcic           NEE    mr  32   0   0  .000   0  .000   0   0   0  .000   7   0   0   73.6  .625 
+Rich Monteleone         FHK    mr  25   0   0  .000   0  .000   0   7   3  .429   4   4   2   17.8  .690 
+Jeff Montgomery         BAR    mr  26   2   0  .000   2 1.000   8  31  14  .452  49  49  13   20.3  .619 
+Brad Moore              CTW    mr  24   0   0  .000   0  .000   1   0   0  .000   3   3   1   23.3  .529 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age SVO   S   SV%  BS   BS% HLD  IR IRS   IR%   G  GR  GF  PCH/G  STR% 
+Mike Moore              CEN    sp  28   0   0  .000   0  .000   0   0   0  .000  32   0   0  111.1  .656 
+Mike Morgan             ES?    mr  28   0   0  .000   0  .000   0   5   3  .600  15   7   2   58.3  .612 
+Jack Morris             TEW    sp  33   0   0  .000   0  .000   0   0   0  .000  33   0   0  100.5  .644 
+Jamie Moyer*            BAR    sp  25   0   0  .000   0  .000   0   1   0  .000  37   1   1   86.5  .652 
+Terry Mulholland*       CCC    sp  25  13   8  .615   3  .231   7  22  11  .500  43  43  23   15.2  .669 
+Rob Murphy*             BBG    mr  28  12   9  .750   1  .083   3  19   5  .263  38  38  18   14.7  .586 
+Jeff Musselman*         BAR    sp  25   0   0  .000   0  .000   0   2   1  .500  12   4   3   64.9  .646 
+Randy Myers*            CIN    cl  25  25  21  .840   4  .160   4  32   9  .281  56  56  38   19.2  .642 
+Gene Nelson             CEN    mr  27   0   0  .000   0  .000   0   7   1  .143  26  15   6   54.2  .629 
+Rod Nichols             NEE    sp  23  11   4  .364   5  .455   6  29  10  .345  55  55  25   20.5  .622 
+Juan Nieves*            CEN    sp  23   0   0  .000   0  .000   0   1   0  .000   9   3   2   70.9  .639 
+Al Nipper               SUN    sp  29   0   0  .000   0  .000   0   3   0  .000  11   7   2   45.0  .614 
+Ed Nunez                GBP    mr  25   0   0  .000   0  .000   0   0   0  .000   8   2   0   81.1  .612 
+Jose Nunez              ES?    mr  24   2   1  .500   0  .000   0   3   2  .667   4   4   3   14.0  .714 
+Randy O'Neal            RYK    sp  27   2   1  .500   1  .500   9  19   4  .211  40  40  15   18.0  .664 
+Bobby Ojeda*            TEW    sp  30   0   0  .000   0  .000   0   0   0  .000  23   0   0   99.8  .672 
+Gregg Olson             CEN    mr  21   0   0  .000   0  .000   0   0   0  .000   2   0   0  102.0  .520 
+Steve Ontiveros         BMB    sp  27   0   0  .000   0  .000   2   2   1  .500  19  11   3   45.8  .637 
+Jesse Orosco*           ES?    mr  31  28  20  .714   7  .250   3  29  10  .345  49  49  30   18.5  .584 
+Vincente Palacios       BMB    sp  24   4   2  .500   2  .500   1  19   4  .211  23  23  16   20.5  .559 
+Donn Pall               MAR    mr  26   0   0  .000   0  .000   0   6   3  .500   8   8   1   23.9  .717 
+David Palmer            EVN    sp  30   0   0  .000   0  .000   0   0   0  .000   1   0   0   82.0  .549 
+Jeff Parrett            NFG    mr  26   6   4  .667   2  .333   1  33  16  .485  43  43  16   24.0  .591 
+Ken Patterson*          CCC    mr  23   0   0  .000   0  .000   1  14   3  .214  18  18  10   17.2  .632 
+Alejandro Pena          CIN    mr  29  14   9  .643   5  .357   8  30   8  .267  71  71  31   20.9  .643 
+Hipolito Pena*          CTW    mr  24   1   1 1.000   0  .000   0   3   0  .000   7   7   5   19.4  .625 
+Melido Perez            FER    sp  22   0   0  .000   0  .000   1   5   3  .600  30   5   4   79.3  .622 
+Pascual Perez           SUN    sp  31   0   0  .000   0  .000   0   0   0  .000  19   0   0  107.1  .630 
+Pat Perry*              NFG    mr  29   0   0  .000   0  .000   0   0   0  .000   8   2   2   83.1  .618 
+Jeff Pico               TEW    mr  22   9   4  .444   2  .222  13  28   9  .321  59  59  18   23.6  .621 
+Dan Plesac*             FER    cl  26   3   2  .667   1  .333   4  10   1  .100  30  30  11   19.3  .633 
+Eric Plunk              FER    mr  24   1   1 1.000   0  .000   2  35  11  .314  42  42  21   23.7  .623 
+Mark Portugal           NFG    mr  25   1   0  .000   0  .000   0   3   2  .667  12   4   2   73.6  .593 
+Ted Power               BMB    sp  33   0   0  .000   0  .000   0   4   1  .250  20   3   1   75.9  .630 
+Joe Price*              RYK    mr  31   5   1  .200   2  .400   5  22   7  .318  51  51  21   20.7  .630 
+Charlie Puleo           FER    mr  33   6   4  .667   2  .333   2   7   3  .429  28  22  12   37.7  .570 
+Dan Quisenberry         NFG    mr  35  19  13  .684   5  .263   1  30  10  .333  48  48  30   19.8  .676 
+Dennis Rasmussen*       MAR    sp  29   0   0  .000   0  .000   0   0   0  .000  32   0   0   93.9  .640 
+Shane Rawley*           GBP    sp  32   1   1 1.000   0  .000   0   3   0  .000   4   4   4   13.3  .547 
+Jeff Reardon            CTW    cl  32  29  24  .828   5  .172   1  19   7  .368  53  52  39   19.5  .676 
+Jerry Reed              CTW    mr  32   0   0  .000   0  .000   1   7   0  .000  13  13   5   22.5  .610 
+Jerry Reed              EVN    mr  32   0   0  .000   0  .000   0   0   0  .000  11   0   0   93.2  .601 
+Jerry Reed                     mr  32   0   0  .000   0  .000   1   7   0  .000  24  13   5   54.9  .603 
+Rick Reed               TEW    sp  22   1   0  .000   0  .000   0   3   0  .000   5   5   1   31.8  .660 
+Rick Reuschel           RYK    sp  39   0   0  .000   0  .000   0   0   0  .000  34   0   0   86.1  .673 
+Jerry Reuss*            FHK    sp  39   0   0  .000   0  .000   0   0   0  .000  23   0   0   90.9  .674 
+Dave Righetti*          BAR    cl  29   1   0  .000   0  .000   0  19   7  .368  27  27   0   28.7  .606 
+Jose Rijo               GBP    mr  23   0   0  .000   0  .000   0   0   0  .000  24   0   0  100.0  .620 
+Wally Ritchie*          CTW    mr  22   0   0  .000   0  .000   0   1   0  .000   6   2   0   65.7  .538 
+Don Robinson            TEW    mr  31   0   0  .000   0  .000   0   2   0  .000  30   1   1   93.1  .634 
+Jeff Robinson           EVN    mr  27   2   2 1.000   0  .000   1  20   5  .250  52  52  19   21.8  .628 
+Jeff M. Robinson        CEN    sp  26   0   0  .000   0  .000   0   0   0  .000  27   0   0  104.3  .629 
+Ron Robinson            SUN    sp  26   0   0  .000   0  .000   2   3   1  .333  16   5   0   71.8  .644 
+Bruce Ruffin*           BMB    mr  24   0   0  .000   0  .000   0   1   1 1.000  25   1   0   92.0  .611 
+Jeff Russell            ES?    sp  26   1   1 1.000   0  .000   0   4   1  .250  31  13   8   68.1  .621 
+Nolan Ryan              ES?    sp  41   0   0  .000   0  .000   0   0   0  .000  33   0   0   96.6  .630 
+Bret Saberhagen         BBG    sp  24   0   0  .000   0  .000   0   0   0  .000  31   0   0   91.5  .668 
+Roger Samuels*          CIN    mr  27   2   1  .500   1  .500   0   5   2  .400   8   8   6   18.0  .625 
+Israel Sanchez*         MAR    mr  24   8   5  .625   3  .375   3   9   1  .111  29  29  16   19.4  .612 
+Scott Sanderson         CCC    mr  31   4   4 1.000   0  .000   0   5   0  .000  12  12   7   17.3  .686 
+Rich Sauveur*           NFG    mr  24   0   0  .000   0  .000   0   0   0  .000   1   0   0  100.0  .650 
+Dan Schatzeder*         BMB    mr  33   1   0  .000   1 1.000   0  10   9  .900  24  24   5   17.8  .685 
+Curt Schilling          BAR    sp  21   0   0  .000   0  .000   0   2   0  .000  12  11   9   24.4  .573 
+Calvin Schiraldi        TEW    sp  26   0   0  .000   0  .000   0  34   9  .265  43  43  12   26.3  .613 
+Dave Schmidt            FHK    mr  31   0   0  .000   0  .000   0   1   0  .000   3   3   1    7.0  .857 
+Mike Schooler           NEE    cl  25  17  12  .706   5  .294   4  36  11  .306  53  53  27   16.7  .600 
+Mike Scott              BBG    sp  33   0   0  .000   0  .000   0   0   0  .000  34   0   0   97.9  .649 
+Scott Service           NEE    mr  21   0   0  .000   0  .000   0   0   0  .000   2   0   0   80.5  .578 
+Jeff Shaver             CTW    mr  24   0   0  .000   0  .000   0   0   0  .000   1   0   0   98.0  .653 
+Steve Shields           BMB    mr  29   5   2  .400   2  .400   2  42  20  .476  49  49  20   24.9  .632 
+Eric Show               SUN    sp  32   0   0  .000   0  .000   0   0   0  .000  28   0   0  101.6  .660 
+John Smiley*            EVN    sp  23   0   0  .000   0  .000   0   0   0  .000  29   0   0   91.0  .644 
+                          DMB pitching register -- All players in database                          
+                                           Regular season                                           
+
+Name                    Team    P Age SVO   S   SV%  BS   BS% HLD  IR IRS   IR%   G  GR  GF  PCH/G  STR% 
+Bryn Smith              EVN    sp  32   0   0  .000   0  .000   0   0   0  .000  24   0   0   94.8  .658 
+Dave Smith              BMB    cl  33   6   1  .167   5  .833   7  28   6  .214  50  50  15   18.7  .608 
+Lee Smith               BAR    cl  30  20  16  .800   4  .200   7  33  13  .394  66  66  35   22.4  .636 
+Mike Smith              BAR    mr  27   3   0  .000   3 1.000   2   5   3  .600   6   6   1   27.2  .595 
+Pete Smith              MAR    sp  22   0   0  .000   0  .000   0   0   0  .000  22   0   0   96.9  .606 
+Roy Smith               CEN    sp  26   3   3 1.000   0  .000   6  10   3  .300  26  26   9   21.0  .609 
+Zane Smith*             FER    sp  27   3   2  .667   1  .333   0   6   3  .500  31  16   5   54.7  .631 
+Zane Smith*             NFG    sp  27   0   0  .000   0  .000   0   0   0  .000   1   1   1    1.0 1.000 
+Zane Smith*                    sp  27   3   2  .667   1  .333   0   6   3  .500  32  17   6   53.1  .631 
+Mike Smithson           GBP    sp  33   0   0  .000   0  .000   0   0   0  .000   5   0   0   74.4  .669 
+John Smoltz             BMB    sp  21   0   0  .000   0  .000   0   0   0  .000  13   0   0   92.1  .581 
+Julio Solano            CTW    mr  28   1   1 1.000   0  .000   0   2   0  .000   3   3   3   16.7  .720 
+Mario Soto              CIN    sp  31   0   0  .000   0  .000   0   0   0  .000   7   0   0   87.9  .631 
+Bob Stanley             CTW    mr  33   3   3 1.000   0  .000   1   7   1  .143  19  19  15   23.5  .655 
+Bob Stanley             EVN    mr  33   1   0  .000   1 1.000   6  25  12  .480  48  48  23   19.0  .631 
+Bob Stanley                    mr  33   4   3  .750   1  .250   7  32  13  .406  67  67  38   20.3  .639 
+Dave Stewart            MAR    sp  31   0   0  .000   0  .000   0   2   1  .500  35   1   1  101.7  .612 
+Dave Stieb              EVN    sp  30   0   0  .000   0  .000   0   0   0  .000  30   0   0  100.4  .617 
+Todd Stottlemyre        CCC    sp  23   1   0  .000   1 1.000   3   2   1  .500  24   7   1   71.1  .594 
+Rick Sutcliffe          NFG    sp  32   0   0  .000   0  .000   0   0   0  .000  26   0   0   96.8  .644 
+Bruce Sutter            TEW    cl  35   0   0  .000   0  .000   0   4   0  .000   3   3   1   13.3  .600 
+Billy Swift             NFG    sp  26   6   3  .500   3  .500   6  26   2  .077  56  46  24   36.5  .608 
+Greg Swindell*          CCC    sp  23   0   0  .000   0  .000   0   0   0  .000   7   0   0   91.4  .667 
+Greg Swindell*          CEN    sp  23   0   0  .000   0  .000   0   0   0  .000  24   0   0  108.0  .692 
+Greg Swindell*                 sp  23   0   0  .000   0  .000   0   0   0  .000  31   0   0  104.3  .687 
+Frank Tanana*           CCC    sp  34   4   4 1.000   0  .000   0   4   0  .000  32   5   5   80.8  .638 
+Kent Tekulve            NEE    mr  41  11   7  .636   1  .091  11  32  10  .313  64  64  30   14.9  .677 
+Walt Terrell            FER    sp  30   1   1 1.000   0  .000   1   7   1  .143   7   7   1   17.1  .525 
+Scott Terry             SUN    mr  28   3   2  .667   1  .333   9  16   5  .313  60  60  27   19.5  .627 
+Bob Tewksbury           FHK    sp  27   0   0  .000   0  .000   0   0   0  .000   1   0   0   76.0  .592 
+Bobby Thigpen           GBP    cl  24  35  26  .743   9  .257   3  32   4  .125  69  69  46   16.9  .604 
+Mark Thurmond*          CCC    mr  31   2   0  .000   0  .000   0  11   7  .636  15  15   7   15.5  .677 
+Jay Tibbs               BMB    sp  26   0   0  .000   0  .000   0   0   0  .000  14   0   0   88.3  .628 
+Fred Toliver            MAR    sp  27   0   0  .000   0  .000   0   0   0  .000   2   2   1   26.5  .566 
+Steve Trout*            FER    sp  30   2   0  .000   2 1.000   0   0   0  .000  14   3   0   69.9  .593 
+John Tudor*             BAR    sp  34   0   0  .000   0  .000   0   0   0  .000  30   0   0   84.2  .673 
+Fernando Valenzuela*    NFG    sp  27   0   0  .000   0  .000   0   3   1  .333  20   7   4   70.8  .568 
+Ed Vande Berg*          NEE    mr  29   0   0  .000   0  .000   0   3   3 1.000   7   1   1   87.4  .637 
+Frank Viola*            CTW    sp  28   0   0  .000   0  .000   0   0   0  .000  34   0   0  106.0  .662 
+Bob Walk                CTW    sp  31   0   0  .000   0  .000   0   0   0  .000  32   0   0  101.9  .629 
+Duane Ward              FER    mr  24   9   5  .556   4  .444   9  36  18  .500  60  60  20   24.2  .594 
+Bill Wegman             CCC    sp  25   0   0  .000   0  .000   0   0   0  .000  29   0   0   98.9  .654 
+Bob Welch               CIN    sp  31   0   0  .000   0  .000   0   0   0  .000  27   0   0   96.6  .634 
+David Wells*            BAR    mr  25   0   0  .000   0  .000   0   0   0  .000  17   0   0   67.5  .612 
+David West*             BMB    sp  23   0   0  .000   0  .000   1   7   4  .571   6   6   2   25.3  .546 
+Ed Whitson              GBP    sp  33   0   0  .000   0  .000   0   0   0  .000  28   0   0   91.7  .639 
+Bill Wilkinson*         NEE    mr  23   9   4  .444   4  .444   2  13   4  .308  24  24   9   21.4  .597 
+Frank Williams          FHK    mr  30   0   0  .000   0  .000   0  15   6  .400  28  28  13   19.0  .576 
+Mitch Williams*         NFG    cl  23   7   4  .571   3  .429   2  24   7  .292  31  27  18   32.5  .549 
+Mark Williamson         BAR    mr  28   0   0  .000   0  .000   0   0   0  .000  23   0   0   86.4  .639 
+Carl Willis             BAR    mr  27   0   0  .000   0  .000   0   0   0  .000   3   0   0   58.3  .600 
+Steve Wilson*           BMB    mr  23   0   0  .000   0  .000   0   5   3  .600   3   3   0   42.3  .543 
+Trevor Wilson*          NEE    sp  22   0   0  .000   0  .000   0   0   0  .000   4   0   0   89.3  .591 
+Bobby Witt              FER    sp  24   0   0  .000   0  .000   1   1   0  .000  24   4   0   92.9  .589 
+Mike Witt               TEW    sp  27   0   0  .000   0  .000   0   0   0  .000  27   0   0  108.7  .629 
+Todd Worrell            RYK    cl  28  37  28  .757   9  .243   0  33   7  .212  53  53  38   17.5  .655 
+Floyd Youmans           EVN    sp  24  29  18  .621   9  .310   2  18   4  .222  55  55  30   18.8  .589 
+

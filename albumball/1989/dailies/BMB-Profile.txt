@@ -1,0 +1,154 @@
+                 Manager Profile for 1989 Butt Mountain Beavis
+ 
+Manager Tendencies
+ 
+Bunting:                  Least frequent
+Hit and run:              Less frequent
+Stealing:                 Less frequent
+Running:                  Neutral
+Take pitch:               More frequent
+PH for a pitcher:         Neutral
+PH for a non-pitcher:     Neutral
+PH for platoon player:    Neutral
+PH in a blowout:          Most frequent
+Pitching around:          Neutral
+Intentional walk:         Least frequent
+Pickoff throws:           More frequent
+Pitching out:             Neutral
+Using relievers:          Neutral
+Using closers:            Neutral
+Holding runners:          Neutral
+Infield in:               Neutral
+Guard lines:              Neutral
+ 
+ 
+Pitching Chart
+ 
+Usage mode:    Strict
+Rotation size: 4
+Next starter:  1
+ 
+Starting Rotation   Maddux            Johnson           Smoltz            Ruffin                              
+Spot Starters                                                                                                 
+Spot Pct                                                                                                      
+ 
+Mopup situations    Schatzeder        Gossage           Power                                                 
+Long relievers      Gossage           Schatzeder        Power                                                 
+Setup vs LHB        Guetterman        Fraser            Power                                                 
+Setup vs RHB        Fraser            Guetterman        Power                                                 
+Closers vs LHB      Smith                                                                                     
+Closers vs RHB      Smith                                                                                     
+
+....................................................................................................
+                 Manager Profile for 1989 Butt Mountain Beavis
+ 
+Depth Chart for 1989 Butt Mountain Beavis -- vs LHP
+ 
+ 
+Usage: Game by game        Versus: Left        DH: No
+ 
+Starting Lineup
+ 
+1: Moseby           cf
+2: James            rf
+3: Jacoby           3b
+4: McGwire          1b
+5: Polonia          lf
+6: Steinbach        c
+7: Guillen          ss
+8: Treadway         2b
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Steinbach            McGwire              Treadway             Jacoby          
+Plat                                                                                 
+Def                                                                                  
+Util1 Schroeder        50  Morman           90  Anderson         35                  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Guillen              Polonia              Moseby               James           
+Plat                                                                                 
+Def                                                                                  
+Util1                                                                                
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Pasqua               Pasqua          
+Util2                      Javier               Martinez,Da     
+Util3                      Schroeder            Salas           
+Util4                      Morman               Javier          
+Util5                      Martinez,Da          Schroeder       
+
+....................................................................................................
+                 Manager Profile for 1989 Butt Mountain Beavis
+ 
+Depth Chart for 1989 Butt Mountain Beavis -- vs RHP
+ 
+ 
+Usage: Game by game        Versus: Right        DH: No
+ 
+Starting Lineup
+ 
+1: Moseby           cf
+2: James            rf
+3: McGwire          1b
+4: Treadway         2b
+5: Polonia          lf
+6: Jacoby           3b
+7: Steinbach        c
+8: Guillen          ss
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Steinbach            McGwire              Treadway             Jacoby          
+Plat                                                                                 
+Def                                                                                  
+Util1 Schroeder        50                                                            
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Guillen              Polonia              Moseby               James           
+Plat                                                                                 
+Def                                                                                  
+Util1                                                                                
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Pasqua               Pasqua          
+Util2                      Javier               Martinez,Da     
+Util3                      Schroeder            Salas           
+Util4                      Morman               Javier          
+Util5                      Martinez,Da          Schroeder       

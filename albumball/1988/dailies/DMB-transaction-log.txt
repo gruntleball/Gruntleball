@@ -1,0 +1,1644 @@
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+3/31/1988  BAR     Eckersley           Traded away                    NFG                 After    
+3/31/1988  BAR     Lansford            Traded away                    NFG                 After    
+3/31/1988  BAR     Schilling           Acquired via trade             NFG                 After    
+3/31/1988  BBG     Bankhead            Acquired via trade             FHK                 After    
+3/31/1988  BBG     Gubicza             Acquired via trade             BMB                 After    
+3/31/1988  BBG     Harris              Traded away                    FHK                 After    
+3/31/1988  BBG     Heath               Acquired via trade             BMB                 After    
+3/31/1988  BBG     Holton              Acquired via trade             FHK                 After    
+3/31/1988  BBG     Ramirez             Acquired via trade             BMB                 After    
+3/31/1988  BBG     Smith               Traded away                    BMB                 After    
+3/31/1988  BMB     Aldrete             Traded away                    TEW                 After    
+3/31/1988  BMB     Armas               Traded away                    CTW                 After    
+3/31/1988  BMB     Berryhill           Traded away                    EVN                 After    
+3/31/1988  BMB     Clemens             Traded away                    NFG                 After    
+3/31/1988  BMB     Drummond            Traded away                    MAR                 After    
+3/31/1988  BMB     Eichhorn            Traded away                    CCC                 After    
+3/31/1988  BMB     Evans               Traded away                    CIN                 After    
+3/31/1988  BMB     Farrell             Traded away                    NFG                 After    
+3/31/1988  BMB     Farrell             Acquired via trade             MAR                 After    
+3/31/1988  BMB     Gallagher           Traded away                    CTW                 After    
+3/31/1988  BMB     Gooden              Traded away                    CCC                 After    
+3/31/1988  BMB     Gubicza             Traded away                    BBG                 After    
+3/31/1988  BMB     Guerrero            Traded away                    EVN                 After    
+3/31/1988  BMB     Heath               Traded away                    BBG                 After    
+3/31/1988  BMB     Howell              Traded away                    CTW                 After    
+3/31/1988  BMB     Knepper             Traded away                    MAR                 After    
+3/31/1988  BMB     Knepper             Acquired via trade             CCC                 After    
+3/31/1988  BMB     Maddux              Acquired via trade             NFG                 After    
+3/31/1988  BMB     Otto                Traded away                    MAR                 After    
+3/31/1988  BMB     Ramirez             Traded away                    BBG                 After    
+3/31/1988  BMB     Ramirez             Acquired via trade             EVN                 After    
+3/31/1988  BMB     Ross                Traded away                    MAR                 After    
+3/31/1988  BMB     Santovenia          Traded away                    CTW                 After    
+3/31/1988  BMB     Smith               Acquired via trade             BBG                 After    
+3/31/1988  BMB     Stieb               Traded away                    EVN                 After    
+3/31/1988  BMB     Strawberry          Traded away                    CCC                 After    
+3/31/1988  BMB     Trammell            Traded away                    EVN                 After    
+3/31/1988  BMB     Venable             Traded away                    ES?                 After    
+3/31/1988  BMB     Williams            Traded away                    NFG                 After    
+3/31/1988  CCC     Berenguer           Acquired via trade             RYK                 After    
+3/31/1988  CCC     DiPino              Traded away                    NFG                 After    
+3/31/1988  CCC     Eichhorn            Acquired via trade             BMB                 After    
+3/31/1988  CCC     Gooden              Traded away                    FHK                 After    
+3/31/1988  CCC     Gooden              Acquired via trade             BMB                 After    
+3/31/1988  CCC     Knepper             Traded away                    BMB                 After    
+3/31/1988  CCC     McDowell            Traded away                    RYK                 After    
+3/31/1988  CCC     Owen                Traded away                    FER                 After    
+3/31/1988  CCC     Plunk               Traded away                    FER                 After    
+3/31/1988  CCC     Ripken,C            Acquired via trade             FER                 After    
+3/31/1988  CCC     Strawberry          Traded away                    CEN                 After    
+3/31/1988  CCC     Strawberry          Acquired via trade             BMB                 After    
+3/31/1988  CCC     Wegman              Acquired via trade             NEE                 After    
+3/31/1988  CEN     Henderson           Traded away                    NEE                 After    
+3/31/1988  CEN     Henderson           Acquired via trade             NEE                 After    
+3/31/1988  CEN     Magadan             Acquired via trade             NFG                 After    
+3/31/1988  CEN     Redus               Traded away                    NFG                 After    
+3/31/1988  CEN     Strawberry          Acquired via trade             CCC                 After    
+3/31/1988  CIN     Evans               Acquired via trade             BMB                 After    
+3/31/1988  CTW     Armas               Acquired via trade             BMB                 After    
+3/31/1988  CTW     Bedrosian           Traded away                    FHK                 After    
+3/31/1988  CTW     Bell                Traded away                    FHK                 After    
+3/31/1988  CTW     Clark               Acquired via trade             RYK                 After    
+3/31/1988  CTW     Dawson              Acquired via trade             RYK                 After    
+3/31/1988  CTW     Fernandez           Acquired via trade             RYK                 After    
+3/31/1988  CTW     Gallagher           Acquired via trade             BMB                 After    
+3/31/1988  CTW     Howell              Acquired via trade             BMB                 After    
+3/31/1988  CTW     Joyner              Traded away                    RYK                 After    
+3/31/1988  CTW     Maldonado           Traded away                    RYK                 After    
+3/31/1988  CTW     Randolph            Traded away                    ES?                 After    
+3/31/1988  CTW     Reardon             Acquired via trade             FHK                 After    
+3/31/1988  CTW     Reuschel            Traded away                    RYK                 After    
+3/31/1988  CTW     Ryan                Traded away                    ES?                 After    
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+3/31/1988  CTW     Santovenia          Acquired via trade             BMB                 After    
+3/31/1988  CTW     Thompson            Acquired via trade             ES?                 After    
+3/31/1988  CTW     Uribe               Traded away                    RYK                 After    
+3/31/1988  CTW     Viola               Acquired via trade             RYK                 After    
+3/31/1988  ES?     Browne              Traded away                    FHK                 After    
+3/31/1988  ES?     Fisk                Traded away                    GBP                 After    
+3/31/1988  ES?     Guzman              Traded away                    FER                 After    
+3/31/1988  ES?     Harkey              Traded away                    GBP                 After    
+3/31/1988  ES?     Randolph            Acquired via trade             CTW                 After    
+3/31/1988  ES?     Ryan                Acquired via trade             CTW                 After    
+3/31/1988  ES?     Tettleton           Acquired via trade             GBP                 After    
+3/31/1988  ES?     Thompson            Traded away                    CTW                 After    
+3/31/1988  ES?     Thompson            Acquired via trade             FHK                 After    
+3/31/1988  ES?     Venable             Acquired via trade             BMB                 After    
+3/31/1988  EVN     Berryhill           Acquired via trade             BMB                 After    
+3/31/1988  EVN     Davis               Traded away                    FHK                 After    
+3/31/1988  EVN     Grace               Acquired via trade             FHK                 After    
+3/31/1988  EVN     Guerrero            Acquired via trade             BMB                 After    
+3/31/1988  EVN     Ramirez             Traded away                    BMB                 After    
+3/31/1988  EVN     Stieb               Acquired via trade             BMB                 After    
+3/31/1988  EVN     Trammell            Acquired via trade             BMB                 After    
+3/31/1988  FER     Guzman              Acquired via trade             ES?                 After    
+3/31/1988  FER     Owen                Acquired via trade             CCC                 After    
+3/31/1988  FER     Plunk               Acquired via trade             CCC                 After    
+3/31/1988  FER     Ripken,C            Traded away                    CCC                 After    
+3/31/1988  FER     Seitzer             Acquired via trade             GBP                 After    
+3/31/1988  FHK     Bankhead            Traded away                    BBG                 After    
+3/31/1988  FHK     Bedrosian           Acquired via trade             CTW                 After    
+3/31/1988  FHK     Bell                Acquired via trade             CTW                 After    
+3/31/1988  FHK     Browne              Acquired via trade             ES?                 After    
+3/31/1988  FHK     Davis               Acquired via trade             EVN                 After    
+3/31/1988  FHK     Gooden              Acquired via trade             CCC                 After    
+3/31/1988  FHK     Grace               Traded away                    EVN                 After    
+3/31/1988  FHK     Harris              Acquired via trade             BBG                 After    
+3/31/1988  FHK     Holton              Traded away                    BBG                 After    
+3/31/1988  FHK     Reardon             Traded away                    CTW                 After    
+3/31/1988  FHK     Thompson            Traded away                    ES?                 After    
+3/31/1988  GBP     Fisk                Acquired via trade             ES?                 After    
+3/31/1988  GBP     Harkey              Acquired via trade             ES?                 After    
+3/31/1988  GBP     Seitzer             Traded away                    FER                 After    
+3/31/1988  GBP     Tettleton           Traded away                    ES?                 After    
+3/31/1988  MAR     Drummond            Acquired via trade             BMB                 After    
+3/31/1988  MAR     Farrell             Traded away                    BMB                 After    
+3/31/1988  MAR     Knepper             Acquired via trade             BMB                 After    
+3/31/1988  MAR     Otto                Acquired via trade             BMB                 After    
+3/31/1988  MAR     Ross                Acquired via trade             BMB                 After    
+3/31/1988  NEE     Henderson           Traded away                    CEN                 After    
+3/31/1988  NEE     Henderson           Acquired via trade             CEN                 After    
+3/31/1988  NEE     Wegman              Traded away                    CCC                 After    
+3/31/1988  NFG     Clemens             Acquired via trade             BMB                 After    
+3/31/1988  NFG     DiPino              Acquired via trade             CCC                 After    
+3/31/1988  NFG     Eckersley           Acquired via trade             BAR                 After    
+3/31/1988  NFG     Farrell             Acquired via trade             BMB                 After    
+3/31/1988  NFG     Lansford            Acquired via trade             BAR                 After    
+3/31/1988  NFG     Maddux              Traded away                    BMB                 After    
+3/31/1988  NFG     Magadan             Traded away                    CEN                 After    
+3/31/1988  NFG     Redus               Acquired via trade             CEN                 After    
+3/31/1988  NFG     Schilling           Traded away                    BAR                 After    
+3/31/1988  NFG     Williams            Acquired via trade             BMB                 After    
+3/31/1988  RYK     Berenguer           Traded away                    CCC                 After    
+3/31/1988  RYK     Clark               Traded away                    CTW                 After    
+3/31/1988  RYK     Dawson              Traded away                    CTW                 After    
+3/31/1988  RYK     Fernandez           Traded away                    CTW                 After    
+3/31/1988  RYK     Joyner              Acquired via trade             CTW                 After    
+3/31/1988  RYK     Maldonado           Acquired via trade             CTW                 After    
+3/31/1988  RYK     McDowell            Acquired via trade             CCC                 After    
+3/31/1988  RYK     Reuschel            Acquired via trade             CTW                 After    
+3/31/1988  RYK     Uribe               Acquired via trade             CTW                 After    
+3/31/1988  RYK     Viola               Traded away                    CTW                 After    
+3/31/1988  SUN     Laudner             Traded away                    TEW                 After    
+3/31/1988  TEW     Aldrete             Acquired via trade             BMB                 After    
+3/31/1988  TEW     Laudner             Acquired via trade             SUN                 After    
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+4/2/1988   CIN     Soto                Demoted to reserve roster                          Before   
+4/2/1988   CIN     Welch               Promoted to active roster                          Before   
+4/4/1988   CTW     Cangelosi           Promoted to active roster                          Before   
+4/4/1988   CTW     Meacham             Demoted to reserve roster                          Before   
+4/4/1988   CTW     Nokes               Promoted to active roster                          Before   
+4/4/1988   CTW     Santovenia          Demoted to reserve roster                          Before   
+4/5/1988   CTW     Santovenia          Promoted to active roster                          Before   
+4/5/1988   CTW     Sinatro             Demoted to reserve roster                          Before   
+4/6/1988   BAR     Daulton             Placed on disabled list                 4/1/1988   Before   
+4/6/1988   BAR     Davis,J             Promoted to active roster                          Before   
+4/6/1988   BAR     Pecota              Promoted to active roster                          Before   
+4/6/1988   BAR     Rabb                Demoted to reserve roster                          Before   
+4/6/1988   CEN     Boever              Promoted to active roster                          Before   
+4/6/1988   CEN     Gardner             Demoted to reserve roster                          Before   
+4/6/1988   CEN     Olson               Demoted to reserve roster                          Before   
+4/6/1988   CEN     Smith               Promoted to active roster                          Before   
+4/6/1988   FER     Dopson              Promoted to active roster                          Before   
+4/10/1988  BMB     Gray                Demoted to reserve roster                          Before   
+4/10/1988  BMB     Schroeder           Promoted to active roster                          Before   
+4/10/1988  BMB     Steinbach           Placed on disabled list                 4/7/1988   Before   
+4/10/1988  BMB     Wilson              Promoted to active roster                          Before   
+4/10/1988  CIN     Thompson            Promoted to active roster                          Before   
+4/10/1988  CIN     Young               Demoted to reserve roster                          Before   
+4/10/1988  SUN     Buhner              Promoted to active roster                          Before   
+4/10/1988  SUN     McReynolds          Placed on disabled list                 4/9/1988   Before   
+4/13/1988  BAR     Smith,M             Demoted to reserve roster                          Before   
+4/14/1988  BAR     Smith               Promoted to active roster                          Before   
+4/14/1988  CCC     Brantley            Demoted to reserve roster                          Before   
+4/14/1988  CCC     Eichhorn            Promoted to active roster                          Before   
+4/14/1988  CIN     Caminiti            Placed on disabled list                 4/13/1988  Before   
+4/14/1988  CIN     Flannery            Promoted to active roster                          Before   
+4/14/1988  NEE     Belcher             Placed on disabled list                 4/13/1988  Before   
+4/14/1988  NEE     Wilson              Promoted to active roster                          Before   
+4/15/1988  BMB     Gossage             Promoted to active roster                          Before   
+4/15/1988  BMB     Wilson              Demoted to reserve roster                          Before   
+4/16/1988  CCC     Aquino              Promoted to active roster                          Before   
+4/16/1988  CCC     Glavine             Placed on disabled list                 4/14/1988  Before   
+4/16/1988  CEN     Boever              Demoted to reserve roster                          Before   
+4/16/1988  CEN     Carreon             Demoted to reserve roster                          Before   
+4/16/1988  CEN     Gardner             Promoted to active roster                          Before   
+4/16/1988  CEN     Nixon               Promoted to active roster                          Before   
+4/16/1988  CTW     Bautista            Promoted to active roster                          Before   
+4/16/1988  CTW     Horn                Promoted to active roster                          Before   
+4/16/1988  CTW     LaPoint             Placed on disabled list                 4/14/1988  Before   
+4/16/1988  CTW     Tillman             Demoted to reserve roster                          Before   
+4/16/1988  EVN     Costello            Promoted to active roster                          Before   
+4/16/1988  EVN     Smiley              Placed on disabled list                 4/15/1988  Before   
+4/16/1988  NEE     Lyons               Placed on disabled list                 4/14/1988  Before   
+4/16/1988  NEE     Martinez            Promoted to active roster                          Before   
+4/16/1988  SUN     Cone                Placed on disabled list                 4/14/1988  Before   
+4/16/1988  SUN     Leiter              Promoted to active roster                          Before   
+4/16/1988  SUN     Martinez            Promoted to active roster                          Before   
+4/16/1988  SUN     Snyder              Placed on disabled list                 4/14/1988  Before   
+4/17/1988  CTW     Cruz                Demoted to reserve roster                          Before   
+4/17/1988  CTW     Miller              Promoted to active roster                          Before   
+4/18/1988  BMB     Fraser              Promoted to active roster                          Before   
+4/18/1988  BMB     Johnson,R           Demoted to reserve roster                          Before   
+4/18/1988  BMB     Torve               Demoted to reserve roster                          Before   
+4/18/1988  BMB     Traber              Promoted to active roster                          Before   
+4/18/1988  CCC     Gedman              Promoted to active roster                          Before   
+4/18/1988  CCC     Scioscia            Placed on disabled list                 4/17/1988  Before   
+4/18/1988  GBP     Bush                Placed on disabled list                 4/17/1988  Before   
+4/18/1988  GBP     Hall                Promoted to active roster                          Before   
+4/18/1988  GBP     Lee                 Demoted to reserve roster                          Before   
+4/18/1988  GBP     Meyer               Promoted to active roster                          Before   
+4/19/1988  ES?     Lamp                Placed on disabled list                 4/18/1988  Before   
+4/19/1988  ES?     McClure             Promoted to active roster                          Before   
+4/20/1988  BMB     Guetterman          Promoted to active roster                          Before   
+4/20/1988  BMB     Hill                Demoted to reserve roster                          Before   
+4/20/1988  CEN     Davis               Placed on disabled list                 4/17/1988  Before   
+4/20/1988  CEN     Distefano           Promoted to active roster                          Before   
+4/20/1988  CEN     Gardner             Placed on disabled list                 4/19/1988  Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+4/20/1988  CEN     Nieves              Promoted to active roster                          Before   
+4/20/1988  FER     Huson               Demoted to reserve roster                          Before   
+4/20/1988  NFG     Dascenzo            Demoted to reserve roster                          Before   
+4/20/1988  NFG     Kingery             Promoted to active roster                          Before   
+4/23/1988  BMB     Schroeder           Demoted to reserve roster                          Before   
+4/23/1988  BMB     Steinbach           Activated from disabled list                       Before   
+4/23/1988  GBP     Aguilera            Promoted to active roster                          Before   
+4/23/1988  GBP     Morris              Demoted to reserve roster                          Before   
+4/23/1988  GBP     Rijo                Placed on disabled list                 4/20/1988  Before   
+4/23/1988  GBP     Upshaw              Promoted to active roster                          Before   
+4/24/1988  FHK     Browne              Promoted to active roster                          Before   
+4/24/1988  FHK     Pagliarulo          Demoted to reserve roster                          Before   
+4/25/1988  CCC     Mulholland          Promoted to active roster                          Before   
+4/25/1988  CCC     Sanderson           Demoted to reserve roster                          Before   
+4/25/1988  SUN     Buhner              Demoted to reserve roster                          Before   
+4/25/1988  SUN     McReynolds          Activated from disabled list                       Before   
+4/25/1988  TEW     Clear               Promoted to active roster                          Before   
+4/25/1988  TEW     Garber              Placed on disabled list                 4/23/1988  Before   
+4/26/1988  NEE     Lindeman            Promoted to active roster                          Before   
+4/26/1988  NEE     Sheffield           Demoted to reserve roster                          Before   
+4/27/1988  BAR     Daulton             Activated from disabled list                       Before   
+4/27/1988  BAR     Davis,J             Demoted to reserve roster                          Before   
+4/27/1988  BAR     Moreland            Promoted to active roster                          Before   
+4/27/1988  BAR     Worthington         Demoted to reserve roster                          Before   
+4/27/1988  CIN     Guidry              Promoted to active roster                          Before   
+4/27/1988  CIN     Samuels             Demoted to reserve roster                          Before   
+4/28/1988  FER     Perry               Traded away                    NFG                 After    
+4/28/1988  FER     Quintana            Traded away                    NFG                 After    
+4/28/1988  FER     Smith,Z             Acquired via trade             NFG                 After    
+4/28/1988  NFG     Perry               Acquired via trade             FER                 After    
+4/28/1988  NFG     Quintana            Acquired via trade             FER                 After    
+4/28/1988  NFG     Smith,Z             Traded away                    FER                 After    
+4/29/1988  CIN     Caminiti            Activated from disabled list                       Before   
+4/29/1988  CIN     Flannery            Demoted to reserve roster                          Before   
+4/29/1988  CTW     Bautista            Demoted to reserve roster                          Before   
+4/29/1988  CTW     LaPoint             Activated from disabled list                       Before   
+4/29/1988  FHK     Kruk                Placed on disabled list                 4/24/1988  Before   
+4/29/1988  FHK     Pagliarulo          Promoted to active roster                          Before   
+4/29/1988  NEE     Belcher             Activated from disabled list                       Before   
+4/29/1988  NEE     Darwin              Demoted to reserve roster                          Before   
+5/1/1988   CCC     Aquino              Demoted to reserve roster                          Before   
+5/1/1988   CCC     Brock               Promoted to active roster                          Before   
+5/1/1988   CCC     Glavine             Activated from disabled list                       Before   
+5/1/1988   CCC     Perry               Demoted to reserve roster                          Before   
+5/1/1988   CEN     Nixon               Demoted to reserve roster                          Before   
+5/1/1988   CEN     Sharperson          Promoted to active roster                          Before   
+5/1/1988   GBP     Crews               Promoted to active roster                          Before   
+5/1/1988   GBP     Harkey              Demoted to reserve roster                          Before   
+5/1/1988   NEE     Carpenter           Demoted to reserve roster                          Before   
+5/1/1988   NEE     Tekulve             Promoted to active roster                          Before   
+5/1/1988   NFG     Quintana            Demoted to reserve roster                          Before   
+5/1/1988   SUN     Cone                Activated from disabled list                       Before   
+5/1/1988   SUN     Leiter              Demoted to reserve roster                          Before   
+5/1/1988   SUN     Martinez            Demoted to reserve roster                          Before   
+5/1/1988   SUN     Snyder              Activated from disabled list                       Before   
+5/3/1988   BAR     Daulton             Placed on disabled list                 5/1/1988   Before   
+5/3/1988   BAR     Davis,J             Promoted to active roster                          Before   
+5/3/1988   CEN     Davis               Activated from disabled list                       Before   
+5/3/1988   CEN     Distefano           Demoted to reserve roster                          Before   
+5/3/1988   EVN     Smiley              Activated from disabled list                       Before   
+5/3/1988   EVN     Stieb               Placed on disabled list                 5/2/1988   Before   
+5/3/1988   FER     McWilliams          Demoted to reserve roster                          Before   
+5/3/1988   FER     Perez               Promoted to active roster                          Before   
+5/3/1988   FER     Witt                Demoted to reserve roster                          Before   
+5/3/1988   GBP     Bush                Activated from disabled list                       Before   
+5/3/1988   GBP     Rice                Demoted to reserve roster                          Before   
+5/4/1988   BMB     Freeman             Promoted to active roster                          Before   
+5/4/1988   BMB     Ontiveros           Placed on disabled list                 5/2/1988   Before   
+5/4/1988   RYK     Bichette            Demoted to reserve roster                          Before   
+5/4/1988   RYK     Campusano           Promoted to active roster                          Before   
+5/5/1988   CEN     Gardner             Activated from disabled list                       Before   
+5/5/1988   CEN     Nieves              Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+5/6/1988   TEW     Gross,K             Placed on disabled list                 5/3/1988   Before   
+5/6/1988   TEW     Witt                Promoted to active roster                          Before   
+5/7/1988   BBG     Roberts             Demoted to reserve roster                          Before   
+5/7/1988   CEN     Boone               Promoted to active roster                          Before   
+5/7/1988   CEN     Dempsey             Demoted to reserve roster                          Before   
+5/7/1988   CTW     Alba                Promoted to active roster                          Before   
+5/7/1988   CTW     Castillo            Demoted to reserve roster                          Before   
+5/7/1988   NEE     Hanson              Promoted to active roster                          Before   
+5/7/1988   NEE     Wilson              Demoted to reserve roster                          Before   
+5/7/1988   SUN     Martinez            Demoted to reserve roster                          Before   
+5/7/1988   SUN     Robinson            Promoted to active roster                          Before   
+5/9/1988   CEN     Fermin              Promoted to active roster                          Before   
+5/9/1988   CEN     Wilkerson           Placed on disabled list                 5/8/1988   Before   
+5/9/1988   CTW     Horn                Demoted to reserve roster                          Before   
+5/9/1988   CTW     Tejada              Promoted to active roster                          Before   
+5/9/1988   EVN     Hatcher             Demoted to reserve roster                          Before   
+5/9/1988   EVN     Shelby              Promoted to active roster                          Before   
+5/9/1988   FER     Ashby               Promoted to active roster                          Before   
+5/9/1988   FER     Fitzgerald          Demoted to reserve roster                          Before   
+5/9/1988   GBP     Farr                Placed on disabled list                 5/8/1988   Before   
+5/9/1988   GBP     Rijo                Activated from disabled list                       Before   
+5/9/1988   TEW     Gonzalez            Promoted to active roster                          Before   
+5/9/1988   TEW     Ojeda               Placed on disabled list                 5/8/1988   Before   
+5/10/1988  EVN     Garcia              Promoted to active roster                          Before   
+5/10/1988  EVN     Herr                Placed on disabled list                 5/9/1988   Before   
+5/11/1988  ES?     Kittle              Placed on disabled list                 5/10/1988  Before   
+5/11/1988  ES?     Medina              Promoted to active roster                          Before   
+5/11/1988  FHK     Calderon            Demoted to reserve roster                          Before   
+5/11/1988  FHK     Harris              Promoted to active roster                          Before   
+5/11/1988  FHK     Kruk                Activated from disabled list                       Before   
+5/11/1988  FHK     Pagliarulo          Demoted to reserve roster                          Before   
+5/11/1988  NFG     Bielecki            Demoted to reserve roster                          Before   
+5/11/1988  NFG     DiPino              Promoted to active roster                          Before   
+5/11/1988  NFG     Parrett             Promoted to active roster                          Before   
+5/11/1988  NFG     Valenzuela          Demoted to reserve roster                          Before   
+5/14/1988  CCC     Habyan              Acquired via trade             CEN                 After    
+5/14/1988  CCC     Jose                Acquired via trade             CEN                 After    
+5/14/1988  CCC     Leary               Acquired via trade             CEN                 After    
+5/14/1988  CCC     Stottlemyre         Acquired via trade             CEN                 After    
+5/14/1988  CCC     Swindell            Traded away                    CEN                 After    
+5/14/1988  CEN     Habyan              Traded away                    CCC                 After    
+5/14/1988  CEN     Jose                Traded away                    CCC                 After    
+5/14/1988  CEN     Leary               Traded away                    CCC                 After    
+5/14/1988  CEN     Stottlemyre         Traded away                    CCC                 After    
+5/14/1988  CEN     Swindell            Acquired via trade             CCC                 After    
+5/14/1988  CIN     Soto                Promoted to active roster                          Before   
+5/14/1988  CIN     Welch               Placed on disabled list                 5/12/1988  Before   
+5/14/1988  GBP     Aguilera            Demoted to reserve roster                          Before   
+5/14/1988  GBP     Assenmacher         Placed on disabled list                 5/11/1988  Before   
+5/14/1988  GBP     LaCoss              Promoted to active roster                          Before   
+5/14/1988  GBP     McGaffigan          Promoted to active roster                          Before   
+5/15/1988  BBG     Bankhead            Placed on disabled list                 4/30/1988  Before   
+5/15/1988  BBG     Eave                Demoted to reserve roster                          Before   
+5/15/1988  BBG     Jones               Promoted to active roster                          Before   
+5/15/1988  BBG     Lind                Promoted to active roster                          Before   
+5/15/1988  BBG     Tabler              Promoted to active roster                          Before   
+5/15/1988  CCC     Habyan              Demoted to reserve roster                          Before   
+5/15/1988  CCC     Jose                Demoted to reserve roster                          Before   
+5/15/1988  CCC     Stottlemyre         Demoted to reserve roster                          Before   
+5/15/1988  CEN     Leary               Promoted to active roster                          Before   
+5/15/1988  CEN     Minton              Demoted to reserve roster                          Before   
+5/15/1988  GBP     Hrbek               Placed on disabled list                 5/14/1988  Before   
+5/15/1988  GBP     Jackson             Placed on disabled list                 5/14/1988  Before   
+5/15/1988  GBP     Oberkfell           Promoted to active roster                          Before   
+5/15/1988  GBP     Rice                Promoted to active roster                          Before   
+5/17/1988  CTW     Horn                Promoted to active roster                          Before   
+5/17/1988  CTW     Tejada              Demoted to reserve roster                          Before   
+5/18/1988  EVN     Anderson            Demoted to reserve roster                          Before   
+5/18/1988  EVN     Costello            Demoted to reserve roster                          Before   
+5/18/1988  EVN     Krukow              Promoted to active roster                          Before   
+5/18/1988  EVN     Stieb               Activated from disabled list                       Before   
+5/18/1988  FHK     Cadaret             Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+5/18/1988  FHK     Dravecky            Promoted to active roster                          Before   
+5/18/1988  GBP     Coleman             Promoted to active roster                          Before   
+5/18/1988  GBP     McGaffigan          Demoted to reserve roster                          Before   
+5/18/1988  SUN     Gonzales            Promoted to active roster                          Before   
+5/18/1988  SUN     Stillwell           Demoted to reserve roster                          Before   
+5/19/1988  CTW     Alba                Demoted to reserve roster                          Before   
+5/19/1988  CTW     Pena                Promoted to active roster                          Before   
+5/20/1988  BMB     Ruffin              Promoted to active roster                          Before   
+5/20/1988  BMB     Schatzeder          Demoted to reserve roster                          Before   
+5/20/1988  CCC     Benedict            Demoted to reserve roster                          Before   
+5/20/1988  CCC     Benedict            Promoted to active roster                          Before   
+5/20/1988  CCC     Prince              Demoted to reserve roster                          Before   
+5/20/1988  CCC     Prince              Promoted to active roster                          Before   
+5/20/1988  CCC     Prince              Demoted to reserve roster                          Before   
+5/20/1988  CCC     Scioscia            Activated from disabled list                       Before   
+5/20/1988  CCC     Scioscia            Demoted to reserve roster                          Before   
+5/20/1988  CCC     Scioscia            Promoted to active roster                          Before   
+5/20/1988  CIN     Caminiti            Demoted to reserve roster                          Before   
+5/20/1988  CIN     Flannery            Promoted to active roster                          Before   
+5/20/1988  TEW     Gross,K             Activated from disabled list                       Before   
+5/20/1988  TEW     Reed                Demoted to reserve roster                          Before   
+5/22/1988  BAR     Anderson            Placed on disabled list                 5/21/1988  Before   
+5/22/1988  BAR     Montgomery          Promoted to active roster                          Before   
+5/22/1988  BAR     Webster             Promoted to active roster                          Before   
+5/22/1988  BAR     Wells               Demoted to reserve roster                          Before   
+5/22/1988  CCC     Aquino              Promoted to active roster                          Before   
+5/22/1988  CCC     Harnisch            Demoted to reserve roster                          Before   
+5/22/1988  CCC     Martinez            Demoted to reserve roster                          Before   
+5/22/1988  CCC     Stottlemyre         Promoted to active roster                          Before   
+5/22/1988  NEE     Carpenter           Promoted to active roster                          Before   
+5/22/1988  NEE     Darwin              Promoted to active roster                          Before   
+5/22/1988  NEE     Key                 Demoted to reserve roster                          Before   
+5/22/1988  NEE     Nichols             Demoted to reserve roster                          Before   
+5/23/1988  CIN     Jones               Demoted to reserve roster                          Before   
+5/23/1988  CIN     Nixon               Promoted to active roster                          Before   
+5/25/1988  MAR     Fletcher            Placed on disabled list                 5/22/1988  Before   
+5/25/1988  MAR     Thomas              Promoted to active roster                          Before   
+5/26/1988  BMB     Guetterman          Demoted to reserve roster                          Before   
+5/26/1988  BMB     West                Promoted to active roster                          Before   
+5/28/1988  BAR     Heinkel             Demoted to reserve roster                          Before   
+5/28/1988  CEN     Kelly               Demoted to reserve roster                          Before   
+5/28/1988  ES?     Kittle              Activated from disabled list                       Before   
+5/28/1988  ES?     Lamp                Activated from disabled list                       Before   
+5/28/1988  ES?     McClure             Demoted to reserve roster                          Before   
+5/28/1988  ES?     Medina              Demoted to reserve roster                          Before   
+5/28/1988  SUN     Sheridan            Demoted to reserve roster                          Before   
+5/29/1988  BAR     Medvin              Promoted to active roster                          Before   
+5/29/1988  FER     Ashby               Demoted to reserve roster                          Before   
+5/29/1988  FER     Dopson              Demoted to reserve roster                          Before   
+5/29/1988  FER     Foley               Demoted to reserve roster                          Before   
+5/29/1988  FER     Gleaton             Promoted to active roster                          Before   
+5/29/1988  FER     Howell,J            Demoted to reserve roster                          Before   
+5/29/1988  FER     Jackson             Demoted to reserve roster                          Before   
+5/29/1988  FER     James               Promoted to active roster                          Before   
+5/29/1988  FER     John                Promoted to active roster                          Before   
+5/29/1988  FER     Kilgus              Demoted to reserve roster                          Before   
+5/29/1988  FER     Long                Promoted to active roster                          Before   
+5/29/1988  FER     Marshall            Demoted to reserve roster                          Before   
+5/29/1988  FER     McWilliams          Promoted to active roster                          Before   
+5/29/1988  FER     Plesac              Demoted to reserve roster                          Before   
+5/29/1988  FER     Plunk               Demoted to reserve roster                          Before   
+5/29/1988  FER     Puleo               Promoted to active roster                          Before   
+5/29/1988  FER     Quinones            Promoted to active roster                          Before   
+5/29/1988  FER     Ripken,B            Promoted to active roster                          Before   
+5/29/1988  FER     Valle               Promoted to active roster                          Before   
+5/29/1988  FER     Velarde             Promoted to active roster                          Before   
+5/29/1988  FER     Wilson              Demoted to reserve roster                          Before   
+5/29/1988  RYK     Biggio              Demoted to reserve roster                          Before   
+5/29/1988  RYK     Skinner             Promoted to active roster                          Before   
+5/30/1988  GBP     Assenmacher         Activated from disabled list                       Before   
+5/30/1988  GBP     Blauser             Demoted to reserve roster                          Before   
+5/30/1988  GBP     Coleman             Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+5/30/1988  GBP     Farr                Activated from disabled list                       Before   
+5/30/1988  GBP     Hrbek               Activated from disabled list                       Before   
+5/30/1988  GBP     Jackson             Activated from disabled list                       Before   
+5/30/1988  GBP     LaCoss              Demoted to reserve roster                          Before   
+5/30/1988  GBP     Upshaw              Demoted to reserve roster                          Before   
+5/31/1988  CEN     Boone               Placed on disabled list                 5/29/1988  Before   
+5/31/1988  CEN     Fermin              Demoted to reserve roster                          Before   
+5/31/1988  CEN     Moses               Promoted to active roster                          Before   
+5/31/1988  CEN     Wilkerson           Activated from disabled list                       Before   
+5/31/1988  CEN     Wynegar             Promoted to active roster                          Before   
+5/31/1988  MAR     Alvarez             Demoted to reserve roster                          Before   
+5/31/1988  MAR     McClendon           Promoted to active roster                          Before   
+5/31/1988  MAR     Sanchez             Demoted to reserve roster                          Before   
+5/31/1988  MAR     Smith,P             Promoted to active roster                          Before   
+5/31/1988  SUN     Buhner              Promoted to active roster                          Before   
+5/31/1988  SUN     Murphy              Demoted to reserve roster                          Before   
+5/31/1988  SUN     Sheridan            Promoted to active roster                          Before   
+6/1/1988   BMB     Ontiveros           Activated from disabled list                       Before   
+6/1/1988   BMB     Ontiveros           Demoted to reserve roster                          Before   
+6/1/1988   NEE     Lyons               Activated from disabled list                       Before   
+6/1/1988   NEE     Martinez            Demoted to reserve roster                          Before   
+6/2/1988   BAR     Tudor               Placed on disabled list                 6/1/1988   Before   
+6/2/1988   BAR     Wells               Promoted to active roster                          Before   
+6/3/1988   BBG     Bankhead            Activated from disabled list                       Before   
+6/3/1988   BBG     Jones               Demoted to reserve roster                          Before   
+6/3/1988   CIN     Soto                Demoted to reserve roster                          Before   
+6/3/1988   CIN     Welch               Activated from disabled list                       Before   
+6/4/1988   CEN     Law                 Promoted to active roster                          Before   
+6/4/1988   CEN     Magadan             Placed on disabled list                 6/2/1988   Before   
+6/5/1988   BMB     Bolton              Placed on disabled list                 6/4/1988   Before   
+6/5/1988   BMB     Palacios            Promoted to active roster                          Before   
+6/5/1988   BMB     Power               Promoted to active roster                          Before   
+6/5/1988   BMB     West                Demoted to reserve roster                          Before   
+6/5/1988   TEW     Johnson             Promoted to active roster                          Before   
+6/5/1988   TEW     Raines              Placed on disabled list                 6/4/1988   Before   
+6/7/1988   ES?     Acker               Promoted to active roster                          Before   
+6/7/1988   ES?     Corsi               Demoted to reserve roster                          Before   
+6/7/1988   ES?     Kunkel              Demoted to reserve roster                          Before   
+6/7/1988   ES?     Morrison            Promoted to active roster                          Before   
+6/7/1988   NEE     Hanson              Demoted to reserve roster                          Before   
+6/7/1988   NEE     Key                 Promoted to active roster                          Before   
+6/7/1988   NFG     Buechele            Promoted to active roster                          Before   
+6/7/1988   NFG     Lansford            Placed on disabled list                 6/4/1988   Before   
+6/8/1988   BMB     Ontiveros           Promoted to active roster                          Before   
+6/8/1988   BMB     Smoltz              Demoted to reserve roster                          Before   
+6/8/1988   CCC     Blocker             Promoted to active roster                          Before   
+6/8/1988   CCC     Cotto               Placed on disabled list                 6/6/1988   Before   
+6/8/1988   MAR     Alvarez             Promoted to active roster                          Before   
+6/8/1988   MAR     Fletcher            Activated from disabled list                       Before   
+6/8/1988   MAR     Knepper             Demoted to reserve roster                          Before   
+6/8/1988   MAR     Thomas              Demoted to reserve roster                          Before   
+6/8/1988   SUN     Innis               Promoted to active roster                          Before   
+6/8/1988   SUN     Leach               Placed on disabled list                 6/6/1988   Before   
+6/8/1988   SUN     Leiter              Promoted to active roster                          Before   
+6/8/1988   SUN     Robinson            Demoted to reserve roster                          Before   
+6/9/1988   CEN     Carreon             Traded away                    FER                 After    
+6/9/1988   CEN     Diaz                Acquired via trade             FER                 After    
+6/9/1988   CEN     Hall                Traded away                    FER                 After    
+6/9/1988   CEN     Jackson             Acquired via trade             FER                 After    
+6/9/1988   CEN     McCarthy            Acquired via trade             FER                 After    
+6/9/1988   CEN     Wilson              Acquired via trade             FER                 After    
+6/9/1988   EVN     Garcia              Demoted to reserve roster                          Before   
+6/9/1988   EVN     Herr                Activated from disabled list                       Before   
+6/9/1988   FER     Carreon             Acquired via trade             CEN                 After    
+6/9/1988   FER     Diaz                Traded away                    CEN                 After    
+6/9/1988   FER     Hall                Acquired via trade             CEN                 After    
+6/9/1988   FER     Jackson             Traded away                    CEN                 After    
+6/9/1988   FER     McCarthy            Traded away                    CEN                 After    
+6/9/1988   FER     Wilson              Traded away                    CEN                 After    
+6/9/1988   MAR     Liriano             Demoted to reserve roster                          Before   
+6/9/1988   MAR     Sanchez             Promoted to active roster                          Before   
+6/10/1988  CEN     Boever              Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/10/1988  CEN     Smith               Demoted to reserve roster                          Before   
+6/10/1988  CTW     Horn                Demoted to reserve roster                          Before   
+6/10/1988  CTW     Reed                Promoted to active roster                          Before   
+6/10/1988  TEW     Gross,K             Demoted to reserve roster                          Before   
+6/10/1988  TEW     Ojeda               Activated from disabled list                       Before   
+6/11/1988  CCC     Devereaux           Demoted to reserve roster                          Before   
+6/11/1988  CCC     Heep                Promoted to active roster                          Before   
+6/11/1988  CEN     Diaz                Demoted to reserve roster                          Before   
+6/11/1988  CEN     Jackson             Demoted to reserve roster                          Before   
+6/11/1988  CEN     McCarthy            Demoted to reserve roster                          Before   
+6/11/1988  CEN     Moses               Demoted to reserve roster                          Before   
+6/11/1988  CIN     Palmeiro            Placed on disabled list                 6/10/1988  Before   
+6/11/1988  CIN     Snider              Promoted to active roster                          Before   
+6/11/1988  FER     Carreon             Demoted to reserve roster                          Before   
+6/11/1988  FER     Hall                Demoted to reserve roster                          Before   
+6/12/1988  CEN     Dempsey             Promoted to active roster                          Before   
+6/12/1988  CEN     Wynegar             Placed on disabled list                 6/11/1988  Before   
+6/12/1988  FHK     Brown               Promoted to active roster                          Before   
+6/12/1988  FHK     Pagliarulo          Promoted to active roster                          Before   
+6/12/1988  FHK     Reuss               Demoted to reserve roster                          Before   
+6/12/1988  FHK     Sabo                Placed on disabled list                 6/10/1988  Before   
+6/12/1988  RYK     Bittiger            Promoted to active roster                          Before   
+6/12/1988  RYK     Eichelberger        Demoted to reserve roster                          Before   
+6/13/1988  CEN     Blankenship         Promoted to active roster                          Before   
+6/13/1988  CEN     Boone               Activated from disabled list                       Before   
+6/13/1988  CEN     Dempsey             Demoted to reserve roster                          Before   
+6/13/1988  CEN     Henderson           Placed on disabled list                 6/12/1988  Before   
+6/13/1988  CEN     Kelly               Promoted to active roster                          Before   
+6/13/1988  CEN     Sharperson          Demoted to reserve roster                          Before   
+6/13/1988  CIN     Daniels             Placed on disabled list                 6/12/1988  Before   
+6/13/1988  CIN     Jones               Promoted to active roster                          Before   
+6/13/1988  CIN     Reed                Promoted to active roster                          Before   
+6/13/1988  CIN     Sasser              Demoted to reserve roster                          Before   
+6/14/1988  CEN     Blankenship         Demoted to reserve roster                          Before   
+6/14/1988  CEN     DeJesus             Promoted to active roster                          Before   
+6/14/1988  CEN     Gardner             Demoted to reserve roster                          Before   
+6/14/1988  CEN     Olson               Promoted to active roster                          Before   
+6/14/1988  MAR     Manrique            Placed on disabled list                 6/12/1988  Before   
+6/14/1988  MAR     O'Brien             Promoted to active roster                          Before   
+6/14/1988  MAR     Pasqua              Demoted to reserve roster                          Before   
+6/14/1988  MAR     Thomas              Promoted to active roster                          Before   
+6/14/1988  SUN     Candelaria          Promoted to active roster                          Before   
+6/14/1988  SUN     Macfarlane          Demoted to reserve roster                          Before   
+6/14/1988  SUN     Martinez            Promoted to active roster                          Before   
+6/14/1988  SUN     Quirk               Promoted to active roster                          Before   
+6/14/1988  SUN     Show                Placed on disabled list                 6/13/1988  Before   
+6/14/1988  SUN     Wynne               Demoted to reserve roster                          Before   
+6/15/1988  CTW     Horner              Placed on disabled list                 6/15/1988  Before   
+6/15/1988  CTW     Kutcher             Promoted to active roster                          Before   
+6/15/1988  FER     Dernier             Traded away                    MAR                 After    
+6/15/1988  FER     Foley               Traded away                    MAR                 After    
+6/15/1988  FER     Gordon              Acquired via trade             MAR                 After    
+6/15/1988  FER     Howell,J            Traded away                    MAR                 After    
+6/15/1988  FER     Hudler              Traded away                    MAR                 After    
+6/15/1988  FER     Manrique            Acquired via trade             MAR                 After    
+6/15/1988  FER     McClendon           Acquired via trade             MAR                 After    
+6/15/1988  MAR     Dernier             Acquired via trade             FER                 After    
+6/15/1988  MAR     Foley               Acquired via trade             FER                 After    
+6/15/1988  MAR     Gordon              Traded away                    FER                 After    
+6/15/1988  MAR     Howell,J            Acquired via trade             FER                 After    
+6/15/1988  MAR     Hudler              Acquired via trade             FER                 After    
+6/15/1988  MAR     Manrique            Traded away                    FER                 After    
+6/15/1988  MAR     McClendon           Traded away                    FER                 After    
+6/16/1988  FER     Gordon              Demoted to reserve roster                          Before   
+6/16/1988  FER     Manrique            Placed on disabled list                 6/12/1988  Before   
+6/16/1988  MAR     Dernier             Demoted to reserve roster                          Before   
+6/16/1988  MAR     Howell,J            Demoted to reserve roster                          Before   
+6/16/1988  MAR     Hudler              Demoted to reserve roster                          Before   
+6/17/1988  CEN     Moses               Promoted to active roster                          Before   
+6/17/1988  CEN     Puhl                Demoted to reserve roster                          Before   
+6/17/1988  EVN     Herr                Placed on disabled list                 6/16/1988  Before   
+6/17/1988  EVN     Larkin              Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/17/1988  TEW     Garber              Activated from disabled list                       Before   
+6/17/1988  TEW     Garber              Demoted to reserve roster                          Before   
+6/19/1988  CIN     Heaton              Traded away                    FER                 After    
+6/19/1988  CIN     Hesketh             Acquired via trade             FER                 After    
+6/19/1988  CTW     Horn                Promoted to active roster                          Before   
+6/19/1988  CTW     Kutcher             Placed on disabled list                 6/17/1988  Before   
+6/19/1988  CTW     Miller              Demoted to reserve roster                          Before   
+6/19/1988  CTW     Schofield           Promoted to active roster                          Before   
+6/19/1988  CTW     Cangelosi           Traded away                    FER                 After    
+6/19/1988  CTW     Lynn                Acquired via trade             FER                 After    
+6/19/1988  FER     Cangelosi           Acquired via trade             CTW                 After    
+6/19/1988  FER     Heaton              Acquired via trade             CIN                 After    
+6/19/1988  FER     Hesketh             Traded away                    CIN                 After    
+6/19/1988  FER     Lynn                Traded away                    CTW                 After    
+6/20/1988  BAR     Anderson            Activated from disabled list                       Before   
+6/20/1988  BAR     King                Demoted to reserve roster                          Before   
+6/20/1988  BAR     Medvin              Placed on disabled list                 6/16/1988  Before   
+6/20/1988  BAR     Righetti            Promoted to active roster                          Before   
+6/20/1988  BAR     Webster             Demoted to reserve roster                          Before   
+6/20/1988  CEN     Jackson             Promoted to active roster                          Before   
+6/20/1988  CEN     Kelly               Demoted to reserve roster                          Before   
+6/20/1988  CEN     Olson               Demoted to reserve roster                          Before   
+6/20/1988  CEN     Puhl                Promoted to active roster                          Before   
+6/20/1988  CIN     Hesketh             Demoted to reserve roster                          Before   
+6/20/1988  CTW     Bergman             Placed on disabled list                 6/19/1988  Before   
+6/20/1988  CTW     Kreuter             Promoted to active roster                          Before   
+6/20/1988  FER     Bonds               Demoted to reserve roster                          Before   
+6/20/1988  FER     Gonzalez            Promoted to active roster                          Before   
+6/20/1988  FER     Gordon              Promoted to active roster                          Before   
+6/20/1988  FER     Hall                Promoted to active roster                          Before   
+6/20/1988  FER     Lyons               Promoted to active roster                          Before   
+6/20/1988  FER     Puleo               Demoted to reserve roster                          Before   
+6/20/1988  FER     Reynolds            Placed on disabled list                 6/16/1988  Before   
+6/20/1988  FER     Ward                Demoted to reserve roster                          Before   
+6/20/1988  FHK     Cadaret             Promoted to active roster                          Before   
+6/20/1988  FHK     Cook                Promoted to active roster                          Before   
+6/20/1988  FHK     Darling             Placed on disabled list                 6/16/1988  Before   
+6/20/1988  FHK     Harris              Demoted to reserve roster                          Before   
+6/20/1988  MAR     Alvarez             Demoted to reserve roster                          Before   
+6/20/1988  MAR     Dernier             Promoted to active roster                          Before   
+6/20/1988  MAR     Espy                Demoted to reserve roster                          Before   
+6/20/1988  MAR     Howell,J            Promoted to active roster                          Before   
+6/20/1988  MAR     Hudler              Promoted to active roster                          Before   
+6/20/1988  MAR     Pasqua              Promoted to active roster                          Before   
+6/20/1988  MAR     Rasmussen           Placed on disabled list                 6/17/1988  Before   
+6/20/1988  MAR     Thomas              Demoted to reserve roster                          Before   
+6/22/1988  BAR     Ballard             Demoted to reserve roster                          Before   
+6/22/1988  BAR     Bordi               Promoted to active roster                          Before   
+6/22/1988  BAR     Cliburn             Demoted to reserve roster                          Before   
+6/22/1988  BAR     Daulton             Activated from disabled list                       Before   
+6/22/1988  BAR     Davis,J             Demoted to reserve roster                          Before   
+6/22/1988  BAR     Hammaker            Demoted to reserve roster                          Before   
+6/22/1988  BAR     Musselman           Promoted to active roster                          Before   
+6/22/1988  BAR     Wells               Demoted to reserve roster                          Before   
+6/22/1988  BAR     Ballard             Acquired via trade             NFG                 After    
+6/22/1988  BAR     Cliburn             Acquired via trade             NFG                 After    
+6/22/1988  BAR     Hammaker            Acquired via trade             NFG                 After    
+6/22/1988  BMB     Candaele            Demoted to reserve roster                          Before   
+6/22/1988  BMB     Griffin             Promoted to active roster                          Before   
+6/22/1988  GBP     LaCoss              Promoted to active roster                          Before   
+6/22/1988  GBP     Rijo                Placed on disabled list                 6/20/1988  Before   
+6/22/1988  NEE     Lindeman            Demoted to reserve roster                          Before   
+6/22/1988  NEE     Reimer              Promoted to active roster                          Before   
+6/22/1988  NFG     Ballard             Traded away                    BAR                 After    
+6/22/1988  NFG     Cliburn             Traded away                    BAR                 After    
+6/22/1988  NFG     Hammaker            Traded away                    BAR                 After    
+6/22/1988  TEW     Hamilton            Demoted to reserve roster                          Before   
+6/22/1988  TEW     Morris              Promoted to active roster                          Before   
+6/23/1988  CCC     Aquino              Demoted to reserve roster                          Before   
+6/23/1988  CCC     Harper              Placed on disabled list                 6/18/1988  Before   
+6/24/1988  CCC     Cotto               Activated from disabled list                       Before   
+6/24/1988  CCC     Prince              Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/25/1988  CCC     Habyan              Promoted to active roster                          Before   
+6/25/1988  CCC     Heep                Demoted to reserve roster                          Before   
+6/25/1988  CEN     Boever              Placed on disabled list                 6/24/1988  Before   
+6/25/1988  CEN     DeJesus             Demoted to reserve roster                          Before   
+6/25/1988  CEN     Gardner             Promoted to active roster                          Before   
+6/25/1988  CEN     Magadan             Activated from disabled list                       Before   
+6/25/1988  CEN     Minton              Promoted to active roster                          Before   
+6/25/1988  CEN     Moses               Demoted to reserve roster                          Before   
+6/25/1988  FER     Long                Demoted to reserve roster                          Before   
+6/25/1988  FER     Witt                Promoted to active roster                          Before   
+6/26/1988  CIN     Palmeiro            Activated from disabled list                       Before   
+6/26/1988  CIN     Snider              Demoted to reserve roster                          Before   
+6/26/1988  CTW     Downing             Acquired via trade             NFG                 After    
+6/26/1988  CTW     Horn                Traded away                    NFG                 After    
+6/26/1988  NFG     Downing             Traded away                    CTW                 After    
+6/26/1988  NFG     Horn                Acquired via trade             CTW                 After    
+6/27/1988  CEN     Fermin              Promoted to active roster                          Before   
+6/27/1988  CEN     Henderson           Activated from disabled list                       Before   
+6/27/1988  CEN     Jackson             Demoted to reserve roster                          Before   
+6/27/1988  CEN     Williams            Demoted to reserve roster                          Before   
+6/27/1988  CIN     Bell                Promoted to active roster                          Before   
+6/27/1988  CIN     Daniels             Activated from disabled list                       Before   
+6/27/1988  CIN     Flannery            Demoted to reserve roster                          Before   
+6/27/1988  CIN     Jones               Demoted to reserve roster                          Before   
+6/27/1988  CIN     Lee                 Placed on disabled list                 6/25/1988  Before   
+6/27/1988  CIN     Lombardozzi         Promoted to active roster                          Before   
+6/27/1988  FER     Gonzalez            Demoted to reserve roster                          Before   
+6/27/1988  FER     Gordon              Demoted to reserve roster                          Before   
+6/27/1988  FER     John                Demoted to reserve roster                          Before   
+6/27/1988  FER     Marshall            Promoted to active roster                          Before   
+6/27/1988  FER     Milligan            Promoted to active roster                          Before   
+6/27/1988  FER     Valle               Demoted to reserve roster                          Before   
+6/27/1988  FER     Ward                Promoted to active roster                          Before   
+6/27/1988  NEE     Teufel              Placed on disabled list                 6/26/1988  Before   
+6/27/1988  NEE     Wellman             Promoted to active roster                          Before   
+6/29/1988  BAR     Bordi               Demoted to reserve roster                          Before   
+6/29/1988  BAR     Bullock             Promoted to active roster                          Before   
+6/29/1988  BAR     Hammaker            Promoted to active roster                          Before   
+6/29/1988  BAR     Phillips            Demoted to reserve roster                          Before   
+6/29/1988  GBP     Fisk                Demoted to reserve roster                          Before   
+6/29/1988  GBP     Pagnozzi            Promoted to active roster                          Before   
+6/29/1988  RYK     Booker              Demoted to reserve roster                          Before   
+6/29/1988  TEW     Gross,K             Promoted to active roster                          Before   
+6/29/1988  TEW     Morris              Demoted to reserve roster                          Before   
+6/29/1988  TEW     Raines              Activated from disabled list                       Before   
+6/29/1988  TEW     Robinson            Placed on disabled list                 6/28/1988  Before   
+6/30/1988  RYK     Mathews             Promoted to active roster                          Before   
+7/1/1988   CTW     Horner              Activated from disabled list                       Before   
+7/1/1988   CTW     Schofield           Demoted to reserve roster                          Before   
+7/1/1988   NEE     Nichols             Promoted to active roster                          Before   
+7/1/1988   NEE     Roenicke            Promoted to active roster                          Before   
+7/1/1988   NEE     Thon                Placed on disabled list                 6/30/1988  Before   
+7/1/1988   NEE     Wilkinson           Demoted to reserve roster                          Before   
+7/2/1988   BMB     Bolton              Activated from disabled list                       Before   
+7/2/1988   BMB     Bolton              Demoted to reserve roster                          Before   
+7/2/1988   BMB     Freeman             Demoted to reserve roster                          Before   
+7/2/1988   BMB     Gray                Promoted to active roster                          Before   
+7/2/1988   CCC     Brock               Placed on disabled list                 6/30/1988  Before   
+7/2/1988   CCC     Eichhorn            Demoted to reserve roster                          Before   
+7/2/1988   CCC     Krueger             Promoted to active roster                          Before   
+7/2/1988   CCC     Perry               Promoted to active roster                          Before   
+7/2/1988   ES?     Lancaster           Demoted to reserve roster                          Before   
+7/2/1988   ES?     McClure             Promoted to active roster                          Before   
+7/2/1988   ES?     Morgan              Promoted to active roster                          Before   
+7/2/1988   ES?     Russell             Placed on disabled list                 7/1/1988   Before   
+7/2/1988   FHK     Browne              Demoted to reserve roster                          Before   
+7/2/1988   FHK     Cook                Demoted to reserve roster                          Before   
+7/2/1988   FHK     Darling             Activated from disabled list                       Before   
+7/2/1988   FHK     Sabo                Activated from disabled list                       Before   
+7/3/1988   SUN     Bosio               Demoted to reserve roster                          Before   
+7/3/1988   SUN     McReynolds          Placed on disabled list                 7/2/1988   Before   
+7/3/1988   SUN     Paris               Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/3/1988   SUN     Show                Activated from disabled list                       Before   
+7/4/1988   BMB     Corbett             Promoted to active roster                          Before   
+7/4/1988   BMB     Dunne               Promoted to active roster                          Before   
+7/4/1988   BMB     Gott                Demoted to reserve roster                          Before   
+7/4/1988   BMB     Gray                Demoted to reserve roster                          Before   
+7/4/1988   GBP     Farr                Demoted to reserve roster                          Before   
+7/4/1988   GBP     McGaffigan          Promoted to active roster                          Before   
+7/4/1988   MAR     Espy                Promoted to active roster                          Before   
+7/4/1988   MAR     Lemon               Placed on disabled list                 6/28/1988  Before   
+7/5/1988   BMB     Gossage             Demoted to reserve roster                          Before   
+7/5/1988   BMB     Gott                Promoted to active roster                          Before   
+7/5/1988   CEN     Nieves              Promoted to active roster                          Before   
+7/5/1988   CEN     Robinson            Demoted to reserve roster                          Before   
+7/5/1988   CIN     Candiotti           Demoted to reserve roster                          Before   
+7/5/1988   CIN     Jones               Promoted to active roster                          Before   
+7/5/1988   EVN     Garcia              Promoted to active roster                          Before   
+7/5/1988   EVN     Guerrero            Placed on disabled list                 7/3/1988   Before   
+7/5/1988   MAR     Pasqua              Demoted to reserve roster                          Before   
+7/5/1988   MAR     Rasmussen           Activated from disabled list                       Before   
+7/5/1988   NFG     Dascenzo            Demoted to reserve roster                          Before   
+7/5/1988   NFG     Dascenzo            Promoted to active roster                          Before   
+7/5/1988   NFG     Eckersley           Demoted to reserve roster                          Before   
+7/5/1988   NFG     Eckersley           Promoted to active roster                          Before   
+7/5/1988   NFG     Eisenreich          Demoted to reserve roster                          Before   
+7/5/1988   NFG     Eisenreich          Promoted to active roster                          Before   
+7/5/1988   NFG     Eisenreich          Demoted to reserve roster                          Before   
+7/5/1988   NFG     Eisenreich          Promoted to active roster                          Before   
+7/5/1988   NFG     Lansford            Activated from disabled list                       Before   
+7/5/1988   NFG     Lansford            Demoted to reserve roster                          Before   
+7/5/1988   NFG     Lemke               Demoted to reserve roster                          Before   
+7/5/1988   NFG     Lemke               Promoted to active roster                          Before   
+7/5/1988   NFG     Quisenberry         Demoted to reserve roster                          Before   
+7/5/1988   NFG     Quisenberry         Promoted to active roster                          Before   
+7/5/1988   NFG     Stanicek            Demoted to reserve roster                          Before   
+7/5/1988   NFG     Stanicek            Promoted to active roster                          Before   
+7/5/1988   RYK     Bannister           Promoted to active roster                          Before   
+7/5/1988   RYK     Hillegas            Demoted to reserve roster                          Before   
+7/5/1988   RYK     O'Neal              Promoted to active roster                          Before   
+7/5/1988   RYK     Price               Demoted to reserve roster                          Before   
+7/6/1988   NFG     Dascenzo            Promoted to active roster                          Before   
+7/6/1988   NFG     Eckersley           Demoted to reserve roster                          Before   
+7/6/1988   NFG     Eisenreich          Promoted to active roster                          Before   
+7/6/1988   NFG     Lansford            Promoted to active roster                          Before   
+7/6/1988   NFG     Lemke               Promoted to active roster                          Before   
+7/6/1988   NFG     Perry               Demoted to reserve roster                          Before   
+7/6/1988   NFG     Quisenberry         Demoted to reserve roster                          Before   
+7/6/1988   NFG     Stanicek            Demoted to reserve roster                          Before   
+7/7/1988   BAR     Musselman           Demoted to reserve roster                          Before   
+7/7/1988   BAR     Tudor               Activated from disabled list                       Before   
+7/7/1988   BMB     Palacios            Placed on disabled list                 7/5/1988   Before   
+7/7/1988   BMB     Shields             Promoted to active roster                          Before   
+7/7/1988   CTW     Bergman             Activated from disabled list                       Before   
+7/7/1988   CTW     Pena                Demoted to reserve roster                          Before   
+7/7/1988   EVN     Knudson             Traded away                    FER                 After    
+7/7/1988   EVN     Marshall            Acquired via trade             FER                 After    
+7/7/1988   EVN     Young               Traded away                    FER                 After    
+7/7/1988   FER     Fitzgerald          Promoted to active roster                          Before   
+7/7/1988   FER     Knudson             Demoted to reserve roster                          Before   
+7/7/1988   FER     Manrique            Activated from disabled list                       Before   
+7/7/1988   FER     Nieto               Demoted to reserve roster                          Before   
+7/7/1988   FER     Quinones            Demoted to reserve roster                          Before   
+7/7/1988   FER     Trout               Demoted to reserve roster                          Before   
+7/7/1988   FER     Walker              Demoted to reserve roster                          Before   
+7/7/1988   FER     Witt                Demoted to reserve roster                          Before   
+7/7/1988   FER     Knudson             Acquired via trade             EVN                 After    
+7/7/1988   FER     Marshall            Traded away                    EVN                 After    
+7/7/1988   FER     Nieto               Acquired via trade             MAR                 After    
+7/7/1988   FER     Trout               Acquired via trade             GBP                 After    
+7/7/1988   FER     Valle               Traded away                    MAR                 After    
+7/7/1988   FER     Walker              Acquired via trade             MAR                 After    
+7/7/1988   FER     Young               Acquired via trade             EVN                 After    
+7/7/1988   FHK     Brown               Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/7/1988   FHK     Tewksbury           Promoted to active roster                          Before   
+7/7/1988   GBP     Trout               Traded away                    FER                 After    
+7/7/1988   MAR     Valle               Demoted to reserve roster                          Before   
+7/7/1988   MAR     Nieto               Traded away                    FER                 After    
+7/7/1988   MAR     Valle               Acquired via trade             FER                 After    
+7/7/1988   MAR     Walker              Traded away                    FER                 After    
+7/7/1988   TEW     Garber              Promoted to active roster                          Before   
+7/7/1988   TEW     Ojeda               Placed on disabled list                 7/5/1988   Before   
+7/8/1988   EVN     Marshall            Demoted to reserve roster                          Before   
+7/12/1988  FER     Dwyer               Demoted to reserve roster                          Before   
+7/12/1988  FER     McWilliams          Demoted to reserve roster                          Before   
+7/12/1988  FER     Nieto               Promoted to active roster                          Before   
+7/12/1988  FER     Plunk               Promoted to active roster                          Before   
+7/12/1988  FER     Smith,Z             Demoted to reserve roster                          Before   
+7/12/1988  FER     Trevino             Demoted to reserve roster                          Before   
+7/12/1988  FER     Trout               Promoted to active roster                          Before   
+7/12/1988  FER     Walker              Promoted to active roster                          Before   
+7/12/1988  GBP     Andersen            Demoted to reserve roster                          Before   
+7/12/1988  GBP     Nunez               Promoted to active roster                          Before   
+7/12/1988  GBP     Riles               Demoted to reserve roster                          Before   
+7/12/1988  GBP     Upshaw              Promoted to active roster                          Before   
+7/12/1988  SUN     Bell                Demoted to reserve roster                          Before   
+7/12/1988  SUN     Innis               Demoted to reserve roster                          Before   
+7/12/1988  SUN     Leach               Activated from disabled list                       Before   
+7/12/1988  SUN     Leiter              Demoted to reserve roster                          Before   
+7/12/1988  SUN     Milacki             Promoted to active roster                          Before   
+7/12/1988  SUN     Perez               Demoted to reserve roster                          Before   
+7/12/1988  SUN     Robinson            Promoted to active roster                          Before   
+7/12/1988  SUN     Stillwell           Promoted to active roster                          Before   
+7/13/1988  CIN     Bell                Demoted to reserve roster                          Before   
+7/13/1988  CIN     Lee                 Activated from disabled list                       Before   
+7/13/1988  EVN     Garcia              Demoted to reserve roster                          Before   
+7/13/1988  EVN     Herr                Activated from disabled list                       Before   
+7/13/1988  EVN     Larkin              Demoted to reserve roster                          Before   
+7/13/1988  EVN     Marshall            Promoted to active roster                          Before   
+7/14/1988  BMB     Stanicek            Demoted to reserve roster                          Before   
+7/14/1988  BMB     Stanicek            Acquired via trade             NFG                 After    
+7/14/1988  NFG     Stanicek            Traded away                    BMB                 After    
+7/15/1988  BMB     Morman              Demoted to reserve roster                          Before   
+7/15/1988  BMB     Ontiveros           Demoted to reserve roster                          Before   
+7/15/1988  BMB     Stanicek            Promoted to active roster                          Before   
+7/15/1988  BMB     Tibbs               Promoted to active roster                          Before   
+7/15/1988  EVN     Grace               Demoted to reserve roster                          Before   
+7/15/1988  EVN     Larkin              Promoted to active roster                          Before   
+7/15/1988  FER     Dopson              Promoted to active roster                          Before   
+7/15/1988  FER     Gleaton             Demoted to reserve roster                          Before   
+7/15/1988  FER     Trout               Demoted to reserve roster                          Before   
+7/15/1988  FER     Witt                Promoted to active roster                          Before   
+7/15/1988  FHK     Tewksbury           Demoted to reserve roster                          Before   
+7/15/1988  RYK     Washington          Demoted to reserve roster                          Before   
+7/15/1988  TEW     Gonzalez            Demoted to reserve roster                          Before   
+7/15/1988  TEW     Robinson            Activated from disabled list                       Before   
+7/16/1988  FER     Bonds               Promoted to active roster                          Before   
+7/16/1988  FER     Walker              Demoted to reserve roster                          Before   
+7/16/1988  FHK     Reuss               Promoted to active roster                          Before   
+7/16/1988  RYK     Santana             Promoted to active roster                          Before   
+7/17/1988  CIN     Candiotti           Promoted to active roster                          Before   
+7/17/1988  CIN     Jones               Demoted to reserve roster                          Before   
+7/18/1988  MAR     Melvin              Demoted to reserve roster                          Before   
+7/18/1988  MAR     Valle               Promoted to active roster                          Before   
+7/20/1988  CEN     Nieves              Demoted to reserve roster                          Before   
+7/20/1988  CEN     Robinson            Promoted to active roster                          Before   
+7/20/1988  GBP     Andujar             Promoted to active roster                          Before   
+7/20/1988  GBP     Borders             Demoted to reserve roster                          Before   
+7/20/1988  GBP     Coleman             Promoted to active roster                          Before   
+7/20/1988  GBP     Harris              Demoted to reserve roster                          Before   
+7/20/1988  GBP     Kennedy             Promoted to active roster                          Before   
+7/20/1988  GBP     Meyer               Demoted to reserve roster                          Before   
+7/20/1988  NEE     Reimer              Demoted to reserve roster                          Before   
+7/20/1988  NEE     Walker              Promoted to active roster                          Before   
+7/20/1988  SUN     McReynolds          Activated from disabled list                       Before   
+7/20/1988  SUN     Paris               Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/22/1988  BMB     Palacios            Activated from disabled list                       Before   
+7/22/1988  BMB     Palacios            Demoted to reserve roster                          Before   
+7/22/1988  CEN     Anderson            Traded away                    RYK                 After    
+7/22/1988  CEN     Uribe               Acquired via trade             RYK                 After    
+7/22/1988  RYK     Anderson            Acquired via trade             CEN                 After    
+7/22/1988  RYK     Uribe               Traded away                    CEN                 After    
+7/22/1988  TEW     McLemore            Demoted to reserve roster                          Before   
+7/22/1988  TEW     Oester              Promoted to active roster                          Before   
+7/23/1988  BAR     Boston              Demoted to reserve roster                          Before   
+7/23/1988  BAR     Bullock             Demoted to reserve roster                          Before   
+7/23/1988  BAR     Comstock            Promoted to active roster                          Before   
+7/23/1988  BAR     Perezchica          Promoted to active roster                          Before   
+7/23/1988  BAR     Schilling           Demoted to reserve roster                          Before   
+7/23/1988  BAR     Webster             Promoted to active roster                          Before   
+7/23/1988  BAR     Williamson          Demoted to reserve roster                          Before   
+7/23/1988  BAR     Willis              Promoted to active roster                          Before   
+7/23/1988  CEN     Fermin              Demoted to reserve roster                          Before   
+7/23/1988  CIN     Hesketh             Promoted to active roster                          Before   
+7/23/1988  CIN     Myers               Demoted to reserve roster                          Before   
+7/23/1988  GBP     Boyd                Demoted to reserve roster                          Before   
+7/23/1988  GBP     Rijo                Activated from disabled list                       Before   
+7/24/1988  CCC     Leary               Traded away                    CIN                 After    
+7/24/1988  CIN     Leary               Acquired via trade             CCC                 After    
+7/25/1988  CIN     Evans               Demoted to reserve roster                          Before   
+7/25/1988  CIN     Flannery            Promoted to active roster                          Before   
+7/25/1988  CIN     Leary               Demoted to reserve roster                          Before   
+7/25/1988  CIN     Reed                Demoted to reserve roster                          Before   
+7/25/1988  CIN     Sasser              Promoted to active roster                          Before   
+7/25/1988  FER     Walker              Promoted to active roster                          Before   
+7/25/1988  FER     Young               Demoted to reserve roster                          Before   
+7/25/1988  MAR     Espy                Demoted to reserve roster                          Before   
+7/25/1988  MAR     Lemon               Activated from disabled list                       Before   
+7/25/1988  NEE     Teufel              Activated from disabled list                       Before   
+7/25/1988  NEE     Wellman             Demoted to reserve roster                          Before   
+7/26/1988  CCC     Habyan              Demoted to reserve roster                          Before   
+7/26/1988  NEE     Cary                Promoted to active roster                          Before   
+7/26/1988  NEE     Schooler            Demoted to reserve roster                          Before   
+7/27/1988  CCC     Brunansky           Promoted to active roster                          Before   
+7/27/1988  CCC     Harper              Activated from disabled list                       Before   
+7/27/1988  CCC     Henry               Promoted to active roster                          Before   
+7/27/1988  CCC     Maddux              Demoted to reserve roster                          Before   
+7/27/1988  CCC     Mulholland          Demoted to reserve roster                          Before   
+7/27/1988  CCC     Prince              Demoted to reserve roster                          Before   
+7/27/1988  CCC     Thurmond            Promoted to active roster                          Before   
+7/27/1988  CCC     Williams            Promoted to active roster                          Before   
+7/27/1988  CEN     Boever              Activated from disabled list                       Before   
+7/27/1988  CEN     Boone               Demoted to reserve roster                          Before   
+7/27/1988  CEN     Davis               Demoted to reserve roster                          Before   
+7/27/1988  CEN     Dempsey             Promoted to active roster                          Before   
+7/27/1988  CEN     Diaz                Promoted to active roster                          Before   
+7/27/1988  CEN     Ducey               Promoted to active roster                          Before   
+7/27/1988  CEN     Gardner             Demoted to reserve roster                          Before   
+7/27/1988  CEN     Jackson             Promoted to active roster                          Before   
+7/27/1988  CEN     Jones               Demoted to reserve roster                          Before   
+7/27/1988  CEN     Law                 Demoted to reserve roster                          Before   
+7/27/1988  CEN     McCarthy            Promoted to active roster                          Before   
+7/27/1988  CEN     Nelson              Demoted to reserve roster                          Before   
+7/27/1988  CEN     Smith               Promoted to active roster                          Before   
+7/27/1988  CEN     Wilkerson           Demoted to reserve roster                          Before   
+7/27/1988  CIN     Caminiti            Promoted to active roster                          Before   
+7/27/1988  CIN     Flannery            Placed on disabled list                 7/25/1988  Before   
+7/27/1988  FER     Dopson              Demoted to reserve roster                          Before   
+7/27/1988  FER     Trout               Promoted to active roster                          Before   
+7/29/1988  BAR     Comstock            Demoted to reserve roster                          Before   
+7/29/1988  FHK     Cook                Promoted to active roster                          Before   
+7/29/1988  FHK     Downs               Demoted to reserve roster                          Before   
+7/29/1988  FHK     Hayes               Promoted to active roster                          Before   
+7/29/1988  FHK     Monteleone          Promoted to active roster                          Before   
+7/29/1988  FHK     Pagliarulo          Demoted to reserve roster                          Before   
+7/29/1988  FHK     Reuss               Demoted to reserve roster                          Before   
+7/29/1988  NEE     Thon                Activated from disabled list                       Before   
+7/29/1988  NEE     Walker              Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/29/1988  RYK     Biggio              Promoted to active roster                          Before   
+7/29/1988  RYK     Simmons             Promoted to active roster                          Before   
+7/29/1988  RYK     Skinner             Placed on disabled list                 7/28/1988  Before   
+7/29/1988  RYK     Virgil              Demoted to reserve roster                          Before   
+7/29/1988  TEW     Gross,K             Demoted to reserve roster                          Before   
+7/29/1988  TEW     Ojeda               Activated from disabled list                       Before   
+7/30/1988  CCC     Benedict            Traded away                    RYK                 After    
+7/30/1988  CTW     Reed                Demoted to reserve roster                          Before   
+7/30/1988  CTW     Ritchie             Promoted to active roster                          Before   
+7/30/1988  ES?     Dibble              Demoted to reserve roster                          Before   
+7/30/1988  ES?     Howell,K            Promoted to active roster                          Before   
+7/30/1988  ES?     McDowell            Demoted to reserve roster                          Before   
+7/30/1988  ES?     Russell             Activated from disabled list                       Before   
+7/30/1988  MAR     Alvarez             Promoted to active roster                          Before   
+7/30/1988  MAR     Sanchez             Demoted to reserve roster                          Before   
+7/30/1988  RYK     Benedict            Acquired via trade             CCC                 After    
+7/30/1988  SUN     Bosio               Promoted to active roster                          Before   
+7/30/1988  SUN     Candelaria          Demoted to reserve roster                          Before   
+7/30/1988  SUN     Fielder             Demoted to reserve roster                          Before   
+7/30/1988  SUN     Tolleson            Promoted to active roster                          Before   
+7/31/1988  CIN     Jones               Traded away                    EVN                 After    
+7/31/1988  CIN     Larkin              Acquired via trade             EVN                 After    
+7/31/1988  CTW     Anderson            Acquired via trade             EVN                 After    
+7/31/1988  CTW     Ashby               Acquired via trade             FER                 After    
+7/31/1988  CTW     Backman             Acquired via trade             EVN                 After    
+7/31/1988  CTW     Dawson              Traded away                    EVN                 After    
+7/31/1988  CTW     Gibson              Acquired via trade             EVN                 After    
+7/31/1988  CTW     Howell              Traded away                    EVN                 After    
+7/31/1988  CTW     Magrane             Traded away                    EVN                 After    
+7/31/1988  CTW     Mulliniks           Acquired via trade             EVN                 After    
+7/31/1988  CTW     Reed                Traded away                    EVN                 After    
+7/31/1988  CTW     Shelby              Acquired via trade             EVN                 After    
+7/31/1988  CTW     Stanley             Acquired via trade             EVN                 After    
+7/31/1988  ES?     McCaskill           Acquired via trade             MAR                 After    
+7/31/1988  ES?     Medina              Traded away                    MAR                 After    
+7/31/1988  ES?     Renteria            Acquired via trade             MAR                 After    
+7/31/1988  EVN     Anderson            Traded away                    CTW                 After    
+7/31/1988  EVN     Backman             Traded away                    CTW                 After    
+7/31/1988  EVN     Dawson              Acquired via trade             CTW                 After    
+7/31/1988  EVN     Gibson              Traded away                    CTW                 After    
+7/31/1988  EVN     Howell              Acquired via trade             CTW                 After    
+7/31/1988  EVN     Jones               Acquired via trade             CIN                 After    
+7/31/1988  EVN     Larkin              Traded away                    CIN                 After    
+7/31/1988  EVN     Magrane             Acquired via trade             CTW                 After    
+7/31/1988  EVN     Mulliniks           Traded away                    CTW                 After    
+7/31/1988  EVN     Reed                Acquired via trade             CTW                 After    
+7/31/1988  EVN     Shelby              Traded away                    CTW                 After    
+7/31/1988  EVN     Stanley             Traded away                    CTW                 After    
+7/31/1988  FER     Ashby               Traded away                    CTW                 After    
+7/31/1988  FHK     Allanson            Placed on disabled list                 7/29/1988  Before   
+7/31/1988  FHK     Butera              Promoted to active roster                          Before   
+7/31/1988  GBP     Hall                Demoted to reserve roster                          Before   
+7/31/1988  GBP     Ward                Promoted to active roster                          Before   
+7/31/1988  MAR     Hatcher             Acquired via trade             RYK                 After    
+7/31/1988  MAR     McCaskill           Traded away                    ES?                 After    
+7/31/1988  MAR     Medina              Acquired via trade             ES?                 After    
+7/31/1988  MAR     Renteria            Traded away                    ES?                 After    
+7/31/1988  RYK     Benedict            Demoted to reserve roster                          Before   
+7/31/1988  RYK     Hatcher             Traded away                    MAR                 After    
+7/31/1988  SUN     Cone                Placed on disabled list                 7/30/1988  Before   
+7/31/1988  SUN     Hawkins             Promoted to active roster                          Before   
+8/1/1988   BAR     Frohwirth           Promoted to active roster                          Before   
+8/1/1988   CEN     Boone               Promoted to active roster                          Before   
+8/1/1988   CEN     Davis               Promoted to active roster                          Before   
+8/1/1988   CEN     Dempsey             Demoted to reserve roster                          Before   
+8/1/1988   CEN     Diaz                Demoted to reserve roster                          Before   
+8/1/1988   CEN     Smith               Demoted to reserve roster                          Before   
+8/1/1988   CEN     Wilkerson           Promoted to active roster                          Before   
+8/1/1988   CIN     Caminiti            Demoted to reserve roster                          Before   
+8/1/1988   CTW     Bergman             Demoted to reserve roster                          Before   
+8/1/1988   CTW     Downing             Demoted to reserve roster                          Before   
+8/1/1988   CTW     Downing             Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/1/1988   CTW     Kreuter             Demoted to reserve roster                          Before   
+8/1/1988   CTW     Ritchie             Demoted to reserve roster                          Before   
+8/1/1988   CTW     Shelby              Demoted to reserve roster                          Before   
+8/1/1988   ES?     McCaskill           Demoted to reserve roster                          Before   
+8/1/1988   ES?     McCaskill           Promoted to active roster                          Before   
+8/1/1988   ES?     Renteria            Demoted to reserve roster                          Before   
+8/1/1988   ES?     Russell             Demoted to reserve roster                          Before   
+8/1/1988   EVN     Costello            Promoted to active roster                          Before   
+8/1/1988   EVN     Hatcher             Promoted to active roster                          Before   
+8/1/1988   EVN     Krukow              Demoted to reserve roster                          Before   
+8/1/1988   EVN     Newman              Promoted to active roster                          Before   
+8/1/1988   EVN     Smith,B             Demoted to reserve roster                          Before   
+8/1/1988   MAR     Fletcher            Demoted to reserve roster                          Before   
+8/1/1988   MAR     Medina              Demoted to reserve roster                          Before   
+8/1/1988   MAR     Sanchez             Promoted to active roster                          Before   
+8/3/1988   CCC     Krueger             Demoted to reserve roster                          Before   
+8/3/1988   FER     Dopson              Promoted to active roster                          Before   
+8/3/1988   FER     Trout               Demoted to reserve roster                          Before   
+8/3/1988   SUN     Milacki             Demoted to reserve roster                          Before   
+8/4/1988   CCC     Allen               Promoted to active roster                          Before   
+8/4/1988   CCC     Belliard            Promoted to active roster                          Before   
+8/4/1988   CCC     Brock               Activated from disabled list                       Before   
+8/4/1988   CCC     Harper              Demoted to reserve roster                          Before   
+8/4/1988   CCC     Heep                Promoted to active roster                          Before   
+8/4/1988   CCC     O'Neill             Demoted to reserve roster                          Before   
+8/4/1988   CCC     Pendleton           Demoted to reserve roster                          Before   
+8/4/1988   MAR     Fletcher            Promoted to active roster                          Before   
+8/4/1988   MAR     Gaetti              Placed on disabled list                 8/3/1988   Before   
+8/4/1988   NFG     Clemens             Demoted to reserve roster                          Before   
+8/4/1988   NFG     Parent              Promoted to active roster                          Before   
+8/4/1988   SUN     Candelaria          Promoted to active roster                          Before   
+8/4/1988   SUN     Nipper              Promoted to active roster                          Before   
+8/5/1988   CTW     Horner              Demoted to reserve roster                          Before   
+8/5/1988   CTW     Kreuter             Promoted to active roster                          Before   
+8/5/1988   CTW     Kutcher             Activated from disabled list                       Before   
+8/5/1988   CTW     Kutcher             Demoted to reserve roster                          Before   
+8/6/1988   BMB     Gott                Placed on disabled list                 8/5/1988   Before   
+8/6/1988   BMB     Palacios            Promoted to active roster                          Before   
+8/6/1988   CIN     Guidry              Placed on disabled list                 8/5/1988   Before   
+8/6/1988   CIN     Myers               Promoted to active roster                          Before   
+8/6/1988   CIN     Young               Demoted to reserve roster                          Before   
+8/6/1988   CIN     Young               Promoted to active roster                          Before   
+8/6/1988   NFG     Armstrong           Promoted to active roster                          Before   
+8/6/1988   NFG     Williams            Demoted to reserve roster                          Before   
+8/7/1988   BMB     Smith               Demoted to reserve roster                          Before   
+8/7/1988   BMB     West                Promoted to active roster                          Before   
+8/7/1988   CCC     Harper              Promoted to active roster                          Before   
+8/7/1988   CCC     Perry               Demoted to reserve roster                          Before   
+8/7/1988   CIN     Nixon               Demoted to reserve roster                          Before   
+8/7/1988   CIN     Young               Promoted to active roster                          Before   
+8/7/1988   CTW     Fishel              Promoted to active roster                          Before   
+8/7/1988   CTW     Santovenia          Demoted to reserve roster                          Before   
+8/7/1988   FHK     Butera              Placed on disabled list                 8/6/1988   Before   
+8/7/1988   FHK     Downs               Promoted to active roster                          Before   
+8/7/1988   FHK     Lampkin             Promoted to active roster                          Before   
+8/7/1988   FHK     Monteleone          Demoted to reserve roster                          Before   
+8/7/1988   MAR     Melvin              Promoted to active roster                          Before   
+8/7/1988   MAR     Valle               Placed on disabled list                 8/5/1988   Before   
+8/9/1988   BMB     Guetterman          Promoted to active roster                          Before   
+8/9/1988   BMB     West                Demoted to reserve roster                          Before   
+8/9/1988   EVN     Aguayo              Demoted to reserve roster                          Before   
+8/9/1988   EVN     Guerrero            Activated from disabled list                       Before   
+8/9/1988   NEE     Belcher             Demoted to reserve roster                          Before   
+8/9/1988   NEE     Jeffcoat            Promoted to active roster                          Before   
+8/9/1988   NEE     Key                 Demoted to reserve roster                          Before   
+8/9/1988   NEE     Service             Promoted to active roster                          Before   
+8/10/1988  RYK     Hill                Promoted to active roster                          Before   
+8/10/1988  RYK     White               Demoted to reserve roster                          Before   
+8/11/1988  BAR     Musselman           Promoted to active roster                          Before   
+8/11/1988  BAR     Willis              Demoted to reserve roster                          Before   
+8/11/1988  CEN     Ducey               Demoted to reserve roster                          Before   
+8/11/1988  CEN     Fermin              Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/11/1988  FER     Hall                Demoted to reserve roster                          Before   
+8/11/1988  FER     Lyons               Demoted to reserve roster                          Before   
+8/11/1988  FER     Trevino             Promoted to active roster                          Before   
+8/11/1988  FER     Trout               Promoted to active roster                          Before   
+8/14/1988  CIN     Candiotti           Demoted to reserve roster                          Before   
+8/14/1988  CIN     Leary               Promoted to active roster                          Before   
+8/14/1988  EVN     Agosto              Demoted to reserve roster                          Before   
+8/14/1988  EVN     Bair                Promoted to active roster                          Before   
+8/14/1988  FER     Plesac              Promoted to active roster                          Before   
+8/14/1988  FER     Ward                Demoted to reserve roster                          Before   
+8/14/1988  FHK     Allanson            Activated from disabled list                       Before   
+8/14/1988  FHK     Browne              Promoted to active roster                          Before   
+8/14/1988  FHK     Cook                Demoted to reserve roster                          Before   
+8/14/1988  FHK     Hayes               Demoted to reserve roster                          Before   
+8/14/1988  FHK     Lampkin             Demoted to reserve roster                          Before   
+8/14/1988  FHK     Reuss               Promoted to active roster                          Before   
+8/14/1988  RYK     Benedict            Promoted to active roster                          Before   
+8/14/1988  RYK     Biggio              Demoted to reserve roster                          Before   
+8/14/1988  SUN     Madrid              Promoted to active roster                          Before   
+8/14/1988  SUN     Meads               Demoted to reserve roster                          Before   
+8/14/1988  TEW     Johnson             Demoted to reserve roster                          Before   
+8/14/1988  TEW     Morris              Promoted to active roster                          Before   
+8/15/1988  CIN     Sasser              Demoted to reserve roster                          Before   
+8/16/1988  CCC     Henry               Demoted to reserve roster                          Before   
+8/16/1988  CCC     Lea                 Promoted to active roster                          Before   
+8/16/1988  CEN     Boever              Demoted to reserve roster                          Before   
+8/16/1988  CEN     Nelson              Promoted to active roster                          Before   
+8/16/1988  CIN     Bando               Promoted to active roster                          Before   
+8/16/1988  EVN     Agosto              Promoted to active roster                          Before   
+8/16/1988  EVN     Stieb               Demoted to reserve roster                          Before   
+8/16/1988  FER     Dopson              Demoted to reserve roster                          Before   
+8/16/1988  FER     Guzman              Demoted to reserve roster                          Before   
+8/16/1988  FER     John                Promoted to active roster                          Before   
+8/16/1988  FER     Knudson             Promoted to active roster                          Before   
+8/16/1988  FER     Long                Promoted to active roster                          Before   
+8/16/1988  FER     Perez               Demoted to reserve roster                          Before   
+8/16/1988  FER     Puleo               Promoted to active roster                          Before   
+8/16/1988  FER     Witt                Demoted to reserve roster                          Before   
+8/16/1988  GBP     Bonilla             Demoted to reserve roster                          Before   
+8/16/1988  GBP     Presley             Promoted to active roster                          Before   
+8/16/1988  NFG     Fields              Promoted to active roster                          Before   
+8/16/1988  NFG     Sutcliffe           Demoted to reserve roster                          Before   
+8/16/1988  SUN     Bosio               Demoted to reserve roster                          Before   
+8/16/1988  SUN     Buhner              Demoted to reserve roster                          Before   
+8/16/1988  SUN     Cone                Activated from disabled list                       Before   
+8/16/1988  SUN     Paredes             Promoted to active roster                          Before   
+8/16/1988  SUN     Parker              Promoted to active roster                          Before   
+8/16/1988  SUN     Robinson            Demoted to reserve roster                          Before   
+8/16/1988  SUN     Tolleson            Demoted to reserve roster                          Before   
+8/17/1988  CEN     McMurtry            Demoted to reserve roster                          Before   
+8/17/1988  NFG     Horn                Demoted to reserve roster                          Before   
+8/17/1988  NFG     Youngblood          Promoted to active roster                          Before   
+8/18/1988  CEN     Diaz                Promoted to active roster                          Before   
+8/18/1988  CEN     Fermin              Demoted to reserve roster                          Before   
+8/18/1988  CEN     Gardner             Promoted to active roster                          Before   
+8/18/1988  MAR     Gaetti              Activated from disabled list                       Before   
+8/18/1988  MAR     Gaetti              Demoted to reserve roster                          Before   
+8/18/1988  NEE     Cary                Demoted to reserve roster                          Before   
+8/18/1988  NEE     Laskey              Promoted to active roster                          Before   
+8/18/1988  NEE     Mohorcic            Promoted to active roster                          Before   
+8/18/1988  NEE     Service             Demoted to reserve roster                          Before   
+8/18/1988  TEW     Clear               Demoted to reserve roster                          Before   
+8/18/1988  TEW     Sutter              Promoted to active roster                          Before   
+8/19/1988  CIN     Boddicker           Demoted to reserve roster                          Before   
+8/19/1988  CIN     Flannery            Activated from disabled list                       Before   
+8/19/1988  MAR     Dernier             Placed on disabled list                 8/17/1988  Before   
+8/19/1988  MAR     Gaetti              Promoted to active roster                          Before   
+8/19/1988  RYK     Ramos               Promoted to active roster                          Before   
+8/19/1988  RYK     Sveum               Placed on disabled list                 8/18/1988  Before   
+8/20/1988  BMB     Guetterman          Demoted to reserve roster                          Before   
+8/20/1988  CIN     Candiotti           Promoted to active roster                          Before   
+8/20/1988  CIN     Fernandez           Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/20/1988  FER     Dopson              Promoted to active roster                          Before   
+8/20/1988  FER     Guzman              Promoted to active roster                          Before   
+8/20/1988  FER     Heaton              Demoted to reserve roster                          Before   
+8/20/1988  FER     Long                Demoted to reserve roster                          Before   
+8/21/1988  BMB     Gott                Activated from disabled list                       Before   
+8/21/1988  CEN     McCarthy            Demoted to reserve roster                          Before   
+8/21/1988  ES?     Howell,K            Demoted to reserve roster                          Before   
+8/21/1988  ES?     Mack                Demoted to reserve roster                          Before   
+8/21/1988  NEE     Jeffcoat            Demoted to reserve roster                          Before   
+8/22/1988  BMB     Palacios            Demoted to reserve roster                          Before   
+8/22/1988  BMB     Schatzeder          Promoted to active roster                          Before   
+8/22/1988  NEE     Nichols             Demoted to reserve roster                          Before   
+8/22/1988  NFG     Blyleven            Demoted to reserve roster                          Before   
+8/22/1988  NFG     Farrell             Demoted to reserve roster                          Before   
+8/22/1988  NFG     Jackson             Promoted to active roster                          Before   
+8/22/1988  NFG     Parrett             Demoted to reserve roster                          Before   
+8/22/1988  NFG     Portugal            Promoted to active roster                          Before   
+8/22/1988  NFG     Quisenberry         Promoted to active roster                          Before   
+8/22/1988  NFG     Sauveur             Demoted to reserve roster                          Before   
+8/22/1988  NFG     Sauveur             Promoted to active roster                          Before   
+8/23/1988  CTW     Kutcher             Promoted to active roster                          Before   
+8/23/1988  CTW     Nokes               Demoted to reserve roster                          Before   
+8/23/1988  EVN     Bair                Demoted to reserve roster                          Before   
+8/23/1988  EVN     Stieb               Promoted to active roster                          Before   
+8/23/1988  MAR     Melvin              Demoted to reserve roster                          Before   
+8/23/1988  MAR     Valle               Activated from disabled list                       Before   
+8/23/1988  NEE     Gordon              Promoted to active roster                          Before   
+8/23/1988  NEE     Vande Berg          Promoted to active roster                          Before   
+8/24/1988  CEN     Diaz                Demoted to reserve roster                          Before   
+8/24/1988  CEN     Jones               Promoted to active roster                          Before   
+8/24/1988  CEN     Nieves              Promoted to active roster                          Before   
+8/24/1988  CIN     Candiotti           Demoted to reserve roster                          Before   
+8/24/1988  CIN     Fernandez           Promoted to active roster                          Before   
+8/24/1988  ES?     Briley              Promoted to active roster                          Before   
+8/24/1988  ES?     Dorsett             Promoted to active roster                          Before   
+8/24/1988  ES?     Lamp                Demoted to reserve roster                          Before   
+8/24/1988  ES?     Landrum             Promoted to active roster                          Before   
+8/24/1988  ES?     McClure             Demoted to reserve roster                          Before   
+8/24/1988  ES?     Nunez               Promoted to active roster                          Before   
+8/24/1988  ES?     Russell             Promoted to active roster                          Before   
+8/24/1988  ES?     Stubbs              Demoted to reserve roster                          Before   
+8/24/1988  FER     Guzman              Demoted to reserve roster                          Before   
+8/24/1988  FER     Heaton              Promoted to active roster                          Before   
+8/26/1988  FER     Dopson              Demoted to reserve roster                          Before   
+8/26/1988  FER     Dwyer               Promoted to active roster                          Before   
+8/26/1988  FER     Gleaton             Promoted to active roster                          Before   
+8/26/1988  FER     Heaton              Demoted to reserve roster                          Before   
+8/26/1988  FER     Long                Promoted to active roster                          Before   
+8/26/1988  FER     Lyons               Promoted to active roster                          Before   
+8/26/1988  FER     Nieto               Demoted to reserve roster                          Before   
+8/26/1988  FER     Trout               Demoted to reserve roster                          Before   
+8/26/1988  FER     Walker              Demoted to reserve roster                          Before   
+8/26/1988  FER     Witt                Promoted to active roster                          Before   
+8/27/1988  CTW     Kutcher             Demoted to reserve roster                          Before   
+8/27/1988  CTW     Shelby              Promoted to active roster                          Before   
+8/27/1988  EVN     Garcia              Promoted to active roster                          Before   
+8/27/1988  EVN     Trammell            Demoted to reserve roster                          Before   
+8/27/1988  FHK     Cook                Promoted to active roster                          Before   
+8/27/1988  FHK     Dravecky            Demoted to reserve roster                          Before   
+8/27/1988  GBP     Assenmacher         Demoted to reserve roster                          Before   
+8/27/1988  GBP     Dotson              Promoted to active roster                          Before   
+8/27/1988  GBP     Harris              Promoted to active roster                          Before   
+8/27/1988  GBP     Horton              Promoted to active roster                          Before   
+8/27/1988  GBP     Jones               Demoted to reserve roster                          Before   
+8/27/1988  GBP     LaCoss              Demoted to reserve roster                          Before   
+8/27/1988  GBP     Nunez               Demoted to reserve roster                          Before   
+8/27/1988  GBP     Rawley              Promoted to active roster                          Before   
+8/27/1988  MAR     Pasqua              Promoted to active roster                          Before   
+8/27/1988  MAR     Washington          Placed on disabled list                 8/26/1988  Before   
+8/28/1988  BAR     Daulton             Demoted to reserve roster                          Before   
+8/29/1988  BAR     Davis,J             Promoted to active roster                          Before   
+8/29/1988  BMB     Madison             Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/29/1988  BMB     Salas               Demoted to reserve roster                          Before   
+8/29/1988  BMB     Schatzeder          Demoted to reserve roster                          Before   
+8/29/1988  BMB     Schroeder           Promoted to active roster                          Before   
+8/29/1988  CIN     Boddicker           Promoted to active roster                          Before   
+8/29/1988  CIN     Welch               Demoted to reserve roster                          Before   
+8/29/1988  FER     Heaton              Promoted to active roster                          Before   
+8/29/1988  FER     Knudson             Demoted to reserve roster                          Before   
+8/29/1988  FER     Lyons               Demoted to reserve roster                          Before   
+8/29/1988  FER     Young               Promoted to active roster                          Before   
+8/29/1988  FHK     Burks               Placed on disabled list                 8/28/1988  Before   
+8/29/1988  FHK     Pettis              Promoted to active roster                          Before   
+8/29/1988  SUN     Bosio               Promoted to active roster                          Before   
+8/29/1988  SUN     Gonzales            Demoted to reserve roster                          Before   
+8/29/1988  SUN     Nipper              Demoted to reserve roster                          Before   
+8/29/1988  SUN     Sundberg            Promoted to active roster                          Before   
+8/30/1988  BAR     Ballard             Demoted to reserve roster                          Before   
+8/30/1988  BAR     Ballard             Promoted to active roster                          Before   
+8/30/1988  BAR     Fossas              Promoted to active roster                          Before   
+8/30/1988  BAR     Frohwirth           Demoted to reserve roster                          Before   
+8/30/1988  BAR     Huismann            Promoted to active roster                          Before   
+8/30/1988  BAR     Jefferies           Demoted to reserve roster                          Before   
+8/30/1988  BAR     Leiper              Demoted to reserve roster                          Before   
+8/30/1988  BAR     Meier               Promoted to active roster                          Before   
+8/30/1988  NFG     Abner               Promoted to active roster                          Before   
+8/30/1988  NFG     McDowell            Demoted to reserve roster                          Before   
+9/1/1988   CIN     Atherton            Promoted to active roster                          Before   
+9/1/1988   CIN     Balboni             Promoted to active roster                          Before   
+9/1/1988   CIN     Buice               Promoted to active roster                          Before   
+9/1/1988   CIN     Caminiti            Promoted to active roster                          Before   
+9/1/1988   CIN     Candiotti           Promoted to active roster                          Before   
+9/1/1988   CIN     Davis               Promoted to active roster                          Before   
+9/1/1988   CIN     Evans               Promoted to active roster                          Before   
+9/1/1988   CIN     Guidry              Activated from disabled list                       Before   
+9/1/1988   CIN     Marzano             Promoted to active roster                          Before   
+9/1/1988   CIN     Nixon               Promoted to active roster                          Before   
+9/1/1988   CIN     Reed                Promoted to active roster                          Before   
+9/1/1988   CIN     Roomes              Promoted to active roster                          Before   
+9/1/1988   CIN     Samuels             Promoted to active roster                          Before   
+9/1/1988   CIN     Soto                Promoted to active roster                          Before   
+9/1/1988   CIN     Welch               Promoted to active roster                          Before   
+9/1/1988   CTW     Bergman             Promoted to active roster                          Before   
+9/1/1988   CTW     Cruz                Promoted to active roster                          Before   
+9/1/1988   CTW     Horner              Promoted to active roster                          Before   
+9/1/1988   CTW     Kutcher             Promoted to active roster                          Before   
+9/1/1988   CTW     McGuire             Promoted to active roster                          Before   
+9/1/1988   CTW     Meacham             Promoted to active roster                          Before   
+9/1/1988   CTW     Meadows             Promoted to active roster                          Before   
+9/1/1988   CTW     Moore               Promoted to active roster                          Before   
+9/1/1988   CTW     Nokes               Promoted to active roster                          Before   
+9/1/1988   CTW     Pena                Promoted to active roster                          Before   
+9/1/1988   CTW     Ritchie             Promoted to active roster                          Before   
+9/1/1988   CTW     Rodriguez           Promoted to active roster                          Before   
+9/1/1988   CTW     Santovenia          Promoted to active roster                          Before   
+9/1/1988   CTW     Schofield           Promoted to active roster                          Before   
+9/1/1988   CTW     Tejada              Promoted to active roster                          Before   
+9/1/1988   FER     Carreon             Promoted to active roster                          Before   
+9/1/1988   FER     Espinoza            Promoted to active roster                          Before   
+9/1/1988   FER     Geren               Promoted to active roster                          Before   
+9/1/1988   FER     Gonzalez            Promoted to active roster                          Before   
+9/1/1988   FER     Lyons               Promoted to active roster                          Before   
+9/1/1988   FER     Perez               Promoted to active roster                          Before   
+9/1/1988   FER     Quinones            Promoted to active roster                          Before   
+9/1/1988   FER     Reynolds            Activated from disabled list                       Before   
+9/1/1988   FER     Smith,Z             Promoted to active roster                          Before   
+9/1/1988   FER     Terrell             Promoted to active roster                          Before   
+9/1/1988   FER     Trout               Promoted to active roster                          Before   
+9/1/1988   FER     Walker              Promoted to active roster                          Before   
+9/1/1988   FER     Witt                Demoted to reserve roster                          Before   
+9/1/1988   MAR     Dernier             Activated from disabled list                       Before   
+9/1/1988   MAR     Espy                Promoted to active roster                          Before   
+9/1/1988   MAR     Knepper             Promoted to active roster                          Before   
+9/1/1988   MAR     Liriano             Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/1/1988   MAR     Medina              Promoted to active roster                          Before   
+9/1/1988   MAR     Melvin              Promoted to active roster                          Before   
+9/1/1988   MAR     Pall                Promoted to active roster                          Before   
+9/1/1988   MAR     Thomas              Promoted to active roster                          Before   
+9/1/1988   MAR     Toliver             Promoted to active roster                          Before   
+9/2/1988   NEE     Ready               Demoted to reserve roster                          Before   
+9/2/1988   SUN     Buhner              Promoted to active roster                          Before   
+9/2/1988   SUN     Fielder             Promoted to active roster                          Before   
+9/2/1988   SUN     Kiefer              Promoted to active roster                          Before   
+9/2/1988   SUN     Leiter              Promoted to active roster                          Before   
+9/2/1988   SUN     Lovullo             Promoted to active roster                          Before   
+9/2/1988   SUN     Meyer               Promoted to active roster                          Before   
+9/2/1988   SUN     Nipper              Promoted to active roster                          Before   
+9/2/1988   SUN     Paredes             Demoted to reserve roster                          Before   
+9/2/1988   SUN     Paris               Promoted to active roster                          Before   
+9/2/1988   SUN     Runge               Promoted to active roster                          Before   
+9/2/1988   SUN     Zuvella             Promoted to active roster                          Before   
+9/2/1988   TEW     Alomar,S            Promoted to active roster                          Before   
+9/3/1988   BBG     Bosley              Promoted to active roster                          Before   
+9/3/1988   BBG     Brenly              Promoted to active roster                          Before   
+9/3/1988   BBG     Brown               Promoted to active roster                          Before   
+9/3/1988   BBG     Ford                Promoted to active roster                          Before   
+9/3/1988   BBG     Hayes               Demoted to reserve roster                          Before   
+9/3/1988   BBG     Hubbard             Promoted to active roster                          Before   
+9/3/1988   BBG     Jones               Promoted to active roster                          Before   
+9/3/1988   CCC     Buckner             Promoted to active roster                          Before   
+9/3/1988   CCC     Carman              Promoted to active roster                          Before   
+9/3/1988   CCC     Castillo            Promoted to active roster                          Before   
+9/3/1988   CCC     Cotto               Placed on disabled list                 8/28/1988  Before   
+9/3/1988   CCC     Harnisch            Promoted to active roster                          Before   
+9/3/1988   CCC     Jose                Promoted to active roster                          Before   
+9/3/1988   CCC     Knight              Promoted to active roster                          Before   
+9/3/1988   CCC     Maddux              Promoted to active roster                          Before   
+9/3/1988   CCC     Mulholland          Promoted to active roster                          Before   
+9/3/1988   CCC     O'Neill             Promoted to active roster                          Before   
+9/3/1988   CCC     Parrish             Promoted to active roster                          Before   
+9/3/1988   CCC     Pendleton           Promoted to active roster                          Before   
+9/3/1988   CCC     Perry               Promoted to active roster                          Before   
+9/3/1988   CEN     Dempsey             Promoted to active roster                          Before   
+9/3/1988   CEN     Diaz                Promoted to active roster                          Before   
+9/3/1988   CEN     Distefano           Promoted to active roster                          Before   
+9/3/1988   CEN     Ducey               Promoted to active roster                          Before   
+9/3/1988   CEN     Law                 Promoted to active roster                          Before   
+9/3/1988   EVN     Garcia              Demoted to reserve roster                          Before   
+9/3/1988   EVN     Jones               Promoted to active roster                          Before   
+9/3/1988   GBP     Bush                Demoted to reserve roster                          Before   
+9/3/1988   GBP     Clark               Promoted to active roster                          Before   
+9/3/1988   GBP     Concepcion          Promoted to active roster                          Before   
+9/3/1988   GBP     Durham              Promoted to active roster                          Before   
+9/3/1988   GBP     Hall                Promoted to active roster                          Before   
+9/3/1988   GBP     Harris              Demoted to reserve roster                          Before   
+9/3/1988   GBP     Smithson            Promoted to active roster                          Before   
+9/3/1988   NEE     Romero              Promoted to active roster                          Before   
+9/3/1988   RYK     Alicea              Demoted to reserve roster                          Before   
+9/3/1988   RYK     Campusano           Demoted to reserve roster                          Before   
+9/3/1988   RYK     Reynolds            Promoted to active roster                          Before   
+9/3/1988   RYK     Sheets              Promoted to active roster                          Before   
+9/3/1988   TEW     Alomar,S            Demoted to reserve roster                          Before   
+9/3/1988   TEW     Bradley             Promoted to active roster                          Before   
+9/4/1988   NFG     Birtsas             Promoted to active roster                          Before   
+9/4/1988   NFG     DiPino              Demoted to reserve roster                          Before   
+9/4/1988   NFG     Lemke               Demoted to reserve roster                          Before   
+9/4/1988   NFG     Perry               Promoted to active roster                          Before   
+9/4/1988   NFG     Quintana            Promoted to active roster                          Before   
+9/4/1988   NFG     Swift               Demoted to reserve roster                          Before   
+9/5/1988   EVN     Krukow              Promoted to active roster                          Before   
+9/5/1988   MAR     Gaetti              Demoted to reserve roster                          Before   
+9/5/1988   NFG     Lemke               Demoted to reserve roster                          Before   
+9/5/1988   NFG     Lemke               Promoted to active roster                          Before   
+9/6/1988   NEE     Cox                 Demoted to reserve roster                          Before   
+9/6/1988   NFG     Anderson            Promoted to active roster                          Before   
+9/6/1988   NFG     Armstrong           Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/7/1988   CTW     Gallagher           Demoted to reserve roster                          Before   
+9/8/1988   BAR     Fossas              Demoted to reserve roster                          Before   
+9/8/1988   BBG     Gwynn               Demoted to reserve roster                          Before   
+9/8/1988   CTW     Clements            Promoted to active roster                          Before   
+9/8/1988   CTW     Havens              Demoted to reserve roster                          Before   
+9/8/1988   CTW     Havens              Promoted to active roster                          Before   
+9/8/1988   CTW     Lazorko             Demoted to reserve roster                          Before   
+9/8/1988   CTW     Lazorko             Promoted to active roster                          Before   
+9/8/1988   CTW     Moore               Demoted to reserve roster                          Before   
+9/8/1988   CTW     Shaver              Promoted to active roster                          Before   
+9/8/1988   CTW     Solano              Promoted to active roster                          Before   
+9/8/1988   CTW     Walk                Demoted to reserve roster                          Before   
+9/9/1988   BAR     Moyer               Demoted to reserve roster                          Before   
+9/9/1988   EVN     Costello            Demoted to reserve roster                          Before   
+9/9/1988   SUN     Madrid              Demoted to reserve roster                          Before   
+9/10/1988  BAR     Ballard             Promoted to active roster                          Before   
+9/10/1988  BAR     Medvin              Activated from disabled list                       Before   
+9/10/1988  BBG     Winningham          Promoted to active roster                          Before   
+9/10/1988  EVN     Brown,K             Promoted to active roster                          Before   
+9/10/1988  EVN     Dayley              Demoted to reserve roster                          Before   
+9/10/1988  EVN     Grace               Promoted to active roster                          Before   
+9/10/1988  FER     Plunk               Demoted to reserve roster                          Before   
+9/10/1988  NFG     Valenzuela          Promoted to active roster                          Before   
+9/10/1988  SUN     Madrid              Demoted to reserve roster                          Before   
+9/10/1988  SUN     Madrid              Promoted to active roster                          Before   
+9/10/1988  SUN     Robinson            Promoted to active roster                          Before   
+9/11/1988  BAR     Cliburn             Promoted to active roster                          Before   
+9/11/1988  BAR     Medvin              Demoted to reserve roster                          Before   
+9/11/1988  BAR     Wrona               Promoted to active roster                          Before   
+9/11/1988  CTW     Henneman            Demoted to reserve roster                          Before   
+9/11/1988  CTW     Lazorko             Promoted to active roster                          Before   
+9/11/1988  CTW     Moore               Promoted to active roster                          Before   
+9/11/1988  CTW     Rodriguez           Demoted to reserve roster                          Before   
+9/11/1988  MAR     McCullers           Demoted to reserve roster                          Before   
+9/11/1988  NEE     Carpenter           Demoted to reserve roster                          Before   
+9/12/1988  CTW     LaPoint             Demoted to reserve roster                          Before   
+9/12/1988  CTW     LaPoint             Promoted to active roster                          Before   
+9/12/1988  CTW     Lazorko             Demoted to reserve roster                          Before   
+9/12/1988  CTW     Pena                Demoted to reserve roster                          Before   
+9/12/1988  CTW     Shaver              Demoted to reserve roster                          Before   
+9/12/1988  CTW     Shaver              Promoted to active roster                          Before   
+9/12/1988  FER     Espinoza            Demoted to reserve roster                          Before   
+9/13/1988  NEE     Clancy              Promoted to active roster                          Before   
+9/13/1988  NEE     Diaz                Promoted to active roster                          Before   
+9/13/1988  NEE     Gerhart             Promoted to active roster                          Before   
+9/13/1988  NEE     Jimenez             Promoted to active roster                          Before   
+9/13/1988  NEE     Lindeman            Promoted to active roster                          Before   
+9/13/1988  NEE     Martinez            Promoted to active roster                          Before   
+9/13/1988  NEE     Reimer              Promoted to active roster                          Before   
+9/13/1988  NEE     Sheffield           Promoted to active roster                          Before   
+9/13/1988  NEE     Walker              Promoted to active roster                          Before   
+9/13/1988  NEE     Wellman             Promoted to active roster                          Before   
+9/13/1988  NEE     Wilson              Promoted to active roster                          Before   
+9/13/1988  NEE     Woodson             Promoted to active roster                          Before   
+9/14/1988  FER     Plesac              Demoted to reserve roster                          Before   
+9/14/1988  NFG     Carter              Demoted to reserve roster                          Before   
+9/14/1988  NFG     Engle               Demoted to reserve roster                          Before   
+9/14/1988  NFG     Engle               Promoted to active roster                          Before   
+9/15/1988  CIN     Bell                Promoted to active roster                          Before   
+9/15/1988  CIN     Myers               Demoted to reserve roster                          Before   
+9/15/1988  CTW     Tejada              Demoted to reserve roster                          Before   
+9/15/1988  MAR     Washington          Activated from disabled list                       Before   
+9/15/1988  RYK     James               Demoted to reserve roster                          Before   
+9/15/1988  RYK     Jefferson           Promoted to active roster                          Before   
+9/15/1988  RYK     Skinner             Activated from disabled list                       Before   
+9/15/1988  RYK     Sveum               Activated from disabled list                       Before   
+9/16/1988  BBG     Heath               Demoted to reserve roster                          Before   
+9/16/1988  CEN     Robinson            Demoted to reserve roster                          Before   
+9/16/1988  CIN     Brantley            Promoted to active roster                          Before   
+9/16/1988  CIN     Doran               Demoted to reserve roster                          Before   
+9/16/1988  CTW     Hudson              Demoted to reserve roster                          Before   
+9/16/1988  CTW     Hudson              Promoted to active roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/16/1988  FER     Carreon             Demoted to reserve roster                          Before   
+9/16/1988  FER     Dwyer               Demoted to reserve roster                          Before   
+9/16/1988  FER     Perez               Demoted to reserve roster                          Before   
+9/16/1988  FHK     Burks               Activated from disabled list                       Before   
+9/16/1988  FHK     Butera              Activated from disabled list                       Before   
+9/16/1988  FHK     Calderon            Promoted to active roster                          Before   
+9/16/1988  FHK     Destrade            Promoted to active roster                          Before   
+9/16/1988  FHK     Gagne               Demoted to reserve roster                          Before   
+9/16/1988  FHK     Pagliarulo          Promoted to active roster                          Before   
+9/16/1988  FHK     Schmidt             Promoted to active roster                          Before   
+9/16/1988  GBP     Riles               Promoted to active roster                          Before   
+9/17/1988  BAR     Boston              Promoted to active roster                          Before   
+9/17/1988  BAR     Huismann            Demoted to reserve roster                          Before   
+9/17/1988  BAR     Karkovice           Demoted to reserve roster                          Before   
+9/17/1988  CEN     Moses               Promoted to active roster                          Before   
+9/17/1988  CEN     Williams            Promoted to active roster                          Before   
+9/17/1988  CTW     Meadows             Demoted to reserve roster                          Before   
+9/17/1988  ES?     Baker               Promoted to active roster                          Before   
+9/17/1988  ES?     Booker              Promoted to active roster                          Before   
+9/17/1988  ES?     Dorsett             Demoted to reserve roster                          Before   
+9/17/1988  ES?     Lake                Promoted to active roster                          Before   
+9/17/1988  ES?     Mitchell            Demoted to reserve roster                          Before   
+9/17/1988  ES?     Randolph            Demoted to reserve roster                          Before   
+9/17/1988  ES?     Renteria            Promoted to active roster                          Before   
+9/17/1988  ES?     Smith,L             Demoted to reserve roster                          Before   
+9/17/1988  EVN     Palmer              Promoted to active roster                          Before   
+9/18/1988  BAR     Black               Demoted to reserve roster                          Before   
+9/18/1988  FHK     Cook                Demoted to reserve roster                          Before   
+9/18/1988  NFG     Sauveur             Promoted to active roster                          Before   
+9/19/1988  BAR     Medvin              Promoted to active roster                          Before   
+9/19/1988  BAR     Schilling           Promoted to active roster                          Before   
+9/19/1988  BMB     Candaele            Promoted to active roster                          Before   
+9/19/1988  BMB     Royster             Promoted to active roster                          Before   
+9/19/1988  BMB     Salas               Promoted to active roster                          Before   
+9/19/1988  BMB     Steinbach           Demoted to reserve roster                          Before   
+9/19/1988  BMB     Torve               Promoted to active roster                          Before   
+9/19/1988  CTW     Ritchie             Demoted to reserve roster                          Before   
+9/19/1988  ES?     Herndon             Promoted to active roster                          Before   
+9/19/1988  ES?     Nunez               Demoted to reserve roster                          Before   
+9/19/1988  NFG     Blyleven            Promoted to active roster                          Before   
+9/19/1988  NFG     Dunston             Demoted to reserve roster                          Before   
+9/19/1988  NFG     Sauveur             Demoted to reserve roster                          Before   
+9/20/1988  NEE     Henderson           Demoted to reserve roster                          Before   
+9/20/1988  NEE     Reimer              Demoted to reserve roster                          Before   
+9/20/1988  SUN     Lovullo             Demoted to reserve roster                          Before   
+9/21/1988  CCC     Stottlemyre         Demoted to reserve roster                          Before   
+9/22/1988  BAR     Gonzalez            Promoted to active roster                          Before   
+9/22/1988  BAR     Rabb                Promoted to active roster                          Before   
+9/22/1988  ES?     Baker               Demoted to reserve roster                          Before   
+9/22/1988  EVN     Smith,B             Promoted to active roster                          Before   
+9/22/1988  FER     McWilliams          Promoted to active roster                          Before   
+9/22/1988  MAR     Howell,J            Demoted to reserve roster                          Before   
+9/22/1988  NEE     Sheffield           Demoted to reserve roster                          Before   
+9/22/1988  NFG     Engle               Promoted to active roster                          Before   
+9/22/1988  NFG     O'Brien             Demoted to reserve roster                          Before   
+9/22/1988  NFG     Quisenberry         Demoted to reserve roster                          Before   
+9/22/1988  NFG     Williams            Promoted to active roster                          Before   
+9/23/1988  BAR     Smith               Demoted to reserve roster                          Before   
+9/23/1988  CTW     Burns               Demoted to reserve roster                          Before   
+9/23/1988  CTW     Moore               Demoted to reserve roster                          Before   
+9/23/1988  CTW     Mulliniks           Demoted to reserve roster                          Before   
+9/23/1988  TEW     Robinson            Demoted to reserve roster                          Before   
+9/24/1988  CIN     Collins             Promoted to active roster                          Before   
+9/24/1988  CIN     Flannery            Demoted to reserve roster                          Before   
+9/24/1988  NEE     Vande Berg          Demoted to reserve roster                          Before   
+9/24/1988  TEW     Hassey              Demoted to reserve roster                          Before   
+9/25/1988  BBG     Templeton           Demoted to reserve roster                          Before   
+9/25/1988  BBG     Trillo              Promoted to active roster                          Before   
+9/25/1988  CEN     Magadan             Demoted to reserve roster                          Before   
+9/25/1988  CEN     Moore               Demoted to reserve roster                          Before   
+9/25/1988  EVN     Wilson              Promoted to active roster                          Before   
+9/25/1988  NEE     Lindeman            Demoted to reserve roster                          Before   
+                           DMB transaction log -- All players in database                           
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/25/1988  TEW     Drabek              Demoted to reserve roster                          Before   
+9/25/1988  TEW     Gross,K             Promoted to active roster                          Before   
+9/25/1988  TEW     Nichols             Promoted to active roster                          Before   
+9/25/1988  TEW     Owen,L              Promoted to active roster                          Before   
+9/27/1988  CCC     Jose                Demoted to reserve roster                          Before   
+9/27/1988  ES?     Dorsett             Promoted to active roster                          Before   
+9/27/1988  ES?     Kunkel              Promoted to active roster                          Before   
+9/27/1988  ES?     Tettleton           Demoted to reserve roster                          Before   
+9/27/1988  EVN     Jones               Demoted to reserve roster                          Before   
+9/27/1988  GBP     Crews               Demoted to reserve roster                          Before   
+9/28/1988  CTW     Backman             Demoted to reserve roster                          Before   
+9/28/1988  CTW     Hough               Demoted to reserve roster                          Before   
+9/28/1988  CTW     LaPoint             Demoted to reserve roster                          Before   
+9/28/1988  CTW     Lynn                Demoted to reserve roster                          Before   
+9/28/1988  CTW     Meadows             Promoted to active roster                          Before   
+9/28/1988  CTW     Miller              Promoted to active roster                          Before   
+9/28/1988  CTW     Pena                Promoted to active roster                          Before   
+9/28/1988  CTW     Reardon             Demoted to reserve roster                          Before   
+9/28/1988  CTW     Stanley             Demoted to reserve roster                          Before   
+9/28/1988  CTW     Viola               Demoted to reserve roster                          Before   
+9/28/1988  EVN     Francona            Promoted to active roster                          Before   
+9/28/1988  EVN     Gregg               Promoted to active roster                          Before   
+9/28/1988  FER     Fitzgerald          Demoted to reserve roster                          Before   
+9/28/1988  FHK     Burks               Demoted to reserve roster                          Before   
+9/28/1988  FHK     Carlton             Promoted to active roster                          Before   
+9/28/1988  NEE     Finley              Demoted to reserve roster                          Before   
+9/29/1988  BMB     Rivera              Demoted to reserve roster                          Before   
+9/29/1988  FHK     Downs               Demoted to reserve roster                          Before   
+9/29/1988  FHK     Kruk                Demoted to reserve roster                          Before   
+9/29/1988  NEE     Martinez            Demoted to reserve roster                          Before   
+9/29/1988  NFG     Dunston             Promoted to active roster                          Before   
+9/29/1988  NFG     Quintana            Demoted to reserve roster                          Before   
+9/29/1988  SUN     Paris               Demoted to reserve roster                          Before   
+9/29/1988  SUN     Paris               Promoted to active roster                          Before   
+9/30/1988  CCC     Mulholland          Demoted to reserve roster                          Before   
+9/30/1988  CIN     Hall                Promoted to active roster                          Before   
+9/30/1988  CIN     Larkin              Demoted to reserve roster                          Before   
+9/30/1988  CTW     Bautista            Promoted to active roster                          Before   
+9/30/1988  CTW     Kutcher             Demoted to reserve roster                          Before   
+9/30/1988  CTW     Shaver              Demoted to reserve roster                          Before   
+9/30/1988  MAR     McGriff             Demoted to reserve roster                          Before   
+9/30/1988  NFG     Lemke               Promoted to active roster                          Before   
+9/30/1988  NFG     Thurman             Demoted to reserve roster                          Before   
+

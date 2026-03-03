@@ -1,0 +1,1179 @@
+                    Championship Team Status -- 1999 Fallkirk Frightened Rabbit                     
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Carlos Baerga               0      0    152    0 
+  Torii Hunter                0      0    422    0 
+  Garret Anderson             0      0    660    0 
+  Jose Hernandez              0      0    568    0 
+  Jason Giambi                0      0    695    0 
+  Carlos Beltran              0      0    723    0 
+  J.D. Drew                   0      0    430    0 
+  Tyler Houston               0      0    309    0 
+f A.J. Pierzynski             0      0     24    0 
+f Mark Bellhorn               0      0      0    0 
+  Russ Branyan                0      0     42    0 
+  David Bell                  0      0    667    1 
+  Eli Marrero                 0      0    343    0 
+  Adam Kennedy                0      0    110    0 
+  Javier Valentin             0      0    247    0 
+  Desi Relaford               0      0    242    0 
+f Mark Sweeney                0      0     35    0 
+  Charles Gipson              0      0     89    0 
+  Denny Hocking               0      0    421    0 
+  Lenny Harris                0      0    194    0 
+  Ramon Castro                0      0     78    0 
+  Matt Franco                 0      0    161    0 
+  Brian Hunter                0      0    589    0 
+  Total                              0   7201      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+  Andy Pettitte               0    0   31    0  10/2/1999           76s                      
+f Jose Mesa                   0    0   68    0   9/3/1999                                    
+f Andy Benes                  0    0   33    0  9/29/1999                               119s 
+f Chad Bradford               0    0    3    0   8/2/1999                                    
+  Willie Blair                0    0   39    0  10/3/1999    71s                   8r        
+f Mark Wohlers                0    0    2    0  8/12/1999                                    
+  Mike Holtz                  0    0   28    0   9/3/1999                                    
+f Jason Johnson               0    0   22    0  9/28/1999                                    
+  Jimmy Haynes                0    0   30    0  10/1/1999                  90s               
+f Chris Hammond               0    0    0    0                                               
+  Jaime Navarro               0    0   32    0  10/3/1999    42r                         31r 
+  Ken Cloude                  0    0   31    0  10/3/1999    40r                  51r        
+f Julian Tavarez              0    0   47    0   9/3/1999                                    
+f Octavio Dotel               0    0   19    0  9/26/1999                                    
+  Brian Meadows               0    0   31    0                                               
+  Cal Eldred                  0    0   20    0  10/3/1999     8r    29r    16r    10r    12r 
+f Darren Holmes               0    0   44    0  9/10/1999                                    
+  Chris Haney                 0    0   13    0  10/1/1999                  54r               
+f Ted Lilly                   0    0    9    0  9/10/1999                                    
+f Tomokazu Ohka               0    0    8    0  7/17/1999                                    
+f J.C. Romero                 0    0    5    0  7/30/1999                                    
+  Dan Smith                   0    0   20    0  10/2/1999           39r                      
+f Luis Vizcaino               0    0    1    0   8/9/1999                                    
+  Randy Wolf                  0    0   22    0   7/1/1999                                    
+  Carlos Almanzar             0    0   28    0  9/30/1999                         31r    31r 
+  Scott Karl                  0    0   33    0  9/30/1999                         67s        
+f Valerio DeLosSantos         0    0    7    0  7/19/1999                                    
+  Total                            0  298                                                    
+
+
+
+                      Championship Team Status -- 1999 Newfoundland Perfectos                       
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+f John Olerud                 0      0    723    0 
+  Gary Sheffield              0      0    663    0 
+f Hector Ortiz                0      0      0    0 
+  Darrin Fletcher             0      0    448    0 
+f David McCarty               0      0      0    0 
+f Benji Gil                   0      0      0    0 
+  Bob Higginson               0      0    445    0 
+  Luis Alicea                 0      0    196    0 
+  Ken Griffey                 0      0    706    0 
+  Todd Walker                 0      0    586    0 
+  Bubba Trammell              0      0    328    0 
+  Jose Valentin               0      0    313    0 
+f Sandy Alomar                0      0    144    0 
+  Benito Santiago             0      0    386    0 
+  Geoff Blum                  0      0    154    0 
+  Jeff Conine                 0      0    485    0 
+f Greg Colbrunn               0      0    153    0 
+f Frank Menechino             0      0      9    0 
+f Scott Sheldon               0      0      1    0 
+  Mike Lowell                 0      0    344    0 
+f Mark Quinn                  0      0     65    0 
+  Michael Tucker              0      0    340    0 
+  Shane Spencer               0      0    226    0 
+f Jeff Liefer                 0      0    122    0 
+  Deivi Cruz                  0      0    553    0 
+  Total                              0   7390      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Robb Nen                    0    0   72    0  8/24/1999                                    
+  Robert Person               0    0   42    0  10/2/1999           42s                      
+  Juan Acevedo                0    0   50    0  10/3/1999    37r                             
+f Chuck Finley                0    0   33    0  9/12/1999                                    
+f Osvaldo Fernandez           0    0    0    0                                               
+f Ugueth Urbina               0    0   71    0  8/31/1999                                    
+f Paul Wilson                 0    0    0    0                                               
+f Tony Armas                  0    0    1    0  6/15/1999                                    
+f Orlando Hernandez           0    0   33    0   9/9/1999                                    
+  Pedro Borbon                0    0   70    0  10/3/1999    28r    19r                      
+  Mark Gardner                0    0   29    0  10/2/1999            8r           94s        
+  Pat Hentgen                 0    0   34    0  10/3/1999     2r           96s               
+  Ramon Ortiz                 0    0    9    0  10/3/1999    31r                             
+f Mike Myers                  0    0   71    0  10/2/1999           36r                   8r 
+  Jarrod Washburn             0    0   16    0  10/2/1999           14r                      
+  Woody Williams              0    0   33    0  10/2/1999           25r    12r    35r        
+f Bruce Chen                  0    0   16    0  9/23/1999                                    
+  Joey Hamilton               0    0   22    0  10/3/1999     6r    39r           23r        
+f Dennis Stark                0    0    5    0   7/1/1999                                    
+  Manny Aybar                 0    0   65    0  10/3/1999    83s                         99s 
+  Total                            0  234                                                    
+
+
+
+                          Championship Team Status -- 1999 Tewksbury Bobs                           
+                              League championship -- as of 10/12/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Luis Gonzalez               0      0    693    0 
+  Carlos Delgado              0      0    681    0 
+  Jim Leyritz                 0      0    233    0 
+  Rusty Greer                 0      0    662    0 
+  Roberto Kelly               0      0    319    0 
+f Mickey Morandini            0      0    521    0 
+  Brent Mayne                 0      0    374    0 
+  Damon Buford                0      0    324    0 
+  Nomar Garciaparra           0      0    595    0 
+  Armando Rios                0      0    177    0 
+  Kevin Sefcik                0      0    242    0 
+  Darin Erstad                0      0    638    0 
+f Jay Payton                  0      0      9    0 
+f Casey Blake                 0      0     41    0 
+d Kevin Stocker               0      0    286    7 
+  Bobby Hughes                0      0    106    0 
+d Donnie Sadler               0      0    115    0 
+  Joe Randa                   0      0    689    0 
+f Calvin Pickering            0      0     51    0 
+  Scott Spiezio               0      0    283    0 
+  Rey Sanchez                 0      0    518    0 
+f Fernando Seguignol          0      0    119    0 
+f Brian Banks                 0      0    249    0 
+  Total                              0   7925      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/12  10/11  10/10   10/9   10/8 
+  Matt Mantei                 0    0   65    0 10/12/1999    38r                             
+f Anthony Telford             0    0   79    0  10/3/1999                                    
+f Cory Lidle                  0    0    5    0  9/12/1999                                    
+f Kerry Ligtenberg            0    0    0    0                                               
+f Matt Clement                0    0   31    0  8/25/1999                                    
+  Dustin Hermanson            0    0   34    0 10/10/1999                 117s               
+  Carl Pavano                 0    0   19    0  10/9/1999                        111s        
+f Rick Reed                   0    0   26    0  10/3/1999                                    
+  Derek Lowe                  0    0   74    0 10/12/1999    30r                  31r        
+  Donne Wall                  0    0   55    0 10/10/1999                  14r    17r    19r 
+  Keith Foulke                0    0   67    0 10/12/1999     5r           29r           20r 
+f Jason Schmidt               0    0   33    0  9/29/1999                                    
+f Bobby Jones                 0    0   12    0                                               
+  Darren Dreifort             0    0   30    0 10/10/1999                  28r               
+  Hideki Irabu                0    0   32    0 10/12/1999   102s                             
+f Rich Croushore              0    0   59    0  10/3/1999                                    
+f Charles Nagy                0    0   33    0                                               
+  Mike Thurman                0    0   29    0  10/8/1999                               111s 
+  Marc Wilkins                0    0   46    0 10/12/1999    15r                             
+  Total                            0  267                                                    
+
+
+
+                        Championship Team Status -- 1999 Newport Never Nudes                        
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Sammy Sosa                  0      0    712    0 
+  Adrian Beltre               0      0    614    0 
+f Shawn Green                 0      0    696    0 
+  Matt Stairs                 0      0    623    0 
+  David Ortiz                 0      0     25    0 
+  Dean Palmer                 0      0    631    0 
+  Richie Sexson               0      0    525    0 
+  Edgar Renteria              0      0    653    0 
+f Todd Hollandsworth          0      0    287    0 
+  John Flaherty               0      0    482    0 
+  Paul Bako                   0      0    247    0 
+  Joe Girardi                 0      0    229    0 
+  Warren Morris               0      0    581    0 
+f Alfonso Soriano             0      0      8    0 
+  Doug Mientkiewicz           0      0    379    0 
+  Wes Helms                   0      0      0    0 
+  Emil Brown                  0      0     14    0 
+  Jose Guillen                0      0    318    0 
+  Roosevelt Brown             0      0     70    0 
+  David Newhan                0      0     44    0 
+  Chili Davis                 0      0    554    0 
+  Charlie Greene              0      0     49    0 
+  Gene Kingsale               0      0     95    0 
+  Chris Gomez                 0      0    265    0 
+  Total                              0   8101      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Doug Davis                  0    0    2    0  9/15/1999                                    
+f Denny Neagle                0    0   20    0  9/28/1999                                    
+  Mike Maddux                 0    0   53    0  10/2/1999            3r                      
+f Troy Percival               0    0   60    0  9/28/1999                                    
+f T.J. Mathews                0    0   50    0  10/1/1999                  32r    43r        
+f Todd Ritchie                0    0   28    0   9/8/1999                                    
+f Darrell May                 0    0    0    0                                               
+  Rick Helling                0    0   35    0  9/29/1999                               107s 
+f Roy Halladay                0    0   36    0  9/11/1999                                    
+f Elmer Dessens               0    0    0    0                                               
+f Armando Reynoso             0    0   31    0  9/24/1999                                    
+  Paul Shuey                  0    0   72    0  10/1/1999                  73r     4r        
+f Antonio Osuna               0    0    5    0  6/13/1999                                    
+  Mike Morgan                 0    0   34    0  10/3/1999    26r    20r                      
+f Heathcliff Slocumb          0    0   50    0   9/1/1999                                    
+  Vladimir Nunez              0    0   44    0  10/3/1999   109s                             
+f Mike Munoz                  0    0   56    0  10/1/1999                  50s    12r        
+  John Frascatore             0    0   59    0  10/1/1999                   9r    83s        
+  Alan Mills                  0    0   68    0  10/1/1999                   4r    18r    45r 
+f Jeff Wallace                0    0   41    0  9/26/1999                                    
+  John Snyder                 0    0   25    0  10/2/1999          110s                      
+  Total                            0  187                                                    
+
+
+
+                        Championship Team Status -- 1999 Okoboji Cropdusters                        
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+f Jim Edmonds                 0      0    233    0 
+  Mike Sweeney                0      0    643    0 
+  John VanderWal              0      0    288    0 
+f Lance Berkman               0      0    106    0 
+  James Mouton                0      0    146    0 
+f Bobby Estalella             0      0     22    0 
+f Chris Stynes                0      0    129    0 
+  Ricky Gutierrez             0      0    311    0 
+f Eric Chavez                 0      0    402    0 
+  Tim Raines                  0      0    164    0 
+f Mark Kotsay                 0      0    535    0 
+  Gabe Kapler                 0      0    468    0 
+f Mark Smith                  0      0      0    0 
+f Mike Mordecai               0      0    250    0 
+  Ron Gant                    0      0    605    0 
+  Ivan Rodriguez              0      0    630    0 
+  Keith Lockhart              0      0    184    0 
+f Melvin Mora                 0      0     39    0 
+f Joe Oliver                  0      0    146    0 
+f Chris Woodward              0      0     29    0 
+  Mike Caruso                 0      0    564    0 
+  Cristian Guzman             0      0    456    0 
+  Vinny Castilla              0      0    674    0 
+f Mike Kinkade                0      0     51    0 
+  Total                              0   7075      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Steve Sparks                0    0   28    0  9/19/1999                                    
+  Al Leiter                   0    0   32    0  9/30/1999                         85s        
+  Shawn Estes                 0    0   32    0  10/1/1999                  69s               
+f Kelvim Escobar              0    0   33    0  9/30/1999                         45r        
+f David Weathers              0    0   63    0   9/8/1999                                    
+f Tim Worrell                 0    0   53    0  9/15/1999                                    
+f Frank Castillo              0    0    0    0                                               
+f Mike DeJean                 0    0   57    0  9/14/1999                                    
+  Jose Jimenez                0    0   29    0  9/23/1999                                    
+  Mike Fyhrie                 0    0   16    0  9/30/1999                         15r    61r 
+f Geremi Gonzalez             0    0    0    0                                               
+f Glendon Rusch               0    0    4    0  7/20/1999                                    
+f Jeff Tam                    0    0   10    0   7/1/1999                                    
+  Masao Kida                  0    0   49    0  10/2/1999           32r     5r    16r     8r 
+f Todd VanPoppel              0    0    0    0                                               
+f Matt Herges                 0    0   17    0  7/30/1999                                    
+  Byung-Hyun Kim              0    0   25    0  10/1/1999                  32r               
+f Danny Kolb                  0    0   16    0  6/30/1999                                    
+  David Riske                 0    0   12    0  5/21/1999                                    
+  Dennis Springer             0    0   38    0  10/3/1999   110s                         73s 
+  Chad Ogea                   0    0   36    0  10/2/1999           90s                      
+  Kirt Ojala                  0    0    8    0  10/1/1999                  24r            5r 
+  Paul Quantrill              0    0   41    0  10/3/1999    32r            6r    24r     4r 
+  Total                            0  213                                                    
+
+
+
+                      Championship Team Status -- 1999 Dún Laoghaire Messiahs                       
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Quilvio Veras               0      0    545    0 
+  Jose Offerman               0      0    693    0 
+  Greg Vaughn                 0      0    643    0 
+  Larry Walker                0      0    513    0 
+f Scott Brosius               0      0    529    0 
+  Dante Bichette              0      0    659    0 
+  Chad Curtis                 0      0    245    0 
+  Dave Martinez               0      0    594    0 
+  Mike Bordick                0      0    708    0 
+f Edgar Martinez              0      0    608    0 
+f Jose Molina                 0      0     21    0 
+  Jeff Reed                   0      0    306    0 
+  Kevin Jordan                0      0    380    0 
+  Brent Gates                 0      0    346    0 
+f Kirt Manwaring              0      0    155    0 
+  Eddie Perez                 0      0    339    0 
+  Paul O'Neill                0      0    675    0 
+  Pat Borders                 0      0     35    0 
+  Robinson Cancel             0      0     48    0 
+  Marquis Grissom             0      0    661    0 
+f Mike Simms                  0      0      2    0 
+  Ruben Rivera                0      0    475    0 
+  Lance Johnson               0      0    377    0 
+f Rafael Bournigal            0      0    108    0 
+  Domingo Cedeno              0      0    120    0 
+  Doug Glanville              0      0    692    5 
+  Craig Wilson                0      0    282    0 
+  Total                              0  10759      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Wade Miller                 0    0    5    0   7/1/1999                                    
+  Shigetoshi Hasegawa         0    0   64    0  10/3/1999     8r    13r           13r    16r 
+  Greg Hansell                0    0   33    0  10/3/1999    32r    12r           24r        
+  Rick Aguilera               0    0   61    0  10/3/1999    41r                             
+  Ismael Valdes               0    0   32    0  10/3/1999    71s                         85s 
+  Carlos Reyes                0    0   65    0  10/3/1999    24r           24r           25r 
+  Andy Ashby                  0    0   31    0  10/1/1999                   5r   118s        
+f Greg Maddux                 0    0   33    0  9/28/1999                                    
+f Tom Martin                  0    0    6    0   9/8/1999                                    
+  Ramiro Mendoza              0    0   53    0  10/1/1999                  88s               
+  Mike Jackson                0    0   72    0  10/3/1999    14r    21r    25r               
+  Paul Spoljaric              0    0   42    0  10/2/1999          108s                      
+  Bobby Jones                 0    0   30    0  9/22/1999                                    
+f Ed Yarnall                  0    0    5    0  5/13/1999                                    
+  Jerry Spradlin              0    0   63    0                                               
+  Scott Aldred                0    0   66    0                                               
+  Tom Davey                   0    0   45    0  10/3/1999    34r           24r               
+  Onan Masaoka                0    0   54    0  10/3/1999    10r           29r           23r 
+  Total                            0  131                                                    
+
+
+
+                         Championship Team Status -- 1999 Barcelona Brewers                         
+                              League championship -- as of 10/12/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Kevin Millar                0      0    407    0 
+f Raul Casanova               0      0      0    0 
+  Frank Catalanotto           0      0    315    0 
+  David Segui                 0      0    486    0 
+  Robin Ventura               0      0    671    0 
+  Brady Anderson              0      0    692    0 
+  Mo Vaughn                   0      0    592    0 
+  Omar Vizquel                0      0    664    0 
+f Raul Ibanez                 0      0    227    0 
+  Javier Lopez                0      0    269    0 
+f Randy Winn                  0      0    324    0 
+  Shawon Dunston              0      0    255    0 
+f Mark McLemore               0      0    664    0 
+  Brian Daubach               0      0    420    0 
+  Ben Grieve                  0      0    558    0 
+f Jacque Jones                0      0    347    0 
+  Hanley Frias                0      0    180    0 
+  Troy O'Leary                0      0    661    0 
+  Terry Steinbach             0      0    380    0 
+f Gary Bennett                0      0     94    0 
+f Creighton Gubanich          0      0     52    0 
+  Pat Meares                  0      0    104    0 
+  Stan Javier                 0      0    446    0 
+  Total                              0   8808      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/12  10/11  10/10   10/9   10/8 
+  Curt Schilling              0    0   24    0 10/12/1999   133s                             
+f Yorkis Perez                0    0   35    0  9/19/1999                                    
+  Mike Hampton                0    0   34    0  10/8/1999                                11r 
+  Pedro Martinez              0    0   31    0  10/8/1999                               121s 
+f Joe Borowski                0    0    0    0                                               
+  Mike Timlin                 0    0   62    0  10/8/1999                                18r 
+f Terry Adams                 0    0   52    0  10/3/1999                                    
+  Rick Ankiel                 0    0    9    0  10/9/1999                         99s        
+  Tim Crabtree                0    0   68    0  10/9/1999                         26r    13r 
+  Rudy Seanez                 0    0   56    0 10/10/1999                   5r    13r        
+  John Smoltz                 0    0   29    0 10/10/1999                 113s               
+  Jose Cabrera                0    0   26    0 10/12/1999     9r           32r               
+f Graeme Lloyd                0    0   74    0   9/8/1999                                    
+f Jerry Dipoto                0    0   63    0  8/12/1999                                    
+f Bobby Ayala                 0    0   66    0                                               
+f Tim Wakefield               0    0   49    0  9/21/1999                                    
+f Travis Miller               0    0   52    0  8/11/1999                                    
+f Sean Runyan                 0    0   12    0  9/29/1999                                    
+f Ramon Martinez              0    0    4    0   9/2/1999                                    
+f Reid Cornelius              0    0    5    0   9/8/1999                                    
+f Dan Naulty                  0    0   33    0                                               
+f Jeff Williams               0    0    5    0  10/1/1999                                    
+f Mark Leiter                 0    0    2    0  9/22/1999                                    
+f Al Reyes                    0    0   53    0  10/3/1999                                    
+f Tim Harikkala               0    0    7    0                                               
+f Pat Daneker                 0    0    3    0  9/30/1999                                    
+f Dennys Reyes                0    0   65    0  9/29/1999                                    
+  Total                            0  150                                                    
+
+
+
+                         Championship Team Status -- 1999 Chinatrust Whales                         
+                              League championship -- as of 10/22/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Mark McGwire                0      0    661    0 
+f Todd Pratt                  0      0    160    0 
+  Rickey Henderson            0      0    526    0 
+  Chipper Jones               0      0    701    0 
+  Carl Everett                0      0    535    0 
+f Alberto Castillo            0      0    290    0 
+f Steve Decker                0      0     79    0 
+  Erubiel Durazo              0      0    185    0 
+  Reggie Sanders              0      0    550    0 
+f Jason LaRue                 0      0    103    0 
+  Pokey Reese                 0      0    636    0 
+  Scott Servais               0      0    217    0 
+f Brian Johnson               0      0    127    0 
+  F.P. Santangelo             0      0    326    0 
+  Jay Buhner                  0      0    343    0 
+f Marvin Benard               0      0    625    0 
+  Tim Spehr                   0      0    187    0 
+  Gary Matthews               0      0     45    0 
+  Jay Bell                    0      0    688    0 
+f Alex Gonzalez               0      0    173    0 
+f Thomas Howard               0      0    215    0 
+f Ruben Mateo                 0      0    127    0 
+f Kevin Orie                  0      0    267    0 
+f Jay Canizaro                0      0     19    0 
+f Howard Battle               0      0     19    0 
+f Matt Luke                   0      0     32    0 
+  Dave Dellucci               0      0    123    0 
+  Rey Ordonez                 0      0    588    0 
+  Darryl Strawberry           0      0     66    0 
+  Total                              0   8613      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/22  10/21  10/20  10/19  10/18 
+f Jose Lima                   0    0   35    0  9/28/1999                                    
+  Kevin McGlinchy             0    0   64    0 10/22/1999    18r           32r           10r 
+f Steve Montgomery            0    0   53    0  10/3/1999                                    
+  Randy Johnson               0    0   35    0 10/19/1999                        123s        
+  Shane Reynolds              0    0   35    0 10/22/1999    52r                             
+f Reggie Harris               0    0    8    0  7/24/1999                                    
+  Esteban Loaiza              0    0   30    0 10/20/1999                 109s               
+  Brian Boehringer            0    0   33    0 10/22/1999    95s                             
+f Dave Burba                  0    0   34    0  10/2/1999                                    
+  Mike Remlinger              0    0   73    0 10/22/1999    17r                  12r    14r 
+  Mariano Rivera              0    0   66    0 10/19/1999                         33r        
+f Mike Trombley               0    0   75    0  10/3/1999                                    
+f Mark Thompson               0    0    5    0 10/18/1999                               106s 
+f Matt Perisho                0    0    4    0   6/1/1999                                    
+f Chuck McElroy               0    0   56    0  10/2/1999                                    
+  Scott Sauerbeck             0    0   65    0 10/19/1999                         19r    26r 
+f Jamey Wright                0    0   16    0  9/28/1999                                    
+  Total                            0  187                                                    
+
+
+
+                          Championship Team Status -- 1999 Cincinnati Reds                          
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Brad Ausmus                 0      0    527    0 
+  Trot Nixon                  0      0    447    0 
+f Barry Larkin                0      0    687    0 
+f Rafael Palmeiro             0      0    674    0 
+  Herb Perry                  0      0    239    0 
+f Carlos Lee                  0      0    518    0 
+f Dmitri Young                0      0    409    0 
+  Eric Young                  0      0    534    0 
+  Ed Taubensee                0      0    461    0 
+  Eric Davis                  0      0    223    0 
+f Aaron Boone                 0      0    521    0 
+  Jerry Hairston              0      0    193    0 
+  Darryl Hamilton             0      0    568    0 
+  Kelly Stinnett              0      0    317    0 
+  Vernon Wells                0      0     92    0 
+  Jeremy Giambi               0      0    336    0 
+  Miguel Cairo                0      0    508    0 
+  Manny Alexander             0      0    189    0 
+  Daryle Ward                 0      0    161    0 
+  Jacob Cruz                  0      0     96    0 
+  Glen Barker                 0      0     90    0 
+  Devon White                 0      0    526    0 
+  Mike Figga                  0      0     91    0 
+  Wilton Guerrero             0      0    340    0 
+  Tom Goodwin                 0      0    455    0 
+  Total                              0   9202      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Hideo Nomo                  0    0   28    0  9/25/1999                                    
+  Livan Hernandez             0    0   30    0  9/29/1999                               105s 
+  Orel Hershiser              0    0   32    0  10/2/1999          103s                      
+f Vicente Padilla             0    0    5    0  9/25/1999                                    
+  Jeff Nelson                 0    0   39    0  10/3/1999    60s                             
+f Francisco Cordero           0    0   20    0  8/20/1999                                    
+f Cory Bailey                 0    0    0    0                                               
+f Giovanni Carrara            0    0    0    0                                               
+  Ricky Bottalico             0    0   68    0  10/1/1999                  36r            2r 
+f Joey Eischen                0    0    0    0                                               
+f Brian Shouse                0    0    0    0                                               
+f Eric Gagne                  0    0    5    0  9/30/1999                         77s    40r 
+  Odaliz Perez                0    0   18    0  9/28/1999                                    
+  Russ Ortiz                  0    0   33    0  9/28/1999                                    
+  Felix Heredia               0    0   69    0  9/30/1999                         29r        
+f Guillermo Mota              0    0   51    0  9/30/1999                         28r        
+f B.J. Ryan                   0    0   14    0  9/12/1999                                    
+  Scott Erickson              0    0   34    0  10/1/1999                 125s               
+f Jeff Weaver                 0    0   30    0   9/9/1999                                    
+f Bryan Ward                  0    0   40    0  9/18/1999                                    
+  Dan Wheeler                 0    0    6    0  4/27/1999                                    
+  Rigo Beltran                0    0   33    0  10/3/1999    53r                          2r 
+  Brian Williams              0    0   50    0  10/3/1999    21r    38r                      
+f Michael Garcia              0    0    7    0  8/13/1999                                    
+  Mark Guthrie                0    0   57    0  10/3/1999    48r                             
+  Total                            0  214                                                    
+
+
+
+                         Championship Team Status -- 1999 McCullers Lancers                         
+                              League championship -- as of 10/20/1999                               
+
+S Name                    Usage     PA     PA Days 
+f Rob Ducey                   0      0    227    0 
+  Roberto Alomar              0      0    694    0 
+  Fred McGriff                0      0    620    0 
+  Mike Redmond                0      0    278    0 
+  Brian Giles                 0      0    627    0 
+  Scott Rolen                 0      0    497    0 
+  Tony Batista                0      0    573    0 
+  Sal Fasano                  0      0     75    0 
+f Andy Fox                    0      0    320    0 
+  Mike Lieberthal             0      0    574    0 
+  Henry Rodriguez             0      0    504    0 
+  Darrin Jackson              0      0    155    0 
+  B.J. Surhoff                0      0    727    0 
+  Russ Johnson                0      0    183    0 
+  Chris Singleton             0      0    530    0 
+  Gerald Williams             0      0    467    0 
+  Ramon Martinez              0      0    165    0 
+f David Howard                0      0     92    0 
+f Mark Dalesandro             0      0     29    0 
+f Todd Greene                 0      0    338    0 
+f Greg Norton                 0      0    510    0 
+  Kevin Young                 0      0    675    2 
+  Total                              0   8860      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/20  10/19  10/18  10/17  10/16 
+f Gregg Olson                 0    0   61    0  7/11/1999                                    
+  Mike Mussina                0    0   31    0 10/18/1999                 107s               
+f Kerry Wood                  0    0    0    0                                               
+  Kenny Rogers                0    0   31    0 10/16/1999                                25s 
+  Jeff Shaw                   0    0   64    0  9/30/1999                                    
+  Alan Embree                 0    0   68    0 10/19/1999           17r                  20r 
+  Mark Petkovsek              0    0   64    0 10/16/1999                                46r 
+  Pedro Astacio               0    0   34    0 10/19/1999          104s                      
+  Paul Byrd                   0    0   32    0 10/18/1999                   8r           46r 
+  Russ Springer               0    0   49    0  10/3/1999                                    
+  Kevin Millwood              0    0   33    0 10/20/1999    98s                             
+f Scott Radinsky              0    0   43    0  9/17/1999                                    
+f Steve Schrenk               0    0   32    0  9/28/1999                                    
+f Allen Watson                0    0   38    0  10/3/1999                                    
+  Jeff Zimmerman              0    0   65    0 10/20/1999    12r    14r                  13r 
+f Jose Silva                  0    0   34    0  10/1/1999                                    
+f Kyle Peterson               0    0   17    0  10/2/1999                                    
+f Hector Ramirez              0    0   15    0                                               
+f Jeff Brantley               0    0   10    0  10/3/1999                                    
+f Matt Whisenant              0    0   67    0  9/29/1999                                    
+  Total                            0  191                                                    
+
+
+
+                        Championship Team Status -- 1999 Ferdinand Magellans                        
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+f Carlos Guillen              0      0     21    0 
+f Barry Bonds                 0      0    434    0 
+  Mark DeRosa                 0      0      8    0 
+  Jason Varitek               0      0    544    0 
+  Bill Mueller                0      0    492    0 
+  Randy Velarde               0      0    711    0 
+  Glenallen Hill              0      0    278    0 
+  Craig Biggio                0      0    749    0 
+  Steve Finley                0      0    663    0 
+  Tom Lampkin                 0      0    227    0 
+f John Jaha                   0      0    570    0 
+  Einar Diaz                  0      0    427    0 
+f Craig Grebeck               0      0    135    0 
+  Dave Berg                   0      0    336    0 
+  Butch Huskey                0      0    423    0 
+  Matt Mieske                 0      0    161    0 
+  Rich Becker                 0      0    327    0 
+  Adrian Brown                0      0    267    0 
+  Angel Echevarria            0      0    211    0 
+  Lou Merloni                 0      0    140    0 
+  Wil Cordero                 0      0    217    0 
+  Total                              0   7341      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+  Tom Gordon                  0    0   21    0  10/2/1999           20r                      
+f Bob Wickman                 0    0   71    0  10/2/1999           20r    23r               
+  Alex Fernandez              0    0   24    0  10/2/1999           21r           51r        
+f Hipolito Pichardo           0    0    0    0                                               
+  Wilson Alvarez              0    0   28    0  10/2/1999           16r    24r    11r        
+d Kris Benson                 0    0   31    0  8/12/1999                                    
+  Billy Taylor                0    0   61    0  10/2/1999           52s                      
+f Danny Graves                0    0   75    0  8/30/1999                                    
+f Billy Wagner                0    0   66    0  8/30/1999                                    
+f Jim Mecir                   0    0   17    0   8/6/1999                                    
+  Eddie Guardado              0    0   63    0  10/3/1999    24r     4r    10r               
+  Albie Lopez                 0    0   51    0  10/3/1999    20r     7r     5r           32r 
+  Curt Leskanic               0    0   63    0  10/2/1999           38r     5r           26r 
+  Gil Meche                   0    0   16    0  8/29/1999                                    
+  Ryan Rupe                   0    0   24    0  8/24/1999                                    
+  Bryce Florie                0    0   41   18  10/2/1999            3r    39r    10r        
+f Justin Speier               0    0   19    0  9/30/1999                         12r    12r 
+  Buddy Groom                 0    0   76    0  9/30/1999                         39s        
+  Scott Schoeneweis           0    0   31    0  10/1/1999                  38s               
+  Lance Painter               0    0   56    0  10/3/1999   101s                         68s 
+f Blake Stein                 0    0   13    0  6/29/1999                                    
+d Kip Wells                   0    0    7    0  8/21/1999                                    
+f Gary Glover                 0    0    1    0   9/2/1999                                    
+f Erik Hiljus                 0    0    6    0  9/28/1999                                    
+  Dan Reichert                0    0    8    0  9/12/1999                                    
+f Jim Brower                  0    0    9    0  9/26/1999                                    
+  Total                            0  160                                                    
+
+
+
+                      Championship Team Status -- 1999 Rocky Mountain Oysters                       
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Shannon Stewart             0      0    682    0 
+  Charles Johnson             0      0    492    0 
+  Tim Salmon                  0      0    422    0 
+  Michael Barrett             0      0    469    0 
+  Ben Molina                  0      0    109    0 
+f Orlando Palmeiro            0      0    372    0 
+  Luis Castillo               0      0    563    0 
+  Mark Loretta                0      0    664    0 
+f Aramis Ramirez              0      0     64    0 
+  Lee Stevens                 0      0    576    0 
+  Tony Womack                 0      0    684    0 
+f Derrek Lee                  0      0    236    0 
+f Mark Grudzielanek           0      0    534    0 
+  Preston Wilson              0      0    543    0 
+  Scott Pose                  0      0    160    0 
+f John Valentin               0      0    503    0 
+  Jermaine Dye                0      0    673    0 
+  Luis Polonia                0      0    355    0 
+f Carlos Febles               0      0    524    0 
+  Randy Knorr                 0      0     31    0 
+  Aaron Ledesma               0      0    312    0 
+  Jose Vizcaino               0      0    298    0 
+f Abraham Nunez               0      0    301    0 
+  Total                              0   9567      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+  Chris Carpenter             0    0   24    0  10/3/1999    68s                             
+  Bartolo Colon               0    0   32    0  10/2/1999          112s                      
+  Jeff Suppan                 0    0   32    0  10/3/1999    34r            2r               
+f Jamie Walker                0    0    0    0                                               
+f Jason Isringhausen          0    0   33    0  8/19/1999                                    
+  Roger Clemens               0    0   30    0  10/1/1999                  63s               
+  Trever Miller               0    0   47    0  10/1/1999                  44r               
+  Dan Plesac                  0    0   64    0  10/1/1999                  28r               
+  Aaron Sele                  0    0   33    0  9/30/1999                        122s        
+  Freddy Garcia               0    0   33    0  9/29/1999                               106s 
+f Donovan Osborne             0    0    6    0   9/7/1999                                    
+f Jeff Montgomery             0    0   49    0                                               
+  Billy Koch                  0    0   56    0  10/3/1999    26r    18r                      
+  Chad Fox                    0    0    6    0  8/11/1999                                    
+  Scott Strickland            0    0   17    0  9/28/1999                                    
+f Wayne Gomes                 0    0   73    0                                               
+f Jose Santiago               0    0   34    0  8/28/1999                                    
+  Todd Jones                  0    0   65    0  10/3/1999    45r                  15r        
+f Jay Witasick                0    0   32    0                                               
+  Scott Williamson            0    0   62    0  10/2/1999           31r    12r               
+f Scott Eyre                  0    0   21    0  9/11/1999                                    
+f Matt Anderson               0    0   37    0  9/10/1999                                    
+f Eric Plunk                  0    0   68    0  9/11/1999                                    
+  Total                            0  223                                                    
+
+
+
+                         Championship Team Status -- 1999 Baraboo GoiterMen                         
+                               League championship -- as of 11/2/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Ray Lankford                5     24    476    0 
+  Tony Gwynn                  4     20    446    0 
+  Kenny Lofton                4     25    561    0 
+  Jeff Kent                   4     26    585    0 
+  Rich Aurilia                4     24    614    0 
+  Jorge Posada                4     16    437    0 
+  Jeff Bagwell                4     26    729    0 
+  Ed Sprague                  4     20    564    0 
+  Benny Agbayani              3      9    314    0 
+  Bernard Gilkey              2      4    241    0 
+  Chris Widger                1      5    419    0 
+  Mike Benjamin               1      4    404    0 
+  Ryan Christenson            1      3    319    0 
+  J.T. Snow                   1      5    668    0 
+  Tony Graffanino             1      1    142    0 
+f Felipe Crespo               0      0      0    0 
+f Eduardo Perez               0      0     39    0 
+f Ruben Sierra                0      0      0    0 
+f Roger Cedeno                0      0    525    0 
+f Brian Hunter                0      0    223    0 
+  Fernando Tatis              0      0    639    3 
+f Dan Wilson                  0      0    457    0 
+f Tim Bogar                   0      0    354    0 
+f Matt Walbeck                0      0    321    0 
+f Darren Bragg                0      0    325    0 
+f Keith Osik                  0      0    181    0 
+f Lou Collier                 0      0    152    0 
+f Vance Wilson                0      0      0    0 
+  Total                            212  10135      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   11/2   11/1  10/31  10/30  10/29 
+f David Lee                  11    4   36    0 10/30/1999                          9r    11r 
+  Bobby Chouinard             9    3   32    0  11/2/1999    11r                         34r 
+  Jose Rosado                 6    2   33    0  11/2/1999   103s                             
+  Eric Milton                 6    2   34    0 10/30/1999                         75s        
+  Tim Hudson                  5    1   21    0 10/28/1999                                    
+  Trevor Hoffman              5    3   64    0  11/2/1999    30r                  12r        
+  Ron Villone                 3    1   29    0 10/29/1999                                91s 
+  John Rocker                 3    2   74    0 10/30/1999                         40r        
+  John Johnstone              2    1   62    0 10/29/1999                                14r 
+  C.J. Nitkowski              1    1   68    0 10/29/1999                                44r 
+f John Wasdin                 0    0   45    0  10/2/1999                                    
+f Pat Rapp                    0    0   37    0   9/7/1999                                    
+f Mike Buddie                 0    0    2    0   9/3/1999                                    
+f Doug Johns                  0    0   32    0  10/1/1999                                    
+f Kevin Tapani                0    0   23    0  9/30/1999                                    
+f Dave Mlicki                 0    0   33    0  10/3/1999                                    
+f Justin Thompson             0    0   24    0  10/2/1999                                    
+f Ken Hill                    0    0   26    0  10/2/1999                                    
+f Joe Slusarski               0    0    3    0   9/7/1999                                    
+f Jim Parque                  0    0   31    0  10/3/1999                                    
+f Jaret Wright                0    0   26    0                                               
+f Dwight Gooden               0    0   26    0  10/2/1999                                    
+  Total                            6  326                                                    
+
+
+
+                           Championship Team Status -- 1999 Century Atoms                           
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+f Ryan Klesko                 0      0    466    0 
+f Andres Galarraga            0      0      0    0 
+  Todd Hundley                0      0    428    0 
+  Dave Magadan                0      0    300    0 
+f Bernie Williams             0      0    697    0 
+f Tony Fernandez              0      0    576    0 
+  Tony Eusebio                0      0    363    0 
+f Manny Ramirez               0      0    640    0 
+  Jeff Frye                   0      0    131    0 
+  Matt Williams               0      0    678    0 
+  Sean Casey                  0      0    669    0 
+  Ron Belliard                0      0    531    0 
+  Homer Bush                  0      0    523    0 
+  Greg Myers                  0      0    227    0 
+f Mitch Meluskey              0      0     38    0 
+  Royce Clayton               0      0    520    0 
+  Brian McRae                 0      0    472    0 
+  Randall Simon               0      0    237    0 
+  Tony Phillips               0      0    484    0 
+  Marlon Anderson             0      0    484    0 
+f Alex Cora                   0      0     31    0 
+  Mike Stanley                0      0    512    8 
+  Albert Belle                0      0    722    0 
+  Total                              0   9729      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+  Bob Howry                   0    0   69    0  10/3/1999    23r     1r    15r    23r        
+  Brian Bohanon               0    0   33    0  9/29/1999                               107s 
+f Brad Radke                  0    0   33    0  9/26/1999                                    
+  Brian Moehler               0    0   32    0  10/2/1999           12r    21r           12r 
+  Juan Guzman                 0    0   33    0  10/1/1999                  98s               
+  John Thomson                0    0   14    0  10/2/1999           16r                      
+  Gabe White                  0    0   50    0  10/3/1999     4r    14r     2r           51r 
+  Francisco Cordova           0    0   27    0  10/3/1999   103s                             
+f Omar Daal                   0    0   32    0  9/23/1999                                    
+  Darren Oliver               0    0   30    0  9/30/1999                        111s        
+f Bob Wells                   0    0   76    0  9/27/1999                                    
+  Scott Elarton               0    0   42    0  10/2/1999          109s                      
+f Roberto Hernandez           0    0   72    0  9/27/1999                                    
+f Pat Mahomes                 0    0   39    0  9/11/1999                                    
+f Jason Christiansen          0    0   40    0  9/21/1999                                    
+  John Wetteland              0    0   62    0  10/3/1999    11r    15r    11r    24r        
+  Total                            0  248                                                    
+
+
+
+                        Championship Team Status -- 1999 Evanston Endorphins                        
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Matt Lawton                 0      0    476    0 
+  Jeff Cirillo                0      0    697    0 
+  Angel Pena                  0      0    135    0 
+  Raul Mondesi                0      0    680    0 
+  Mark Johnson                0      0    248    0 
+  Mark Grace                  0      0    688    0 
+  Brian Jordan                0      0    645    0 
+  Bruce Aven                  0      0    440    0 
+  Geoff Jenkins               0      0    493    0 
+  Jason Kendall               0      0    334    0 
+  Alex Arias                  0      0    390    0 
+  Fernando Vina               0      0    177    0 
+  Walt Weiss                  0      0    327    0 
+  Mike Macfarlane             0      0    246    0 
+  Eric Owens                  0      0    485    0 
+f Rich Amaral                 0      0    156    0 
+  Wade Boggs                  0      0    334    0 
+  Damion Easley               0      0    627    0 
+f Marcus Jensen               0      0     42    0 
+f Alex Ramirez                0      0    102    0 
+f Reggie Jefferson            0      0    225    0 
+f Ray Holbert                 0      0    115    0 
+f Tom Prince                  0      0      7    0 
+f Mike Darr                   0      0     53    0 
+  Total                              0   8122      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Steve Avery                 0    0   19    0  7/24/1999                                    
+  Jeff Fassero                0    0   37    0  10/3/1999    13r           17r           12r 
+  David Wells                 0    0   34    0  10/1/1999                  77s               
+  Kent Bottenfield            0    0   31    0  10/2/1999          106s                      
+  Rick White                  0    0   63    0  10/3/1999    32r    36r    14r               
+  Dave Veres                  0    0   73    0  10/3/1999    36r    18r                      
+  Dennis Cook                 0    0   71    0  10/3/1999    38r           14r               
+  Steve Woodard               0    0   31    0  9/30/1999                        134s        
+f James Baldwin               0    0   35    0                                               
+  Terry Mulholland            0    0   42    0  10/3/1999   104s                             
+  Pete Schourek               0    0   30    0  9/29/1999                               107s 
+  Turk Wendell                0    0   80    0  9/20/1999                                    
+  Mike Mohler                 0    0   48    0  10/3/1999    36r           32r               
+  Scott Kamieniecki           0    0   43    0  9/21/1999                                    
+f J.D. Smart                  0    0   29    0                                               
+  Kent Mercker                0    0   30    0  10/3/1999    10r                  14r        
+f Jeremy Powell               0    0   17    0  6/18/1999                                    
+f Butch Henry                 0    0    7    0                                               
+  Total                            0  262                                                    
+
+
+
+                       Championship Team Status -- 1999 French Lick Linguists                       
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Dave Hansen                 0      0    136    0 
+  Jose Vidro                  0      0    531    0 
+f Andruw Jones                0      0    679    0 
+  Frank Thomas                0      0    590    0 
+  Johnny Damon                0      0    660    0 
+  Chuck Knoblauch             0      0    715    0 
+  Ken Caminiti                0      0    329    0 
+  Magglio Ordonez             0      0    677    0 
+  Jorge Fabregas              0      0    268    0 
+f Terrence Long               0      0      3    0 
+  Gary DiSarcina              0      0    298    0 
+  Mike Piazza                 0      0    593    0 
+f Chris Donnels               0      0      0    0 
+  Joe McEwing                 0      0    575    3 
+  Neifi Perez                 0      0    732    0 
+  Rico Brogna                 0      0    679    0 
+f Julio Franco                0      0      1    0 
+f Josh Paul                   0      0     18    0 
+  David Roberts               0      0    156    0 
+  Total                              0   7640      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+  Chan Ho Park                0    0   33    0  10/1/1999                  17r               
+f Ron Mahay                   0    0    6    0  5/25/1999                                    
+  Mike Williams               0    0   58    0  9/27/1999                                    
+  Tom Glavine                 0    0   35    0  9/30/1999                         30r    27r 
+f Tanyon Sturtze              0    0    1    0  4/10/1999                                    
+  Darryl Kile                 0    0   32    0  10/3/1999    86s                         98s 
+  Ryan Dempster               0    0   25    0  10/1/1999                   9r               
+f Ryan Franklin               0    0    6    0  4/21/1999                                    
+  Latroy Hawkins              0    0   33    0  10/3/1999    20r           22r    29r        
+f Ray King                    0    0   10    0  5/11/1999                                    
+  Antonio Alfonseca           0    0   73    0  9/30/1999                         49s        
+  Braden Looper               0    0   72    0  10/1/1999                  39s               
+  Steve Trachsel              0    0   34    0  10/2/1999           15r    19r     9r        
+  Alan Levine                 0    0   50    0  9/26/1999                                    
+f Damaso Marte                0    0    5    0  4/25/1999                                    
+f Andy Larkin                 0    0    0    0                                               
+  Mike Lincoln                0    0   18    0  10/2/1999           89s                      
+  Nelson Cruz                 0    0   29    0  10/3/1999    12r    26r    19r    15r        
+f Robert Ramsay               0    0    6    0  8/27/1999                                    
+  Total                            0  219                                                    
+
+
+
+                    Championship Team Status -- 1999 Garmisch-Parten Shebazzle!                     
+                               League championship -- as of 11/2/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Alex Ochoa                  7     23    329    0 
+  Phil Nevin                  6     25    441    0 
+  Ben Petrick                 6      4     72    0 
+  Jose Canseco                5     26    502    0 
+  Brook Fordyce               5     18    362    0 
+  Cal Ripken                  4     15    354    0 
+  Bob Abreu                   4     24    662    0 
+  Ray Durham                  3     21    694    0 
+  Miguel Tejada               3     20    674    0 
+  Terry Shumpert              2      6    304    0 
+  Jeromy Burnitz              2      9    580    0 
+  Harold Baines               1      7    486    0 
+  Eric Karros                 1      8    639    2 
+  Dave Nilsson                1      5    404    4 
+  Craig Paquette              1      1    166    0 
+  Jeffrey Hammonds            0      1    293    0 
+f Trenidad Hubbard            0      0    120    0 
+f Richard Hidalgo             0      0    449    0 
+  Mike Difelice               0      0    191    0 
+f D'Angelo Jimenez            0      0     23    0 
+f Tino Martinez               0      0    665    0 
+f Alex Gonzalez               0      0    591    0 
+f Jeff DaVanon                0      0     22    0 
+  Total                            213   9023      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   11/2   11/1  10/31  10/30  10/29 
+f Lou Pote                   15    3   20    0 10/29/1999                                 7r 
+f Bret Saberhagen             9    2   22    0 10/30/1999                         71s        
+  Paul Abbott                 8    2   25    0  11/2/1999    51r                             
+  Rich Garces                 7    2   30    0 10/30/1999                         25r        
+  Doug Brocail                6    4   70    0 10/30/1999                         21r    22r 
+  Javier Vazquez              4    1   26    0 10/29/1999                               114s 
+  David Cone                  3    1   31    0  11/2/1999    54s                             
+  Greg Swindell               3    2   63    0  11/2/1999    22r                          4r 
+  John Halama                 3    1   38    0 10/28/1999                                    
+  Steve Karsay                2    1   50    0 10/28/1999                                    
+f Jose Paniagua               0    0   59    0 10/16/1999                                    
+f Jeff D'Amico                0    0    1    0  7/16/1999                                    
+f Brad Clontz                 0    0   56    0  10/3/1999                                    
+f Mike James                  0    0    0    0                                               
+f Pete Harnisch               0    0   33    0  9/28/1999                                    
+f Steve Parris                0    0   22    0  9/29/1999                                    
+f Mike Sirotka                0    0   32    0  10/1/1999                                    
+f Jesse Orosco                0    0   65    0  10/3/1999                                    
+f Omar Olivares               0    0   32    0  9/30/1999                                    
+f Sterling Hitchcock          0    0   33    0  10/2/1999                                    
+f Armando Almanza             0    0   14    0  10/3/1999                                    
+f A.J. Burnett                0    0    7    0  7/11/1999                                    
+f Matt Karchner               0    0   16    0  10/3/1999                                    
+f Mike Magnante               0    0   53    0   9/1/1999                                    
+f Mark Redman                 0    0    5    0   8/2/1999                                    
+f Carlton Loewer              0    0   20    0                                               
+  Total                            6  285                                                    
+
+
+
+                          Championship Team Status -- 1999 Ferlin Huskies                           
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+f Dave Justice                0      0    530    0 
+  Troy Glaus                  0      0    631    0 
+  Ron Coomer                  0      0    501    0 
+f Ellis Burks                 0      0    469    0 
+  Edgardo Alfonzo             0      0    726    0 
+f Henry Blanco                0      0    303    0 
+  Jim Thome                   0      0    629    0 
+f Scott Hatteberg             0      0    100    0 
+  Orlando Cabrera             0      0    407    0 
+f Jose Cruz                   0      0    414    0 
+  Damian Miller               0      0    320    0 
+  Jeff Blauser                0      0    238    0 
+  Doug Mirabelli              0      0     98    0 
+  Mike Lansing                0      0    155    0 
+  Gregg Jefferies             0      0    225    0 
+f Ricky Ledee                 0      0    280    0 
+  Ben Davis                   0      0    293    0 
+  Bill Spiers                 0      0    444    0 
+  Tony Clark                  0      0    609    0 
+f Steve Cox                   0      0     19    0 
+  Juan Encarnacion            0      0    538    0 
+f Jose Macias                 0      0      4    0 
+  Jeff Barry                  0      0    192    0 
+  Total                              0   8125      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Rheal Cormier               0    0   60    0   8/6/1999                                    
+  Armando Benitez             0    0   77    0  9/27/1999                                    
+f Kirk Rueter                 0    0   33    0                                               
+  Scott Sullivan              0    0   79    0  10/2/1999           23r           25r    13r 
+  Gil Heredia                 0    0   33    0  9/29/1999                                83s 
+  Kevin Brown                 0    0   35    0  10/3/1999   120s                             
+  Brian Anderson              0    0   31    2  9/24/1999                                    
+  Sidney Ponson               0    0   32    0  10/1/1999                  97s               
+f Rod Beck                    0    0   43    0                                               
+  Masato Yoshii               0    0   31    0  10/2/1999           13r           16r        
+  Garrett Stephenson          0    0   18    0  10/2/1999           75s                      
+  Danny Patterson             0    0   53    0   9/8/1999                                    
+f Mike Cather                 0    0    4    0                                               
+f Rich Loiselle               0    0   13    0                                               
+f Mark Portugal               0    0   31    0                                               
+  Doug Jones                  0    0   70    0  10/3/1999    12r    23r           24r        
+  Joe Nathan                  0    0   19    0  9/30/1999                        114s        
+  Mike Venafro                0    0   65    0  9/29/1999                                36r 
+f Steve Sinclair              0    0   21    0                                               
+  Hector Carrasco             0    0   40    0  10/1/1999                  18r    10r        
+  Juan Pena                   0    0    2    0  10/2/1999           14r                      
+f Sean DePaula                0    0   11    0                                               
+  Total                            0  236                                                    
+
+
+
+                          Championship Team Status -- 1999 Tarboro Goobers                          
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Paul Konerko                0      0    564    0 
+  Travis Fryman               0      0    350    0 
+f Rondell White               0      0    588    0 
+  Derek Jeter                 0      0    739    0 
+  Delino DeShields            0      0    374    0 
+  Placido Polanco             0      0    240    0 
+  Juan Gonzalez               0      0    629    0 
+  Damian Jackson              0      0    447    0 
+  Derek Bell                  0      0    568    0 
+  Darren Lewis                0      0    538    0 
+f Ramon Hernandez             0      0    158    0 
+  Todd Zeile                  0      0    656    0 
+  Al Martin                   0      0    593    0 
+  Will Clark                  0      0    294    0 
+f A.J. Hinch                  0      0    228    0 
+  Charlie O'Brien             0      0     67    0 
+  Enrique Wilson              0      0    368    0 
+f Bill Haselman               0      0    153    0 
+  Karim Garcia                0      0    310    0 
+  Chad Allen                  0      0    523    0 
+  Wally Joyner                0      0    386    1 
+  Paul Sorrento               0      0    348    0 
+f Moises Alou                 0      0      0    0 
+  Andy Sheets                 0      0    269    0 
+  Lenny Webster               0      0     62    0 
+  Total                              0   9452      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f Todd Stottlemyre            0    0   17    0  7/15/1999                                    
+f Jon Lieber                  0    0   31    0  9/24/1999                                    
+  Ricky Bones                 0    0   30    0  10/3/1999    83s                             
+f Matt Morris                 0    0    0    0                                               
+  John Franco                 0    0   46    0  10/2/1999           27r                      
+  Jason Grimsley              0    0   55    0  10/1/1999                  38s               
+  Steve Reed                  0    0   63    0  9/30/1999                         33s        
+  Brett Tomko                 0    0   33    8  9/25/1999                                    
+  Vic Darensbourg             0    0   56    0  10/2/1999           30r    17r            6r 
+f Jay Powell                  0    0   67    0  9/11/1999                                    
+  Chris Holt                  0    0   32    0  10/3/1999     1r     5r    15r           35r 
+  Chris Peters                0    0   19    0  9/29/1999                               103s 
+f Brian Rose                  0    0   22    0  9/30/1999                         25r        
+  Mike Oquist                 0    0   28    0  10/3/1999    15r    45r    21r    19r        
+  Dan Miceli                  0    0   66    0  10/2/1999           38r    21r               
+  Chris Brock                 0    0   19   25  10/2/1999           58s           46r        
+  Bill Simas                  0    0   70    0  10/3/1999    14r                             
+  Scott Sanders               0    0   67    0  10/1/1999                  24r    32r    11r 
+  Total                            0  180                                                    
+
+
+
+                        Championship Team Status -- 1999 Felldownhead Firsts                        
+                               League championship -- as of 10/3/1999                               
+
+S Name                    Usage     PA     PA Days 
+  Todd Helton                 0      0    657    0 
+f Craig Counsell              0      0    195    0 
+  Bret Boone                  0      0    671    0 
+  Cliff Floyd                 0      0    285    0 
+  Robert Fick                 0      0     49    0 
+  Russ Davis                  0      0    478    0 
+f Danny Bautista              0      0    211    0 
+  Alex Rodriguez              0      0    572    0 
+  Chad Kreuter                0      0    368    0 
+  Vladimir Guerrero           0      0    674    0 
+  Mike Cameron                0      0    636    1 
+f Shane Halter                0      0      0    0 
+f Greg Zaun                   0      0    106    0 
+  Corey Koskie                0      0    392    0 
+  Paul LoDuca                 0      0    110    0 
+  Orlando Merced              0      0    221    0 
+f Mark Little                 0      0      0    0 
+f Tomas Perez                 0      0      0    0 
+  Marty Cordova               0      0    488    0 
+f Olmedo Saenz                0      0    296    0 
+f Wiki Gonzalez               0      0     85    0 
+  Jeff Reboulet               0      0    192    0 
+  Mike Matheny                0      0    179    0 
+  Total                              0   6865      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/3   10/2   10/1   9/30   9/29 
+f John Burkett                0    0   30    0   8/6/1999                                    
+f Jamie Moyer                 0    0   32    0   9/3/1999                                    
+f Mike Stanton                0    0   73    0  9/23/1999                                    
+  Felix Rodriguez             0    0   47    0  10/3/1999    15r    32r           27r        
+  Miguel Batista              0    0   39    0  9/15/1999                                    
+  Norm Charlton               0    0   42    0  10/3/1999     9r                  26r        
+  Arthur Rhodes               0    0   43    0  9/29/1999                                12r 
+  Steve Kline                 0    0   82    0  10/2/1999           38r                      
+f Ricardo Rincon              0    0   59    0  9/28/1999                                    
+  Kevin Appier                0    0   34    0  10/2/1999           92s                      
+f Josias Manzanillo           0    0   12    0  9/12/1999                                    
+  Sean Lowe                   0    0   64    0  9/30/1999                         15r    14r 
+  Rolando Arrojo              0    0   24    0  9/29/1999                               110s 
+f Cliff Politte               0    0   13    0  9/22/1999                                    
+  Kyle Farnsworth             0    0   27    0  9/30/1999                         95s        
+  Joe Mays                    0    0   49    0  10/3/1999   111s                             
+  Bobby Witt                  0    0   32    0  10/1/1999                 117s               
+  Total                            0  206                                                    
+

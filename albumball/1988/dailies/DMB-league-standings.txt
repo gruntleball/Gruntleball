@@ -1,0 +1,94 @@
+                             DMB league standings -- Surfer Rosa League                             
+                                           Regular season                                           
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA  Mgn  Mgc 
+Gigantic
+1988 Tewksbury Bobs                107   55  .660       -    6-4   L1  lwllwwwwwl    721  546  175    0 
+1988 Cincinnati Reds                95   67  .586      12    5-5   W2  wwlwllwllw    737  609  128      
+1988 Marshall McDougalls            94   68  .580      13    6-4   W1  wlwwwwllwl    722  609  113      
+1988 ChinaTrust Whales              91   71  .562      16    6-4   W2  wwlwlllwww    684  580  104      
+1988 Reykjavik 101ers               64   98  .395      43    5-5   L2  llwlwwwwll    571  724 -153      
+1988 Nederland FrozenDeadGuys       57  105  .352      50    2-8   L2  llwllllllw    584  808 -224      
+                                                                                                        
+Cactus
+1988 Baraboo GoiterMen             100   62  .617       -    4-6   L2  llwllwllww    762  525  237    0 
+1988 Sunnydale Slayers              97   65  .599       3    8-2   W4  wwwwllwwww    774  676   98      
+1988 Evanston Endorphins            83   79  .512      17    4-6   W1  wllwllwllw    659  569   90      
+1988 Grain Belt Premiums            68   94  .420      32    2-8   L6  llllllwlwl    625  729 -104      
+1988 Enough Shebazzle?              67   95  .414      33    7-3   W1  wlwwlwlwww    593  764 -171      
+1988 Needmore Shebazzum             67   95  .414      33    3-7   L4  llllwwlwll    609  749 -140      
+                                                                                                        
+Vamos
+1988 Century Atoms                 118   44  .728       -    8-2   W5  wwwwwlwlww    837  487  350    0 
+1988 Ferlin Huskies                 90   72  .556      28    6-4   L1  lwwlwlwwlw    612  571   41      
+1988 Barcelona Brewers              79   83  .488      39    6-4   W3  wwwlwwllwl    618  614    4      
+1988 Cape Canaveral Challengers     68   94  .420      50    3-7   L3  lllwlwlwll    587  720 -133      
+1988 Ferdinand Magellans            63   99  .389      55    5-5   W2  wwllwwlwll    606  720 -114      
+1988 Butt Mountain Beavis           50  112  .309      68    4-6   L1  lwlwwlwlll    543  844 -301      
+
+
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent        Mgc 
+1988 Century Atoms                 118   44  .728      na    8-2   W5  wwwwwlwlww        
+1988 Tewksbury Bobs                107   55  .660      na    6-4   L1  lwllwwwwwl        
+1988 Baraboo GoiterMen             100   62  .617      na    4-6   L2  llwllwllww        
+1988 Sunnydale Slayers              97   65  .599       -    8-2   W4  wwwwllwwww      0 
+1988 Cincinnati Reds                95   67  .586       2    5-5   W2  wwlwllwllw        
+1988 Marshall McDougalls            94   68  .580       3    6-4   W1  wlwwwwllwl        
+1988 ChinaTrust Whales              91   71  .562       6    6-4   W2  wwlwlllwww        
+1988 Ferlin Huskies                 90   72  .556       7    6-4   L1  lwwlwlwwlw        
+1988 Evanston Endorphins            83   79  .512      14    4-6   W1  wllwllwllw        
+1988 Barcelona Brewers              79   83  .488      18    6-4   W3  wwwlwwllwl        
+1988 Grain Belt Premiums            68   94  .420      29    2-8   L6  llllllwlwl        
+1988 Cape Canaveral Challengers     68   94  .420      29    3-7   L3  lllwlwlwll        
+1988 Enough Shebazzle?              67   95  .414      30    7-3   W1  wlwwlwlwww        
+1988 Needmore Shebazzum             67   95  .414      30    3-7   L4  llllwwlwll        
+1988 Reykjavik 101ers               64   98  .395      33    5-5   L2  llwlwwwwll        
+1988 Ferdinand Magellans            63   99  .389      34    5-5   W2  wwllwwlwll        
+1988 Nederland FrozenDeadGuys       57  105  .352      40    2-8   L2  llwllllllw        
+1988 Butt Mountain Beavis           50  112  .309      47    4-6   L1  lwlwwlwlll        
+
+
+
+Year Team                           Home    Road   Grass    Turf   vsLHP   vsRHP    Div   InterLg 
+1988 Century Atoms                 62-19   56-25   48-19   70-25   33-15   85-29    46-8          
+1988 Tewksbury Bobs                55-26   52-29   96-47    11-8   39-22   68-33   38-16          
+1988 Baraboo GoiterMen             50-31   50-31   85-56    15-6   36-24   64-38   32-22          
+1988 Sunnydale Slayers             47-34   50-31   88-55    9-10   32-27   65-38   34-20          
+1988 Cincinnati Reds               52-29   43-38   34-31   61-36   32-20   63-47   29-25          
+1988 Marshall McDougalls           46-35   48-33   84-59    10-9   35-25   59-43   29-25          
+1988 ChinaTrust Whales             49-32   42-39   81-62    10-9   31-21   60-50   33-21          
+1988 Ferlin Huskies                43-38   47-34   81-62    9-10   31-23   59-49   25-29          
+1988 Evanston Endorphins           41-40   42-39   75-69    8-10   18-28   65-51   28-26          
+1988 Barcelona Brewers             40-41   39-42   70-73    9-10   22-30   57-53   25-29          
+1988 Grain Belt Premiums           35-46   33-48   29-40   39-54   25-33   43-61   26-28          
+1988 Cape Canaveral Challengers    39-42   29-52   63-79    5-15   24-32   44-62   25-29          
+1988 Enough Shebazzle?             37-44   30-51   61-81    6-14   24-34   43-61   21-33          
+1988 Needmore Shebazzum            39-42   28-53   62-81    5-14   18-28   49-67   21-33          
+1988 Reykjavik 101ers              33-48   31-50   25-42   39-56   25-35   39-63   18-36          
+1988 Ferdinand Magellans           31-50   32-49   57-87    6-12   20-34   43-65   25-29          
+1988 Nederland FrozenDeadGuys      28-53   29-52   49-93    8-12   19-38   38-67   15-39          
+1988 Butt Mountain Beavis          27-54   23-58   46-98    4-14   20-34   30-78   16-38          
+                             DMB league standings -- Surfer Rosa League                             
+                                           Regular season                                           
+
+Year Team                          Lead7   Tied7   Trail7  1-run   Extra  
+1988 Century Atoms                 104-5    7-5     7-34   25-16    8-5   
+1988 Tewksbury Bobs                 75-5    21-6   11-44   37-18    12-5  
+1988 Baraboo GoiterMen             79-12    13-9    8-41   16-22    9-10  
+1988 Sunnydale Slayers              76-2    14-5    7-58   28-16    15-8  
+1988 Cincinnati Reds                70-4    15-8   10-55   32-24    14-6  
+1988 Marshall McDougalls           74-10   10-10   10-48   25-22    8-8   
+1988 ChinaTrust Whales              78-5   10-12    3-54   27-29    12-8  
+1988 Ferlin Huskies                 70-5   10-14   10-53   26-19   10-11  
+1988 Evanston Endorphins           64-13   12-12    7-54   20-32   10-14  
+1988 Barcelona Brewers              58-7   10-13   11-63   25-31    5-9   
+1988 Grain Belt Premiums           53-12    6-7     9-75   27-32   10-12  
+1988 Cape Canaveral Challengers     51-6   10-16    7-72   24-23    8-14  
+1988 Enough Shebazzle?              49-9    7-11   11-75   24-23    11-8  
+1988 Needmore Shebazzum            51-10    8-10    8-75   24-25    8-11  
+1988 Reykjavik 101ers               49-7    9-12    6-79   19-32   10-10  
+1988 Ferdinand Magellans           44-13    8-9    11-77   24-28    8-11  
+1988 Nederland FrozenDeadGuys       48-6    4-12    5-87   22-26    5-12  
+1988 Butt Mountain Beavis          38-14    8-11    4-87   13-20    9-10  
+

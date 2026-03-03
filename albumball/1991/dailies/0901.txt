@@ -1,0 +1,1732 @@
+TLM Daily - Sunday, September 1, 1991
+
+-----------------------------------------------------------------------
+TRANSACTIONS
+-----------------------------------------------------------------------
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/1/1991   BBG     Bones               Promoted to active roster                          Before   
+9/1/1991   BBG     Hansen              Promoted to active roster                          Before   
+9/1/1991   BBG     Martinez            Demoted to reserve roster                          Before   
+9/1/1991   BBG     Shipley             Promoted to active roster                          Before   
+9/1/1991   BMB     Anderson            Promoted to active roster                          Before   
+9/1/1991   BMB     Bilardello          Promoted to active roster                          Before   
+9/1/1991   BMB     Drahman             Promoted to active roster                          Before   
+9/1/1991   BMB     Freeman             Promoted to active roster                          Before   
+9/1/1991   BMB     Gonzales            Promoted to active roster                          Before   
+9/1/1991   BMB     Heep                Promoted to active roster                          Before   
+9/1/1991   BMB     MacDonald           Promoted to active roster                          Before   
+9/1/1991   BMB     Melendez            Promoted to active roster                          Before   
+9/1/1991   BMB     Osuna               Promoted to active roster                          Before   
+9/1/1991   BMB     Powell              Promoted to active roster                          Before   
+9/1/1991   BMB     Reyes               Promoted to active roster                          Before   
+9/1/1991   BMB     Stillwell           Promoted to active roster                          Before   
+9/1/1991   BMB     Valdez,S            Promoted to active roster                          Before   
+9/1/1991   CEN     Brosius             Promoted to active roster                          Before   
+9/1/1991   CEN     Davis,M             Activated from disabled list                       Before   
+9/1/1991   CEN     Fetters             Promoted to active roster                          Before   
+9/1/1991   CEN     Gedman              Promoted to active roster                          Before   
+9/1/1991   CEN     Hentgen             Promoted to active roster                          Before   
+9/1/1991   CEN     Hernandez           Promoted to active roster                          Before   
+9/1/1991   CEN     Honeycutt           Promoted to active roster                          Before   
+9/1/1991   CEN     Hundley             Promoted to active roster                          Before   
+9/1/1991   CEN     Jefferson           Promoted to active roster                          Before   
+9/1/1991   CEN     King                Promoted to active roster                          Before   
+9/1/1991   CEN     Ritz                Promoted to active roster                          Before   
+9/1/1991   CEN     Rojas               Promoted to active roster                          Before   
+9/1/1991   CIN     Belliard            Promoted to active roster                          Before   
+9/1/1991   CIN     Bream               Promoted to active roster                          Before   
+9/1/1991   CIN     Felder              Promoted to active roster                          Before   
+9/1/1991   CIN     Fernandez           Promoted to active roster                          Before   
+9/1/1991   CIN     Goodwin             Promoted to active roster                          Before   
+9/1/1991   CIN     Gross               Promoted to active roster                          Before   
+9/1/1991   CIN     Hernandez           Promoted to active roster                          Before   
+9/1/1991   CIN     Higuera             Promoted to active roster                          Before   
+9/1/1991   CIN     Liriano             Promoted to active roster                          Before   
+9/1/1991   CIN     Melvin              Promoted to active roster                          Before   
+9/1/1991   CIN     Perez               Promoted to active roster                          Before   
+9/1/1991   CIN     Stanton             Promoted to active roster                          Before   
+9/1/1991   CIN     Teufel              Promoted to active roster                          Before   
+9/1/1991   CIN     Vander Wal          Promoted to active roster                          Before   
+9/1/1991   CIN     Walk                Promoted to active roster                          Before   
+9/1/1991   CTW     Barberie            Promoted to active roster                          Before   
+9/1/1991   CTW     Bautista            Promoted to active roster                          Before   
+9/1/1991   CTW     Cadaret             Demoted to reserve roster                          Before   
+9/1/1991   CTW     Cadaret             Promoted to active roster                          Before   
+9/1/1991   CTW     Gagne               Promoted to active roster                          Before   
+9/1/1991   CTW     Howard              Promoted to active roster                          Before   
+9/1/1991   CTW     Kreuter             Promoted to active roster                          Before   
+9/1/1991   CTW     Lancaster           Promoted to active roster                          Before   
+9/1/1991   CTW     Mathews             Promoted to active roster                          Before   
+9/1/1991   CTW     McClendon           Promoted to active roster                          Before   
+9/1/1991   CTW     Plantier            Promoted to active roster                          Before   
+9/1/1991   CTW     Ritchie             Promoted to active roster                          Before   
+9/1/1991   CTW     Scott               Promoted to active roster                          Before   
+9/1/1991   CTW     Servais             Promoted to active roster                          Before   
+9/1/1991   CTW     Thompson            Promoted to active roster                          Before   
+9/1/1991   CTW     Wedge               Promoted to active roster                          Before   
+9/1/1991   CTW     Williams            Promoted to active roster                          Before   
+9/1/1991   FER     Backman             Promoted to active roster                          Before   
+9/1/1991   FER     Cabrera             Promoted to active roster                          Before   
+9/1/1991   FER     Gwynn               Activated from disabled list                       Before   
+9/1/1991   FER     Lefferts            Promoted to active roster                          Before   
+9/1/1991   FER     Martinez            Promoted to active roster                          Before   
+9/1/1991   FER     Monteleone          Promoted to active roster                          Before   
+9/1/1991   FER     Naehring            Promoted to active roster                          Before   
+9/1/1991   FER     Palacios            Promoted to active roster                          Before   
+9/1/1991   FER     Pecota              Promoted to active roster                          Before   
+9/1/1991   FER     Perez               Promoted to active roster                          Before   
+9/1/1991   FER     Seitzer             Promoted to active roster                          Before   
+9/1/1991   FER     Slocumb             Promoted to active roster                          Before   
+9/1/1991   FER     Weiss               Promoted to active roster                          Before   
+9/1/1991   FHK     Fletcher            Promoted to active roster                          Before   
+9/1/1991   FHK     Mayne               Demoted to reserve roster                          Before   
+9/1/1991   FHK     O'Brien             Promoted to active roster                          Before   
+9/1/1991   HOU     Brooks              Promoted to active roster                          Before   
+9/1/1991   HOU     Candelaria          Promoted to active roster                          Before   
+9/1/1991   HOU     Clayton             Promoted to active roster                          Before   
+9/1/1991   HOU     Crim                Promoted to active roster                          Before   
+9/1/1991   HOU     Grimsley            Promoted to active roster                          Before   
+9/1/1991   HOU     Heredia             Promoted to active roster                          Before   
+9/1/1991   HOU     LaCoss              Promoted to active roster                          Before   
+9/1/1991   HOU     Layana              Promoted to active roster                          Before   
+9/1/1991   HOU     Morman              Promoted to active roster                          Before   
+9/1/1991   HOU     Orton               Promoted to active roster                          Before   
+9/1/1991   HOU     Parent              Promoted to active roster                          Before   
+9/1/1991   HOU     Viola               Promoted to active roster                          Before   
+9/1/1991   HOU     Whitt               Promoted to active roster                          Before   
+9/1/1991   TTP     Brett               Promoted to active roster                          Before   
+9/1/1991   TTP     Carr                Promoted to active roster                          Before   
+9/1/1991   TTP     Dopson              Promoted to active roster                          Before   
+9/1/1991   TTP     Felix               Promoted to active roster                          Before   
+9/1/1991   TTP     Girardi             Promoted to active roster                          Before   
+9/1/1991   TTP     Hamilton            Promoted to active roster                          Before   
+9/1/1991   TTP     Landrum             Promoted to active roster                          Before   
+9/1/1991   TTP     Marzano             Promoted to active roster                          Before   
+9/1/1991   TTP     Murphy              Promoted to active roster                          Before   
+9/1/1991   TTP     Petkovsek           Promoted to active roster                          Before   
+9/1/1991   TTP     Rodriguez           Promoted to active roster                          Before   
+9/1/1991   TTP     Shumpert            Demoted to reserve roster                          Before   
+9/1/1991   TTP     Shumpert            Promoted to active roster                          Before   
+9/1/1991   TTP     Stevens             Promoted to active roster                          Before   
+9/1/1991   TTP     Tabler              Promoted to active roster                          Before   
+9/1/1991   TTP     Thurman             Promoted to active roster                          Before   
+9/1/1991   TTP     Young               Promoted to active roster                          Before   
+
+-----------------------------------------------------------------------
+RESULTS
+-----------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Streets           0  0  1  0  0  0  0  1  1     3  6  0     7  0
+1991 Beavis            0  2  2  0  0  0  0  1  x     5  7  2     3  0
+Clemens (W,11-12), Gullickson (L,6-5), Gray (S,22)
+HR - Pasqua (18), Williams (22)
+Ryne Sandberg triples home the winning run.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Endorphins        0  0  0  0  0  0  1  0  0     1  6  0     7  2
+1991 Bobs              0  1  1  0  0  0  0  1  x     3 11  0     9  0
+Avery (W,7-12), Guthrie (L,4-6), Harvey (S,22)
+HR - None
+Chuck Knoblauch goes 3 for 3 with 2 RBIs.  
+
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1991 GoiterMen         0  0  0  1  0  0  0  0  0  2     3 11  0     9  1
+1991 Tools Police      0  0  0  1  0  0  0  0  0  0     1  3  0     3  0
+Lamp (W,2-3), Innis (L,6-3), Scudder (S,4)
+HR - Fielder (22)
+Paul Abbott goes eight innings, allows just three hits and one walk and
+strikes out 11!
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 FrozenDeadGuys    1  1  1  0  0  0  1  0  0     4  9  1     6  0
+1991 Magellans         0  2  2  0  1  0  0  0  x     5  9  0    10  0
+Greene (W,19-7), Anderson (L,1-5), Ward,D (S,31)
+HR - Bergman (1), Allred (1), Eisenreich (7), Sax (2)
+Tommy Greene only goes 5 innings, but wins yet again.
+
+
+-----------------------------------------------------------------------
+STANDINGS
+-----------------------------------------------------------------------
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA  Mgn  Mgc 
+BLACK
+1991 Barcelona Brewers              78   60  .565       -    10-0  W10 wwwwwwwwww    641  558   83   25 
+1991 Toronto Tools Police           75   60  .556   1 1/2    5-5   L3  lllwlwwwlw    606  533   73   28 
+1991 Tewksbury Bobs                 57   82  .410  21 1/2    4-6   W1  wlwllllwlw    471  585 -114   46 
+1991 Baraboo GoiterMen              52   83  .385  24 1/2    4-6   W1  wllwwlllwl    455  616 -161   51 
+1991 Century Atoms                  49   89  .355      29    4-6   W1  wllwwlwlll    515  677 -162      
+1991 Evanston Endorphins            42   97  .302  36 1/2    4-6   L3  lllwwwwlll    440  645 -205      
+                                                                                                        
+DEAL
+1991 Ferdinand Magellans            87   47  .649       -    6-4   W2  wwlwlwwwll    688  531  157   28 
+1991 Chinatrust Whales              88   48  .647       -    5-5   W2  wwlllwwllw    694  464  230   28 
+1991 Effin Shebazzle!               87   50  .635   1 1/2    5-5   W2  wwlwwllwll    713  543  170   29 
+1991 Butt Mountain Beavis           78   58  .574      10    5-5   W1  wlwwwlllwl    596  496  100   38 
+1991 Needmore Perfectos             69   66  .511  18 1/2    4-6   L4  llllwwwwll    587  576   11   47 
+1991 Reykjavik 101ers               44   92  .324      44    5-5   W2  wwlwlwllwl    437  697 -260      
+                                                                                                        
+SANTIAGO
+1991 Dun Laoghaire Messiahs         89   45  .664       -    7-3   L1  lwwwlwwlww    737  477  260   17 
+1991 Cincinnati Reds                79   57  .581      11    5-5   W2  wwlwlllwwl    624  503  121   39 
+1991 Houston Streets                74   62  .544      16    4-6   L1  lwllllwwlw    619  602   17   44 
+1991 Ferlin Huskies                 71   64  .526  18 1/2    6-4   W1  wlwllwwwlw    620  645  -25   47 
+1991 Grain Belt Premiums            56   79  .415  33 1/2    3-7   L2  llwllllwlw    561  646  -85      
+1991 Nederland FrozenDeadGuys       50   86  .368      40    3-7   L2  llwlllwllw    576  786 -210      
+
+-----------------------------------------------------------------------
+CURRENT INJURIES
+-----------------------------------------------------------------------
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+8/18/1991  EVN     Dascenzo         General             9/2/1991     15    1 <--
+8/19/1991  BAR     Beatty           General             9/3/1991     15    2 
+8/31/1991  EFF     Mack             General             9/4/1991      4    3 
+8/26/1991  HOU     McGriff          General             9/4/1991      9    3 
+9/1/1991   NFG     Browning         General             9/4/1991      3    3 ***
+8/4/1991   FHK     Portugal         General             9/4/1991     31    3 
+8/30/1991  EVN     Fraser           General             9/4/1991      5    3 
+8/30/1991  RYK     Jordan           General             9/6/1991      7    5 
+8/18/1991  BAR     Martinez,De      Brawl               9/6/1991     19    5 
+9/1/1991   HOU     Puckett          General             9/7/1991      6    6 ***
+8/31/1991  DLM     Pendleton        General             9/7/1991      7    6 
+8/26/1991  CEN     Tingley          General             9/10/1991    15    9 
+8/29/1991  EVN     Bass             General             9/11/1991    13   10 
+8/24/1991  BBG     Manto            General             9/12/1991    19   11 
+8/25/1991  TTP     Macfarlane       Collision in field  9/12/1991    18   11 
+8/12/1991  CIN     Gooden           General             9/12/1991    31   11 
+8/28/1991  NFG     Morton           General             9/13/1991    16   12 
+8/5/1991   EVN     Trammell         Brawl               9/14/1991    40   13 
+8/14/1991  EFF     LaValliere       Hit by pitch        9/14/1991    31   13 
+8/29/1991  BBG     Cerutti          General             9/14/1991    16   13 
+8/15/1991  NEP     Sheffield        Hit by pitch        9/24/1991    40   23 
+
+-----------------------------------------------------------------------
+BOXSCORES AND SCORESHEETS 
+-----------------------------------------------------------------------
+
+9/1/1991, HOU91-BMB91, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Streets           0  0  1  0  0  0  0  1  1     3  6  0     7  0
+1991 Beavis            0  2  2  0  0  0  0  1  x     5  7  2     3  0
+ 
+Streets              AB  R  H BI   AVG    Beavis               AB  R  H BI   AVG
+Butler            cf  5  1  2  0  .324    McGwire           1b  4  1  1  0  .208       
+Whitt             c   3  0  0  1  .000    Pasqua            rf  4  1  1  2  .230       
+Alomar            2b  4  0  0  0  .299     Dawson           rf  0  0  0  0  .247       
+Puckett           rf  4  0  1  1  .308    Williams          3b  4  1  2  1  .260       
+ Gruber           pr  0  0  0  0  .251    Gonzalez          cf  3  0  0  0  .258       
+ Perez            p   0  0  0  0  .000    Bilardello        c   4  1  1  0  .250       
+Daniels           1b  3  0  0  0  .226     Reyes            c   0  0  0  0  .000       
+ Yelding          ph  1  0  0  0  .308    Martinez,Da       lf  3  0  0  0  .337       
+McReynolds        lf  3  1  0  0  .248     Barnes           lf  0  0  0  0  .231       
+Riles             3b  4  0  0  0  .215    Sandberg          2b  3  1  1  1  .279       
+Benavides         ss  4  1  3  0  .352    Reed              ss  3  0  1  1  .275       
+Gullickson        p   1  0  0  0  .250    Clemens           p   3  0  0  0  .162       
+ Brooks           ph  1  0  0  0  .179     Hammond          p   0  0  0  0  .333       
+ Grimsley         p   0  0  0  0  .200     Gray             p   0  0  0  0  .333       
+ Anthony          ph  2  0  0  1  .159                         31  5  7  5             
+                     35  3  6  3                                                    
+ 
+Streets                          INN  H  R ER BB  K PCH STR   ERA
+Gullickson       L 6-5           4.0  5  4  4  1  3  54  39  4.21
+Grimsley                         3.0  1  0  0  0  3  45  28  4.68
+Perez                            1.0  1  1  1  0  1  14  10  3.59
+                                 8.0  7  5  5  1  7 113  77 
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Clemens          W 11-12         7.1  4  2  2  1  7 107  68  3.40
+Hammond          H 4             0.1  1  0  0  0  0  11   7  3.68
+Gray             S 22            1.1  1  1  0  1  0  23  12  2.77
+                                 9.0  6  3  2  2  7 141  87 
+ 
+HOU: Brooks batted for Gullickson in the 5th
+     Anthony batted for Grimsley in the 8th
+     Yelding batted for Daniels in the 8th
+     Gruber ran for Puckett in the 8th
+     Anthony moved to rf in the 8th
+     Yelding moved to 1b in the 8th
+BMB: Barnes inserted at lf in the 9th
+     Dawson inserted at rf in the 9th
+     Reyes inserted at c in the 9th
+ 
+E-Bilardello, Reed. 2B-Benavides, Bilardello. 3B-Sandberg. HR-Pasqua(18), 
+Williams(22). SB-Butler(27). K-Whitt, Alomar, Puckett, Daniels 2, McReynolds, 
+Benavides, Pasqua, Bilardello 3, Clemens 3. BB-Whitt, McReynolds, Gonzalez. 
+PB-Reyes. WP-Gray. 
+GWRBI: Sandberg
+Kirby Puckett was injured for this game and 5 more days
+Temperature: 66, Sky: clear, Wind: none.
+
+....................................................................................................
+9/1/1991, HOU91-BMB91, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Streets           0  0  1  0  0  0  0  1  1     3  6  0     7  0
+1991 Beavis            0  2  2  0  0  0  0  1  x     5  7  2     3  0
+ 
+ 
+Streets              -----A------ -----B------ -----C------ -----D------ -----E------
+Butler            cf 1>63           S.2-3        8            S            43        
+Whitt             c    e2.B-2       63.3-H;1-2 6>k            SB2                    
+                                                              W                      
+Alomar            2b   53           k            6            Hammond                
+                                                              9.2-3                  
+Puckett           rf   k          4>3/fl         43           S.3-H;1-2              
+ Gruber           pr                                                                 
+ Perez            p                                                                  
+Daniels           1b 2>k            k          7>53                                  
+ Yelding          ph                                          Gray                   
+                                                              wp.2-3;1-2             
+                                                              8                      
+McReynolds        lf   8            k            8          9>W                      
+Riles             3b   63         5>43           e6.B-1       8                      
+Benavides         ss 3>D            S            k            S.1-2                  
+Gullickson        p    1/b                                                           
+ Brooks           ph                9                                                
+ Grimsley         p                                                                  
+ Anthony          ph                           8>9            pb.2-3;1-2             
+                                                              43.3-H;2-3             
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+McGwire           1b 1>43         3>S          5>Grimsley     4/L                    
+                                                 8                                   
+Pasqua            rf   5/fl         HR.1-H       k          8>Perez                  
+                                                              7                      
+ Dawson           rf                                                                 
+Williams          3b   7            63           S            HR                     
+Gonzalez          cf 2>5            W            5            63                     
+Bilardello        c    D            k          6>k            k                      
+ Reyes            c                                                                  
+Martinez,Da       lf   63           7            43                                  
+ Barnes           lf                                                                 
+Sandberg          2b   T.2-H      4>6/L          7                                   
+Reed              ss   S.3-H        63         7>43                                  
+Clemens           p    k            k            k                                   
+ Hammond          p                                                                  
+ Gray             p                                                                  
+ 
+ 
+Streets          IN OUT ER                  Beavis           IN OUT ER                  
+Gullickson       A1  B9  4 L 6-5            Clemens          A1  D2  2 W 11-12          
+Grimsley         C1  D1  0                  Hammond          D3  D4  0 H 4              
+Perez            D2  D5  1                  Gray             D5  E1  0 S 22             
+
+-----------------------------------------------------------------------
+
+9/1/1991, EVN91-TEW91, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Endorphins        0  0  0  0  0  0  1  0  0     1  6  0     7  2
+1991 Bobs              0  1  1  0  0  0  0  1  x     3 11  0     9  0
+ 
+Endorphins           AB  R  H BI   AVG    Bobs                 AB  R  H BI   AVG
+Slaught           c   3  0  1  0  .324    Raines            lf  4  0  0  0  .239       
+Schofield         ss  4  0  1  0  .263     Gonzalez         lf  0  0  0  0  .252       
+ Dykstra          pr  0  0  0  0  .293    Segui             1b  4  0  3  0  .355       
+ Espinoza         ss  0  0  0  0  .303    Templeton         ss  4  0  0  0  .268       
+Pettis            cf  4  0  1  0  .307    Davis             cf  4  1  1  0  .201       
+Grace             1b  4  0  0  0  .247     Johnson          cf  0  0  0  0  .230       
+Greenwell         lf  4  0  1  0  .330    Murphy            rf  3  2  2  1  .232       
+Lemke             3b  3  0  0  0  .207     Hamilton         rf  0  0  0  0  .276       
+Brunansky         rf  3  1  1  0  .179    King              3b  3  0  1  0  .303       
+Fletcher          2b  3  0  1  0  .184    Valle             c   3  0  1  0  .216       
+ Foley            ph  1  0  0  0  .150    Knoblauch         2b  3  0  3  2  .252       
+Guthrie           p   2  0  0  0  .080    Avery             p   2  0  0  0  .203       
+ Litton           ph  0  0  0  1  .253     Gaetti           ph  1  0  0  0  .260       
+ Heaton           p   0  0  0  0  .400     Harvey           p   0  0  0  0  .000       
+                     31  1  6  1                               31  3 11  3             
+ 
+Endorphins                       INN  H  R ER BB  K PCH STR   ERA
+Guthrie          L 4-6           6.0  9  2  2  1  4  81  57  3.78
+Heaton                           2.0  2  1  1  2  0  30  17  7.20
+                                 8.0 11  3  3  3  4 111  74 
+ 
+Bobs                             INN  H  R ER BB  K PCH STR   ERA
+Avery            W 7-12          8.0  6  1  1  2  1 119  71  3.09
+Harvey           S 22            1.0  0  0  0  0  2  13   9  2.93
+                                 9.0  6  1  1  2  3 132  80 
+ 
+EVN: Litton batted for Guthrie in the 7th
+     Dykstra ran for Schofield in the 8th
+     Espinoza inserted at ss in the 8th
+     Foley batted for Fletcher in the 9th
+TEW: Gonzalez inserted at lf in the 8th
+     Johnson inserted at cf in the 8th
+     Gaetti batted for Avery in the 8th
+     Hamilton inserted at rf in the 9th
+ 
+2B-Davis, Knoblauch. K-Lemke 2, Brunansky, Raines, Valle, Avery 2. 
+BB-Slaught, Brunansky, Murphy, King, Valle. SH-Lemke, Knoblauch, Avery. 
+SF-Litton. WP-Guthrie. 
+GWRBI: Knoblauch
+Temperature: 68, Sky: clear, Wind: right to left at 6 MPH.
+
+....................................................................................................
+9/1/1991, EVN91-TEW91, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Endorphins        0  0  0  0  0  0  1  0  0     1  6  0     7  2
+1991 Bobs              0  1  1  0  0  0  0  1  x     3 11  0     9  0
+ 
+ 
+Endorphins           -----A------ -----B------ -----C------ -----D------ -----E------
+Slaught           c  1>S          3>8            W            7                      
+Schofield         ss   6/L          3            31         8>S                      
+ Dykstra          pr                                                                 
+ Espinoza         ss                                                                 
+Pettis            cf   5/fl         S          6>53           7                      
+Grace             1b   46/f         43           9            9                      
+Greenwell         lf 2>S          4>63           4/L          43                     
+Lemke             3b   13/SH.1-2    k          7>7          9>Harvey                 
+                                                              k                      
+Brunansky         rf   W            8            S            k                      
+Fletcher          2b   63.2-3;1-2 5>9            S.1-3                               
+ Foley            ph                                          13                     
+Guthrie           p    63           9                                                
+ Litton           ph                             9/SF.3-H                            
+ Heaton           p                                                                  
+ 
+ 
+Bobs                 -----A------ -----B------ -----C------ -----D------ -----E------
+Raines            lf 1>k            43           63         7>Heaton                 
+                                                              43/b                   
+ Gonzalez         lf                                                                 
+Segui             1b   S          3>9          5>S            S                      
+Templeton         ss   36/f.B-1     43           643/gdp      6                      
+Davis             cf   8            D            13           6                      
+ Johnson          cf                                                                 
+Murphy            rf 2>S            S.2-H;B-2  6>8          8>W                      
+ Hamilton         rf                                                                 
+King              3b   S.1-3        4            W            9                      
+Valle             c    7          4>S            k            W.1-2                  
+Knoblauch         2b   S.3-H;1-2    13/SH.1-2    S.1-2        D.2-H;1-3              
+Avery             p    note 1       k            wp.2-3;1-2                          
+                                                 k                                   
+ Gaetti           ph                                          note 2                 
+ Harvey           p                                                                  
+ 
+ 1: 34/SH.2-3;1-2  2: 7/dp.3xH(72) 
+ 
+ 
+Endorphins       IN OUT ER                  Bobs             IN OUT ER                  
+Guthrie          A1  C9  2 L 4-6            Avery            A1  D5  1 W 7-12           
+Heaton           D1  D9  1                  Harvey           D6  D8  0 S 22             
+
+-----------------------------------------------------------------------
+
+9/1/1991, BBG91-TTP91, Royals Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1991 GoiterMen         0  0  0  1  0  0  0  0  0  2     3 11  0     9  1
+1991 Tools Police      0  0  0  1  0  0  0  0  0  0     1  3  0     3  0
+ 
+GoiterMen            AB  R  H BI   AVG    Tools Police         AB  R  H BI   AVG
+Walker            lf  5  1  2  0  .290    Cole              cf  4  0  0  0  .313       
+Walton            cf  5  1  1  0  .205    Whitaker          2b  2  0  0  0  .257       
+Benzinger         1b  5  0  2  2  .225    Fielder           1b  4  1  1  1  .248       
+Wilson            rf  5  1  2  0  .229    Canseco           rf  4  0  1  0  .251       
+Borders           c   4  0  1  1  .256    Carter            lf  4  0  0  0  .290       
+ Geren            ph  1  0  1  0  .224    Bell              ss  4  0  0  0  .269       
+Kelly,P           3b  5  0  2  0  .158    Buechele          3b  4  0  0  0  .272       
+Fermin            ss  4  0  0  0  .287    Reed              c   3  0  0  0  .195       
+Ramirez           2b  2  0  0  0  .286    Smith,B           p   2  0  1  0  .274       
+ Hansen           ph  0  0  0  0  .167     Tabler           ph  1  0  0  0  .000       
+ Shipley          3b  1  0  0  0  .275     Innis            p   0  0  0  0  .286       
+Abbott            p   3  0  0  0  .000     Barnes           p   0  0  0  0  .158       
+ Lamp             p   0  0  0  0  .000                         32  1  3  1             
+ Merullo          ph  1  0  0  0  .169                                              
+ Scudder          p   0  0  0  0  .000                                              
+                     41  3 11  3                                                    
+ 
+GoiterMen                        INN  H  R ER BB  K PCH STR   ERA
+Abbott                           8.0  3  1  1  1 11 106  64  5.23
+Lamp             W 2-3           1.0  0  0  0  1  0  15   9  4.59
+Scudder          S 4             1.0  0  0  0  0  1  12   7  4.61
+                                10.0  3  1  1  2 12 133  80 
+ 
+Tools Police                     INN  H  R ER BB  K PCH STR   ERA
+Smith,B                          8.0  7  1  1  1  6 106  72  3.58
+Innis            L 6-3           1.1  2  2  2  0  0  20  13  1.57
+Barnes                           0.2  2  0  0  0  0  13   9  4.35
+                                10.0 11  3  3  1  6 139  94 
+ 
+BBG: Hansen batted for Ramirez in the 7th
+     Shipley inserted at 3b in the 7th
+     Kelly,P moved to 2b in the 7th
+     Merullo batted for Lamp in the 10th
+     Geren batted for Borders in the 10th
+     Geren moved to c in the 10th
+TTP: Tabler batted for Smith,B in the 8th
+ 
+2B-Walton, Wilson, Borders, Canseco. HR-Fielder(22). SB-Benzinger(1). 
+K-Walton, Benzinger 2, Kelly,P, Ramirez 2, Cole 2, Whitaker 2, Fielder, 
+Carter 2, Bell 2, Buechele, Reed, Tabler. BB-Hansen, Whitaker 2. 
+GWRBI: Benzinger
+Temperature: 81, Sky: partly cloudy, Wind: right to left at 11 MPH.
+
+....................................................................................................
+9/1/1991, BBG91-TTP91, Royals Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1991 GoiterMen         0  0  0  1  0  0  0  0  0  2     3 11  0     9  1
+1991 Tools Police      0  0  0  1  0  0  0  0  0  0     1  3  0     3  0
+ 
+ 
+GoiterMen            -----A------ -----B------ -----C------ -----D------ -----E------
+Walker            lf 1>S            63           3          8>31           S         
+Walton            cf   k            7          6>7            63           D.1-3     
+Benzinger         1b   k          4>2/fl         k            S            Barnes    
+                                                                           S.3-H;2-H 
+Wilson            rf   3            D            7            S.1-2        7         
+Borders           c  2>3/g          D.2-H      7>53           7                      
+ Geren            ph                                                       SB2       
+                                                                           S.2-3     
+Kelly,P           3b   S            k            S          9>Innis        8         
+                                                              63                     
+Fermin            ss   46/f.B-1     7            53.1-2       3/g                    
+Ramirez           2b   k          5>k                                                
+ Hansen           ph                             IW                                  
+ Shipley          3b                                          6                      
+Abbott            p  3>63           8            54/f                                
+ Lamp             p                                                                  
+ Merullo          ph                                        0>4                      
+ Scudder          p                                                                  
+ 
+ 
+Tools Police         -----A------ -----B------ -----C------ -----D------ -----E------
+Cole              cf 1>5/fl         63         6>k            k                      
+Whitaker          2b   k          4>k            W          9>Lamp                   
+                                                              W                      
+Fielder           1b   k            HR           8            643/gdp                
+Canseco           rf 2>8            D            54/f         31                     
+Carter            lf   8            k          7>7          0>Scudder                
+                                                              k                      
+Bell              ss   8            k            k            3                      
+Buechele          3b 3>63         5>k            13           6/L                    
+Reed              c    63           43         8>k                                   
+Smith,B           p    S            3/g                                              
+ Tabler           ph                             k                                   
+ Innis            p                                                                  
+ Barnes           p                                                                  
+ 
+ 
+GoiterMen        IN OUT ER                  Tools Police     IN OUT ER                  
+Abbott           A1  D1  1                  Smith,B          A1  D5  1                  
+Lamp             D2  D4  0 W 2-3            Innis            D6  E2  2 L 6-3            
+Scudder          D5  D7  0 S 4              Barnes           E3  E6  0                  
+
+-----------------------------------------------------------------------
+
+9/1/1991, NFG91-FER91, Fenway Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 FrozenDeadGuys    1  1  1  0  0  0  1  0  0     4  9  1     6  0
+1991 Magellans         0  2  2  0  1  0  0  0  x     5  9  0    10  0
+ 
+FrozenDeadGuys       AB  R  H BI   AVG    Magellans            AB  R  H BI   AVG
+Bergman           1b  5  1  1  1  .375    Rose              3b  4  1  1  0  .296       
+Ready             2b  3  0  0  0  .225    Pena              ss  3  0  0  0  .368       
+ Gantner          ph  1  0  0  0  .307     Weiss            ph  2  0  0  0  .194       
+Allred            rf  3  1  1  1  .227    Bonds             cf  5  0  0  0  .295       
+Larkin            lf  4  0  1  0  .303    Henderson,D       rf  2  1  0  0  .332       
+Coleman           cf  4  1  2  0  .233     Finley           ph  1  0  0  0  .257       
+Pagliarulo        3b  4  0  1  0  .312    Hoiles            c   4  2  3  1  .252       
+ Kile             p   0  0  0  0  .095    Cabrera           1b  3  0  1  1  .333       
+Cora              ss  3  0  1  1  .256    Sax               2b  4  1  1  2  .252       
+ Herr             ph  1  0  0  0  .141    Hudler            lf  3  0  2  1  .184       
+Leyritz           c   2  0  0  0  .222    Greene            p   2  0  1  0  .323       
+ Eisenreich       ph  1  1  1  1  .264     Murray           ph  0  0  0  0  .282       
+ Berryhill        c   1  0  1  0  .255     Gordon           p   1  0  0  0  .170       
+Anderson          p   2  0  0  0  .050     Ward,D           p   0  0  0  0  .000       
+ Mesa             p   0  0  0  0  .000                         34  5  9  5             
+ Brock            ph  0  0  0  0  .400                                              
+ Browning         p   0  0  0  0  .200                                              
+ Oberkfell        3b  1  0  0  0  .205                                              
+                     35  4  9  4                                                    
+ 
+FrozenDeadGuys                   INN  H  R ER BB  K PCH STR   ERA
+Anderson         L 1-5           4.0  6  4  2  2  1  91  59  4.22
+Mesa                             2.0  2  1  1  2  1  39  22  6.31
+Browning                         1.2  1  0  0  1  0  24  12  6.00
+Kile                             0.1  0  0  0  0  1   7   4  4.15
+                                 8.0  9  5  3  5  3 161  97 
+ 
+Magellans                        INN  H  R ER BB  K PCH STR   ERA
+Greene           W 19-7          5.0  6  3  3  0  5  76  52  4.52
+Gordon           H 6             2.1  1  1  1  2  2  45  23  3.68
+Ward,D           S 31            1.2  2  0  0  0  3  29  18  2.25
+                                 9.0  9  4  4  2 10 150  93 
+ 
+NFG: Eisenreich batted for Leyritz in the 7th
+     Brock batted for Mesa in the 7th
+     Berryhill inserted at c in the 7th
+     Gantner batted for Ready in the 8th
+     Gantner moved to 2b in the 8th
+     Oberkfell inserted at 3b in the 8th
+     Herr batted for Cora in the 9th
+FER: Murray batted for Greene in the 5th
+     Weiss batted for Pena in the 6th
+     Finley batted for Henderson,D in the 6th
+     Weiss moved to ss in the 7th
+     Finley moved to rf in the 7th
+ 
+E-Cora. 2B-Coleman, Berryhill, Hoiles, Hudler. HR-Bergman(1), Allred(1), 
+Eisenreich(7), Sax(2). SB-Coleman(32). CS-Brock. K-Bergman 2, Allred 2, 
+Coleman, Pagliarulo, Cora 2, Anderson, Oberkfell, Pena, Bonds, Henderson,D. 
+BB-Allred, Brock, Rose, Henderson,D, Cabrera, Hudler, Murray. WP-Anderson, 
+Ward,D. 
+GWRBI: Cabrera
+Tom Browning was injured for this game and 2 more days
+Temperature: 72, Sky: clear, Wind: out to left at 15 MPH.
+
+....................................................................................................
+9/1/1991, NFG91-FER91, Fenway Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 FrozenDeadGuys    1  1  1  0  0  0  1  0  0     4  9  1     6  0
+1991 Magellans         0  2  2  0  1  0  0  0  x     5  9  0    10  0
+ 
+ 
+FrozenDeadGuys       -----A------ -----B------ -----C------ -----D------ -----E------
+Bergman           1b 1>HR           43         5>9            CS2(26)      k         
+                                                              k                      
+Ready             2b   9          3>8            9                                   
+ Gantner          ph                                        8>7                      
+Allred            rf   k            HR           k            W                      
+Larkin            lf   8            8          6>Gordon       Ward,D                 
+                                                 7            S.1-2                  
+Coleman           cf 2>D            S            31           wp.2-3;1-2             
+                                                              k                      
+Pagliarulo        3b   S.2-3        SB2          9            9                      
+                                    k                                                
+ Kile             p                                                                  
+Cora              ss   S.3-H;1-2  4>k          7>k                                   
+ Herr             ph                                        9>31                     
+Leyritz           c    note 1       63                                               
+ Eisenreich       ph                             HR                                  
+ Berryhill        c                                           D                      
+Anderson          p    note 2       k                                                
+ Mesa             p                                                                  
+ Brock            ph                             W                                   
+ Browning         p                                                                  
+ Oberkfell        3b                                          k                      
+ 
+ 1: 25/f.1-2;B-1  2: 36/b/f.1-2;B-1 
+ 
+ 
+Magellans            -----A------ -----B------ -----C------ -----D------ -----E------
+Rose              3b 1>9          3>S            wp.1-2       5          8>9         
+                                                 W                                   
+Pena              ss   9            k            9                                   
+ Weiss            ph                                        6>63           8         
+Bonds             cf   7            9            43           1/L          Kile      
+                                                                           k         
+Henderson,D       rf 2>8            W.1-2      5>Mesa                                
+                                                 k                                   
+ Finley           ph                                          3                      
+Hoiles            c    e6.B-2       S.2-H;1-3    S          7>Browning               
+                                                              D                      
+Cabrera           1b   4            S.3-H;1-2    W.1-2        63                     
+Sax               2b   HR.2-H       64/f         9            53                     
+Hudler            lf   S          4>3/g          D.2-H;1-3    IW                     
+Greene            p    43           S                                                
+ Murray           ph                             IW                                  
+ Gordon           p                                           4                      
+ Ward,D           p                                                                  
+ 
+ 
+FrozenDeadGuys   IN OUT ER                  Magellans        IN OUT ER                  
+Anderson         A1  C3  2 L 1-5            Greene           A1  C3  3 W 19-7           
+Mesa             C4  D4  1                  Gordon           C4  D3  1 H 6              
+Browning         D5  E2  0                  Ward,D           D4  E1  0 S 31             
+Kile             E3  E3  0                                                              
+
+
+-----------------------------------------------------------------------
+PLAYING TIME REPORT
+-----------------------------------------------------------------------
+
+                            TLM Team Status -- 1991 Butt Mountain Beavis                            
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+f Harvey Pulliam            100    200    108    0    34     3            
+f Darnell Coles             171     43    107    0     7     7            
+  Hector Villanueva         113     87    101    0   117    97         46 
+  Warren Cromartie           41    100     93    0    17   131            
+  Dave Martinez              38    111     93    0   105   322            
+  Dan Pasqua                 84     91     90    0    58   426            
+  Juan Gonzalez             100     85     89    0   164   431            
+  Matt Williams              96     83     86    0   178   457            
+  Ryne Sandberg              72     91     84    0   250   434            
+  Terry Steinbach            34     92     75    0   149   345        250 
+  Skeeter Barnes             95     48     73    0    92    79            
+  Rene Gonzales             112     55     72    0    42    99            
+  Mark McGwire               37     82     70    0   155   430            
+  Jody Reed                  17     64     52    0   184   512            
+  Brian Downing              77      9     33    0   167   309            
+  Wes Chamberlain            65      7     29    0   158   259            
+  Andre Dawson               57      8     27    0   235   361            
+  Alonzo Powell              22     13     18    0    77    48            
+  Gary Varsho                14     16     16    0     7   203            
+  Dann Bilardello             0     18     14    0     7    22   32    32 
+  Gil Reyes                   0      0      0    0   105   124    5     5 
+  Kurt Stillwell              0      0      0    0   118   310            
+  Dave Anderson               0      0      0    0    88   152            
+f Mark Salas                  0      0      0    0     4    56            
+  Danny Heep                  0      0      0    0     0    13            
+  Total                                             2518  5630            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+f Mike Ignasiak             147    0     75     51  6/27/1991                                          
+f Mo Sanford                124    0    146    118  7/29/1991                                          
+f Barry Manuel              107    0     62     58  6/13/1991                                          
+f Dave Fleming               97    0     71     73  6/10/1991                                          
+  Cliff Brantley             95    0    133    140  8/27/1991                                          
+  Jeff Gray                  95    0    219    231   9/1/1991    23r                  10r           33 
+  Jose Melendez              88    0    336    381  8/17/1991                                          
+  John Smoltz                86    0    819    947  8/30/1991                 117s                 117 
+f Jim Austin                 80    0     37     46  6/22/1991                                          
+  Greg Maddux                79    0    848   1070  8/29/1991                        119s          119 
+  Terry Leach                78    0    227    292  8/28/1991                                20r       
+  Ken Hill                   78    0    576    743  8/31/1991          113s                        113 
+  Marvin Freeman             77    0    146    190   7/5/1991                                          
+  Roger Clemens              77    0    827   1077   9/1/1991   107s                         92s   107 
+f Mike Munoz                 76    0     35     46  7/19/1991                                          
+  Sergio Valdez              76    0     53     70  5/24/1991                                          
+  Dennis Eckersley           74    0    222    299  8/26/1991                                          
+  Mike Schooler              45    0     62    138  8/31/1991            8r    12r                  20 
+  Chris Hammond              23    0     99    425   9/1/1991    11r                                11 
+  Brian Drahman               7    0      9    125  7/26/1991                                          
+f Steve Ontiveros             0    0      0      0                                                     
+  Rob MacDonald               0    0      0    231                                                     
+  Al Osuna                    0    0      0    353                                                     
+  Total                                5002   7104                                                     
+
+
+
+                             TLM Team Status -- 1991 Needmore Perfectos                             
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+f Kim Batiste               100    119    111    0    12    16            
+f Luis Alicea               144     97    108    0    18    58            
+f Jose Offerman             132     89    106    0    57    83            
+f Derek Bell                 71    182    106    0    24    11            
+d Gary Sheffield             52    118    100   24    54   149            
+  Richard Amaral            129     82    100    0     7    11            
+  Scott Hemond               25    175    100    0    12    12          5 
+  Ken Griffey Jr.            91     91     91    0   188   445            
+  Pete Incaviglia           112     77     87    0   106   271            
+  John Olerud                92     85     87    0   109   432            
+  Dean Palmer               128     67     85    0    92   212            
+  Delino DeShields           64     91     82    0   228   445            
+  Rick Wilkins               57     85     80    0    46   189         72 
+  Danny Tartabull            85     77     79    0   169   388            
+  Orlando Merced             89     74     76    0    57   421            
+  Benito Santiago            60     72     68    0   220   394   33   270 
+  Dickie Thon                34     81     63    0   219   351            
+  Jim Lindeman               14    132     54    0    73    38            
+  Dale Sveum                  4     18     12    0   135   173            
+  Mike Huff                   0      2      1    0   144   151            
+f Chip Hale                   0      0      0    0     0     0            
+f Tracy Woodson               0      0      0    0     0     0            
+f Greg Olson                  0      0      0    0   112   352            
+f Ken Griffey                 0      0      0    0     3    97            
+f Mitch Webster               0      0      0    0   115   111            
+f Jerald Clark                0      0      0    0   138   273            
+  Total                                             2338  5083            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+f Julio Valera              145    0     16     11  8/21/1991                                          
+f Joel Johnston             113    0     96     85  8/20/1991                                          
+  Cris Carpenter             95    0    254    266  8/30/1991            7r    15r    30r           52 
+  Ben McDonald               92    0    487    532  8/31/1991    98s                                98 
+  Stan Belinda               91    0    288    318  8/31/1991    14r           25r    24r           63 
+f Erik Hanson                88    0    652    744  8/15/1991                                          
+  Danny Cox                  85    0    369    433  8/30/1991           11r    28r    24r           63 
+  Danny Darwin               84    0    246    292  8/23/1991                                          
+  Jimmy Key                  83    0    732    877  8/28/1991                         34s           34 
+  Gregg Olson                81    0    257    319  8/30/1991          108s                        108 
+  Chuck Finley               80    0    761    955  8/27/1991                               120s       
+  Steve Bedrosian            78    0    260    332  8/31/1991     5r     7r    13r    24r    13r    49 
+  Tim Belcher                76    0    668    880  8/29/1991                  84s                  84 
+f Scott Service               0    0      0      0                                                     
+f Todd Worrell                0    0      0      0                                                     
+f Rod Nichols                 0    0      0    578                                                     
+f Dave Otto                   0    0      0    425                                                     
+  Total                                5086   7047                                                     
+
+
+
+                               TLM Team Status -- 1991 Tewksbury Bobs                               
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+f Scott Cooper              129    103    108    0     7    30            
+  Chuck Knoblauch            99     95     96    0   163   473            
+  Gary Gaetti                78     84     83    0   175   459            
+f Paul Sorrento              40     85     80    0     5    46            
+f Sandy Alomar               17     95     77    0    46   153            
+f Andres Galarraga           57     86     76    0   135   265            
+  Lance Johnson              18     98     75    0   176   448            
+f Mike Blowers               85     65     75    0    20    20            
+f Reggie Sanders             81     71     75    0    16    24            
+  Garry Templeton           149     30     73    0   106   187            
+  Darryl Hamilton            30     82     71    0    93   355            
+  Luis Gonzalez              17     89     71    0   136   390            
+  Omar Vizquel               21     78     67    0    97   385            
+  Greg Myers                 39     67     64    0    38   295        224 
+  Tim Raines                 64     61     61    0   233   476            
+  Jeff King                  60     60     60    0    42    83            
+  Eric Davis                 94     27     52    0   128   212            
+  Derrick May                 0     57     52    0     2    23            
+  Dave Valle                108     21     51    0   129   248   35    97 
+  David Segui                59     32     44    0   102   126            
+  Dale Murphy                52      7     23    0   211   388            
+f Jose Lind                   0      0      0    0   183   362            
+f Mark McLemore               0      0      0    0    30    38            
+f Alfredo Griffin             0      0      0    0   162   223            
+f Rod Brewer                  0      0      0    0     5     8            
+f Mario Diaz                  0      0      0    0    94   108            
+f Andy Allanson               0      0      0    0   120    40            
+  Total                                             2654  5865            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+f John Wetteland            122    0     44     36  4/26/1991                                          
+f Kevin Gross               107    0    547    509  8/25/1991                                          
+f Xavier Hernandez          100    0    285    285  8/25/1991                                          
+d Jeff Shaw                  96    0    300    311  7/31/1991                                          
+f Rick Reed                  95    0     20     21   4/1/1991                                          
+  Steve Avery                85    0    741    868   9/1/1991   119s                               119 
+  Bobby Ojeda                84    0    677    802  8/29/1991                         43s           43 
+f Scott Bankhead             83    0    225    271  8/25/1991                                          
+f Rheal Cormier              81    0    229    281  6/21/1991                                          
+  Terry Mulholland           81    0    779    956  8/30/1991                 119s                 119 
+  Jim Clancy                 79    0    289    368  8/31/1991           27r    24r    22r           73 
+  Bryan Harvey               74    0    228    309   9/1/1991    13r                         47r    13 
+  Chris Bosio                74    0    618    840  8/28/1991                                85s       
+  Anthony Telford            54    0     59    109  8/31/1991            4r           41r           45 
+  Mark Gardner               26    0    177    692  8/31/1991          108s                        108 
+  Barry Jones                 5    0     18    353  8/29/1991                         33r    17r    33 
+  Doug Simons                 5    0     13    258  8/31/1991           19r                  28r    19 
+f Mark Dewey                  0    0      0      0                                                     
+f Don Robinson                0    0      0    525                                                     
+f Willie Blair                0    0      0    168                                                     
+  Total                                5249   7962                                                     
+
+
+
+                            TLM Team Status -- 1991 Grain Belt Premiums                             
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+f Jeff Blauser               99    100    100    0   155   260            
+f Luis Sojo                  98     93     95    0   124   278            
+  Joe Oliver                118     64     92    0   148   143        184 
+f Bo Jackson                 26    128     90    0    31    53            
+f Hal Morris                123     81     90    0   115   422            
+  Travis Fryman              83     92     89    0   166   446            
+  Ron Gant                   91     85     87    0   193   449            
+f Gary Disarcina             47    100     84    0    19    45            
+  Bobby Bonilla              62     93     81    0   261   419            
+  Hensley Meulens            32    146     75    0   195   118            
+  Jeff Huson                 70     75     75    0    33   284            
+  Carlton Fisk               13     94     67    0   168   333   38   159 
+  Billy Ripken               13     25     21    0   113   202            
+  Dan Gladden                24     14     17    0   139   372            
+  Al Newman                  17     11     13    0    70   208            
+  Billy Hatcher              18      7     10    0   140   342            
+  Luis Quinones               6      8      8    0    72   165            
+  Greg Briley                10      3      4    0    41   371            
+  Lloyd Moseby                2      1      1    0    54   234            
+f Steve Lake                  0      0      0    0   114    50            
+f Carl Nichols                0      0      0    0    29    27            
+f Luis Lopez                  0      0      0    0    52    37            
+  Total                                             2432  5258            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+f Mike Magnante             105    0    247    236  8/19/1991                                          
+f Scott Kamieniecki         104    0    248    239   7/6/1991                                          
+f Joe Slusarski             104    0    504    486  7/28/1991                                          
+f Mike Remlinger             97    0    150    155   7/6/1991                                          
+f Frank Castillo             94    0    438    467   7/6/1991                                          
+f Steve Farr                 91    0    258    285  7/12/1991                                          
+f Larry Andersen             89    0    167    188   7/2/1991                                          
+  Walt Terrell               81    0    771    954  8/31/1991   106s                               106 
+  Charlie Leibrandt          75    0    714    949  8/27/1991                                99s       
+  Bob Welch                  75    0    712    950  8/28/1991                        105s          105 
+  Bobby Thigpen              60    0    185    309  8/30/1991           19r                  16r    19 
+  Jerry Don Gleaton          43    0    136    319  8/31/1991    18r    42r            9r     7r    69 
+  Dan Petry                  41    0    186    454  8/30/1991           45r    32r    13r           90 
+  Eric Plunk                 39    0    201    521  8/29/1991                 116s                 116 
+  Andy Hawkins               36    0    144    399  8/30/1991           25s                         25 
+  Jeff Ballard               23    0    122    540  8/30/1991            3r                          3 
+  Mike Jeffcoat              12    0     42    363  8/30/1991           25r                         25 
+  Steve Searcy                1    0      2    335  8/30/1991            7r                          7 
+f Mike Harkey                 0    0      0     84                                                     
+f Ed Whitson                  0    0      0    337                                                     
+f Dana Kiecker                0    0      0    194                                                     
+f Eric Show                   0    0      0    231                                                     
+f Bob Kipper                  0    0      0    264                                                     
+  Total                                5227   9259                                                     
+
+
+
+                            TLM Team Status -- 1991 Toronto Tools Police                            
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+d Mike Macfarlane            91     95     94   11   123   173         61 
+  Alex Cole                 116     87     92    0    80   372            
+  Jeff Reed                  69     82     81    0    32   268   42   199 
+  Lou Whitaker               56     85     79    0   115   457            
+  Jay Bell                   84     75     78    0   223   474            
+  Ivan Calderon              89     70     77    0   182   355            
+  Cecil Fielder              88     65     71    0   188   524            
+  Jose Canseco               59     74     70    0   162   503          9 
+  Carlos Baerga              87     56     65    0   174   480            
+  Willie McGee               80     43     54    0   169   374            
+  Steve Buechele             83     40     52    0   160   440            
+  Joe Carter                 54     40     44    0   202   504            
+  Don Mattingly              13     28     22    0   252   394            
+  John Ramos                 38      0     21    0    16    13         66 
+  John Marzano               39      3     13    0    33    86            
+  Gary Thurman                3     11      6    0   128    72            
+  Jeff Schaefer               0     14      6    0   104    71            
+  Pat Tabler                  0      2      0    0   171    51            
+  George Brett                0      0      0    0   191   381            
+  Joe Girardi                 0      0      0    0    40    14            
+  Chuck Carr                  0      0      0    0     5     6            
+  Junior Felix                0      0      0    0    56   190            
+  Lee Stevens                 0      0      0    0    17    49            
+f Terry Shumpert              0      0      0    0   151   267            
+  Jeff Hamilton               0      0      0    0    81    18            
+  Gerald Young                0      0      0    0    89    80            
+  Total                                             3144  6616            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+f Doug Henry                112    0    154    137  8/16/1991                                          
+f Steve Howe                110    0    207    189   8/8/1991                                          
+f Tom Henke                 108    0    206    190  8/19/1991                                          
+  Bryn Smith                 94    0    768    818   9/1/1991   106s                               106 
+  Jeff Innis                 88    0    297    336   9/1/1991    20r    15r           18r    14r    53 
+  David Cone                 84    0    810    966  8/28/1991                                97s       
+  Francisco Oliveras         77    0    243    316  8/31/1991            5r     5r           15r    10 
+  Doug Drabek                76    0    739    977  8/31/1991           89s                         89 
+  Ramon Martinez             75    0    683    916  8/29/1991                         99s           99 
+  Chris Nabholz              57    0    358    631  8/30/1991                   1r                   1 
+  John Franco                56    0    139    247  8/30/1991                 109s                 109 
+  Brian Barnes               56    0    380    684   9/1/1991    13r           25r    10r    20r    48 
+  Bill Landrum               45    0    145    322  8/25/1991                                          
+  Rob Murphy                 32    0     67    211  7/30/1991                                          
+  Al Leiter                  15    0      2     13  8/28/1991                                 3r       
+  Joe Klink                  14    0     36    266  8/30/1991                  22r    19r           41 
+  Mark Petkovsek              0    0      0     53                                                     
+  John Dopson                 0    0      0      6                                                     
+  Rosario Rodriguez           0    0      0     67                                                     
+  Total                                5234   7345                                                     
+
+
+
+                           TLM Team Status -- 1991 Dun Laoghaire Messiahs                           
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+  Terry Pendleton            91     94     93    7   196   448            
+  Felix Jose                 49    113     84    0   285   340            
+  Cal Ripken                 95     78     82    0   185   532            
+  Julio Franco               87     80     82    0   172   487            
+  Edgar Martinez             91     70     76    0   182   460            
+  Rickey Henderson          104     66     75    0   137   441            
+  Mickey Tettleton          122     61     74    0   129   479   26   279 
+  Andy Van Slyke             20     88     63    0   216   361            
+  Darryl Strawberry          49     59     54    0   265   323            
+  Mike Scioscia              30     49     43    0   126   278    8    45 
+  Henry Cotto                23     38     30    0   103    89            
+  Mike Devereaux             72      8     26    0   184   484            
+  Bill Spiers                11     17     15    0   133   331            
+  Mike Gallego               33      3     11    0   144   423            
+f Luis Polonia                1      3      2    0   181   481            
+f Rick Dempsey                1      2      1    0   115    59            
+f Geno Petralli               0      0      0    0    11   217            
+f Tom Prince                  0      0      0    0    20    22            
+f Casey Candaele              0      0      0    0   173   332            
+f Javier Ortiz                0      0      0    0    58    39            
+f Deion Sanders               0      0      0    0    19   103            
+  Total                                             3034  6729            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+f Bill Wegman               105    0    825    785  8/30/1991          104s                        104 
+f Jim Poole                 101    0    168    166  8/12/1991                                          
+  Kent Mercker               95    0    292    306  8/20/1991                                          
+  Juan Berenguer             86    0    220    255  8/29/1991                  25r                  25 
+  Tom Edens                  85    0    121    143  8/31/1991   106s                               106 
+  Tom Candiotti              81    0    791    981  8/28/1991                        118s          118 
+  Jim Abbott                 77    0    772   1002  8/29/1991                 121s                 121 
+  Tom Glavine                74    0    736    989  8/27/1991                               106s       
+  John Habyan                68    0    236    349  8/27/1991                                11r       
+  Mike Maddux                63    0    246    388  8/26/1991                                          
+  Donn Pall                  47    0    133    282  8/11/1991                                          
+  Mike Flanagan              45    0    174    391  8/31/1991     7r            6r                  13 
+  Todd Stottlemyre           28    0    257    921  5/26/1991                                          
+f Scott Terry                 0    0      0    339                                                     
+f Frank Tanana                0    0      0    920                                                     
+f Roger Mason                 0    0      0    114                                                     
+f Ken Patterson               0    0      0    265                                                     
+f Dwayne Henry                0    0      0    282                                                     
+f Chuck McElroy               0    0      0    419                                                     
+f Jeff Reardon                0    0      0    248                                                     
+f Alan Mills                  0    0      0     72                                                     
+f Goose Gossage               0    0      0    167                                                     
+  Total                                4971   9784                                                     
+
+
+
+                             TLM Team Status -- 1991 Barcelona Brewers                              
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+f Tony Perezchica           109    106    107    0    23    52            
+  Ozzie Smith                65    122     97    0   286   355            
+f Darren Daulton             25    131     96    0   109   226        175 
+  Rick Cerone               141     54     95    0   122   136         84 
+  Robin Ventura              78     85     83    0   233   472            
+f Bernard Gilkey             37    116     76    0   158   153            
+f Mo Vaughn                  51     79     75    0    35   216            
+f Brady Anderson             24     85     75    0    51   262            
+  Tony Phillips              80     72     74    0   192   463            
+  Mel Hall                   27     88     68    0   173   354            
+  Chili Davis                79     61     67    0   201   433            
+  Daryl Boston               48     67     65    0    31   255            
+  Kevin Ward                 68     20     50    0    74    44            
+f Darren Lewis              117     15     49    0    90   177            
+  Dwight Evans               37     50     45    0   139   190            
+f Tracy Jones                 4    126     42    0   135    62            
+  Kirk Gibson                18     41     35    0   154   386            
+f Monty Fariss                3    122     32    0    29     9            
+  George Bell                28     12     18    0   226   377            
+  Kent Hrbek                 23     11     14    0   146   388            
+  Tony Eusebio                0     19     12    0     9    16   33    33 
+  Gregg Jefferies            14     10     12    0   190   349            
+d Ron Karkovice               9     13     11    0    70   123            
+  Brian McRae                27      4     11    0   216   447            
+d Kevin Reimer                5      9      8    1    40   400            
+f Mark Carreon                0      0      0    0   175    95            
+f Erik Pappas                 0      0      0    0    11     7            
+f Jeff Gardner                0      0      0    0     8    34            
+  Total                                             3326  6481            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+f Efrain Valdez             122    0     33     27  6/26/1991                                          
+f Steve Wilson              106    0     86     81  5/26/1991                                          
+f Rick Aguilera             105    0    288    275   8/9/1991                                          
+  Greg Harris               100    0    730    731  8/29/1991                 103s                 103 
+  David Wells                88    0    711    811  8/31/1991   103s                               103 
+  John Smiley                81    0    678    836  8/28/1991                         99s           99 
+d Dennis Martinez            81    6    731    905  8/15/1991                                          
+  Lee Smith                  81    0    242    300  8/31/1991    16r    20r           19r           55 
+f Curt Schilling             76    0    257    336  6/15/1991                                          
+  Mike Timlin                76    0    354    463  8/30/1991          102s                        102 
+f Jamie Moyer                76    0    108    142   8/1/1991                                          
+  Carl Willis                75    0    266    355  8/30/1991           24r    15r                  39 
+  Jeff Montgomery            61    0    230    376  8/22/1991                                          
+  Dave Stieb                 59    0    145    244  8/26/1991                                          
+f Bob Milacki                36    0    276    758  7/29/1991                                          
+  Bryan Hickerson            14    0     30    212  8/22/1991                                          
+d Blaine Beatty              12    3      5     42  8/19/1991                                          
+  Gary Wayne                  8    0      4     52  8/30/1991           12r                         12 
+f Jeff Carter                 0    0      0     49                                                     
+  Total                                5174   6995                                                     
+
+
+
+                             TLM Team Status -- 1991 Chinatrust Whales                              
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+  Phil Plantier             160     91    103    0    30   145            
+  Milt Thompson              53    116    103    0    77   284            
+  Bret Barberie              64    115    101    0    45   117            
+  Lloyd McClendon           102     90     99    0   133    50            
+  Robby Thompson            114     81     90    0   158   415            
+  Greg Gagne                 90     84     86    0   133   314            
+  Frank Thomas               95     80     85    0   212   489            
+  Matt Nokes                 54     93     83    0   122   371        108 
+  Larry Walker               79     85     83    0   176   363            
+  Pedro Munoz               122     61     81    0    49   102            
+  Scott Leius                93     51     80    0   161    74            
+  Keith Miller               16    138     75    0   158   146            
+  Jesse Barfield            133     29     69    0   125   196            
+  Paul O'Neill               39     74     64    0   181   426            
+  Wade Boggs                 33     71     60    0   183   458            
+  Ed Sprague                 25     85     52    0   101    82   36   211 
+  Dave Gallagher             27     34     31    0   124   182            
+  Carlos Quintana            68      9     28    0   180   370            
+  Luis Rivera                78     10     27    0   122   346            
+  Thomas Howard             132      5     19    0    34   275            
+  Sam Horn                   26     16     17    0    19   343            
+  Chad Kreuter                0      0      0    0     2     2            
+  Scott Servais               0      0      0    0     8    34            
+  Eric Wedge                  0      0      0    0     0     1            
+  Total                                             2533  5585            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+f Calvin Jones              105    0    204    194   7/1/1991                                          
+f Greg W. Harris            105    0    562    537  7/13/1991                                          
+  Terry Mathews              86    0    202    236  7/18/1991                                          
+  Jack Morris                86    0    883   1032  8/29/1991                 143s                 143 
+  Scott Radinsky             84    0    244    289  8/29/1991                  16r                  16 
+  Kevin Tapani               84    0    818    974  8/30/1991           67s                         67 
+  Bill Swift                 83    0    298    359  8/30/1991            8r           34r           42 
+  Rob Dibble                 83    0    276    334  8/30/1991           37r           17r           54 
+  Mike Moore                 80    0    713    887  8/31/1991   132s                               132 
+  Luis Aquino                69    0    458    661  8/28/1991                         50r           50 
+  Mike Henneman              53    0    191    358  8/28/1991                         70s           70 
+  Jim Gott                   49    0    158    322  8/25/1991                                          
+  Mitch Williams             41    0    157    386  8/15/1991                                          
+  Tony Fossas                23    0     56    244  8/28/1991                         19r           19 
+f Charlie Hough              17    0    149    858  4/27/1991                                          
+f Joe Hesketh                15    0     97    631  4/26/1991                                          
+  Wally Ritchie               0    0      0    213                                                     
+  Jose Bautista               0    0      0     34                                                     
+f Greg Cadaret                0    0      0    517                                                     
+  Les Lancaster               0    0      0    653                                                     
+  Tim Scott                   0    0      0      5                                                     
+  Total                                5466   9724                                                     
+
+
+
+                              TLM Team Status -- 1991 Cincinnati Reds                               
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+  Barry Larkin               89    104    100    0   164   363            
+  Bip Roberts                74     94     88    0   127   345            
+  Lance Parrish             105     81     88    0   118   327    5   241 
+  Devon White                67     87     81    0   219   496            
+f Eddie Taubensee            36     84     77    0    11    62            
+  Otis Nixon                 77     75     76    0   115   345            
+  Ray Lankford               32    101     74    0   241   374            
+  Rafael Palmeiro            49     84     74    0   206   508            
+  Lenny Harris               20     85     71    0   105   380            
+  Ken Caminiti               56     73     66    0   249   383            
+  Mike Sharperson            44    118     64    0   185    67            
+  Rob Deer                   82     55     63    0   165   374            
+  Candy Maldonado            82     48     58    0    93   240            
+  Mackey Sasser              48     55     54    0    31   212   30    60 
+  Jack Clark                 88     17     36    0   156   431            
+  Tim Teufel                 34      6     17    0   156   243            
+  Mike Felder                18     14     15    0   117   266            
+f Brian Hunter                5      9      7    0   128   163            
+  Rafael Belliard             2      5      4    0   105   280            
+f Eddie Williams              0      0      0    0     0     0            
+f Geronimo Berroa             0      0      0    0     0     0            
+  Nelson Liriano              0      0      0    0     1    22            
+  Bob Melvin                  0      0      0    0    90   155            
+  John Vander Wal             0      0      0    0    17    46            
+  Tom Goodwin                 0      0      0    0     2     5            
+  Sid Bream                   0      0      0    0    43   255            
+  Total                                             2844  6342            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+  Yorkis Perez               94    0     15     16  6/15/1991                                          
+  Jose Rijo                  92    0    763    825  8/31/1991    66s                                66 
+  Norm Charlton              90    0    396    438  8/29/1991                  50s                  50 
+  Sid Fernandez              86    0    152    177  4/29/1991                                          
+  Alejandro Pena             82    0    273    331  8/31/1991    24r     3r           10r           37 
+  Jeremy Hernandez           82    0     46     56  8/16/1991                                          
+  Mike Stanton               82    0    257    314  8/15/1991                                          
+  Pete Harnisch              79    0    714    900  8/26/1991                                          
+  Jeff Brantley              72    0    297    411  8/31/1991     9r           23r    24r           56 
+  Rudy Seanez                70    0     23     33  8/29/1991                  58r    12r           70 
+  Mike Jackson               68    0    247    363  8/31/1991    16r     8r    15r    13r           52 
+  Paul Assenmacher           67    0    286    427  8/31/1991     6r    22r           18r           46 
+d Dwight Gooden              65   12    516    789  8/12/1991                                          
+  Andy Benes                 63    0    569    908  8/30/1991           98s                         98 
+  Teddy Higuera              56    0     85    153  8/18/1991                                          
+  Dave Righetti              32    0     98    304  8/30/1991           37r    20r     4r           61 
+  Scott Sanderson            30    0    255    837  8/28/1991                         81s           81 
+  Bob Walk                    0    0      0    484                                                     
+  Kip Gross                   0    0      0    381                                                     
+  Total                                4992   8147                                                     
+
+
+
+                              TLM Team Status -- 1991 Houston Streets                               
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+f Nelson Santovenia         111    102    107    0    53    49            
+f Donnie Hill                86    107    103    0    43   199            
+  Kelly Gruber              109     91     96    0   125   349            
+  Freddie Benavides         116     75     87    0    19    48            
+  Brett Butler               62    103     85    0   306   424            
+  Kirby Puckett             114     75     85    6   165   496            
+  Roberto Alomar             92     81     85    0   214   505            
+  Fred McGriff               66     94     82    3   258   384            
+  B.J. Surhoff               85     79     81    0   114   439        193 
+  Jose Uribe                 87     53     62    0    68   184            
+  Eric Anthony               55     59     58    0    33    99            
+  Kevin McReynolds           43     63     56    0   206   372            
+  Ernest Riles              114     40     45    0    22   299            
+  Kal Daniels                16     43     31    0   230   301            
+  Eric Yelding               12      7      9    0   105   188            
+  Hubie Brooks               11      6      7    0   140   267            
+  Mike Heath                 11      4      7    0    55    95         63 
+  Ernie Whitt                 0      6      6    0     5    65   32    32 
+  Royce Clayton               0      0      0    0     5    22            
+  Mark Parent                 0      0      0    0     1     0            
+  Russ Morman                 0      0      0    0    22     2            
+  John Orton                  0      0      0    0    23    61            
+  Total                                             2212  4848            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+f Mark Wohlers              111    0     99     89  8/19/1991                                          
+f Jay Howell                103    0    209    202  7/28/1991                                          
+  Pascual Perez              97    0    291    299   9/1/1991    14r    27r           31r           72 
+  Gil Heredia                94    0    118    126   7/3/1991                                          
+  Scott Erickson             89    0    760    851  8/30/1991                 111s                 111 
+  Pat Rice                   82    0     75     91  8/31/1991           38r                         38 
+  Jason Grimsley             82    0    223    272   9/1/1991    45r                                45 
+  Bob Patterson              80    0    216    270  8/28/1991                                18r       
+  John Candelaria            77    0    106    138  7/28/1991                                          
+  Frank Viola                76    0    742    980  8/22/1991                                          
+  Bud Black                  72    0    644    893  8/29/1991                        101s          101 
+  Mark Williamson            71    0    252    357  8/29/1991                         20r           20 
+  Bruce Hurst                62    0    561    909  8/30/1991                  15r    17r    17r    32 
+  Mike Bielecki              56    0    407    727  8/28/1991                               108s       
+  Bill Gullickson            40    0    377    954   9/1/1991    54s                                54 
+  Brian Bohanon              32    0     88    273  8/31/1991          119s                        119 
+  Dave Stewart                0    0      0   1014                                                     
+  Chuck Crim                  0    0      0    408                                                     
+  Tim Layana                  0    0      0     95                                                     
+  Mike LaCoss                 0    0      0    225                                                     
+  Total                                5168   9173                                                     
+
+
+
+                            TLM Team Status -- 1991 Ferdinand Magellans                             
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+  Bill Pecota                89    106    100    0   149   299            
+  Geronimo Pena             132     50     92    0   107   105            
+  Barry Bonds                67    104     90    0   239   395            
+  Wally Backman              46     94     88    0    28   192            
+  Rance Mulliniks           167     78     82    0    12   274            
+  Eddie Murray               38    113     80    0   279   360            
+  Glenallen Hill            112     52     78    0   108   140            
+  Randy Velarde              61     85     75    0    87   123            
+  Craig Biggio               11    102     71    0   210   399        213 
+  Chito Martinez             42     74     70    0    31   197            
+  Kevin Seitzer             110     53     70    0    77   190            
+  Rex Hudler                 64     84     69    0   165    56            
+  Randy Milligan             19     84     65    0   167   404            
+  Steve Finley               23     81     63    0   205   451            
+  Bill Doran                 29     70     60    0    94   316            
+  Keith Mitchell             24     88     59    0    33    41            
+  Chris Gwynn                50     60     59    0    12   142            
+  Chris Hoiles               99     38     59    0   125   247   37   131 
+  Walt Weiss                 19     67     57    0    32   116            
+  Bobby Rose                 52     26     42    0    42    27            
+  Dave Henderson             77     25     38    0   161   476            
+  Steve Sax                  19     15     16    0   238   469            
+  Francisco Cabrera           5      2      4    0    57    45            
+f John Cangelosi              0      0      0    0     0     0            
+f Mike Fitzgerald             0      0      0    0    97   127            
+  Tim Naehring                0      0      0    0    19    46            
+f Junior Ortiz                0      0      0    0    47   104            
+  Total                                             2821  5741            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+  Kevin Appier               93    0    815    881  8/31/1991           81s                         81 
+  Tom Gordon                 92    0    626    684   9/1/1991    45r           33s                  78 
+  Tommy Greene               90    0    772    857   9/1/1991    76s            1r          112s    77 
+  Jose Guzman                89    0    651    730  8/29/1991                         74s           74 
+  Bruce Ruffin               81    0    410    508  8/30/1991                  63r    22r           85 
+  Melido Perez               76    0    422    553  8/30/1991                  28r    55r    11r    83 
+  Duane Ward                 72    0    308    428   9/1/1991    29r    14r     2r                  45 
+  Heathcliff Slocumb         67    0    184    274  6/18/1991                                          
+  Zane Smith                 65    0    594    916  8/31/1991           43r     6r           10r    49 
+  Rich Monteleone            60    0    121    201  6/19/1991                                          
+  Wally Whitehurst           29    0    164    556  8/30/1991                  40r                  40 
+  Vince Palacios              0    0      0    347                                                     
+  Mike Perez                  0    0      0     75                                                     
+  Craig Lefferts              0    0      0    290                                                     
+  Total                                5067   7300                                                     
+
+
+
+                              TLM Team Status -- 1991 Reykjavik 101ers                              
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+f Sean Berry                 97    115    106    0    32    34            
+f Albert Belle              107    105    106    0   138   358            
+f Sammy Sosa                 80    124    106    0   139   199            
+f Lance Blankenship          82    117    106    0    73   143            
+f Kirt Manwaring            132     91    105    0    69   130            
+f Dante Bichette             81    117    105    0   167   308            
+f Mike Bordick              103    105    105    0    68   197            
+  Andujar Cedeno             55    111     94    0    82   182            
+f Lenny Webster               0    125     85    0    13    28            
+  Brook Jacoby               66     84     79    0   132   321            
+  Joel Skinner               92     71     78    0    93   212        211 
+  Ricky Jordan              108     50     74    6   133   189            
+  Wally Joyner               18     94     69    0   200   411            
+  Ozzie Guillen              38     40     39    0   169   386            
+  Scott Bradley               6     41     38    0    16   182   37   147 
+  Robin Yount                37     36     36    0   159   412            
+  Kevin Elster               27     21     24    0   177   217            
+  Dave Howard                16     24     21    0    90   174            
+  Charlie Hayes              13     23     19    0   199   281            
+  Von Hayes                  28     13     18    0   107   216            
+  Mookie Wilson              53     10     17    0    43   215            
+  Curt Wilkerson              2      2      2    0    56   154            
+f Moises Alou                 0      0      0    0     0     0            
+f Dion James                  0      0      0    0     0     0            
+f Terry Kennedy               0      0      0    0    11   173            
+  Total                                             2366  5122            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+f Denny Neagle              110    0    101     92   5/5/1991                                          
+f Paul Kilgus               110    0    293    267  8/22/1991                                          
+f Mark Clark                110    0    102     93   5/6/1991                                          
+f Andy Ashby                110    0    204    186  6/17/1991                                          
+f Wilson Alvarez            108    0    255    237  5/20/1991                                          
+f Danny Jackson             107    0    373    347  8/10/1991                                          
+f Mike Mussina              105    0    366    349  5/29/1991                                          
+  Mike Hartley              102    0    374    368  8/31/1991    14r           23r     8r    17r    45 
+  Randy Myers                97    0    557    575  8/30/1991           15r    19r           26r    34 
+  Alex Fernandez             89    0    733    827  8/30/1991          115s                        115 
+  Bill Sampen                76    0    311    409  8/29/1991                  26r           24r    26 
+  Ted Power                  68    0    252    371  8/29/1991                  25r    23r           48 
+  Rick Sutcliffe             64    0    271    422  8/29/1991                  70s                  70 
+  Joe Boever                 61    0    262    431  8/31/1991    25r    14r    23r    11r           73 
+  Mark Gubicza               56    0    338    601  8/28/1991                         62s           62 
+  Jose DeJesus               43    0    341    801  8/29/1991                   2r           76s     2 
+  Matt Young                 34    0    138    404  8/29/1991                  26r    41r           67 
+  Bobby Witt                 30    0    122    413  8/31/1991   120s                               120 
+f Shawn Hillegas              0    0      0    359                                                     
+f Tim Leary                   0    0      0    551                                                     
+f Scott Ruskin                0    0      0    275                                                     
+f Jimmy Jones                 0    0      0    593                                                     
+  Total                                5393   8971                                                     
+
+
+
+                             TLM Team Status -- 1991 Baraboo GoiterMen                              
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+f Mike Kingery              100    110    109    0    14   112            
+f Rey Sanchez                29    135    107    0     7    20            
+  Mike Simms                 63    125     98    0    63    80            
+  Felix Fermin               99     96     97    0   136   333            
+  Jeff Manto                 26    127     93   11    50    98            
+  Jerome Walton              44    118     83    0   142   156            
+  Kenny Lofton               73     86     82    0    22    57            
+f Juan Samuel                56    100     82    0   270   389            
+f Jeff Bagwell               64     89     80    0   242   408            
+f Tony Gwynn                 60     92     79    0   226   343            
+  Dave Hansen                67     81     79    0     6    52            
+f Mike Stanley               67     91     78    0   118   105            
+f Jay Buhner                 67     83     77    0   178   293            
+  Craig Shipley              80     73     77    0    46    49            
+d Tim Wallach                64     81     75    0   205   432            
+  Pat Borders                 6    118     62    0   156   156   31   107 
+  Bob Geren                  59     44     56    0   115    25    3    52 
+  Chico Walker               17     63     48    0   130   281            
+  Matt Merullo               33     41     41    0     9   145        150 
+  Willie Wilson              49     31     37    0   106   212            
+  Todd Benzinger             19     29     26    0   150   301            
+  Rafael Ramirez              9     26     18    0   119   130            
+  Pat Kelly                  13     13     13    0   106   216            
+f Carlos Martinez             1      8      5    0    91   184            
+  Manuel Lee                  4      0      2    0   160   325            
+  Total                                             2867  4902            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+f Mike Walker               136    0     30     22  8/23/1991                                          
+f Jeff Parrett              116    0    126    109  8/30/1991                  38r                  38 
+f Cal Eldred                112    0     82     73  8/20/1991                                          
+f Gene Harris               111    0     73     66  8/20/1991                                          
+f Storm Davis               109    0    559    515  8/29/1991                        105s          105 
+  Paul Abbott               106    0    222    210   9/1/1991   106s                               106 
+  Larry Casian              102    0     89     87  8/31/1991           23r           10r           33 
+  David West                 89    0    272    305  8/31/1991           43r    35r     4r           82 
+  Charles Nagy               82    0    747    914  8/28/1991                               114s       
+f Orel Hershiser             81    0    381    473  6/22/1991                                          
+f Bret Saberhagen            78    0    613    789  7/29/1991                                          
+f Dan Gakeler                77    0    254    331  8/17/1991                                          
+f Scott Bailes               77    0    168    219  7/13/1991                                          
+  Ricky Bones                75    0    175    234  5/30/1991                                          
+  Scott Scudder              68    0    301    443   9/1/1991    12r                                12 
+f Jim Acker                  60    0    224    374  8/18/1991                                          
+  Mike Gardiner              44    0    249    562  8/30/1991                  49s                  49 
+  John Cerutti               41   13    161    389  8/29/1991                          5r            5 
+  Dennis Lamp                35    0    143    403   9/1/1991    15r     8r    22r     6r           51 
+  Tom Bolton                 32    0    158    499  8/31/1991           51s                         51 
+  Brian Holman               18    0    147    839  8/16/1991                                          
+f Dave Leiper                 0    0      0      0                                                     
+  Total                                5174   7856                                                     
+
+
+
+                               TLM Team Status -- 1991 Century Atoms                                
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+f Carlos Garcia             100    111    108    0     6    19            
+  Bernie Williams            38    129     99    0   123   251            
+  Leo Gomez                  82    104     98    0   134   311            
+  Roberto Kelly              63    111     95    0   180   363            
+  Tony Fernandez             70    101     91    0   206   415            
+  Tim Hulett                 29    123     90    0    79   142            
+  Dave Winfield              77     94     89    0   181   452            
+  Jamie Quirk               160     78     86    0    20   204   32   135 
+  Jerry Browne               96     82     86    0    92   242            
+  Charlie O'Brien            76     91     84    0    86   105         91 
+  Carlos Hernandez           38    125     81    0     8     8            
+  Dave Magadan               17    115     81    0   179   338            
+  Gary Redus                 55    131     80    0   193    95            
+  Todd Hundley               16    116     80    0    25    44            
+  Scott Brosius              25    111     78    0    28    44            
+  Reggie Jefferson          108     68     77    0    25    88            
+  Stan Javier                28    116     67    0   109    88            
+  Shawn Abner                67     64     65    0    88   142            
+d Ron Tingley                41     72     64   10    34    94         64 
+  Mark Lewis                 38     66     58    0    95   241            
+  Alvin Davis                81     10     26    0   118   410            
+f Bill Haselman               0      0      0    0     0     0            
+  Rich Gedman                 0      0      0    0    11    89            
+  Total                                             2020  4185            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+  Greg Hibbard               96    0    771    806  8/30/1991           26r           20r           46 
+  Kevin Ritz                 94    0     81     86  4/13/1991                                          
+  Pat Hentgen                93    0     28     30   4/1/1991                                          
+  Gene Nelson                89    0    204    229  8/28/1991                         29r           29 
+  Rick Honeycutt             87    0    146    167  6/17/1991                                          
+  Mike Boddicker             87    0    676    775  8/30/1991          102s                        102 
+  Kirk McCaskill             87    0    663    762  8/27/1991                               115s       
+  Mike Fetters               87    0    179    206  8/27/1991                                17r       
+  Mel Rojas                  87    0    173    200  6/17/1991                                          
+  Ron Darling                83    0    689    827  8/31/1991   124s                               124 
+  Jaime Navarro              80    0    805   1002  8/29/1991                  88s                  88 
+  Rich DeLucia               76    0    593    779  8/26/1991                                          
+  Kenny Rogers               67    0    343    511  8/28/1991                         69s    18r    69 
+  Mark Davis                 53    0    145    276  8/15/1991                                          
+  Jeff M. Robinson           30    0    141    472  8/19/1991                                          
+  Eric King                   9    0     62    656   5/5/1991                                          
+  Jack Armstrong              8    0     47    611  8/18/1991                                          
+f Rich Garces                 0    0      0      0                                                     
+  Total                                5746   8395                                                     
+
+
+
+                            TLM Team Status -- 1991 Evanston Endorphins                             
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+f Dwight Smith              250    101    106    0     6   174            
+f Juan Bell                  83    107    102    0    48   175            
+f Paul Faries                78    101     93    0    51    98            
+  Tom Brunansky              98     87     91    0   162   357            
+f Tim Jones                 100     87     89    0     4    23            
+  Lenny Dykstra              85     91     89    0   111   173            
+  Mike Greenwell            108     77     86    0   183   415            
+  Scott Fletcher            126     56     84    0   111   166            
+  Mark Grace                 68     90     81    0   281   422            
+  Don Slaught                87     72     81    0   146   104   36    60 
+  Mark Lemke                 89     72     80    0   131   177            
+  Alvaro Espinoza            53     84     73    0   172   337            
+  Tony Pena                  40     81     72    0   117   395        248 
+  Tom Foley                  52     71     68    0    23   164            
+d Alan Trammell              37     79     66   13   125   296            
+  Greg Litton                75     58     64    0    48    95            
+  Kevin Bass                 48     51     50   10   123   283            
+  Mike Aldrete               46     34     35    0    13   227            
+  Gary Pettis                43     28     32    0    95   248            
+  Dick Schofield             12     24     21    0   138   349            
+d Doug Dascenzo              15     18     17    1    96   176            
+f Ron Hassey                 60      3      5    0     5   130          7 
+  Total                                             2189  4984            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+f Roberto Hernandez         106    0     73     69  5/13/1991                                          
+f Darren Holmes              93    0    319    344  8/27/1991                                          
+  Mark Guthrie               85    0    369    432   9/1/1991    81s                                81 
+f Jeff Fassero               83    0    186    223  5/30/1991                                          
+f Joe Grahe                  80    0    263    330  6/20/1991                                          
+f Pete Smith                 80    0    168    211  8/14/1991                                          
+f Shawn Boskie               79    0    461    582  8/16/1991                                          
+f John Burkett               78    0    691    890  8/15/1991                                          
+f Bob Scanlan                77    0    369    482  6/15/1991                                          
+  Mark Leiter                72    0    416    578  8/29/1991                        115s          115 
+  Lee Guetterman             72    0    270    376  8/29/1991                         22r           22 
+f Dave Eiland                67    0    212    317  7/22/1991                                          
+  Wade Taylor                64    0    337    528  8/30/1991                  64s                  64 
+  Oil Can Boyd               63    0    488    773  8/31/1991          104s                        104 
+  Tim Crews                  60    0    191    318  8/30/1991                  45r                  45 
+  Willie Fraser              51    3    169    333  8/30/1991                  19r    14r    11r    33 
+  Neal Heaton                51    0    148    293   9/1/1991    30r    20r                  15r    50 
+  Don August                 31    0    192    613  8/28/1991                               105s       
+  Chris Haney                11    0     43    387  8/30/1991                  34r     8r     5r    42 
+f Roy Smith                   0    0      0    348                                                     
+  Total                                5365   8427                                                     
+
+
+
+                          TLM Team Status -- 1991 Nederland FrozenDeadGuys                          
+                                  Regular season -- as of 9/1/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R  9/1   Cum 
+f Tino Martinez             115    106    109    0    39    86            
+f Turner Ward                70    119    105    0    37    91            
+  Vince Coleman              85    102     96    0   114   204            
+f Chris Donnels              88    100     95    0    40    64            
+f Carney Lansford            22    186     94    0     9     7            
+f Ivan Rodriguez            122     81     91    0    73   215            
+  Gene Larkin                59    108     90    0   104   187            
+f Eric Karros                55    175     87    0    11     4            
+  Joey Cora                 129     71     85    0    65   199            
+  Damon Berryhill            62     92     84    0    42   131    8    16 
+  Shawon Dunston             50    106     84    0   212   322            
+f Vinny Castilla            200     60     83    0     1     5            
+f Mickey Morandini           69     87     83    0    71   293            
+  Jim Eisenreich            111     75     83    0    95   310            
+f Glenn Braggs               81     83     82    0   142   137            
+  Mike Pagliarulo           226     74     82    0    19   374            
+f Greg Vaughn                55     91     80    0   176   438            
+  Jose Hernandez            147     51     79    0    32    75            
+f Will Clark                 56     85     75    0   213   409            
+  Ken Oberkfell             433     40     54    0     3    81            
+  Beau Allred                94     47     52    0    17   139            
+  Randy Ready                15    113     41    0   190    68            
+  Tommy Herr                 66     23     40    0   102   163            
+  Steve Decker               34     42     39    0    92   166            
+  Jim Leyritz                19     43     32    0    42    49   31   310 
+  Greg Brock                 65     14     25    0    17    58            
+  Jim Gantner                11     22     19    0   150   417            
+  Dave Bergman               14      7      7    0    22   209            
+  Total                                             2130  4901            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last    9/1   8/31   8/30   8/29   8/28   Cum 
+f Dave Burba                107    0    164    153  6/23/1991                                          
+f Todd Burns                 98    0     56     57  4/20/1991                                          
+f Steve Frey                 96    0    174    182  6/17/1991                                          
+f Tony Castillo              91    0    134    148   6/3/1991                                          
+f Arthur Rhodes              84    0    147    174   6/2/1991                                          
+f Pete Schourek              81    0    312    385  7/30/1991                                          
+f Paul Gibson                80    0    345    432  8/11/1991                                          
+f Randy Johnson              76    0    677    889  8/12/1991                                          
+f Russ Swan                  76    0    254    336   6/7/1991                                          
+f Juan Agosto                75    0    284    377  7/30/1991                                          
+  Darryl Kile                75    0    514    689   9/1/1991     7r    15r     9r           72r    31 
+  Jose Mesa                  73    0    415    566   9/1/1991    39r           23r     1r           63 
+  Dan Plesac                 67    0    270    402  8/28/1991                                56r       
+  Jeff Johnson               55    0    308    562  8/30/1991                  89s                  89 
+  Kevin Morton               41   12    157    379  8/28/1991                                28s       
+  Allan Anderson             40    0    233    584   9/1/1991    91s                  76s     5r   167 
+  Tom Browning               24    3    239    983   9/1/1991    24r                  26r           50 
+f Bill Krueger               12    0     93    751   7/2/1991                                          
+  Jim Deshaies                4    0     29    686  8/31/1991          111s                        111 
+f Ed Vosberg                  0    0      0      0                                                     
+f Gerald Alexander            0    0      0    402                                                     
+  Total                                4805   9137                                                     
+
+
+
+                              TLM Team Status -- 1991 Effin Shebazzle!                              
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+  Brian Harper               88     92     91    0   122   347        292 
+  Shane Mack                 84     94     91    4   153   336            
+  Kevin Mitchell             40    110     88    0   135   288            
+  Chris Sabo                 69     97     88    0   213   427            
+  Paul Molitor               70     92     86    0   202   550            
+  Jeff Treadway             100     85     86    0    20   316            
+  Howard Johnson             38    103     79    0   247   411            
+  Warren Newson             125     74     77    0     8   152            
+  Willie Randolph            80     59     66    0   177   335            
+  Craig Grebeck              81     50     66    0   137   131            
+  Harold Baines              51     62     61    0    89   477            
+  Darrin Jackson             18     64     43    0   180   214            
+f Ruben Sierra               41     33     36    0   211   515            
+d Mike LaValliere            40     34     35   14    58   319            
+  Lonnie Smith               67      9     28    0   138   278            
+f Randy Bush                100     22     23    0     2   191            
+  Tim Spehr                   6     11      8    0    52    36   33    33 
+f Jeff Conine                 0      0      0    0     0     0            
+f Cliff Johnson               0      0      0    0     0     0            
+f Mike Brumley                0      0      0    0    43    89            
+f John Wehner                 0      0      0    0    54    59            
+f Dave Cochrane               0      0      0    0    52   138            
+f Jeff Tackett                0      0      0    0     4     7            
+f Luis Salazar                0      0      0    0   177   174            
+f George Canale               0      0      0    0     9    35            
+f Ron Kittle                  0      0      0    0    19    36            
+f Carmelo Martinez            0      0      0    0   155   166            
+f Steve Lyons                 0      0      0    0    14   213            
+  Total                                             2671  6240            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+  Todd Frohwirth             93    0    345    372  8/31/1991    17r           20r    12r           49 
+f Jack McDowell              78    0    804   1028  8/20/1991                                          
+  Mark Langston              78    0    775    992  8/29/1991                 124s                 124 
+  Nolan Ryan                 77    0    528    683  8/31/1991   117s                               117 
+  Juan Guzman                75    0    433    574  8/26/1991                                          
+  Mike Morgan                74    0    700    949  8/30/1991          116s                        116 
+f Eric Bell                  70    0     43     61  7/27/1991                                          
+  Mark Eichhorn              69    0    214    311  8/29/1991                  18r    31r           49 
+  Jim Corsi                  63    0    203    322  8/30/1991           20r           18r           38 
+  Roger McDowell             61    0    273    445  8/29/1991                   1r    34r           35 
+  Greg Swindell              58    0    565    971  8/28/1991                         79s           79 
+  Jeff Russell               42    0    142    336  8/28/1991                         14r           14 
+  Steve Olin                 31    0     76    249  8/28/1991                         22r           22 
+f Jesse Orosco               29    0     59    202  7/21/1991                                          
+f Jose DeLeon                 3    0     22    679   5/9/1991                                          
+f Dennis Cook                 0    0      0     69                                                     
+f Rich Rodriguez              0    0      0    335                                                     
+f Armando Reynoso             0    0      0    103                                                     
+f Mike Christopher            0    0      0     15                                                     
+f Kevin Campbell              0    0      0     94                                                     
+  Total                                5182   8790                                                     
+
+
+
+                               TLM Team Status -- 1991 Ferlin Huskies                               
+                                 Regular season -- as of 8/31/1991                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Catcher 
+S Name                    Usage  Usage  Usage Days  vs L  vs R 8/31   Cum 
+f Dave Justice               80    119    105    0   171   298            
+f Jim Thome                  35    114     99    0    20    84            
+f Glenn Davis               110     95     98    0    51   148            
+f Dave Hollins              137     78     95    0    51   121            
+  John Kruk                  67    107     92    0   226   389            
+  Marquis Grissom            68    102     89    0   231   366            
+  Todd Zeile                 66     98     84    0   267   371            
+f Dave Clark                  0     73     82    0     0    11            
+f Brent Mayne                86     73     75    0    29   230         37 
+  Tom Pagnozzi               58     80     70    0   228   282   36   260 
+  Ellis Burks               111     50     67    0   147   377            
+  Spike Owen                 50     69     60    0   216   259            
+  Harold Reynolds            40     64     57    0   197   531            
+  Mariano Duncan             78     41     57    0   151   205            
+  Scott Livingstone          40     22     24    0    15   124            
+  Kevin Maas                  7     25     19    0   216   376            
+  Mark Whiten                11     13     13    0   122   323            
+  Darrin Fletcher            13     12     12    0    23   119            
+  Milt Cuyler                10      5      6    0   143   403            
+f Jose Vizcaino              10      3      5    0    41   113            
+f Orestes Destrade            0      0      0    0     0     0            
+f Tom Lampkin                 0      0      0    0     0    61            
+f Gary Carter                 0      0      0    0   176   104            
+f Jose Oquendo                0      0      0    0   183   258            
+f Jack Howell                 0      0      0    0    31   240            
+  Pete O'Brien                0      0      0    0   195   422            
+  Total                                             3130  6215            
+
+
+
+                                 Inj Batters Faced            -------------Pitches Thrown------------- 
+S Name                    Usage Days    Sim   Real       Last   8/31   8/30   8/29   8/28   8/27   Cum 
+f Steve Foster              106    0     56     53   7/1/1991                                          
+f Rod Beck                  105    0    224    214  7/21/1991                                          
+f Vince Horsman              88    0     14     16  7/12/1991                                          
+  Bob Tewksbury              87    0    698    798  8/30/1991           74s                         74 
+f Rusty Meacham              86    0    108    126   6/7/1991                                          
+  Omar Olivares              84    0    578    688  8/28/1991                         99s           99 
+f Derek Lilliquist           81    0     57     70   7/2/1991                                          
+f Doug Jones                 80    0    235    293  7/19/1991                                          
+  Kelly Downs                80    0    384    479  8/31/1991    18r           13r                  31 
+  Randy Tomlin               80    0    588    736  8/26/1991                                          
+f John Kiely                 79    0     33     42  8/11/1991                                          
+  Kevin Brown                76    0    713    934  8/29/1991                 115s                 115 
+  Tim Burke                  76    0    320    421  8/31/1991     9r                                 9 
+d Mark Portugal              72    4    509    710   8/4/1991                                          
+  Trevor Wilson              65    0    549    841  8/31/1991   118s                               118 
+  Julio Machado              53    0    195    371  8/30/1991           17r                         17 
+  Doug Piatt                 32    0     46    145  8/23/1991                                          
+  Anthony Young              10    0     21    202  8/30/1991           49r                         49 
+  Dennis Rasmussen            2    0     11    633  8/17/1991                                          
+  Total                                5339   7772                                                     
+

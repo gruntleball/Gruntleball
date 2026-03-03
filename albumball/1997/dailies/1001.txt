@@ -1,0 +1,859 @@
+BRIGHTEN THE CORNERS, DAILY
+Wednesday, October 1, 1997
+Round 1 Playoffs - Game 2
+http://chinatrust.googlepages.com/
+
+----------------------------------------------------------------------------------------------------
+ROSTER NOTES
+----------------------------------------------------------------------------------------------------
+
+BAR - Magglio Ordonez is done and will be farmed
+
+----------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+----------------------------------------------------------------------------------------------------
+                                                                   Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/1/1997  CTW     Jones,C          General             10/2/1997     1    1 
+9/12/1997  TEW     Davis,C          Brawl               10/5/1997    23    4 
+9/30/1997  BAR     Anderson,B       General             10/11/1997   11   10 
+9/28/1997  BAR     Spoljaric        General             10/14/1997   16   13 
+9/20/1997  BAR     Polcovich        Hit by pitch        10/20/1997   30   19 
+8/28/1997  CTW     Eusebio          Collision on bases  10/21/1997   54   20 
+
+----------------------------------------------------------------------------------------------------
+TRANSACTIONS
+----------------------------------------------------------------------------------------------------
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+10/1/1997  BAR     Banks               Demoted to reserve roster                          Before   
+
+----------------------------------------------------------------------------------------------------
+RESULTS
+----------------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Reds              0  0  0  0  0  1  0  2  2     5 12  0     5  1
+1997 Brewers           1  0  2  0  0  0  0  0  0     3  5  0     2  1
+Rivera (W,2-0), Timlin (L,0-2)
+HR - Nieves(1), Taubensee(1), Vaughn,M(1)
+Eric Davis singles home Ken Caminiti, who had gone 4 for 4, in the 9th with
+the winning run.  Cincinnati gets four perfect innings of relief from Mike
+Trombley and Mariano Rivera.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Whales            0  0  0  0  5  0  0  1  0     6 13  1     8  1
+1997 Atoms             2  1  0  1  0  3  0  2  x     9 16  0     9  2
+Cordova (W,1-0), Martin (L,0-1), White,G (S,1)
+HR - O'Neill(1), Williams,B(1), O'Brien(1)
+Charlie O'Brien's pinch-hit three run shot off of Tom Martin proves to be 
+the difference.  
+
+----------------------------------------------------------------------------------------------------
+STANDINGS
+----------------------------------------------------------------------------------------------------
+
+BAR 0  CIN 2
+CEN 1  CTW 1
+
+----------------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+----------------------------------------------------------------------------------------------------
+
+10/1/1997, CIN97-BAR97, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Reds              0  0  0  0  0  1  0  2  2     5 12  0     5  1
+1997 Brewers           1  0  2  0  0  0  0  0  0     3  5  0     2  1
+ 
+Reds                 AB  R  H BI   AVG    Brewers              AB  R  H BI   AVG
+Hunter            lf  3  0  0  0  .250    Vizquel           ss  4  1  1  0  .300
+ Larkin           ph  1  0  0  0  .000    Martinez,D        lf  3  0  0  0  .250
+ Rivera,M         p   1  0  1  1 1.000    Ordonez,M         rf  4  1  2  0  .500
+Lankford          cf  4  1  1  0  .400    Vaughn,M          1b  3  1  1  3  .444
+Santangelo        rf  4  0  1  1  .200    Lopez,J           c   4  0  1  0  .222
+Palmeiro,R        1b  4  0  0  0  .222    Ventura           3b  2  0  0  0  .143
+Caminiti          3b  4  1  4  0  .500    Mack              cf  3  0  0  0  .000
+Ausmus            c   4  0  0  0  .000    McLemore          2b  3  0  0  0  .000
+Cedeno,D          ss  4  0  0  0  .000    Schilling         p   2  0  0  0  .000
+Young,Eri         2b  3  0  1  0  .429     Walton           ph  1  0  0  0  .000
+ Davis,E          ph  1  1  1  1 1.000     Timlin           p   0  0  0  0  .000
+ Perez,N          2b  0  0  0  0  .000                         29  3  5  3
+Tomko             p   1  0  0  0  .000
+ Nieves           ph  1  1  1  1 1.000
+ Trombley         p   0  0  0  0  .000
+ Taubensee        ph  2  1  2  1  .667
+ Glanville        lf  0  0  0  0 1.000
+                     37  5 12  5
+ 
+Reds                             INN  H  R ER BB  K PCH STR   ERA
+Tomko                            5.0  5  3  3  1  4  72  46  5.40
+Trombley                         2.0  0  0  0  0  0  22  13  0.00
+Rivera,M         W 2-0           2.0  0  0  0  0  1  22  14  0.00
+                                 9.0  5  3  3  1  5 116  73 
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Schilling                        8.0  8  3  3  0 10 120  81  3.38
+Timlin           L 0-2           1.0  4  2  2  0  0  19  14 18.00
+                                 9.0 12  5  5  0 10 139  95 
+ 
+CIN: Nieves batted for Tomko in the 6th
+     Taubensee batted for Trombley in the 8th
+     Larkin batted for Hunter in the 8th
+     Taubensee moved to lf in the 8th
+     Davis,E batted for Young,Eri in the 9th
+     Perez,N inserted at 2b in the 9th
+     Glanville inserted at lf in the 9th
+BAR: Walton batted for Schilling in the 8th
+ 
+2B-Caminiti, Rivera,M, Ordonez,M, Lopez,J. 3B-Santangelo. HR-Nieves(1), 
+Taubensee(1), Vaughn,M(1). SB-Young,Eri(2). K-Hunter 2, Lankford, 
+Santangelo 2, Palmeiro,R 3, Cedeno,D, Young,Eri, Mack, McLemore 2, Schilling, 
+Walton. BB-Ventura. SH-Martinez,D. SF-Vaughn,M. 
+GWRBI: Davis,E
+Temperature: 81, Sky: clear, Wind: left to right at 3 MPH.
+
+....................................................................................................
+10/1/1997, CIN97-BAR97, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Reds              0  0  0  0  0  1  0  2  2     5 12  0     5  1
+1997 Brewers           1  0  2  0  0  0  0  0  0     3  5  0     2  1
+ 
+ 
+Reds                 -----A------ -----B------ -----C------ -----D------ -----E------
+Hunter            lf 1>9            k            k                                   
+ Larkin           ph                                          31                     
+ Rivera,M         p                                                        note 1    
+Lankford          cf   k          4>8            13           S                      
+Santangelo        rf   k            k            13           T.1-H                  
+Palmeiro,R        1b 2>k            k          7>k            8                      
+Caminiti          3b   S          5>D            S          9>Timlin                 
+                                                              S                      
+Ausmus            c    463/gdp      53           9            43.1-2                 
+Cedeno,D          ss 3>k            43.2-3       54/f         3/g.2-3                
+Young,Eri         2b   S            9          8>k                                   
+ Davis,E          ph                                          S.3-H                  
+ Perez,N          2b                                                                 
+Tomko             p    SB2                                                           
+                       3                                                             
+ Nieves           ph              6>HR                                               
+ Trombley         p                                                                  
+ Taubensee        ph                             HR           S.1-2                  
+ Glanville        lf                                                                 
+ 
+ 1: D.2-H;1xH(942) 
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Vizquel           ss 1>S          3>8            8            63                     
+Martinez,D        lf   14/SH.1-2    5/fl         43           43                     
+Ordonez,M         rf   S.2-3        D          6>Trombley   9>9                      
+                                                 53                                  
+Vaughn,M          1b   9/SF.3-H     HR.2-H       9            9                      
+Lopez,J           c    D.1-3        8            5/L          9                      
+Ventura           3b   9          4>W          7>9                                   
+Mack              cf 2>k            543/gdp      9                                   
+McLemore          2b   k            k            63                                  
+Schilling         p    41         5>k          8>Rivera,M                            
+ Walton           ph                             k                                   
+ Timlin           p                                                                  
+ 
+ 
+Reds             IN OUT ER                  Brewers          IN OUT ER                  
+Tomko            A1  C2  3                  Schilling        A1  D4  3                  
+Trombley         C3  C8  0                  Timlin           D5  E1  2 L 0-2            
+Rivera,M         C9  D5  0 W 2-0                                                        
+
+....................................................................................................
+10/1/1997, CIN97-BAR97, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Reds              0  0  0  0  0  1  0  2  2     5 12  0     5  1
+1997 Brewers           1  0  2  0  0  0  0  0  0     3  5  0     2  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Reds batting
+ 0-0  0 --- 12  Hunter flied out to right (CBSX)
+ 0-0  1 --- 02  Lankford struck out (CFC)
+ 0-0  2 --- 12  Santangelo struck out (BCSS)
+ 
+**************  Bottom of the 1st inning, Brewers batting
+ 0-0  0 --- 10  Vizquel lined a single to right (BX)
+ 0-0  0 1-- 00  Martinez,D sacrifice bunted to the mound, Vizquel to 
+                  second (Xb)
+ 0-0  1 -2- 10  Ordonez,M reached on an infield single to second, Vizquel 
+                  to third (BX)
+ 0-0  1 1-3 21  Vaughn,M hit a sacrifice fly to right, Vizquel scored 
+                  (CBBX)
+ 0-1  2 1-- 10  Lopez,J lined a double to left center, Ordonez,M to third 
+                  (BX)
+ 0-1  2 -23 11  Ventura lined out to right (FBX)
+ 
+**************  Top of the 2nd inning, Reds batting
+ 0-1  0 --- 12  Palmeiro,R struck out (CBFC)
+ 0-1  1 --- 12  Caminiti lined a single to shallow center (SFBX)
+ 0-1  1 1-- 12  Ausmus grounded into a double play, McLemore to Vizquel 
+                  to Vaughn,M (1CSBX)
+ 
+**************  Bottom of the 2nd inning, Brewers batting
+ 0-1  0 --- 12  Mack struck out (CBSS)
+ 0-1  1 --- 32  McLemore struck out (CFBBFBS)
+ 0-1  2 --- 02  Schilling grounded out to second (CSFX)
+ 
+**************  Top of the 3rd inning, Reds batting
+ 0-1  0 --- 32  Cedeno,D struck out (BSBSBS)
+ 0-1  1 --- 22  Young,Eri lined a single to left center (BBCSX)
+ 0-1  1 1-- 00  Young,Eri stole second (1>B)
+ 0-1  1 -2- 12  Tomko popped out to first (1>B.FCX)
+ 0-1  2 -2- 22  Hunter struck out (BBFSC)
+ 
+**************  Bottom of the 3rd inning, Brewers batting
+ 0-1  0 --- 31  Vizquel flied out to center (BCBBX)
+ 0-1  1 --- 11  Martinez,D popped out to third (FBX)
+ 0-1  2 --- 21  Ordonez,M grounded a double down the third base line 
+                  (BFBX)
+ 0-1  2 -2- 20  Vaughn,M homered deep down the right field line, 
+                  Ordonez,M scored (BBX)
+ 0-3  2 --- 00  Lopez,J flied out to center (X)
+ 
+**************  Top of the 4th inning, Reds batting
+ 0-3  0 --- 21  Lankford flied out to center (BBCX)
+ 0-3  1 --- 12  Santangelo struck out (CSBS)
+ 0-3  2 --- 22  Palmeiro,R struck out (BBFCS)
+ 
+**************  Bottom of the 4th inning, Brewers batting
+ 0-3  0 --- 32  Ventura walked (CSFBFBBB)
+ 0-3  0 1-- 02  Mack grounded into a double play, Caminiti to Young,Eri 
+                  to Palmeiro,R (CCFX)
+ 0-3  2 --- 12  McLemore struck out (FSBFS)
+ 
+**************  Top of the 5th inning, Reds batting
+ 0-3  0 --- 22  Caminiti grounded a double down the first base line 
+                  (CBSBX)
+ 0-3  0 -2- 32  Ausmus grounded out to third (BSBFFBFFX)
+ 0-3  1 -2- 00  Cedeno,D grounded out to second, Caminiti to third (X)
+ 0-3  2 --3 12  Young,Eri popped out to right (CFBX)
+ 
+**************  Bottom of the 5th inning, Brewers batting
+ 0-3  0 --- 02  Schilling struck out (CCS)
+ 0-3  1 --- 10  Vizquel lined out to center (BX)
+ 0-3  2 --- 22  Martinez,D grounded out to second (CBBFX)
+ 
+**************  Top of the 6th inning, Reds batting
+                Nieves pinch hitting for Tomko
+ 0-3  0 --- 02  Nieves homered deep to right (SSX)
+ 1-3  0 --- 12  Hunter struck out (BCFC)
+ 1-3  1 --- 31  Lankford grounded out to the mound (BBSBX)
+ 1-3  2 --- 10  Santangelo grounded out to the mound (BX)
+ 
+**************  Bottom of the 6th inning, Brewers batting
+                Trombley now pitching
+ 1-3  0 --- 11  Ordonez,M grounded out to third (BCX)
+ 1-3  1 --- 31  Vaughn,M lined out to right (BBBCX)
+ 1-3  2 --- 22  Lopez,J lined out to third (CBBCX)
+ 
+**************  Top of the 7th inning, Reds batting
+ 1-3  0 --- 02  Palmeiro,R struck out (FFS)
+ 1-3  1 --- 22  Caminiti grounded a single up the middle (BBCCX)
+ 1-3  1 1-- 00  Ausmus flied out to right (>X)
+ 1-3  2 1-- 01  Cedeno,D grounded to third, forcing Caminiti at second 
+                  (CX)
+ 
+**************  Bottom of the 7th inning, Brewers batting
+ 1-3  0 --- 21  Ventura flied out to right (CBBX)
+ 1-3  1 --- 10  Mack flied out to right (BX)
+ 1-3  2 --- 02  McLemore grounded out to short (CFX)
+ 
+**************  Top of the 8th inning, Reds batting
+ 1-3  0 --- 02  Young,Eri struck out (CFS)
+                Taubensee pinch hitting for Trombley
+ 1-3  1 --- 21  Taubensee homered deep to right (CBBX)
+                Larkin pinch hitting for Hunter
+ 2-3  1 --- 20  Larkin grounded out to first (BBX)
+ 2-3  2 --- 01  Lankford lined a single to shallow right (CX)
+ 2-3  2 1-- 11  Santangelo tripled deep to center, Lankford scored (CBX)
+ 3-3  2 --3 31  Palmeiro,R lined out to center (BBSBX)
+ 
+**************  Bottom of the 8th inning, Brewers batting
+                Rivera,M now pitching
+                Taubensee moved to left field
+                Walton pinch hitting for Schilling
+ 3-3  0 --- 12  Walton struck out (BCSC)
+ 3-3  1 --- 01  Vizquel grounded out to short (CX)
+ 3-3  2 --- 21  Martinez,D grounded out to second (BFBX)
+ 
+**************  Top of the 9th inning, Reds batting
+                Timlin now pitching
+ 3-3  0 --- 12  Caminiti lined a single to shallow center (CCFBX)
+ 3-3  0 1-- 00  Ausmus grounded out to second, Caminiti to second (>X)
+ 3-3  1 -2- 10  Cedeno,D grounded out to first, Caminiti to third (BX)
+                Davis,E pinch hitting for Young,Eri
+ 3-3  2 --3 22  Davis,E reached on an infield single to second, Caminiti 
+                  scored (BC+3SFBFX)
+ 4-3  2 1-- 10  Taubensee reached on an infield single to the pitcher, 
+                  Davis,E to second (BX)
+ 4-3  2 12- 01  Rivera,M grounded a double down the first base line, 
+                  Davis,E scored, Taubensee out at home (CX)
+ 
+**************  Bottom of the 9th inning, Brewers batting
+                Perez,N now playing second base
+                Glanville now playing left field
+ 5-3  0 --- 21  Ordonez,M popped out to right (BBFX)
+ 5-3  1 --- 21  Vaughn,M flied out to right (CBBX)
+ 5-3  2 --- 12  Lopez,J flied out to right (BCCX)
+____________________________________________________________________________________________________
+
+10/1/1997, CTW97-CEN97, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Whales            0  0  0  0  5  0  0  1  0     6 13  1     8  1
+1997 Atoms             2  1  0  1  0  3  0  2  x     9 16  0     9  2
+ 
+Whales               AB  R  H BI   AVG    Atoms                AB  R  H BI   AVG
+Clark,W           1b  4  1  2  0  .429    Fernandez         ss  5  2  4  1  .800
+ Wilson,D         ph  1  0  0  0  .000    Boggs             1b  3  0  1  1  .333
+O'Neill           rf  5  1  1  3  .111     Clark            ph  2  0  2  0  .667
+Stanley           c   5  1  1  0  .300    Williams,Be       cf  4  1  1  3  .167
+Jones,C           3b  2  0  1  0  .400    Ramirez           rf  3  0  0  0  .143
+ Bonilla          pr  3  0  2  0  .667    Blowers           lf  2  0  0  0  .000
+Giambi            lf  5  0  2  0  .429     Klesko           ph  3  0  1  1  .143
+Knoblauch         ss  3  1  1  1  .375    Naehring          3b  2  0  1  0  .500
+Mabry             cf  2  0  0  0  .167     Magadan          ph  3  0  0  0  .143
+ Frascatore       p   0  0  0  0  .000    Hundley           c   4  1  1  0  .250
+ Martin,T         p   0  0  0  0  .000    Branson           2b  4  2  3  0  .750
+ Mesa             p   0  0  0  0  .000     White,G          p   0  0  0  0  .000
+ Pratt            ph  1  0  1  0 1.000    Cordova,F         p   2  1  0  0  .000
+ Quantrill        p   0  0  0  0  .000     O'Brien          ph  1  1  1  3  .500
+ Magnante         p   0  0  0  0  .000     Orosco           p   0  0  0  0  .000
+Morandini         2b  3  1  1  0  .143     Frye             2b  1  1  1  0  .800
+Johnson,Ra        p   1  0  0  0  .000                         39  9 16  9
+ Buhner           ph  1  1  1  1 1.000
+ Henderson        cf  2  0  0  0  .000
+                     38  6 13  5
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Johnson,Ra                       4.0  8  4  3  0  5  78  52  6.75
+Frascatore                       1.0  1  0  0  1  0  14   7  0.00
+Martin,T         BS 1, L 0-1     0.0  3  3  3  0  0   5   4 99.00
+Mesa                             2.0  1  0  0  1  2  28  17  0.00
+Quantrill                        0.0  3  2  2  0  0  11   7 99.00
+Magnante                         1.0  0  0  0  1  0  12   4  0.00
+                                 8.0 16  9  8  3  7 148  91 
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Cordova,F        W 1-0           6.0 10  5  5  0  2  82  57  7.50
+Orosco           H 1             1.0  1  1  1  1  3  25  13 11.57
+White,G          S 1             2.0  2  0  0  1  0  28  18  0.00
+                                 9.0 13  6  6  2  5 135  88 
+ 
+CTW: Bonilla ran for Jones,C in the 4th
+     Bonilla moved to 3b in the 4th
+     Buhner batted for Johnson,Ra in the 5th
+     Henderson inserted at cf in the 5th
+     Pratt batted for Mesa in the 8th
+     Wilson,D batted for Clark,W in the 8th
+     Wilson,D moved to 1b in the 8th
+CEN: Klesko batted for Blowers in the 5th
+     Magadan batted for Naehring in the 5th
+     Magadan moved to 3b in the 6th
+     Klesko moved to lf in the 6th
+     O'Brien batted for Cordova,F in the 6th
+     Clark batted for Boggs in the 6th
+     Clark moved to 1b in the 7th
+     Frye inserted at 2b in the 8th
+ 
+E-Johnson,Ra. 2B-Clark,W, Morandini, Bonilla, Branson, Clark. 3B-Fernandez. 
+HR-O'Neill(1), Williams,Be(1), O'Brien(1). K-O'Neill 2, Stanley 2, Giambi, 
+Boggs, Williams,Be, Ramirez 2, Hundley, Cordova,F, Klesko. BB-Knoblauch, 
+Morandini, Williams,Be, Ramirez 2. HBP-Mabry. PB-Stanley. HB-Cordova,F. 
+GWRBI: O'Brien
+Chipper Jones was injured for this game only
+Temperature: 70, Wind: none.
+
+....................................................................................................
+10/1/1997, CTW97-CEN97, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Whales            0  0  0  0  5  0  0  1  0     6 13  1     8  1
+1997 Atoms             2  1  0  1  0  3  0  2  x     9 16  0     9  2
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Clark,W           1b 1>4/L          S            D.1-3        43                     
+ Wilson,D         ph                                                       4         
+O'Neill           rf   43           k            HR.3-H;2-H 7>Orosco     9>43        
+                                                              k(23)                  
+Stanley           c    7            k            S            k            5         
+Jones,C           3b 2>43         4>S                                                
+ Bonilla          pr                             43.1-2       S            D         
+Giambi            lf   S            9            S.2-3        k            9         
+Knoblauch         ss   8            463/gdp      S.3-H;1-2  8>W                      
+Mabry             cf   HBP.1-2    5>43           8                                   
+ Frascatore       p                                                                  
+ Martin,T         p                                                                  
+ Mesa             p                                           White,G                
+ Pratt            ph                                          S.1-2                  
+ Quantrill        p                                                                  
+ Magnante         p                                                                  
+Morandini         2b   53           D          6>9            W.2-3;1-2              
+Johnson,Ra        p  3>8                                                             
+ Buhner           ph                S.2-H                                            
+ Henderson        cf                             3/g          note 1                 
+ 
+ 1: 643/gdp.3-H;2-3 
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Fernandez         ss 1>T            S.1-2        S.2-H        Mesa         S.1-2     
+                                                              43                     
+Boggs             1b   5/fl         pb.2-3;1-2   k                                   
+                                    note 1                                           
+ Clark            ph                                          D            S.2-3;1-2 
+Williams,Be       cf   HR.3-H       k          5>Frascatore   W            Magnante  
+                                                 43                        note 2    
+Ramirez           rf   e1.B-2     3>k            W            k            IW        
+Blowers           lf   8            63                                               
+ Klesko           ph                             S.1-2        k            note 3    
+Naehring          3b   S.2-3        43                                               
+ Magadan          ph                             463/gdp    7>6            43        
+Hundley           c    31         4>k          6>Martin,T     8                      
+                                                 S                                   
+Branson           2b 2>S            D            S.1-3        8                      
+ White,G          p                                                                  
+Cordova,F         p    56/b/f.B-1   k                                                
+ O'Brien          ph                             HR.3-H;1-H                          
+ Orosco           p                                                                  
+ Frye             2b                                        8>Quantrill              
+                                                              S                      
+ 
+ 1: S.3-H;2xH(82)  2: 43.3-H;2-3;1-2  3: 63.3-H;2-3;1-2 
+ 
+ 
+Whales           IN OUT ER                  Atoms            IN OUT ER                  
+Johnson,Ra       A1  C2  3                  Cordova,F        A1  D1  5 W 1-0            
+Frascatore       C3  C6  0                  Orosco           D2  D6  1 H 1              
+Martin,T         C7  C9  3 BS 1, L 0-1      White,G          D7  E5  0 S 1              
+Mesa             D1  D8  0                                                              
+Quantrill        D9  E2  2                                                              
+Magnante         E3  E6  0                                                              
+
+....................................................................................................
+10/1/1997, CTW97-CEN97, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Whales            0  0  0  0  5  0  0  1  0     6 13  1     8  1
+1997 Atoms             2  1  0  1  0  3  0  2  x     9 16  0     9  2
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Whales batting
+ 0-0  0 --- 00  Clark,W lined out to second (X)
+ 0-0  1 --- 31  O'Neill grounded out to second (BBBCX)
+ 0-0  2 --- 01  Stanley flied out to left (CX)
+ 
+**************  Bottom of the 1st inning, Atoms batting
+ 0-0  0 --- 12  Fernandez tripled deep to right center (BCFX)
+ 0-0  0 --3 22  Boggs popped out to third (BCSBX)
+ 0-0  1 --3 32  Williams,Be homered deep down the left-field line, 
+                  Fernandez scored (SBFBFBX)
+ 0-2  1 --- 10  Ramirez to second on an error by the pitcher Johnson,Ra 
+                  (BX)
+ 0-2  1 -2- 32  Blowers flied out to center (BCBCFBX)
+ 0-2  2 -2- 21  Naehring reached on an infield single to third, Ramirez 
+                  to third (BBCX)
+ 0-2  2 1-3 01  Hundley grounded out to first (CX)
+ 
+**************  Top of the 2nd inning, Whales batting
+ 0-2  0 --- 31  Jones,C grounded out to second (BBBCX)
+ 0-2  1 --- 22  Giambi lined a single down the right field line (BBFFX)
+ 0-2  1 1-- 12  Knoblauch flied out to center (SBCX)
+ 0-2  2 1-- 01  Mabry was hit by a pitch, Giambi to second (CH)
+ 0-2  2 12- 01  Morandini grounded out to third (FX)
+ 
+**************  Bottom of the 2nd inning, Atoms batting
+ 0-2  0 --- 12  Branson lined a single to right center (BCFX)
+ 0-2  0 1-- 00  Cordova,F bunted into an out to third, forcing Branson at 
+                  second, Cordova,F to first (Xb)
+ 0-2  1 1-- 20  Fernandez grounded a single between first and second, 
+                  Cordova,F to second (BBX)
+ 0-2  1 12- 01  Stanley allowed a passed ball, Cordova,F to third, 
+                  Fernandez to second (SB)
+ 0-2  1 -23 12  Boggs grounded a single up the middle, Cordova,F scored, 
+                  Fernandez out at home (SB.CX)
+ 0-3  2 1-- 32  Williams,Be struck out (BCFBB>S)
+ 
+**************  Top of the 3rd inning, Whales batting
+ 0-3  0 --- 00  Johnson,Ra flied out to center (X)
+ 0-3  1 --- 22  Clark,W lined a single to right center (CBFBX)
+ 0-3  1 1-- 02  O'Neill struck out (FFC)
+ 0-3  2 1-- 12  Stanley struck out (CBSS)
+ 
+**************  Bottom of the 3rd inning, Atoms batting
+ 0-3  0 --- 12  Ramirez struck out (CSBFFS)
+ 0-3  1 --- 00  Blowers grounded out to short (X)
+ 0-3  2 --- 21  Naehring grounded out to second (SBBX)
+ 
+**************  Top of the 4th inning, Whales batting
+ 0-3  0 --- 00  Jones,C grounded a single up the middle (X)
+                Jones,C left the game with an injury
+                Bonilla pinch running for Jones,C
+ 0-3  0 1-- 00  Giambi flied out to right (X)
+ 0-3  1 1-- 10  Knoblauch grounded into a double play, Branson to 
+                  Fernandez to Boggs (BX)
+ 
+**************  Bottom of the 4th inning, Atoms batting
+                Bonilla moved to third base
+ 0-3  0 --- 32  Hundley struck out (FBSBBC)
+ 0-3  1 --- 00  Branson lined a double down the right field line (X)
+ 0-3  1 -2- 02  Cordova,F struck out (CSS)
+ 0-3  2 -2- 12  Fernandez lined a single down the left field line, 
+                  Branson scored (SBFFX)
+ 0-4  2 1-- 02  Boggs struck out (CFS)
+ 
+**************  Top of the 5th inning, Whales batting
+ 0-4  0 --- 01  Mabry grounded out to second (CX)
+ 0-4  1 --- 02  Morandini doubled deep to right center (SFFFX)
+                Buhner pinch hitting for Johnson,Ra
+ 0-4  1 -2- 00  Buhner lined a single to left center, Morandini scored (X)
+ 1-4  1 1-- 21  Clark,W lined a double to right center, Buhner to third 
+                  (CBBX)
+ 1-4  1 -23 00  O'Neill homered deep to left center, Buhner scored, 
+                  Clark,W scored (X)
+ 4-4  1 --- 00  Stanley lined a single down the left field line (X)
+ 4-4  1 1-- 01  Bonilla grounded out to second, Stanley to second (CX)
+ 4-4  2 -2- 11  Giambi grounded a single between third and short, Stanley 
+                  to third (BFX)
+ 4-4  2 1-3 32  Knoblauch lined a single to shallow left, Stanley scored, 
+                  Giambi to second (BCFBB>F>X)
+ 5-4  2 12- 10  Mabry lined out to center (BX)
+ 
+**************  Bottom of the 5th inning, Atoms batting
+                Henderson now playing center field
+                Frascatore now pitching
+ 5-4  0 --- 21  Williams,Be grounded out to second (CBBX)
+ 5-4  1 --- 32  Ramirez walked (CBFBBB)
+                Klesko pinch hitting for Blowers
+ 5-4  1 1-- 01  Klesko singled to shallow center, Ramirez to second (CX)
+                Magadan pinch hitting for Naehring
+ 5-4  1 12- 10  Magadan grounded into a double play, Morandini to 
+                  Knoblauch to Clark,W (BX)
+ 
+**************  Top of the 6th inning, Whales batting
+                Magadan moved to third base
+                Klesko moved to left field
+ 5-4  0 --- 10  Morandini flied out to right (BX)
+ 5-4  1 --- 02  Henderson grounded out to first (CFX)
+ 5-4  2 --- 32  Clark,W grounded out to second (SFBBBX)
+ 
+**************  Bottom of the 6th inning, Atoms batting
+                Martin,T now pitching
+ 5-4  0 --- 00  Hundley lined a single to shallow left (X)
+ 5-4  0 1-- 10  Branson singled to left center, Hundley to third (BX)
+                O'Brien pinch hitting for Cordova,F
+ 5-4  0 1-3 01  O'Brien homered deep to left, Hundley scored, Branson 
+                  scored (FX)
+                Mesa now pitching
+ 5-7  0 --- 02  Fernandez grounded out to second (SSX)
+                Clark pinch hitting for Boggs
+ 5-7  1 --- 01  Clark grounded a double down the first base line (CX)
+ 5-7  1 -2- 31  Williams,Be walked (BBCBB)
+ 5-7  1 12- 12  Ramirez struck out (CBCC)
+ 5-7  2 12- 12  Klesko struck out (BCCS)
+ 
+**************  Top of the 7th inning, Whales batting
+                Orosco now pitching
+                Clark moved to first base
+ 5-7  0 --- 22  O'Neill struck out, Hundley to Clark (CBCBS)
+ 5-7  1 --- 22  Stanley struck out (BFCBS)
+ 5-7  2 --- 22  Bonilla lined a single to right center (BSFBX)
+ 5-7  2 1-- 22  Giambi struck out (BCBFC)
+ 
+**************  Bottom of the 7th inning, Atoms batting
+ 5-7  0 --- 10  Magadan popped out to short (BX)
+ 5-7  1 --- 21  Hundley flied out to center (FBBX)
+ 5-7  2 --- 21  Branson flied out to center (CBBX)
+ 
+**************  Top of the 8th inning, Whales batting
+ 5-7  0 --- 31  Knoblauch walked (BBBCB)
+                Frye now playing second base
+                White,G now pitching
+                Pratt pinch hitting for Mesa
+ 5-7  0 1-- 22  Pratt reached on an infield single to first, Knoblauch to 
+                  second (FBBSX)
+ 5-7  0 12- 32  Morandini walked, Knoblauch to third, Pratt to second 
+                  (BbBBCFB)
+ 5-7  0 123 02  Henderson grounded into a double play, Fernandez to Frye 
+                  to Clark, Knoblauch scored, Pratt to third (CSX)
+                Wilson,D pinch hitting for Clark,W
+ 6-7  2 --3 11  Wilson,D popped out to second (BFX)
+ 
+**************  Bottom of the 8th inning, Atoms batting
+                Quantrill now pitching
+                Wilson,D moved to first base
+ 6-7  0 --- 12  Frye reached on an infield single to third (CCBFX)
+ 6-7  0 1-- 21  Fernandez reached on an infield single to second, Frye to 
+                  second (BBCX)
+ 6-7  0 12- 10  Clark lined a single to right, Frye to third, Fernandez 
+                  to second (BX)
+                Magnante now pitching
+ 6-7  0 123 11  Williams,Be grounded out to second, Frye scored, 
+                  Fernandez to third, Clark to second (CBX)
+ 6-8  1 -23 30  Ramirez was walked intentionally (IIII)
+ 6-8  1 123 10  Klesko grounded out to short, Fernandez scored, Clark to 
+                  third, Ramirez to second (BX)
+ 6-9  2 -23 20  Magadan grounded out to second (BBX)
+ 
+**************  Top of the 9th inning, Whales batting
+ 6-9  0 --- 11  O'Neill grounded out to second (SBX)
+ 6-9  1 --- 11  Stanley popped out to third (FBX)
+ 6-9  2 --- 12  Bonilla doubled deep to center (SBFX)
+ 6-9  2 -2- 00  Giambi flied out to right (X)
+
+----------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+                  LIMITS:   125    125    105
+----------------------------------------------------------------------------------------------------
+
+                           Playoff Team Status -- 1997 Barcelona Brewers                            
+                               Divisional playoff -- as of 10/1/1997                                
+
+S Name                    Usage     PA     PA Days 
+  Magglio Ordonez            14     10     73    0 
+  Jerome Walton               7      5     74    0 
+  Shane Mack                  5      8    146    0 
+  Robin Ventura               4      8    220    0 
+  Javier Lopez                2      9    464    0 
+  Mo Vaughn                   2     10    628    0 
+  Omar Vizquel                2     10    642    0 
+  Mark McLemore               2      6    399    0 
+  Dave Martinez               1      5    573    0 
+  Carlos Baerga               0      2    498    0 
+  Brady Anderson              0      2    696   10 
+  Orlando Merced              0      1    420    0 
+  Russ Davis                  0      1    455    0 
+f Frank Catalanotto           0      0     29    0 
+f Raul Ibanez                 0      0     26    0 
+  Jesse Levis                 0      0    232    0 
+f Jason McDonald              0      0    276    0 
+f Scott Servais               0      0    425    0 
+f John Wehner                 0      0     40    0 
+f Matt Mieske                 0      0    273    0 
+d Kevin Polcovich             0      0    279   19 
+f Cecil Fielder               0      0    425    0 
+f Randy Knorr                 0      0      8    0 
+f Hanley Frias                0      0     27    0 
+f Bob Natal                   0      0      7    0 
+f Billy Ashley                0      0    140    0 
+f Darnell Coles               0      0     23    0 
+f Matt Lawton                 0      0    548    0 
+f Brian Lesher                0      0    142    0 
+f Kevin Jordan                0      0    183    0 
+  Total                             77   8371      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/1   9/30   9/29   9/28   9/27 
+f Willie Banks               20    1    5    0  9/30/1997           33r                      
+  Billy Brewer                4    1   28    0  9/30/1997           38r                      
+  Pedro J. Martinez           3    1   31    0  9/30/1997          114s                      
+  Mike Timlin                 3    2   64    0  10/1/1997    19r    19r                      
+  Curt Schilling              3    1   35    0  10/1/1997   120s                             
+  Andy Benes                  0    0   26    0   9/7/1997                                    
+f Dave Burba                  0    0   30    0  9/28/1997                         98s        
+d Paul Spoljaric              0    0   57   13  9/28/1997                         21r        
+f Dave Mlicki                 0    0   32    0  9/26/1997                                    
+  Jose Cabrera                0    0   12    0   5/7/1997                                    
+  Mike DeJean                 0    0   55    0  9/12/1997                                    
+  Jerry DiPoto                0    0   74    0  9/27/1997                                21r 
+  Erik Plantenberg            0    0   35    0  9/24/1997                                    
+f Carlos Almanzar             0    0    4    0  9/22/1997                                    
+f Ken Robinson                0    0    3    0  5/12/1997                                    
+f Rafael Carmona              0    0    4    0   5/7/1997                                    
+f John Ericks                 0    0   10    0   8/7/1997                                    
+  Frank Rodriguez             0    0   43    0  9/27/1997                                86s 
+f Mike Bielecki               0    0   50    0  9/28/1997                         12r    30r 
+  Total                            2  167                                                    
+
+
+
+                           Playoff Team Status -- 1997 Chinatrust Whales                            
+                               Divisional playoff -- as of 10/1/1997                                
+
+S Name                    Usage     PA     PA Days 
+  Mike Stanley                2     10    415    0 
+  Will Clark                  2      9    450    0 
+  John Mabry                  2      8    434    0 
+  Jason Giambi                2     10    588    0 
+  Paul O'Neill                2     10    637    0 
+  Mickey Morandini            1      9    640    0 
+  Chuck Knoblauch             1      9    716    0 
+  Chipper Jones               1      7    679    1 
+  Todd Pratt                  1      1    121    0 
+  Bobby Bonilla               0      3    648    0 
+  Rickey Henderson            0      2    509    0 
+  Dan Wilson                  0      1    563    0 
+  Jay Buhner                  0      1    665    0 
+  Tim Bogar                   0      0    275    0 
+f Roberto Kelly               0      0    398    0 
+  Joey Cora                   0      0    649    0 
+d Tony Eusebio                0      0    187   20 
+  Bobby Estalella             0      0     36    0 
+f Pat Meares                  0      0    483    0 
+f Dante Powell                0      0     44    0 
+f Roberto Petagine            0      0     18    0 
+  Total                             80   9155      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/1   9/30   9/29   9/28   9/27 
+  John Frascatore             3    2   59    0  10/1/1997    14r    26r                      
+  Randy Johnson               3    1   30    0  10/1/1997    78s                        109s 
+  Charles Nagy                3    1   34    0  9/30/1997          116s                      
+  Mike Magnante               3    1   40    0  10/1/1997    12r            3r    11r        
+  Tom Martin                  2    1   55    0  10/1/1997     5r                  11r        
+  Jose Mesa                   2    1   66    0  10/1/1997    28r                             
+  Paul Quantrill              1    1   77    0  10/1/1997    11r                             
+  Kevin Appier                0    0   34    0  9/29/1997                 120s               
+f Rigo Beltran                0    0   35    0   9/4/1997                                    
+f Mike Fyhrie                 0    0    0    0                                               
+f Shigetoshi Hasegawa         0    0   50    0  9/28/1997                         10r        
+  Andy Pettitte               0    0   35    0  9/28/1997                         56s        
+f Bobby Ayala                 0    0   71    0  9/24/1997                                    
+f Matt Karchner               0    0   52    0  9/26/1997                                    
+f Darren Hall                 0    0   63    0  9/28/1997                         30r        
+f Scott Karl                  0    0   32    0  9/21/1997                                    
+f Bill Simas                  0    0   40    0  9/28/1997                         27r    22r 
+f Mike Perez                  0    0   16    0  9/19/1997                                    
+f Dan Serafini                0    0    6    0  9/19/1997                                    
+  Total                            2  179                                                    
+
+
+
+                            Playoff Team Status -- 1997 Cincinnati Reds                             
+                               Divisional playoff -- as of 10/1/1997                                
+
+S Name                    Usage     PA     PA Days 
+  F.P. Santangelo             2     10    440    0 
+  Domingo Cedeno              2      9    397    0 
+  Brad Ausmus                 2      9    478    0 
+  Ray Lankford                2     10    566    0 
+  Ken Caminiti                2     10    576    0 
+  Rafael Palmeiro             1     10    692    0 
+  Brian Hunter                1      8    738    0 
+  Ed Taubensee                1      3    283    0 
+  Eric Young                  1      7    718    0 
+  Barry Larkin                1      2    276    0 
+  Eric Davis                  1      1    176    0 
+  Neifi Perez                 0      1    344    0 
+  Melvin Nieves               0      1    405    0 
+  Doug Glanville              0      1    510    0 
+f Trot Nixon                  0      0      0    0 
+f Herb Perry                  0      0      0    0 
+f Geronimo Berroa             0      0    648    0 
+  Dmitri Young                0      0    377    0 
+f Aaron Boone                 0      0     52    0 
+f Ben Grieve                  0      0    108    0 
+f Sal Fasano                  0      0     39    0 
+f Greg Norton                 0      0     37    0 
+f Enrique Wilson              0      0     15    0 
+f Tom Goodwin                 0      0    635    0 
+f Julio Franco                0      0    505    0 
+f Abraham Nunez               0      0     45    0 
+f Yamil Benitez               0      0    204    0 
+  Total                             82   9264      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/1   9/30   9/29   9/28   9/27 
+  Brett Tomko                 5    1   22    0  10/1/1997    72s                             
+  David Wells                 3    1   32    0  9/30/1997          106s                      
+  Mariano Rivera              3    2   66    0  10/1/1997    22r    29r                      
+  Mike Trombley               3    2   67    0  10/1/1997    22r    18r                      
+  Paul Assenmacher            1    1   75    0  9/30/1997           24r                      
+f Hideo Nomo                  0    0   33    0  9/26/1997                                    
+f Livan Hernandez             0    0   17    0  9/11/1997                                    
+  Orel Hershiser              0    0   32    0  9/28/1997                        110s        
+  Shane Reynolds              0    0   30    0  9/19/1997                                    
+f Scott Sullivan              0    0   59    0  9/19/1997                                    
+f Cory Bailey                 0    0    7    0  9/19/1997                                    
+f Joey Hamilton               0    0   31    0  9/27/1997                                67s 
+f Tony Fossas                 0    0   71    0  9/27/1997                                34r 
+f Giovanni Carrara            0    0    2    0   7/4/1997                                    
+  Felix Heredia               0    0   56    0  9/28/1997                         17r        
+f John Hudek                  0    0   40    0  9/27/1997                                14r 
+f Yorkis Perez                0    0    9    0  5/11/1997                                    
+f Joey Eischen                0    0    1    0  9/19/1997                                    
+  Scott Bailes                0    0   24    0  9/28/1997                         14r    20r 
+f Sid Fernandez               0    0    1    0  9/24/1997                                    
+  Todd Worrell                0    0   65    0  9/28/1997                         32r        
+f Eric Plunk                  0    0   55    0  9/27/1997                                38r 
+f Anthony Chavez              0    0    7    0   9/1/1997                                    
+  Total                            2  195                                                    
+
+
+                             Playoff Team Status -- 1997 Century Atoms                              
+                               Divisional playoff -- as of 10/1/1997                                
+
+S Name                    Usage     PA     PA Days 
+  Dave Magadan                2      8    328    0 
+  Jeff Branson                2      4    188    0 
+  Todd Hundley                2      8    508    0 
+  Bernie Williams             2      9    591    0 
+  Manny Ramirez               1      9    651    0 
+  Ryan Klesko                 1      7    525    0 
+  Tony Fernandez              1      5    442    0 
+  Jeff Frye                   1      5    442    0 
+  Mike Blowers                1      2    177    0 
+  Tim Naehring                1      3    301    0 
+  Tony Clark                  1      6    681    0 
+  Tony Phillips               1      5    648    0 
+  Charlie O'Brien             1      2    267    0 
+  Wade Boggs                  1      3    407    0 
+  Reggie Jefferson            0      1    524    0 
+f Sean Casey                  0      0     12    0 
+f Damian Jackson              0      0     42    0 
+f Kelly Stinnett              0      0     39    0 
+f Homer Bush                  0      0     11    0 
+f Kevin Elster                0      0    164    0 
+f Eduardo Perez               0      0    330    0 
+f Pete Incaviglia             0      0    169    0 
+f Todd Dunwoody               0      0     58    0 
+f Randall Simon               0      0     15    0 
+f Hensley Meulens             0      0     29    0 
+f Ray Montgomery              0      0     76    0 
+f Felix Martinez              0      0     38    0 
+f Jack Howell                 0      0    191    0 
+f Mike Benjamin               0      0    123    0 
+f Billy McMillon              0      0     99    0 
+f Chris Jones                 0      0    172    0 
+  Total                             77   8248      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   10/1   9/30   9/29   9/28   9/27 
+  Gabe White                  8    1   12    0  10/1/1997    28r                             
+  Francisco Cordova           3    1   29    0  10/1/1997    82s                        110s 
+  Ismael Valdes               3    1   30    0  9/30/1997           68s                      
+  Brad Radke                  3    1   35    0  9/30/1997            9r           80s        
+  Jesse Orosco                3    2   71    0  10/1/1997    25r    31r            4r        
+  Rich DeLucia                3    1   36    0  9/30/1997            6r           24r    24r 
+  Antonio Osuna               2    1   48    0  9/30/1997           41r                      
+  Steve Reed                  2    1   63    0  9/30/1997           32r                      
+  Todd Jones                  1    1   68    0  9/30/1997            3r           20r    16r 
+f Pat Hentgen                 0    0   35    0  9/24/1997                                    
+f Jeff Nelson                 0    0   77    0  9/28/1997                          6r        
+f Juan Guzman                 0    0   13    0  9/22/1997                                    
+  John Thomson                0    0   27    0  9/26/1997                                    
+f Mike Fetters                0    0   51    0                                               
+f Mike Grace                  0    0    6    0                                               
+f Scott Aldred                0    0   17    0                                               
+  Total                            2  196                                                    

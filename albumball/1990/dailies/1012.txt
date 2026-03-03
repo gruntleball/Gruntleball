@@ -1,0 +1,496 @@
+TPL Postseason, Friday, October 12, 1990
+
+
+*** RESULTS ***
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Reds              0  1  0  0  0  1  0  0  3     5 10  3    10  2
+1990 Beavis            0  0  1  0  0  0  0  1  0     2  7  2     8  0
+Veres (W,1-0), Clemens (L,0-1), Brantley (S,4)
+HR - Pasqua (1)
+Beavis manager reaches new heights in ineptitude, compounded by Eckersley's
+inability to get people out.
+
+Cincinnati leads series 1-0.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  2  0  0  0  1  0  3  0     6 10  0     6  1
+1990 Premiums          1  1  0  0  0  0  0  0  1     3 11  1    12  1
+Scott (W,1-1), Tudor (L,0-1), Franco (S,1)
+HR - Fielder (3), Canseco 2(2), Gant (1), Murray (1)
+The Bronx big bats come through.
+
+The Bronx leads series 1-0.
+
+
+
+*** BOXSCORES AND SCORESHEETS ***
+
+10/12/1990, CIN90-BMB90, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Reds              0  1  0  0  0  1  0  0  3     5 10  3    10  2
+1990 Beavis            0  0  1  0  0  0  0  1  0     2  7  2     8  0
+ 
+Reds                 AB  R  H BI   AVG    Beavis               AB  R  H BI   AVG
+Treadway          2b  5  0  2  0  .176    Moseby            cf  3  0  0  0  .000       
+McGee             cf  4  1  1  0  .375     Javier           ph  2  0  0  0  .000       
+ Brantley         p   0  0  0  0 1.000    Eisenreich        lf  1  1  1  0 1.000       
+Palmeiro          1b  5  1  2  1  .290     Tabler           ph  1  0  0  0  .000       
+Daniels           lf  4  0  0  0  .304    Sandberg          2b  4  0  1  0  .250       
+Brunansky         rf  5  1  2  2  .310    McGwire           1b  4  0  1  1  .250       
+Caminiti          3b  4  1  2  1  .200    Pasqua            rf  4  1  2  1  .500       
+Larkin            ss  4  0  0  0  .250    Williams          3b  4  0  0  0  .000       
+Parrish           c   4  0  0  0  .200    Salas             c   4  0  2  0  .500       
+Benes             p   2  0  0  0  .000    Guillen           ss  4  0  0  0  .000       
+ Lankford         ph  0  0  0  0  .400    Clemens           p   3  0  0  0  .000       
+ Myers            p   0  0  0  0  .000     Eckersley        p   0  0  0  0  .000       
+ Veres            p   0  0  0  0  .000     Ward,T           ph  1  0  0  0  .000       
+ Roberts          ph  1  1  1  0  .348                         35  2  7  2             
+ Nixon            cf  0  0  0  0  .083                                              
+                     38  5 10  4                                                    
+ 
+Reds                             INN  H  R ER BB  K PCH STR   ERA
+Benes                            6.0  6  1  1  2  1 109  64  5.40
+Myers            H 1             1.0  0  0  0  0  2  22  14  2.70
+Veres            BS 1, W 1-0     1.0  1  1  1  0  1  13   9  2.08
+Brantley         S 4             1.0  0  0  0  0  1   9   7  1.13
+                                 9.0  7  2  2  2  5 153  94 
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Clemens          L 0-1           8.2  8  4  3  2  8 125  87  3.12
+Eckersley                        0.1  2  1  1  1  0  12   7 27.00
+                                 9.0 10  5  4  3  8 137  94 
+ 
+CIN: Lankford batted for Benes in the 7th
+     Roberts batted for Veres in the 9th
+     Nixon inserted at cf in the 9th
+BMB: Javier batted for Moseby in the 7th
+     Tabler batted for Eisenreich in the 7th
+     Javier moved to cf in the 8th
+     Tabler moved to lf in the 8th
+     Ward,T batted for Eckersley in the 9th
+ 
+E-Palmeiro, Caminiti, Larkin, Pasqua, Guillen. 2B-Brunansky, Caminiti. 
+HR-Pasqua(1). SB-Caminiti(2), Roberts(1). CS-McGee. K-McGee, Daniels, 
+Brunansky, Caminiti, Parrish 2, Benes 2, Sandberg, Williams, Salas, Javier, 
+Tabler. BB-McGee, Daniels, Caminiti, Eisenreich 2. HBP-Lankford. HB-Clemens. 
+GWRBI: Palmeiro
+Temperature: 66, Sky: partly cloudy, Wind: none.
+
+....................................................................................................
+10/12/1990, CIN90-BMB90, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Reds              0  1  0  0  0  1  0  0  3     5 10  3    10  2
+1990 Beavis            0  0  1  0  0  0  0  1  0     2  7  2     8  0
+ 
+ 
+Reds                 -----A------ -----B------ -----C------ -----D------ -----E------
+Treadway          2b 1>S          3>7          5>S            6            POSB2     
+                                                                           13.2-3    
+McGee             cf   k            7            4/f.B-1      S.1-3        W         
+ Brantley         p                                                                  
+Palmeiro          1b   4            S            CS2(26)      note 1       Eckersley 
+                                                 43                        S.3-H;1-3 
+Daniels           lf   8            e6.1-2;B-1 6>k            43           W.1-2     
+Brunansky         rf 2>D            9            8          8>k            note 2    
+Caminiti          3b   S.2-H      4>W            D            k            4         
+Larkin            ss   8            SB2          e9.2-H;B-2   8                      
+                                    4                                                
+Parrish           c    7            k            1/L        9>k                      
+Benes             p    k            k                                                
+ Lankford         ph                           7>HBP                                 
+ Myers            p                                                                  
+ Veres            p                                                                  
+ Roberts          ph                                          S                      
+ Nixon            cf                                                                 
+ 
+ 1: 32.3xH;1-2;B-1  2: S.3-H;2-H;1-2 
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Moseby            cf 1>e5.B-1       43           2/fl                                
+ Javier           ph                                          6/fl         k         
+Eisenreich        lf   W.1-2        S            W                                   
+ Tabler           ph                                          k                      
+Sandberg          2b   note 1       S.1-2        9            k                      
+McGwire           1b   4            S.2-H;1-3  6>5/fl       8>Veres                  
+                                                              13                     
+Pasqua            rf 2>8            7            S            HR                     
+Williams          3b   e6.B-1     4>k            8            43                     
+Salas             c    9            S            S.1-2        k                      
+Guillen           ss   8            463/gdp      43         9>Brantley               
+                                                              7                      
+Clemens           p  3>7          5>9          7>Myers                               
+                                                 e3.B-1                              
+ Eckersley        p                                                                  
+ Ward,T           ph                                          43                     
+ 
+ 1: 363/gdp.2-3 
+ 
+ 
+Reds             IN OUT ER                  Beavis           IN OUT ER                  
+Benes            A1  C8  1                  Clemens          A1  E2  3 L 0-1            
+Myers            C9  D3  0 H 1              Eckersley        E3  E6  1                  
+Veres            D4  D7  1 BS 1, W 1-0                                                  
+Brantley         D8  E1  0 S 4                                                          
+
+
+
+
+10/12/1990, BRX90-GBP90, Metrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  2  0  0  0  1  0  3  0     6 10  0     6  1
+1990 Premiums          1  1  0  0  0  0  0  0  1     3 11  1    12  1
+ 
+1918s                AB  R  H BI   AVG    Premiums             AB  R  H BI   AVG
+Reynolds          cf  4  0  0  0  .083    Doran             2b  5  0  2  0  .400       
+Bell              ss  5  0  0  0  .238    Morris            lf  4  0  0  0  .000       
+Fielder           1b  5  2  1  1  .207    Gant              cf  4  1  1  1  .250       
+Canseco,J         rf  4  2  2  3  .233    Murray            1b  4  1  2  1  .500       
+Brett             lf  4  1  2  0  .483    Jackson           rf  4  0  3  0  .750       
+Jacoby            3b  3  1  1  0  .423    Bonilla           3b  5  1  1  0  .200       
+Buechele          2b  4  0  2  2  .286    Fisk              c   4  0  1  0  .250       
+ Whitaker         2b  0  0  0  0  .000     Crews            p   0  0  0  0  .000       
+Macfarlane        c   4  0  2  0  .368    Fryman            ss  4  0  1  1  .250       
+Robinson          p   1  0  0  0  .200    Tudor             p   2  0  0  0  .000       
+ Baerga           ph  1  0  0  0  .167     Borders          c   1  0  0  0  .000       
+ Scott            p   0  0  0  0  .000                         37  3 11  3             
+ Nabholz          p   0  0  0  0  .000                                              
+ Parker           ph  1  0  0  0  .000                                              
+ Henke            p   0  0  0  0  .000                                              
+ Leach            p   0  0  0  0  .000                                              
+ Franco           p   0  0  0  0  .000                                              
+                     36  6 10  6                                                    
+ 
+1918s                            INN  H  R ER BB  K PCH STR   ERA
+Robinson                         4.0  7  2  2  0  2  64  42  4.50
+Scott            W 1-1           1.2  2  0  0  3  2  43  24 10.13
+Nabholz          H 2             0.1  0  0  0  0  1   5   3  0.00
+Henke            H 1             2.2  1  1  1  2  4  41  23  3.60
+Leach                            0.0  1  0  0  0  0   5   3  3.00
+Franco           S 1             0.1  0  0  0  0  0   1   1  0.00
+                                 9.0 11  3  3  5  9 159  96 
+ 
+Premiums                         INN  H  R ER BB  K PCH STR   ERA
+Tudor            L 0-1           7.2  7  4  3  1  5 107  69  3.52
+Crews                            1.1  3  2  2  2  4  37  18 13.50
+                                 9.0 10  6  5  3  9 144  87 
+ 
+BRX: Baerga batted for Robinson in the 5th
+     Parker batted for Nabholz in the 7th
+     Whitaker inserted at 2b in the 8th
+GBP: Borders inserted at c in the 8th
+ 
+E-Murray. 2B-Brett, Jacoby, Buechele. 3B-Macfarlane. HR-Fielder(3), 
+Canseco,J 2(2), Gant(1), Murray(1). K-Reynolds, Bell 2, Fielder, Buechele 2, 
+Macfarlane, Robinson, Parker, Doran, Morris, Gant, Jackson, Bonilla 2, 
+Fryman 2, Borders. BB-Reynolds, Jacoby, Henke, Morris, Gant, Murray, Jackson, 
+Tudor. 
+GWRBI: Fielder
+Ron Robinson was injured for this game only
+Temperature: 70, Wind: none.
+
+....................................................................................................
+10/12/1990, BRX90-GBP90, Metrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  2  0  0  0  1  0  3  0     6 10  0     6  1
+1990 Premiums          1  1  0  0  0  0  0  0  1     3 11  1    12  1
+ 
+ 
+1918s                -----A------ -----B------ -----C------ -----D------ -----E------
+Reynolds          cf 1>43         3>W            54/f       8>53           k         
+Bell              ss   63           64/f.B-1   6>k            8            k         
+Fielder           1b   13           143/gdp      HR           e3.B-1       k         
+Canseco,J         rf 2>HR         4>5/fl         8            Crews                  
+                                                              HR.1-H                 
+Brett             lf   S            7            3            D                      
+Jacoby            3b   D.1xH(762)   63         7>4/L          IW                     
+Buechele          2b   D.2-H      5>k            k            S.2-H;1-3              
+ Whitaker         2b                                                                 
+Macfarlane        c    8            S            T            k                      
+Robinson          p    k                                                             
+ Baerga           ph                2/fl                                             
+ Scott            p                                                                  
+ Nabholz          p                                                                  
+ Parker           ph                             k                                   
+ Henke            p                                         9>W                      
+ Leach            p                                                                  
+ Franco           p                                                                  
+ 
+ 
+Premiums             -----A------ -----B------ -----C------ -----D------ -----E------
+Doran             2b 1>43           S.2-3;1-2  5>Scott        S.1-2        8         
+                                                 k                                   
+Morris            lf   53           643/gdp      W            Nabholz    9>63        
+                                                              k                      
+Gant              cf   HR         3>6            W.1-2      7>Henke        43        
+                                                              k                      
+Murray            1b   S            7            2/fl         W            HR        
+Jackson           rf   k            S            S.2-3;1-2    W.1-2        Leach     
+                                                                           S         
+Bonilla           3b 2>S            k            8            k            Franco    
+                                                                           8         
+Fisk              c    S.1-3      4>53         6>63           8                      
+ Crews            p                                                                  
+Fryman            ss   S.3-H;1-2    43           k          8>k                      
+Tudor             p    7            7            W                                   
+ Borders          c                                           k                      
+ 
+ 
+1918s            IN OUT ER                  Premiums         IN OUT ER                  
+Robinson         A1  B9  2                  Tudor            A1  D3  3 L 0-1            
+Scott            C1  D1  0 W 1-1            Crews            D4  E3  2                  
+Nabholz          D2  D2  0 H 2                                                          
+Henke            D3  E4  1 H 1                                                          
+Leach            E5  E5  0                                                              
+Franco           E6  E6  0 S 1                                                          
+
+
+
+
+*** PLAYING TIME REPORT ***
+
+                           Postseason Status -- 1990 Butt Mountain Beavis                           
+                               Divisional playoff -- as of 10/12/1990                               
+
+                         vs LHP vs RHP  Total  Inj --------Batters Faced as Catcher-------- 
+S Name                    Usage  Usage  Usage Days 10/1 10/1 10/1 10/9 10/8 10/7 10/6   Cum 
+  Mark Salas                  0      3      2    0   42                                  42 
+  Turner Ward                 0      3      2    0                                          
+  Dan Pasqua                  0      1      1    0                                          
+  Ozzie Guillen               0      1      1    0                                          
+  Lloyd Moseby                0      1      1    0                                          
+  Mark McGwire                0      1      1    0                                          
+  Matt Williams               0      1      1    0                                          
+  Ryne Sandberg               0      1      1    0                                          
+  Stan Javier                 1      0      1    0                                          
+  Jim Eisenreich              0      1      1    0                                          
+  Pat Tabler                  1      0      0    0                                          
+f Terry Steinbach             0      0      0    0                                          
+f Wally Backman               0      0      0    0                                          
+f Skeeter Barnes              0      0      0    0                                          
+f Hector Villanueva           0      0      0    0                                          
+  Juan Samuel                 0      0      0    0                                          
+  Dale Murphy                 0      0      0    0                                          
+f Warren Cromartie            0      0      0    0                                          
+f Chris James                 0      0      0    0                                          
+  Casey Candaele              0      0      0    0                                          
+f Wes Chamberlain             0      0      0    0                                          
+  Jamie Quirk                 0      0      0    0                                          
+f Dave Anderson               0      0      0    0                                          
+f Juan Gonzalez               0      0      0    0                                          
+
+
+
+                                 Inj            ----------Pitches Thrown--------- 
+S Name                    Usage Days       Last  10/12  10/11  10/10   10/9   Cum 
+  Tom Bolton                  0    0   9/5/1990                                   
+  Roger Clemens               4    0 10/12/1990   125s                        125 
+  Dennis Eckersley            2    0 10/12/1990    12r                         12 
+  Wayne Edwards               0    0  9/30/1990                                   
+  Willie Fraser               0    0  9/28/1990                                   
+f Marvin Freeman              0    0  8/25/1990                                   
+  Jerry Don Gleaton           0    0  9/30/1990                                   
+  Jeff Gray                   0    0  9/21/1990                                   
+f Chris Hammond               0    0   6/5/1990                                   
+f Ken Hill                    0    0  9/21/1990                                   
+f Tim Layana                  0    0  9/29/1990                                   
+f Scott Lewis                 0    0  9/26/1990                                   
+f Rob MacDonald               0    0   6/9/1990                                   
+  Greg Maddux                 0    0  9/28/1990                                   
+f Jose Melendez               0    0  4/23/1990                                   
+  Jim Neidlinger              0    0  9/11/1990                                   
+f Steve Ontiveros             0    0   9/6/1990                                   
+f Al Osuna                    0    0   5/9/1990                                   
+  Dave Smith                  0    0  9/29/1990                                   
+f John Smoltz                 0    0  9/29/1990                                   
+
+
+
+                           Postseason Status -- 1990 Grain Belt Premiums                            
+                               Divisional playoff -- as of 10/12/1990                               
+
+                         vs LHP vs RHP  Total  Inj --------Batters Faced as Catcher-------- 
+S Name                    Usage  Usage  Usage Days 10/1 10/1 10/1 10/9 10/8 10/7 10/6   Cum 
+  Travis Fryman               0      3      2    0                                          
+  Hal Morris                  1      2      1    0                                          
+  Bo Jackson                  0      2      1    0                                          
+  Bill Doran                  0      2      1    0                                          
+  Ron Gant                    0      1      1    0                                          
+  Eddie Murray                0      1      1    0                                          
+  Carlton Fisk                0      1      1    0   30                                  30 
+  Bobby Bonilla               0      1      1    0                                          
+  Pat Borders                 0      1      0    0    9                                   9 
+f Randy Bush                  0      0      0    0                                          
+  Kirby Puckett               0      0      0    0                                          
+f Ernest Riles                0      0      0    0                                          
+f Lenny Harris                0      0      0    0                                          
+  Jeff Blauser                0      0      0    0                                          
+f Tom Pagnozzi                0      0      0    0                                          
+  Rex Hudler                  0      0      0    0                                          
+f Junior Felix                0      0      0    0                                          
+  Billy Ripken                0      0      0    0                                          
+f Brian Downing               0      0      0    0                                          
+  Kent Anderson               0      0      0    0                                          
+  Mike Greenwell              0      0      0    0                                          
+f Mark Whiten                 0      0      0    0                                          
+f Max Venable                 0      0      0    0                                          
+f Barry Lyons                 0      0      0    0                                          
+f Rob Ducey                   0      0      0    0                                          
+
+
+
+                                 Inj            ----------Pitches Thrown--------- 
+S Name                    Usage Days       Last  10/12  10/11  10/10   10/9   Cum 
+  Larry Andersen              0    0  9/30/1990                                   
+f Brad Arnsberg               0    0  9/20/1990                                   
+f Paul Assenmacher            0    0  9/26/1990                                   
+  Oil Can Boyd                0    0  9/30/1990                                   
+  Kevin D. Brown              0    0  5/13/1990                                   
+  Tim Crews                   2    0 10/12/1990    37r                         37 
+  Steve Farr                  0    0  9/28/1990                                   
+f Steve Frey                  0    0   7/1/1990                                   
+  Mike Harkey                 0    0  9/20/1990                                   
+f Barry Jones                 0    0  9/28/1990                                   
+  Joe Klink                   0    0   9/8/1990                                   
+f Bill Landrum                0    0  9/20/1990                                   
+f Mark Lee                    0    0                                              
+f Charlie Leibrandt           0    0  9/15/1990                                   
+f Andy McGaffigan             0    0                                              
+f Brian Meyer                 0    0   9/6/1990                                   
+f Edwin Nunez                 0    0   9/9/1990                                   
+f Dave Pavlas                 0    0  9/22/1990                                   
+f Jose Rijo                   0    0  8/27/1990                                   
+  Bobby Thigpen               0    0  9/28/1990                                   
+  John Tudor                  5    0 10/12/1990   107s                        107 
+  Ed Whitson                  0    0  9/29/1990                                   
+
+
+
+                             Postseason Status -- 1990 The Bronx 1918s                              
+                               Divisional playoff -- as of 10/12/1990                               
+
+                         vs LHP vs RHP  Total  Inj --------Batters Faced as Catcher-------- 
+S Name                    Usage  Usage  Usage Days 10/1 10/1 10/1 10/9 10/8 10/7 10/6   Cum 
+  Willie Wilson               2      8      6    0                                          
+  Jose Canseco                6      5      6    0                                          
+  R.J. Reynolds               6      4      5    0                                          
+  George Brett                5      5      5    0                                          
+  Mike Macfarlane             4      6      5    0   42             35        45   35   194 
+  Cecil Fielder               5      4      5    0                                          
+  Brook Jacoby                5      4      4    0                                          
+  Lou Whitaker                2      4      4    0                                          
+  Jay Bell                    2      5      4    0                                          
+  Steve Buechele              7      1      3    0                                          
+  Jeff Reed                   0      2      2    0                                          
+  Carlos Baerga               1      2      2    0                                          
+  Alex Cole                   0      2      1    0                                          
+  Dave Parker                 1      1      1    0                                          
+f Vince Coleman               0      0      0    0                                          
+f Steve Balboni               0      0      0    0                                          
+f Pete Incaviglia             0      0      0    0                                          
+f Gerald Perry                0      0      0    0                                          
+f Chuck Carr                  0      0      0    0                                          
+f Don Mattingly               0      0      0    0                                          
+f Dan Gladden                 0      0      0    0                                          
+f John Marzano                0      0      0    0                                          
+f John Orton                  0      0      0    0                                          
+f Tom Nieto                   0      0      0    0                                          
+  Mike Benjamin               0      0      0    0                                          
+f Hensley Meulens             0      0      0    0                                          
+f Greg Briley                 0      0      0    0                                          
+f Stan Jefferson              0      0      0    0                                          
+f Donell Nixon                0      0      0    0                                          
+f Tom Foley                   0      0      0    0                                          
+
+
+
+                                 Inj            ----------Pitches Thrown--------- 
+S Name                    Usage Days       Last  10/12  10/11  10/10   10/9   Cum 
+f Don Aase                    0    0                                              
+f Brian Barnes                0    0  9/29/1990                                   
+  David Cone                  7    0  10/9/1990                        107s   107 
+  Doug Drabek                 4    0  10/6/1990                                   
+f Mike Dunne                  0    0                                              
+  John Franco                 0    0 10/12/1990     1r                          1 
+f Drew Hall                   0    0  8/24/1990                                   
+  Tom Henke                   8    0 10/12/1990    41r                   8r    49 
+f Steve Howe                  0    0                                              
+f Jeff Innis                  0    0  8/30/1990                                   
+f Dana Kiecker                0    0  9/30/1990                                   
+  Bob Kipper                  0    0  9/18/1990                                   
+  Terry Leach                 4    0 10/12/1990     5r                          5 
+f Al Leiter                   0    0  7/28/1990                                   
+  Ramon Martinez              6    0  10/7/1990                                   
+  Chris Nabholz               1    0 10/12/1990     5r                  14r    19 
+  Ron Robinson                7    1 10/12/1990    64s                         64 
+f Scott Sanderson             0    0  9/30/1990                                   
+  Mike Scott                  3    0 10/12/1990    43r                         43 
+
+
+
+                             Postseason Status -- 1990 Cincinnati Reds                              
+                               Divisional playoff -- as of 10/12/1990                               
+
+                         vs LHP vs RHP  Total  Inj --------Batters Faced as Catcher-------- 
+S Name                    Usage  Usage  Usage Days 10/1 10/1 10/1 10/9 10/8 10/7 10/6   Cum 
+  Otis Nixon                  1     15      6    0                                          
+  Tom Brunansky               2      7      5    0                                          
+  Rafael Palmeiro             2      7      5    0                                          
+  Lance Parrish               2      6      5    0   37        12   32        49   39   204 
+  Kal Daniels                 2      6      5    0                                          
+  Ken Caminiti                1      7      5    0                                          
+  Barry Larkin                1      6      4    0                                          
+  Ray Lankford                4      4      4    0                                          
+  Bip Roberts                 1      6      4    0                                          
+  Eddie Williams              6      0      4    0                                          
+  Jeff Treadway               1      4      4    0                                          
+  Willie McGee                1      4      3    0                                          
+  Ron Oester                  2      2      2    0                                          
+  Mackey Sasser               0      1      1    0             25                        25 
+f Johnny Ray                  0      0      0    0                                          
+f Geronimo Berroa             0      0      0    0                                          
+f Moises Alou                 0      0      0    0                                          
+f Al Newman                   0      0      0    0                                          
+f Carmelo Martinez            0      0      0    0                                          
+f Hubie Brooks                0      0      0    0                                          
+f Steve Lake                  0      0      0    0                                          
+f Jose Uribe                  0      0      0    0                                          
+f Rey Palacios                0      0      0    0                                          
+f Bob Melvin                  0      0      0    0                                          
+f Mike Felder                 0      0      0    0                                          
+f Larry Sheets                0      0      0    0                                          
+
+
+
+                                 Inj            ----------Pitches Thrown--------- 
+S Name                    Usage Days       Last  10/12  10/11  10/10   10/9   Cum 
+f Juan Agosto                 0    0  9/28/1990                                   
+f Scott Bankhead              0    0                                              
+  Andy Benes                  9    0 10/12/1990   109s                        109 
+  Jeff Brantley               9    0 10/12/1990     9r           22r           31 
+f Dave Burba                  0    0  4/17/1990                                   
+  Norm Charlton               0    0  9/30/1990                                   
+  Sid Fernandez               8    0  10/9/1990                        111s   111 
+f Jason Grimsley              0    0  4/20/1990                                   
+  Mark Guthrie                3    0  10/7/1990                                   
+f Mike Jackson                1    0  10/7/1990                                   
+f Mike LaCoss                 0    0                                              
+f Rob Murphy                  0    0                                              
+  Randy Myers                 4    0 10/12/1990    22r                         22 
+  Alejandro Pena              2    0  10/6/1990                                   
+  Mark Portugal               6    0 10/10/1990                 108s          108 
+  Dave Righetti               0    0  9/30/1990                                   
+f Bill Sampen                 0    0  9/29/1990                                   
+f Rudy Seanez                 6    0  10/7/1990                                   
+  Mark Thurmond               0    0  9/29/1990                                   
+  Randy Veres                10    0 10/12/1990    13r                         13 
+f Bob Welch                   2    0  10/6/1990                                   
+
+
+

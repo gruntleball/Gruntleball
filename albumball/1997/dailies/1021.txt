@@ -1,0 +1,410 @@
+BRIGHTEN THE CORNERS, DAILY
+Tuesday, October 21, 1997
+League Championship Series - Game 2
+http://chinatrust.googlepages.com/
+
+----------------------------------------------------------------------------------------------------
+ROSTER NOTES
+----------------------------------------------------------------------------------------------------
+
+Due to a WCM foul-up, Doug Henry was left off the Baraboo roster and Jeremi Gonzalez was left on it.
+I have farmed Gonzalez, even though he pitched Game 1.  I held Henry off the roster until Game 3
+because it is likely that Gonzalez would not have been used in Game 2, and therefore I did not want
+his replacement, Henry, being used in Game 2 either.  I will also subtract one game from Henry's 
+eligibility.  My apologies for the mix-up.
+
+----------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+----------------------------------------------------------------------------------------------------
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/10/1997 TEW     Garciaparra      General             10/26/1997   16    5 
+
+----------------------------------------------------------------------------------------------------
+TRANSACTIONS
+----------------------------------------------------------------------------------------------------
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+10/23/1997 BBG     Henry,B             Promoted to active roster                          Before   
+10/21/1997 BBG     Gonzalez,Je         Demoted to reserve roster                          Before   
+
+----------------------------------------------------------------------------------------------------
+RESULTS
+----------------------------------------------------------------------------------------------------
+
+10/21/1997, TEW97-BBG97, Candlestick Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Bobs              0  1  0  1  0  0  5  0  0     7 10  2     8  2
+1997 GoiterMen         0  0  0  0  0  0  0  1  0     1  1  0     9  0
+ 
+Bobs                 AB  R  H BI   AVG    GoiterMen            AB  R  H BI   AVG
+Erstad            cf  5  1  1  0  .200    Gwynn             rf  5  1  0  0  .100
+Greer             lf  5  1  1  2  .222    Spiers            2b  3  0  0  0  .167
+Delgado,C         1b  4  1  0  0  .000    Bagwell           1b  4  0  0  1  .000
+Orie              3b  4  2  1  0  .200    Nunnally          lf  4  0  0  0  .143
+Sanders,R         rf  5  1  2  0  .375    Zeile             3b  2  0  0  0  .400
+Strange           2b  5  1  3  3  .600     Montgomery,J     p   0  0  0  0  .000
+Leyritz           c   3  0  0  0  .000     Ledesma          ph  1  0  0  0  .000
+Clayton           ss  2  0  0  0  .000     Gunderson        p   0  0  0  0  .000
+Benes,Al          p   4  0  2  1  .500    Alomar,S          c   3  0  1  0  .429
+ Dreifort         p   0  0  0  0  .000    Blauser           ss  2  0  0  0  .000
+                     37  7 10  6          Lofton            cf  3  0  0  0  .167
+                                           Smith,M          ph  0  0  0  0  .000
+                                          Erickson          p   1  0  0  0  .000
+                                           Samuel           3b  1  0  0  0  .000
+                                                               29  1  1  1
+ 
+Bobs                             INN  H  R ER BB  K PCH STR   ERA
+Benes,Al         W 1-0           7.2  1  1  0  4  5 121  62  0.00
+Dreifort                         1.1  0  0  0  2  0  30  13  0.00
+                                 9.0  1  1  0  6  5 151  75 
+ 
+GoiterMen                        INN  H  R ER BB  K PCH STR   ERA
+Erickson         L 0-1           6.1  7  5  5  4  5 115  71  7.11
+Montgomery,J                     1.2  2  2  2  1  2  29  18 10.80
+Gunderson                        1.0  1  0  0  0  1  19  10  0.00
+                                 9.0 10  7  7  5  8 163  99 
+ 
+BBG: Samuel inserted at 3b in the 7th
+     Ledesma batted for Montgomery,J in the 8th
+     Smith,M batted for Lofton in the 9th
+ 
+E-Orie 2. 2B-Erstad, Sanders,R, Strange. HR-Greer(2), Strange(1). K-Greer, 
+Orie, Sanders,R, Leyritz 3, Clayton, Benes,Al, Spiers 2, Zeile 2, Alomar,S. 
+BB-Delgado,C, Orie, Leyritz, Clayton 2, Spiers, Zeile, Alomar,S, Erickson, 
+Samuel, Smith,M. HBP-Blauser 2. HB-Benes,Al 2. WP-Benes,Al 2, Erickson. 
+Temperature: 51, Sky: clear, Wind: left to right at 16 MPH.
+
+....................................................................................................
+10/21/1997, TEW97-BBG97, Candlestick Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Bobs              0  1  0  1  0  0  5  0  0     7 10  2     8  2
+1997 GoiterMen         0  0  0  0  0  0  0  1  0     1  1  0     9  0
+ 
+ 
+Bobs                 -----A------ -----B------ -----C------ -----D------ -----E------
+Erstad            cf 1>63           43           5            4/f.B-1      D         
+Greer             lf   1/L        3>k            64/f         HR.1-H       43        
+Delgado,C         1b   63           8          5>43           W          9>Gunderson 
+                                                                           7         
+Orie              3b 2>S            4/L          9            note 1       k         
+                                                              W.1-2                  
+Sanders,R         rf   9          4>S            63           k            D         
+Strange           2b   D.1-3        S.1-3      6>63           HR.2-H;1-H   6         
+Leyritz           c    wp.3-H;2-3   k            k            k                      
+                       W                                                             
+Clayton           ss   W.1-2        W.1-2        k          8>5/L                    
+Benes,Al          p    k            note 2     7>S            7                      
+ Dreifort         p                                                                  
+ 
+ 1: Montgomery,J  2: S.3-H;2-3;1-2 
+ 
+ 
+GoiterMen            -----A------ -----B------ -----C------ -----D------ -----E------
+Gwynn             rf 1>9            43           463/gdp      e5.B-1       31        
+Spiers            2b   k            W            8            wp.1-2                 
+                                                              note 1                 
+Bagwell           1b   1            7          6>4/L          63.3-H;1-2             
+Nunnally          lf 2>31         4>5/fl         53           e5.2-3;B-1             
+Zeile             3b   k            W            k                                   
+ Montgomery,J     p                                                                  
+ Ledesma          ph                                          Dreifort               
+                                                              53                     
+ Gunderson        p                                                                  
+Alomar,S          c    S            W.1-2      7>k          9>43                     
+Blauser           ss   HBP.1-2      8.2-3        HBP          63                     
+Lofton            cf   53           4/L          63/gdp                              
+ Smith,M          ph                                          W                      
+Erickson          p  3>3          5>W                                                
+ Samuel           3b                           8>9            W.1-2                  
+ 
+ 1: k+wp.2-3;B-1 
+ 
+ 
+Bobs             IN OUT ER                  GoiterMen        IN OUT ER                  
+Benes,Al         A1  D4  0 W 1-0            Erickson         A1  D3  5 L 0-1            
+Dreifort         D5  E1  0                  Montgomery,J     D4  E2  2                  
+                                            Gunderson        E3  E6  0                  
+
+....................................................................................................
+10/21/1997, TEW97-BBG97, Candlestick Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Bobs              0  1  0  1  0  0  5  0  0     7 10  2     8  2
+1997 GoiterMen         0  0  0  0  0  0  0  1  0     1  1  0     9  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Bobs batting
+ 0-0  0 --- 01  Erstad grounded out to short (CX)
+ 0-0  1 --- 11  Greer lined out to the mound (SBX)
+ 0-0  2 --- 32  Delgado,C grounded out to short (FBBCFBFX)
+ 
+**************  Bottom of the 1st inning, GoiterMen batting
+ 0-0  0 --- 00  Gwynn flied out to right (X)
+ 0-0  1 --- 02  Spiers struck out (CSS)
+ 0-0  2 --- 31  Bagwell popped out to the mound (BSBBX)
+ 
+**************  Top of the 2nd inning, Bobs batting
+ 0-0  0 --- 11  Orie lined a single to shallow center (BCX)
+ 0-0  0 1-- 22  Sanders,R flied out to right (FBBFX)
+ 0-0  1 1-- 22  Strange lined a double to right center, Orie to third 
+                  (BFSBX)
+ 0-0  1 -23 10  Erickson threw a wild pitch, Orie scored, Strange to 
+                  third (BB)
+ 1-0  1 --3 31  Leyritz walked (BB.CBB)
+ 1-0  1 1-3 32  Clayton walked, Leyritz to second (BCCFBBB)
+ 1-0  1 123 02  Benes,Al struck out (CCS)
+ 1-0  2 123 11  Erstad grounded out to second (CBX)
+ 
+**************  Bottom of the 2nd inning, GoiterMen batting
+ 1-0  0 --- 22  Nunnally grounded out to first (BCFFBFX)
+ 1-0  1 --- 22  Zeile struck out (BFSBS)
+ 1-0  2 --- 00  Alomar,S grounded a single up the middle (X)
+ 1-0  2 1-- 11  Blauser was hit by a pitch, Alomar,S to second (FBH)
+ 1-0  2 12- 31  Lofton grounded out to third (CBBBX)
+ 
+**************  Top of the 3rd inning, Bobs batting
+ 1-0  0 --- 02  Greer struck out (FSC)
+ 1-0  1 --- 22  Delgado,C lined out to center (BBFFX)
+ 1-0  2 --- 22  Orie lined out to second (CSFBBX)
+ 
+**************  Bottom of the 3rd inning, GoiterMen batting
+ 1-0  0 --- 21  Erickson popped out to first (BBFX)
+ 1-0  1 --- 12  Gwynn grounded out to second (BFFX)
+ 1-0  2 --- 30  Spiers walked (BBBB)
+ 1-0  2 1-- 31  Bagwell flied out to left (CBBBX)
+ 
+**************  Top of the 4th inning, Bobs batting
+ 1-0  0 --- 11  Sanders,R grounded a single up the middle (BCX)
+ 1-0  0 1-- 01  Strange singled to right center, Sanders,R to third (CX)
+ 1-0  0 1-3 12  Leyritz struck out (CCBS)
+ 1-0  1 1-3 32  Clayton walked, Strange to second (BFBSFBB)
+ 1-0  1 123 01  Benes,Al reached on an infield single to short, Sanders,R 
+                  scored, Strange to third, Clayton to second (SX)
+ 2-0  1 123 21  Erstad popped out to third (BBCX)
+ 2-0  2 123 22  Greer grounded to short, forcing Benes,Al at second 
+                  (SSBBX)
+ 
+**************  Bottom of the 4th inning, GoiterMen batting
+ 2-0  0 --- 00  Nunnally popped out to third (X)
+ 2-0  1 --- 30  Zeile walked (BBBB)
+ 2-0  1 1-- 32  Alomar,S walked, Zeile to second (BCBSBB)
+ 2-0  1 12- 01  Blauser flied out to center, Zeile to third (CX)
+ 2-0  2 1-3 21  Lofton lined out to second (BFBX)
+ 
+**************  Top of the 5th inning, Bobs batting
+ 2-0  0 --- 01  Delgado,C grounded out to second (CX)
+ 2-0  1 --- 00  Orie flied out to right (X)
+ 2-0  2 --- 32  Sanders,R grounded out to short (CFBBBX)
+ 
+**************  Bottom of the 5th inning, GoiterMen batting
+ 2-0  0 --- 32  Erickson walked (BBBCSB)
+ 2-0  0 1-- 32  Gwynn grounded into a double play, Strange to Clayton to 
+                  Delgado,C (BBFSBX)
+ 2-0  2 --- 21  Spiers flied out to center (BCBX)
+ 
+**************  Top of the 6th inning, Bobs batting
+ 2-0  0 --- 00  Strange grounded out to short (X)
+ 2-0  1 --- 12  Leyritz struck out (CSBS)
+ 2-0  2 --- 12  Clayton struck out (FCBS)
+ 
+**************  Bottom of the 6th inning, GoiterMen batting
+ 2-0  0 --- 01  Bagwell lined out to second (CX)
+ 2-0  1 --- 10  Nunnally grounded out to third (BX)
+ 2-0  2 --- 12  Zeile struck out (FSBFS)
+ 
+**************  Top of the 7th inning, Bobs batting
+ 2-0  0 --- 10  Benes,Al lined a single to shallow left (BX)
+ 2-0  0 1-- 20  Erstad grounded to second, forcing Benes,Al at second, 
+                  Erstad to first (BBX)
+ 2-0  1 1-- 01  Greer homered deep to right, Erstad scored (1FX)
+ 4-0  1 --- 31  Delgado,C walked (BBBCB)
+                Samuel now playing third base
+                Montgomery,J now pitching
+ 4-0  1 1-- 31  Orie walked, Delgado,C to second (SBBBB)
+ 4-0  1 12- 12  Sanders,R struck out (CSFBFS)
+ 4-0  2 12- 00  Strange homered deep to left, Delgado,C scored, Orie 
+                  scored (X)
+ 7-0  2 --- 32  Leyritz struck out (BBBCFS)
+ 
+**************  Bottom of the 7th inning, GoiterMen batting
+ 7-0  0 --- 22  Alomar,S struck out (BFSBFS)
+ 7-0  1 --- 10  Blauser was hit by a pitch (BH)
+ 7-0  1 1-- 10  Lofton grounded into a double play, Clayton to Delgado,C 
+                  (BX)
+ 
+**************  Top of the 8th inning, Bobs batting
+ 7-0  0 --- 01  Clayton lined out to third (FX)
+ 7-0  1 --- 22  Benes,Al flied out to left (BSCBX)
+ 7-0  2 --- 01  Erstad lined a double down the right field line (FX)
+ 7-0  2 -2- 10  Greer grounded out to second (BX)
+ 
+**************  Bottom of the 8th inning, GoiterMen batting
+ 7-0  0 --- 20  Samuel popped out to right (BBX)
+ 7-0  1 --- 31  Gwynn to first on an error by the third baseman Orie 
+                  (BCBBX)
+ 7-0  1 1-- 00  Benes,Al threw a wild pitch, Gwynn to second (B)
+ 7-0  1 -2- 32  Spiers struck out, strike three was a wild pitch by 
+                  Benes,Al, Gwynn to third, Spiers to first (B.CFBBS)
+ 7-0  1 1-3 22  Bagwell grounded out to short, Gwynn scored, Spiers to 
+                  second (BCBSX)
+ 7-1  2 -2- 11  Spiers to third, Nunnally to first on an error by the 
+                  third baseman Orie (FBX)
+                Ledesma pinch hitting for Montgomery,J
+                Dreifort now pitching
+ 7-1  2 1-3 21  Ledesma grounded out to third (BBCX)
+ 
+**************  Top of the 9th inning, Bobs batting
+                Gunderson now pitching
+ 7-1  0 --- 21  Delgado,C flied out to left (BBSX)
+ 7-1  1 --- 32  Orie struck out (BBCBFS)
+ 7-1  2 --- 22  Sanders,R doubled deep to left center (CBFBX)
+ 7-1  2 -2- 21  Strange popped out to short (BSBX)
+ 
+**************  Bottom of the 9th inning, GoiterMen batting
+ 7-1  0 --- 32  Alomar,S grounded out to second (CBCBBX)
+ 7-1  1 --- 21  Blauser grounded out to short (CBBX)
+                Smith,M pinch hitting for Lofton
+ 7-1  2 --- 31  Smith,M walked (CBBBB)
+ 7-1  2 1-- 32  Samuel walked, Smith,M to second (CBFBB>B)
+ 7-1  2 12- 22  Gwynn grounded out to first (BCBFX)
+
+----------------------------------------------------------------------------------------------------
+STANDINGS
+----------------------------------------------------------------------------------------------------
+
+BBG 0  TEW 2
+
+----------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+                  LIMITS:   125    125    105
+----------------------------------------------------------------------------------------------------
+
+                          Championship Team Status -- 1997 Tewksbury Bobs                           
+                              League championship -- as of 10/21/1997                               
+
+S Name                    Usage     PA     PA Days 
+  Tripp Cromer                5      5     95    0 
+  Reggie Sanders              3     10    358    0 
+  Jim Leyritz                 2      8    456    0 
+  Rusty Greer                 1     10    690    0 
+  Kevin Orie                  1      6    418    0 
+  Doug Strange                1      5    372    0 
+  Royce Clayton               1      8    619    0 
+  Charlie Hayes               1      4    398    0 
+  Chili Davis                 1      5    567    0 
+  Carlos Delgado              1      5    595    0 
+  Darin Erstad                1      5    605    0 
+  Bernard Gilkey              1      5    606    0 
+f Luis Gonzalez               0      0    631    0 
+  Brent Mayne                 0      0    282    0 
+f Mike Kelly                  0      0    151    0 
+d Nomar Garciaparra           0      0    734    5 
+f Kevin Sefcik                0      0    131    0 
+f Eric Owens                  0      0     61    0 
+f Chris Widger                0      0    305    0 
+  Derek Bell                  0      0    547    0 
+f Andy Fox                    0      0     40    0 
+f Ryne Sandberg               0      0    480    0 
+f John Flaherty               0      0    476    0 
+f John Marzano                0      0     96    0 
+  Micah Franklin              0      0     37    0 
+  Total                             76   9750      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/21  10/20  10/19  10/18  10/17 
+  Alan Benes                  4    1   23    0 10/21/1997   121s                             
+  Rick Reed                   3    1   33    0 10/20/1997          109s                      
+  Wilson Alvarez              3    1   33    0 10/20/1997           37r                      
+  Darren Dreifort             2    1   48    0 10/21/1997    30r                             
+f Matt Mantei                 0    0    0    0                                               
+  Anthony Telford             0    0   65    0 10/14/1997                                    
+f Tom Candiotti               0    0   41    0                                               
+  Marc Valdes                 0    0   48    0  9/24/1997                                    
+  John Wetteland              0    0   61    0 10/10/1997                                    
+  Ben McDonald                0    0   21    0 10/13/1997                                    
+f Bob Tewksbury               0    0   26    0  9/28/1997                                    
+f Joe Borowski                0    0   21    0  9/24/1997                                    
+f Derek Lowe                  0    0   20    0   9/7/1997                                    
+f Donne Wall                  0    0    8    0   9/5/1997                                    
+f Russ Springer               0    0   54    0  6/28/1997                                    
+f Keith Foulke                0    0   27    0  7/27/1997                                    
+f Bobby Jones                 0    0   30    0  9/25/1997                                    
+f Cory Lidle                  0    0   54    0  9/23/1997                                    
+f Bob Patterson               0    0   76    0  9/13/1997                                    
+f Jim Bruske                  0    0   28    0  9/28/1997                                    
+f Mike Thurman                0    0    5    0  9/22/1997                                    
+  Marc Pisciotta              0    0   24    0 10/13/1997                                    
+f Ken Cloude                  0    0   10    0  9/27/1997                                    
+  Total                            2  227                                                    
+
+
+
+                         Championship Team Status -- 1997 Baraboo GoiterMen                         
+                              League championship -- as of 10/21/1997                               
+
+S Name                    Usage     PA     PA Days 
+  Jon Nunnally                3      7    266    0 
+  Bill Spiers                 2      8    355    0 
+  Aaron Ledesma               2      2    104    0 
+  Juan Samuel                 2      2    108    0 
+  Sandy Alomar Jr.            2      8    480    0 
+  Tony Gwynn                  2     10    651    0 
+  Jeff Blauser                1      8    623    0 
+  Jeff Bagwell                1      8    717    0 
+  Kenny Lofton                1      6    564    0 
+  Mark Smith                  1      2    222    0 
+  Todd Zeile                  1      6    672    0 
+  Jack Voigt                  1      1    174    0 
+  Chad Curtis                 0      1    408    0 
+  Jeff Kent                   0      0    651    0 
+f Rich Aurilia                0      0    113    0 
+f Tony Graffanino             0      0    221    0 
+f Matt Walbeck                0      0    151    0 
+  Jorge Posada                0      0    224    0 
+f Fernando Tatis              0      0    241    0 
+f Rob Ducey                   0      0    151    0 
+f Brian Johnson               0      0    348    0 
+f Brett Butler                0      0    401    0 
+f Bob Hamelin                 0      0    370    0 
+f David Howard                0      0    177    0 
+f Pat Kelly                   0      0    138    0 
+f Josh Booty                  0      0      6    0 
+f Jim Eisenreich              0      0    331    0 
+  Total                             69   8867      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/21  10/20  10/19  10/18  10/17 
+f Jeremi Gonzalez             4    1   23    0 10/20/1997           39r                      
+  Justin Thompson             3    1   32    0 10/20/1997          106s                      
+  Scott Erickson              3    1   34    0 10/21/1997   115s                             
+  Jeff Montgomery             2    1   55    0 10/21/1997    29r                             
+  Eric Gunderson              2    1   60    0 10/21/1997    19r                             
+  Butch Henry                 0    0   36    0  9/13/1997                                    
+  Mike Jackson                0    0   71    0 10/13/1997                                    
+  Trevor Hoffman              0    0   70    0 10/15/1997                                    
+f Ricky Bones                 0    0   30    0  9/26/1997                                    
+  Randy Myers                 0    0   61    0 10/15/1997                                    
+f Bobby Chouinard             0    0    0    0                                               
+f Doug Johns                  0    0    0    0                                               
+f Brian Williams              0    0   13    0  9/13/1997                                    
+f A.J. Sager                  0    0   38    0  9/25/1997                                    
+f Brian Boehringer            0    0   34    0  9/28/1997                                    
+f C. J. Nitkowski             0    0    0    0                                               
+  Kevin Tapani                0    0   13    0 10/14/1997                                    
+f John Wasdin                 0    0   53    0  9/28/1997                                    
+f Jeff Juden                  0    0   30    0  9/26/1997                                    
+f Mike Munoz                  0    0   64    0  9/28/1997                                    
+f Kevin Foster                0    0   26    0  9/28/1997                                    
+  Shawn Estes                 0    0   32    0 10/13/1997                                    
+f Bill VanLandingham          0    0   18    0  9/27/1997                                    
+  Total                            2  228                                                    

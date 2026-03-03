@@ -1,0 +1,798 @@
+... the pinkerton league daily ...
+Tuesday, September 24, 1996
+
+http://chinatrust.googlepages.com/tpl
+
+----------------------------------------------------------------------------------------------------
+ROSTER NOTES
+----------------------------------------------------------------------------------------------------
+
+None
+
+----------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+----------------------------------------------------------------------------------------------------
+
+None
+
+
+----------------------------------------------------------------------------------------------------
+STANDINGS
+----------------------------------------------------------------------------------------------------
+
+BAR 1  NEP 1
+
+CIN 0  FHK 2
+
+----------------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+----------------------------------------------------------------------------------------------------
+
+9/24/1996, BAR96-NEP96, Jack Murphy Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1996 Brewers           0  0  0  0  0  1  2  0  0  2     5  8  1     7  0
+1996 Perfectos         0  1  1  1  0  0  0  0  0  0     3  9  3     8  0
+ 
+Brewers              AB  R  H BI   AVG    Perfectos            AB  R  H BI   AVG
+McLemore          2b  5  2  2  0  .333    Duncan            2b  3  0  0  0  .167
+Martinez,Da       lf  4  1  1  2  .286     Randa            ph  1  0  0  0  .000
+Vaughn,M          1b  5  0  0  0  .000    Olerud            1b  5  0  2  0  .222
+Anderson          cf  3  1  1  1  .333    Sheffield         lf  5  0  1  0  .143
+Ventura           3b  5  1  2  0  .333    Griffey           cf  4  1  2  1  .571
+Lopez,J           c   5  0  0  0  .200    Higginson         rf  2  0  0  0  .400
+Newfield          rf  2  0  1  0  .400     Mieske           ph  3  0  0  0  .000
+ Williams,Ger     ph  1  0  0  0  .000    Valentin,Jos      ss  2  0  0  0  .200
+Vizquel           ss  3  0  0  1  .333     Snopek           ph  2  0  0  0  .000
+Martinez,P        p   1  0  0  0  .000    Howell            3b  2  0  0  0  .000
+ Weiss            ph  1  0  0  0  .000     Coomer           ph  2  0  0  0  .000
+ Castillo,T       p   0  0  0  0  .000    Parent            c   2  2  2  2  .750
+ Stahoviak        ph  1  0  1  1  .500     Santiago         ph  2  0  1  0  .250
+ Honeycutt        p   0  0  0  0  .000    McDonald          p   2  0  0  0  .000
+ Manuel           p   0  0  0  0  .000     Mabry            ph  1  0  1  0 1.000
+ Listach          ph  1  0  0  0  .000     Jordan,R         p   0  0  0  0  .000
+ Timlin           p   0  0  0  0  .000     Brown            ph  1  0  0  0  .000
+                     37  5  8  5           Nen              p   0  0  0  0  .000
+                                                               39  3  9  3
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Martinez,P                       5.0  6  3  3  0  7  81  54  5.40
+Castillo,T                       1.0  0  0  0  0  0   4   3  0.00
+Honeycutt                        1.0  2  0  0  0  1  16  12  0.00
+Manuel                           1.0  0  0  0  0  1  10   7  0.00
+Timlin           W 1-0           2.0  1  0  0  1  4  36  23  0.00
+                                10.0  9  3  3  1 13 147  99 
+ 
+Perfectos                        INN  H  R ER BB  K PCH STR   ERA
+McDonald                         7.0  4  3  3  2  8  92  59  3.86
+Jordan,R                         2.0  1  0  0  0  1  31  18  0.00
+Nen              L 0-1           1.0  3  2  1  0  3  23  16  3.86
+                                10.0  8  5  4  2 12 146  93 
+ 
+BAR: Weiss batted for Martinez,P in the 6th
+     Stahoviak batted for Castillo,T in the 7th
+     Williams,Ger batted for Newfield in the 9th
+     Listach batted for Manuel in the 9th
+     Williams,Ger moved to rf in the 9th
+NEP: Mieske batted for Higginson in the 6th
+     Snopek batted for Valentin,Jos in the 6th
+     Coomer batted for Howell in the 6th
+     Snopek moved to ss in the 7th
+     Coomer moved to 3b in the 7th
+     Mieske moved to rf in the 7th
+     Santiago batted for Parent in the 7th
+     Mabry batted for McDonald in the 7th
+     Randa batted for Duncan in the 7th
+     Randa moved to 2b in the 8th
+     Santiago moved to c in the 8th
+     Brown batted for Jordan,R in the 9th
+ 
+E-Vaughn,M, Sheffield 2, Howell. 2B-Anderson, Olerud. 3B-McLemore. 
+HR-Griffey(2), Parent 2(3). CS-Anderson. K-McLemore 2, Martinez,Da, Vaughn,M, 
+Anderson, Ventura 2, Lopez,J 4, Weiss, Duncan, Olerud, Sheffield 2, Griffey, 
+Higginson 2, Valentin,Jos, Howell, Mieske 2, Coomer, Santiago. BB-Anderson 2, 
+Griffey. SH-Randa. SF-Martinez,Da, Vizquel. HBP-Newfield. HB-McDonald. 
+GWRBI: Martinez,Da
+Temperature: 55, Sky: cloudy, Wind: out to right at 9 MPH.
+
+....................................................................................................
+9/24/1996, BAR96-NEP96, Jack Murphy Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1996 Brewers           0  0  0  0  0  1  2  0  0  2     5  8  1     7  0
+1996 Perfectos         0  1  1  1  0  0  0  0  0  0     3  9  3     8  0
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+McLemore          2b 1>k            8            T            k          0>Nen       
+                                                                           S.B-2(e7) 
+Martinez,Da       lf   k            31           8/SF.3-H   8>Jordan,R     S.2-H;B-2 
+                                                              e7.B-1                 
+Vaughn,M          1b   7          4>8            63           7            k         
+Anderson          cf 2>k            W          7>W            9            D.2-H     
+Ventura           3b   8            CS2(26)      S.1-3        S.1-2        k         
+                                    k                                                
+Lopez,J           c    e5.B-1     5>k            k            k            k         
+Newfield          rf   S.1-2        43           HBP.1-2                             
+ Williams,Ger     ph                                        9>63                     
+Vizquel           ss   6            43           8/SF.3-H     7                      
+Martinez,P        p  3>53                                                            
+ Weiss            ph              6>k                                                
+ Castillo,T       p                                                                  
+ Stahoviak        ph                             S.2-H;1-2                           
+ Honeycutt        p                                                                  
+ Manuel           p                                                                  
+ Listach          ph                                          8                      
+ Timlin           p                                                                  
+ 
+ 
+Perfectos            -----A------ -----B------ -----C------ -----D------ -----E------
+Duncan            2b 1>5/fl         k          5>9                                   
+ Randa            ph                                          note 1     0>63        
+Olerud            1b   2/fl         S            k            3            D         
+Sheffield         lf   7            S.1-2        e3.B-1       k            k         
+Griffey           cf 2>HR           S.2-3;1-2    k          8>Manuel       W         
+                                                              4                      
+Higginson         rf   k            k          6>Castillo,T                          
+ Mieske           ph                             43           k            k         
+Valentin,Jos      ss   4          4>k                                                
+ Snopek           ph                             6            43                     
+Howell            3b   k            53                                               
+ Coomer           ph                             5/L        9>Timlin                 
+                                                              k                      
+Parent            c  3>HR           HR         7>Honeycutt                           
+ Santiago         ph                             S            k                      
+McDonald          p    7            43                                               
+ Mabry            ph                             S/b.1-2                             
+ Jordan,R         p                                                                  
+ Brown            ph                                          4                      
+ Nen              p                                                                  
+ 
+ 1: 13/SH.2-3;1-2 
+ 
+ 
+Brewers          IN OUT ER                  Perfectos        IN OUT ER                  
+Martinez,P       A1  C4  3                  McDonald         A1  D1  3                  
+Castillo,T       C5  C7  0                  Jordan,R         D2  D9  0                  
+Honeycutt        C8  D3  0                  Nen              E1  E6  1 L 0-1            
+Manuel           D4  D6  0                                                              
+Timlin           D7  E5  0 W 1-0                                                        
+
+....................................................................................................
+9/24/1996, BAR96-NEP96, Jack Murphy Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1996 Brewers           0  0  0  0  0  1  2  0  0  2     5  8  1     7  0
+1996 Perfectos         0  1  1  1  0  0  0  0  0  0     3  9  3     8  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Brewers batting
+ 0-0  0 --- 02  McLemore struck out (FCC)
+ 0-0  1 --- 12  Martinez,Da struck out (FBCS)
+ 0-0  2 --- 10  Vaughn,M lined out to left (BX)
+ 
+**************  Bottom of the 1st inning, Perfectos batting
+ 0-0  0 --- 00  Duncan popped out to third (X)
+ 0-0  1 --- 00  Olerud popped out to the catcher (X)
+ 0-0  2 --- 00  Sheffield flied out to left (X)
+ 
+**************  Top of the 2nd inning, Brewers batting
+ 0-0  0 --- 02  Anderson struck out (CFS)
+ 0-0  1 --- 12  Ventura flied out to center (BFFX)
+ 0-0  2 --- 00  Lopez,J to first on an error by the third baseman Howell 
+                  (X)
+ 0-0  2 1-- 00  Newfield grounded a single up the middle, Lopez,J to 
+                  second (X)
+ 0-0  2 12- 10  Vizquel popped out to short (BX)
+ 
+**************  Bottom of the 2nd inning, Perfectos batting
+ 0-0  0 --- 10  Griffey homered deep down the right field line (BX)
+ 0-1  0 --- 12  Higginson struck out (CCBS)
+ 0-1  1 --- 32  Valentin,Jos popped out to second (BBCBCX)
+ 0-1  2 --- 22  Howell struck out (BFCFFBS)
+ 
+**************  Top of the 3rd inning, Brewers batting
+ 0-1  0 --- 00  Martinez,P grounded out to third (X)
+ 0-1  1 --- 22  McLemore flied out to center (FSBBX)
+ 0-1  2 --- 21  Martinez,Da grounded out to first (BCBX)
+ 
+**************  Bottom of the 3rd inning, Perfectos batting
+ 0-1  0 --- 12  Parent homered deep to left (CFBX)
+ 0-2  0 --- 12  McDonald popped out to left (CBFX)
+ 0-2  1 --- 12  Duncan struck out (FBSS)
+ 0-2  2 --- 10  Olerud lined a single to center (BX)
+ 0-2  2 1-- 01  Sheffield lined a single to shallow left, Olerud to 
+                  second (1C1X)
+ 0-2  2 12- 01  Griffey reached on an infield single to third, Olerud to 
+                  third, Sheffield to second (CX)
+ 0-2  2 123 22  Higginson struck out (BBCCC)
+ 
+**************  Top of the 4th inning, Brewers batting
+ 0-2  0 --- 10  Vaughn,M flied out to center (BX)
+ 0-2  1 --- 31  Anderson walked (FBBBB)
+ 0-2  1 1-- 11  Anderson was caught stealing second (1BF>C)
+ 0-2  2 --- 12  Ventura struck out (1BF>C.FC)
+ 
+**************  Bottom of the 4th inning, Perfectos batting
+ 0-2  0 --- 12  Valentin,Jos struck out (CBSC)
+ 0-2  1 --- 32  Howell grounded out to third (BFBFFBX)
+ 0-2  2 --- 22  Parent homered deep to left (SBCBX)
+ 0-3  2 --- 12  McDonald grounded out to second (BCSX)
+ 
+**************  Top of the 5th inning, Brewers batting
+ 0-3  0 --- 12  Lopez,J struck out (BCFC)
+ 0-3  1 --- 11  Newfield grounded out to second (BCX)
+ 0-3  2 --- 12  Vizquel grounded out to second (BCFX)
+ 
+**************  Bottom of the 5th inning, Perfectos batting
+ 0-3  0 --- 10  Duncan flied out to right (BX)
+ 0-3  1 --- 22  Olerud struck out (BFSBC)
+ 0-3  2 --- 31  Sheffield to first on an error by the first baseman 
+                  Vaughn,M (BFBBX)
+ 0-3  2 1-- 12  Griffey struck out (C111BFS)
+ 
+**************  Top of the 6th inning, Brewers batting
+                Weiss pinch hitting for Martinez,P
+ 0-3  0 --- 22  Weiss struck out (BFBCS)
+ 0-3  1 --- 10  McLemore tripled deep to right center (BX)
+ 0-3  1 --3 01  Martinez,Da hit a sacrifice fly to center, McLemore 
+                  scored (CX)
+ 1-3  2 --- 02  Vaughn,M grounded out to short (CCX)
+ 
+**************  Bottom of the 6th inning, Perfectos batting
+                Castillo,T now pitching
+                Mieske pinch hitting for Higginson
+ 1-3  0 --- 00  Mieske grounded out to second (X)
+                Snopek pinch hitting for Valentin,Jos
+ 1-3  1 --- 10  Snopek popped out to short (BX)
+                Coomer pinch hitting for Howell
+ 1-3  2 --- 00  Coomer lined out to third (X)
+ 
+**************  Top of the 7th inning, Brewers batting
+                Snopek moved to shortstop
+                Coomer moved to third base
+                Mieske moved to right field
+ 1-3  0 --- 32  Anderson walked (CBCBFBFB)
+ 1-3  0 1-- 11  Ventura lined a single to left center, Anderson to third 
+                  (BCX)
+ 1-3  0 1-3 02  Lopez,J struck out (CFS)
+ 1-3  1 1-3 20  Newfield was hit by a pitch, Ventura to second (1BBH)
+ 1-3  1 123 20  Vizquel hit a sacrifice fly to center, Anderson scored 
+                  (BBX)
+                Stahoviak pinch hitting for Castillo,T
+ 2-3  2 12- 10  Stahoviak lined a single to shallow left, Ventura scored, 
+                  Newfield to second (BX)
+ 3-3  2 12- 22  McLemore struck out (BSSBS)
+ 
+**************  Bottom of the 7th inning, Perfectos batting
+                Honeycutt now pitching
+                Santiago pinch hitting for Parent
+ 3-3  0 --- 22  Santiago lined a single to shallow right (FBFFBX)
+                Mabry pinch hitting for McDonald
+ 3-3  0 1-- 00  Mabry bunted for a single, Santiago to second (Xb)
+                Randa pinch hitting for Duncan
+ 3-3  0 12- 10  Randa sacrifice bunted to the mound, Santiago to third, 
+                  Mabry to second (BXb)
+ 3-3  1 -23 12  Olerud popped out to first (CBFX)
+ 3-3  2 -23 02  Sheffield struck out (CSS)
+ 
+**************  Top of the 8th inning, Brewers batting
+                Jordan,R now pitching
+                Randa moved to second base
+                Santiago moved to catcher
+ 3-3  0 --- 32  Martinez,Da to first on an error by the left fielder 
+                  Sheffield (BFBBSFX)
+ 3-3  0 1-- 00  Vaughn,M flied out to left (X)
+ 3-3  1 1-- 31  Anderson flied out to right (B1B1BCX)
+ 3-3  2 1-- 00  Ventura grounded a single up the middle, Martinez,Da to 
+                  second (11X)
+ 3-3  2 12- 22  Lopez,J struck out (FBB2FS)
+ 
+**************  Bottom of the 8th inning, Perfectos batting
+                Manuel now pitching
+ 3-3  0 --- 31  Griffey popped out to second (BCBBX)
+ 3-3  1 --- 02  Mieske struck out (CCS)
+ 3-3  2 --- 01  Snopek grounded out to second (CX)
+ 
+**************  Top of the 9th inning, Brewers batting
+                Williams,Ger pinch hitting for Newfield
+ 3-3  0 --- 32  Williams,Ger grounded out to short (CCBBFBX)
+ 3-3  1 --- 00  Vizquel flied out to left (X)
+                Listach pinch hitting for Manuel
+ 3-3  2 --- 21  Listach flied out to center (CBBX)
+ 
+**************  Bottom of the 9th inning, Perfectos batting
+                Timlin now pitching
+                Williams,Ger moved to right field
+ 3-3  0 --- 02  Coomer struck out (SCS)
+ 3-3  1 --- 22  Santiago struck out (CBBSC)
+                Brown pinch hitting for Jordan,R
+ 3-3  2 --- 01  Brown popped out to second (CX)
+ 
+**************  Top of the 10th inning, Brewers batting
+                Nen now pitching
+ 3-3  0 --- 12  McLemore lined a single to shallow left, McLemore to 
+                  second on an error by the left fielder Sheffield (BFFX)
+ 3-3  0 -2- 00  Martinez,Da lined a single to shallow center, McLemore 
+                  scored, Martinez,Da to second (X)
+ 4-3  0 -2- 22  Vaughn,M struck out (SBFBS)
+ 4-3  1 -2- 11  Anderson doubled deep to right center, Martinez,Da scored 
+                  (FBX)
+ 5-3  1 -2- 32  Ventura struck out (BCBSBFS)
+ 5-3  2 -2- 02  Lopez,J struck out (CFS)
+ 
+**************  Bottom of the 10th inning, Perfectos batting
+ 5-3  0 --- 21  Randa grounded out to short (BCBX)
+ 5-3  1 --- 21  Olerud grounded a double down the first base line (BBCX)
+ 5-3  1 -2- 12  Sheffield struck out (BCFC)
+ 5-3  2 -2- 32  Griffey walked (BBBCCFB)
+ 5-3  2 12- 22  Mieske struck out (CBSFFBS)
+____________________________________________________________________________________________________
+
+9/24/1996, FHK96-CIN96, Cinergy Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1996 Huskies           1  1  2  0  2  0  0  0  0     6  9  1     7  0
+1996 Reds              0  0  0  1  0  0  0  0  0     1  3  3     4  1
+ 
+Huskies              AB  R  H BI   AVG    Reds                 AB  R  H BI   AVG
+Johnson,L         cf  5  0  0  0  .200    Santangelo        cf  3  0  0  0  .000
+Nilsson           c   5  2  1  0  .286    Davis,E           lf  4  0  0  0  .250
+Burks             lf  5  2  2  3  .300    Caminiti          3b  4  1  1  0  .250
+Thome             3b  3  1  0  0  .125    Larkin            ss  3  0  1  0  .625
+ Alfonzo          3b  0  0  0  0  .000    Tettleton         1b  4  0  1  1  .250
+Galarraga         1b  4  0  0  0  .000    Berroa            rf  3  0  0  0  .000
+Grissom           rf  3  0  1  1  .375    Perez,T           2b  1  0  0  0  .000
+Lansing           2b  4  1  2  0  .444     Rivera,M         p   0  0  0  0  .000
+Grudzielanek      ss  4  0  2  1  .375     Fasano           ph  1  0  0  0  .000
+Cormier           p   3  0  1  0  .333     Assenmacher      p   0  0  0  0  .000
+                     36  6  9  5          Karkovice         c   3  0  0  0  .000
+                                          Hershiser         p   1  0  0  0  .000
+                                           Young,Eri        2b  2  0  0  0  .333
+                                                               29  1  3  1
+ 
+Huskies                          INN  H  R ER BB  K PCH STR   ERA
+Cormier          W 1-0           9.0  3  1  1  1  7 108  71  1.00
+                                 9.0  3  1  1  1  7 108  71 
+ 
+Reds                             INN  H  R ER BB  K PCH STR   ERA
+Hershiser        L 0-1           4.0  7  6  4  2  3  85  51  9.00
+Rivera,M                         3.0  1  0  0  1  3  43  26  0.00
+Assenmacher                      2.0  1  0  0  0  2  26  17  0.00
+                                 9.0  9  6  4  3  8 154  94 
+ 
+FHK: Alfonzo inserted at 3b in the 9th
+CIN: Young,Eri inserted at 2b in the 5th
+     Fasano batted for Rivera,M in the 7th
+ 
+E-Johnson,L, Santangelo, Perez,T, Young,Eri. 2B-Cormier. HR-Burks 2(2). 
+CS-Larkin. K-Johnson,L, Nilsson, Burks 2, Thome, Galarraga 2, Cormier, 
+Davis,E 3, Berroa, Perez,T, Karkovice, Hershiser. BB-Thome 2, Grissom, 
+Larkin. SH-Cormier. HBP-Santangelo, Perez,T. HB-Cormier 2. WP-Hershiser. 
+GWRBI: Burks
+Temperature: 84, Sky: clear, Wind: in from center at 12 MPH.
+
+....................................................................................................
+9/24/1996, FHK96-CIN96, Cinergy Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1996 Huskies           1  1  2  0  2  0  0  0  0     6  9  1     7  0
+1996 Reds              0  0  0  1  0  0  0  0  0     1  3  3     4  1
+ 
+ 
+Huskies              -----A------ -----B------ -----C------ -----D------ -----E------
+Johnson,L         cf 1>7            54/f         43           k            53        
+Nilsson           c    63         3>e4.B-1     5>S            9.2-3      9>k         
+Burks             lf   HR           k            HR.1-H       k            43        
+Thome             3b   W            W.1-2        Rivera,M   7>9            k         
+                                                 e4.B-1                              
+ Alfonzo          3b                                                                 
+Galarraga         1b   k            53.2-3;1-2   6            k                      
+Grissom           rf 2>8            note 1       W.1-2        43                     
+Lansing           2b   S            63           7.2-3      8>note 2                 
+                                                              S                      
+Grudzielanek      ss   wp.1-2     4>S            54/f         7                      
+                       S.2-H                                                         
+Cormier           p    k            643/gdp    6>D            53/SH.1-2              
+ 
+ 1: S.3-H;2-H;B-2(e8)  2: Assenmacher 
+ 
+ 
+Reds                 -----A------ -----B------ -----C------ -----D------ -----E------
+Santangelo        cf 1>3            HBP.1-2      63           9                      
+Davis,E           lf   43           k          6>k          9>k                      
+Caminiti          3b   53         4>S            63           63                     
+Larkin            ss 2>7            43.1-2       S            W                      
+Tettleton         1b   7            note 1       CS2(24)      7                      
+                                               7>4/L                                 
+Berroa            rf   k            53           8                                   
+Perez,T           2b 3>HBP          k                                                
+ Rivera,M         p                                                                  
+ Fasano           ph                             9                                   
+ Assenmacher      p                                                                  
+Karkovice         c    k          5>5/L        8>6                                   
+Hershiser         p    k/b                                                           
+ Young,Eri        2b                9            7                                   
+ 
+ 1: S.2-H;B-2(e8/th) 
+ 
+ 
+Huskies          IN OUT ER                  Reds             IN OUT ER                  
+Cormier          A1  D5  1 W 1-0            Hershiser        A1  C3  4 L 0-1            
+                                            Rivera,M         C4  D6  0                  
+                                            Assenmacher      D7  E4  0                  
+
+....................................................................................................
+9/24/1996, FHK96-CIN96, Cinergy Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1996 Huskies           1  1  2  0  2  0  0  0  0     6  9  1     7  0
+1996 Reds              0  0  0  1  0  0  0  0  0     1  3  3     4  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Huskies batting
+ 0-0  0 --- 31  Johnson,L flied out to left (BBBCX)
+ 0-0  1 --- 32  Nilsson grounded out to short (BBBCCX)
+ 0-0  2 --- 10  Burks homered deep down the left-field line (BX)
+ 1-0  2 --- 30  Thome walked (BBBB)
+ 1-0  2 1-- 22  Galarraga struck out (CBCBFS)
+ 
+**************  Bottom of the 1st inning, Reds batting
+ 1-0  0 --- 21  Santangelo popped out to first (SBBX)
+ 1-0  1 --- 02  Davis,E grounded out to second (SSX)
+ 1-0  2 --- 01  Caminiti grounded out to third (CX)
+ 
+**************  Top of the 2nd inning, Huskies batting
+ 1-0  0 --- 01  Grissom flied out to center (CX)
+ 1-0  1 --- 12  Lansing lined a single to shallow center (CFBX)
+ 1-0  1 1-- 21  Hershiser threw a wild pitch, Lansing to second (1BSB1B)
+ 1-0  1 -2- 32  Grudzielanek lined a single to right center, Lansing 
+                  scored (1BSB1B.FFX)
+ 2-0  1 1-- 02  Cormier struck out (CCS)
+ 2-0  2 1-- 22  Johnson,L grounded to third, forcing Grudzielanek at 
+                  second (FFBF11BFX)
+ 
+**************  Bottom of the 2nd inning, Reds batting
+ 2-0  0 --- 10  Larkin flied out to left (BX)
+ 2-0  1 --- 10  Tettleton flied out to left (BX)
+ 2-0  2 --- 02  Berroa struck out (CCS)
+ 
+**************  Top of the 3rd inning, Huskies batting
+ 2-0  0 --- 31  Nilsson to first on an error by the second baseman 
+                  Perez,T (CBBBX)
+ 2-0  0 1-- 22  Burks struck out (CB1BFS)
+ 2-0  1 1-- 32  Thome walked, Nilsson to second (BBCFBB)
+ 2-0  1 12- 00  Galarraga grounded out to third, Nilsson to third, Thome 
+                  to second (X)
+ 2-0  2 -23 01  Grissom lined a single to shallow center, Nilsson scored, 
+                  Thome scored, Grissom to second on an error by the 
+                  center fielder Santangelo (CX)
+ 4-0  2 -2- 22  Lansing grounded out to short (CSBBFX)
+ 
+**************  Bottom of the 3rd inning, Reds batting
+ 4-0  0 --- 01  Perez,T was hit by a pitch (CH)
+ 4-0  0 1-- 22  Karkovice struck out (CFBBS)
+ 4-0  1 1-- 22  Hershiser struck out on a fouled bunt (BbFbBbFbFb)
+ 4-0  2 1-- 22  Santangelo was hit by a pitch, Perez,T to second (1FBFBH)
+ 4-0  2 12- 12  Davis,E struck out (SBCS)
+ 
+**************  Top of the 4th inning, Huskies batting
+ 4-0  0 --- 10  Grudzielanek lined a single to right center (BX)
+ 4-0  0 1-- 01  Cormier grounded into a double play, Larkin to Perez,T to 
+                  Tettleton (1FbX)
+ 4-0  2 --- 01  Johnson,L grounded out to second (FX)
+ 
+**************  Bottom of the 4th inning, Reds batting
+ 4-0  0 --- 12  Caminiti grounded a single between first and second (BCFX)
+ 4-0  0 1-- 01  Larkin grounded out to second, Caminiti to second (>F>X)
+ 4-0  1 -2- 12  Tettleton lined a single to shallow center, Caminiti 
+                  scored, Tettleton to second on an error by the center 
+                  fielder Johnson,L (CBFX)
+ 4-1  1 -2- 00  Berroa grounded out to third (X)
+ 4-1  2 -2- 12  Perez,T struck out (BSFFS)
+ 
+**************  Top of the 5th inning, Huskies batting
+ 4-1  0 --- 22  Nilsson lined a single to right center (BSFBX)
+ 4-1  0 1-- 11  Burks homered deep to left, Nilsson scored (1CBX)
+                Young,Eri now playing second base
+                Rivera,M now pitching
+ 6-1  0 --- 11  Thome to first on an error by the second baseman 
+                  Young,Eri (BCX)
+ 6-1  0 1-- 11  Galarraga popped out to short (BC1X)
+ 6-1  1 1-- 30  Grissom walked, Thome to second (BBBB)
+ 6-1  1 12- 22  Lansing flied out to left, Thome to third (CBBCX)
+ 6-1  2 1-3 10  Grudzielanek grounded to third, forcing Grissom at second 
+                  (BX)
+ 
+**************  Bottom of the 5th inning, Reds batting
+ 6-1  0 --- 11  Karkovice lined out to third (SBX)
+ 6-1  1 --- 01  Young,Eri lined out to right (SX)
+ 6-1  2 --- 00  Santangelo grounded out to short (X)
+ 
+**************  Top of the 6th inning, Huskies batting
+ 6-1  0 --- 10  Cormier grounded a double down the third base line (BX)
+ 6-1  0 -2- 22  Johnson,L struck out (BCSBS)
+ 6-1  1 -2- 00  Nilsson flied out to right, Cormier to third (X)
+ 6-1  2 --3 12  Burks struck out (FBFFS)
+ 
+**************  Bottom of the 6th inning, Reds batting
+ 6-1  0 --- 02  Davis,E struck out (SCC)
+ 6-1  1 --- 02  Caminiti grounded out to short (CCX)
+ 6-1  2 --- 22  Larkin lined a single to shallow right (FBSBX)
+ 6-1  2 1-- 00  Larkin was caught stealing second (>C)
+ 
+**************  Top of the 7th inning, Huskies batting
+ 6-1  0 --- 12  Thome lined out to right (FSBX)
+ 6-1  1 --- 12  Galarraga struck out (CBCC)
+ 6-1  2 --- 22  Grissom grounded out to second (BBSFX)
+ 
+**************  Bottom of the 7th inning, Reds batting
+ 6-1  0 --- 11  Tettleton lined out to second (SBX)
+ 6-1  1 --- 31  Berroa flied out to center (SBBBX)
+                Fasano pinch hitting for Rivera,M
+ 6-1  2 --- 22  Fasano flied out to right (BBSFX)
+ 
+**************  Top of the 8th inning, Huskies batting
+                Assenmacher now pitching
+ 6-1  0 --- 32  Lansing lined a single to left (CBBCFBFX)
+ 6-1  0 1-- 00  Grudzielanek flied out to left (X)
+ 6-1  1 1-- 00  Cormier sacrifice bunted to third, Lansing to second (Xb)
+ 6-1  2 -2- 11  Johnson,L grounded out to third (C2BX)
+ 
+**************  Bottom of the 8th inning, Reds batting
+ 6-1  0 --- 10  Karkovice popped out to short (BX)
+ 6-1  1 --- 31  Young,Eri flied out to left (BBCBX)
+ 6-1  2 --- 11  Santangelo flied out to right (BFX)
+ 
+**************  Top of the 9th inning, Huskies batting
+ 6-1  0 --- 12  Nilsson struck out (CFBS)
+ 6-1  1 --- 31  Burks grounded out to second (BBCBX)
+ 6-1  2 --- 12  Thome struck out (SFBS)
+ 
+**************  Bottom of the 9th inning, Reds batting
+                Alfonzo now playing third base
+ 6-1  0 --- 12  Davis,E struck out (FBFFC)
+ 6-1  1 --- 10  Caminiti grounded out to short (BX)
+ 6-1  2 --- 31  Larkin walked (BCBBB)
+ 6-1  2 1-- 10  Tettleton flied out to left (BX)
+
+----------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+                  LIMITS:   10%
+----------------------------------------------------------------------------------------------------
+
+                         Playoff Team Status -- 1996 Newfoundland Perfectos                         
+                               Divisional playoff -- as of 9/24/1996                                
+
+S Name                    Usage     PA     PA Days 
+  Jack Howell                 4      5    136    0 
+  Mark Parent                 3      4    144    0 
+  John Olerud                 2      9    469    0 
+  Chris Snopek                2      2    113    0 
+  Mariano Duncan              1      6    417    0 
+  Ken Griffey                 1      9    638    0 
+  Brant Brown                 1      1     73    0 
+  Gary Sheffield              1      9    677    0 
+  Ron Coomer                  1      3    253    0 
+  Bobby Higginson             1      6    515    0 
+  Jose Valentin               1      6    628    0 
+  Joe Randa                   1      3    370    0 
+  Benito Santiago             1      4    533    0 
+  Matt Mieske                 1      3    409    0 
+  John Mabry                  0      1    591    0 
+f Curtis Pride                0      0    301    0 
+  Danny Tartabull             0      0    541    0 
+f Craig Paquette              0      0    462    0 
+f Tilson Brito                0      0     95    0 
+f Rick Wilkins                0      0    489    0 
+f Keith Lockhart              0      0    471    0 
+f Todd Walker                 0      0     89    0 
+f Pat Borders                 0      0    234    0 
+f Norberto Martin             0      0    151    0 
+f Kevin Jordan                0      0    142    0 
+d Billy Ashley                0      0    133    0 
+f Pete Incaviglia             0      0    337    0 
+f Ruben Amaro                 0      0    130    0 
+  Total                             71   9541      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/24   9/23   9/22   9/21   9/20 
+  Ricardo Jordan              4    1   26    0  9/24/1996    31r                             
+  Ben McDonald                3    1   35    0  9/24/1996    92s                             
+  Ken Hill                    3    1   35    0  9/23/1996          118s                      
+  Robb Nen                    3    2   75    0  9/24/1996    23r    18r                      
+  Mike Trombley               2    1   43    0  9/23/1996           11r                      
+  Danny Darwin                0    0   34    0  9/19/1996                                    
+f Jimmy Key                   0    0   30    0  9/20/1996                                39r 
+f Chuck Finley                0    0   35    0  9/19/1996                                    
+  Jose Rosado                 0    0   16    0  7/16/1996                                    
+f Ugueth Urbina               0    0   33    0  9/20/1996                                10r 
+f Doug Linton                 0    0   21    0  9/16/1996                                    
+f Stan Belinda                0    0   31    0  9/20/1996                                41r 
+  Ariel Prieto                0    0   21    0  9/18/1996                                    
+f Brian Moehler               0    0    2    0   6/3/1996                                    
+  Pedro Borbon                0    0   43    0  7/12/1996                                    
+f Tim Vanegmond               0    0   12    0  9/20/1996                                81s 
+f John Johnstone              0    0    9    0  9/19/1996                                    
+f Eric Gunderson              0    0   28    0  9/17/1996                                    
+f Graeme Lloyd                0    0   65    0  9/20/1996                                 9r 
+  Total                            2  243                                                    
+
+
+                           Playoff Team Status -- 1996 Barcelona Brewers                            
+                               Divisional playoff -- as of 9/24/1996                                
+
+S Name                    Usage     PA     PA Days 
+  Dave Martinez               2     10    498    0 
+  Javier Lopez                2     10    526    0 
+  Marc Newfield               2      7    410    0 
+  Mark McLemore               2     10    611    0 
+  Robin Ventura               1     10    674    0 
+  Brady Anderson              1     10    687    0 
+  Mo Vaughn                   1     10    752    0 
+  Omar Vizquel                1      8    623    0 
+  Scott Stahoviak             0      2    469    0 
+  Walt Weiss                  0      2    624    0 
+  Gerald Williams             0      1    357    0 
+  Pat Listach                 0      1    362    0 
+  Melvin Nieves               0      1    484    0 
+f Scott Hatteberg             0      0     14    0 
+f Jorge Posada                0      0     15    0 
+f Raul Ibanez                 0      0      6    0 
+f Mickey Morandini            0      0    606    0 
+  John Wehner                 0      0    149    0 
+f Jesse Levis                 0      0    274    0 
+f Brian R. Hunter             0      0    221    0 
+f Tony Rodriguez              0      0     77    0 
+f Ryan Thompson               0      0     23    0 
+f Jerome Walton               0      0     55    0 
+  Total                             82   8517      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/24   9/23   9/22   9/21   9/20 
+f David West                 14    1    7    0  9/23/1996           28r                      
+  Dario Veras                 4    1   23    0  9/23/1996           18r                      
+  Curt Schilling              4    1   26    0  9/23/1996           57s                      
+  Tony Castillo               4    2   55    0  9/24/1996     4r    12r                      
+  Rick Honeycutt              3    2   61    0  9/24/1996    16r     7r                      
+  Pedro J. Martinez           3    1   33    0  9/24/1996    81s                             
+  Barry Manuel                2    1   53    0  9/24/1996    10r                          9r 
+  Mike Timlin                 2    1   59    0  9/24/1996    36r                         14r 
+f Dean Hartgraves             0    0   39    0                                               
+f Dave Veres                  0    0   68    0  8/24/1996                                    
+f Dennis Martinez             0    0   20    0  7/26/1996                                    
+  Dave Burba                  0    0   34    0  9/20/1996                               106s 
+f Paul Spoljaric              0    0   28    0  7/28/1996                                    
+f Cory Bailey                 0    0   51    0  9/20/1996                                27r 
+f Dave Mlicki                 0    0   51    0  7/23/1996                                    
+  Larry Casian                0    0   35    0  9/19/1996                                    
+f Rodney Myers                0    0   45    0  8/17/1996                                    
+f Bryce Florie                0    0   54    0  9/18/1996                                    
+f Blas Minor                  0    0   28    0  8/16/1996                                    
+f Jeff Russell                0    0   55    0                                               
+f Greg McCarthy               0    0   10    0  9/17/1996                                    
+f Dave Pavlas                 0    0   16    0  9/19/1996                                    
+f Bob MacDonald               0    0   20    0  9/18/1996                                    
+f Jaime Bluma                 0    0   17    0   4/8/1996                                    
+f Tom Thobe                   0    0    4    0   4/6/1996                                    
+f Robert Ellis                0    0    3    0   8/4/1996                                    
+  Danny Jackson               0    0   13    0  9/19/1996                                    
+  Total                            2  124                                                    
+
+
+                            Playoff Team Status -- 1996 Cincinnati Reds                             
+                               Divisional playoff -- as of 9/24/1996                                
+
+S Name                    Usage     PA     PA Days 
+  Eric Davis                  2      9    496    0 
+  F.P. Santangelo             2      8    467    0 
+  Barry Larkin                1      9    627    0 
+  Ken Caminiti                1      9    639    0 
+  Ed Taubensee                1      5    359    0 
+  Geronimo Berroa             1      7    643    0 
+  Ron Karkovice               1      4    389    0 
+  Tomas Perez                 1      3    328    0 
+  Ray Lankford                1      5    635    0 
+  Rafael Palmeiro             1      5    732    0 
+  Mickey Tettleton            1      4    599    0 
+  Sal Fasano                  1      1    160    0 
+  Eric Young                  0      3    643    0 
+  Otis Nixon                  0      1    575    0 
+f Trot Nixon                  0      0      4    0 
+f Dmitri Young                0      0     34    0 
+f Bip Roberts                 0      0    372    0 
+f Neifi Perez                 0      0     46    0 
+f Tom Goodwin                 0      0    587    0 
+f Ozzie Guillen               0      0    528    0 
+f Herb Perry                  0      0     13    0 
+f Greg Norton                 0      0     27    0 
+  Total                             73   8903      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/24   9/23   9/22   9/21   9/20 
+  Felix Heredia               5    1   21    0  9/23/1996           28r                      
+  Robert Person               4    1   27    0  9/23/1996           23r                      
+  Mariano Rivera              3    2   61    0  9/24/1996    43r    21r                      
+  Orel Hershiser              3    1   33    0  9/24/1996    85s                        106s 
+  David Wells                 3    1   34    0  9/23/1996           87s                      
+  Paul Assenmacher            2    1   63    0  9/24/1996    26r                             
+  Andy Benes                  0    0   36    0  9/21/1996                         31r        
+  Hideo Nomo                  0    0   33    0  9/21/1996                        125s        
+f Jerry DiPoto                0    0   57    0  9/22/1996                  11r               
+f Livan Hernandez             0    0    1    0   9/4/1996                                    
+  Shane Reynolds              0    0   35    0  9/22/1996                  87s               
+f Scott Sullivan              0    0    7    0   9/7/1996                                    
+f Tony Fossas                 0    0   65    0   9/3/1996                                    
+  Bob Wells                   0    0   36    0  9/22/1996                  37r           30r 
+f John Hudek                  0    0   15    0  9/15/1996                                    
+f Tim Scott                   0    0   65    0   9/9/1996                                    
+  Mike Oquist                 0    0    8    0  9/15/1996                                    
+  Total                            2  198                                                    
+
+
+                             Playoff Team Status -- 1996 Ferlin Huskies                             
+                               Divisional playoff -- as of 9/24/1996                                
+
+S Name                    Usage     PA     PA Days 
+  Jim Thome                   2     10    636    0 
+  Ellis Burks                 1     10    685    0 
+  Lance Johnson               1     10    724    0 
+  Dave Nilsson                1      7    516    0 
+  Andres Galarraga            1      9    691    0 
+  Mark Grudzielanek           1      9    696    0 
+  Mike Lansing                1      9    705    0 
+  Marquis Grissom             1      9    723    0 
+  Dave Justice                1      1    164    0 
+  Darrin Fletcher             0      2    432    0 
+  Chili Davis                 0      1    623    0 
+  Edgardo Alfonzo             0      0    407    0 
+f Wil Cordero                 0      0    213    0 
+f Keith Osik                  0      0    156    0 
+  Quinton McCracken           0      0    329    0 
+f Carlos Hernandez            0      0     16    0 
+f Ruben Rivera                0      0    106    0 
+f Damian Jackson              0      0     11    0 
+f Rob Deer                    0      0     64    0 
+f Wilson Delgado              0      0     25    0 
+f Kevin Roberson              0      0     46    0 
+f Andy Tomberlin              0      0     76    0 
+f Terry Bradshaw              0      0     25    0 
+f Rod Myers                   0      0     70    0 
+f Jeff Huson                  0      0     30    0 
+f Pedro Munoz                 0      0    130    0 
+  Total                             77   8299      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/24   9/23   9/22   9/21   9/20 
+  Armando Benitez             6    1   18    0  9/23/1996           31r                      
+  Mark Clark                  3    1   32    0  9/23/1996          118s                      
+  Rheal Cormier               3    1   33    0  9/24/1996   108s                             
+  Rod Beck                    2    1   63    0  9/23/1996           29r                      
+f Rich Rodriguez (AG)         0    0    0    0                                               
+  Steve Trachsel              0    0   31    0  9/17/1996                                    
+d Kirk Rueter                 0    0   20   15   9/8/1996                                    
+  Mark Portugal               0    0   27    0  9/18/1996                                    
+  Kevin Brown                 0    0   32    0  9/20/1996                               104s 
+f Mike Morgan                 0    0   23    0   9/7/1996                                    
+  Terry Adams                 0    0   69    0  9/19/1996                                    
+f Bill Risley                 0    0   25    0   9/9/1996                                    
+  Todd Worrell                0    0   72    0  9/20/1996                                 9r 
+f Danny Patterson             0    0    7    0  6/27/1996                                    
+f Mike Maddux                 0    0   23    0  9/13/1996                                    
+  Rich Loiselle               0    0    5    0  5/16/1996                                    
+  Xavier Hernandez            0    0   61    0   9/8/1996                                    
+f Joel Adamson                0    0    9    0   8/4/1996                                    
+  Mark Brandenburg            0    0   55    0  9/15/1996                                    
+  Total                            2  200                                                    

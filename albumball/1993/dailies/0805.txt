@@ -1,0 +1,1754 @@
+Frank Black League Daily
+Thursday, August 5, 1993
+
+-------------------------------------------------------------------------------------------
+TRANSACTIONS
+-------------------------------------------------------------------------------------------
+
+BMB - Promote Terry Leach
+
+-------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Firsts            0  0  0  0  0  0  2  0  0     2 11  0    12  0
+1993 Messiahs          0  0  0  1  2  0  0  0  x     3  4  0     4  1
+Williams,Mik (W,1-4), Rhodes (L,0-11), Hillegas (S,3)
+HR - None
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Reds              0  0  0  0  1  0  0  0  0     1  4  0     5  2
+1993 Streets           2  0  1  0  0  0  0  1  x     4 11  1     5  2
+Haney (W,4-5), Benes (L,7-8)
+HR - None
+
+-------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA  Mgn  Mgc 
+RAMONA
+1993 Chinatrust Whales              84   27  .757       -    4-6   W2  wwlwwlllll    672  435  237   33 
+1993 Ferdinand Magellans            65   46  .586      19    5-5   L2  llwwllwlww    628  513  115   71 
+1993 GPCC Shebazzle!                59   52  .532      25    3-7   L1  lwllllwlwl    619  559   60   77 
+1993 Century Atoms                  46   65  .414      38    6-4   W1  wlwwlllwww    424  543 -119   90 
+1993 Houston Streets                44   68  .393  40 1/2    3-7   W1  wllllwlwll    515  655 -140   92 
+                                                                                                        
+FU MANCHU
+1993 Needmore Perfectos             79   32  .712       -    7-3   W1  wlwwwwwwll    672  405  267   46 
+1993 Tewksbury Bobs                 73   38  .658       6    6-4   W1  wlwlwwlwwl    598  404  194   58 
+1993 Reykjavík 101ers               56   55  .505      23    4-6   L1  lwlwlwlwll    524  506   18   75 
+1993 San Francisco Árboles          40   71  .360      39    6-4   L1  lwllwwlwww    402  559 -157   91 
+1993 Dún Laoghaire Messiahs         29   83  .259  50 1/2    6-4   W4  wwwwllwwll    355  579 -224  102 
+                                                                                                        
+CZAR
+1993 Barcelona Brewers              64   47  .577       -    4-6   W1  wlllwwlllw    528  480   48   51 
+1993 Evanston Endorphins            63   48  .568       1    8-2   L1  lwwwwwwlww    477  460   17   53 
+1993 Ferlin Huskies                 54   57  .486      10    4-6   L5  lllllwwwlw    546  510   36   62 
+1993 Hong Kong Cavaliers            49   62  .441      15    5-5   W3  wwwlwllwll    608  747 -139   67 
+1993 Felldownhead Firsts            35   77  .313  29 1/2    4-6   L2  llwlwllwlw    427  581 -154   81 
+                                                                                                        
+BRACKISH
+1993 Butt Mountain Beavis           71   40  .640       -    7-3   W1  wlwlwwwwlw    592  464  128   38 
+1993 Wilken Tools Police            57   54  .514      14    4-6   L1  lwllllwlww    532  507   25   66 
+1993 Baraboo GoiterMen              51   60  .459      20    4-6   W1  wlwwlllwll    499  503   -4   72 
+1993 Grain Belt Premiums            48   63  .432      23    5-5   L1  lwlwlwllww    488  597 -109   75 
+1993 Cincinnati Reds                45   67  .402  26 1/2    6-4   L1  lwlwwwllww    442  541  -99   78 
+
+-------------------------------------------------------------------------------------------
+CURRENT INJURIES                               (*** new'ish injury)  (<-- can be activated)
+-------------------------------------------------------------------------------------------
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+7/23/1993  FER     Hoiles           Collision on bases  8/7/1993     15    2 
+7/27/1993  BBG     Dopson           General             8/7/1993     11    2 
+7/25/1993  TEW     Alomar           Collision in field  8/9/1993     15    4 
+7/25/1993  FER     Jaha             Hit by pitch        8/9/1993     15    4 
+8/1/1993   CEN     Hundley          General             8/9/1993      8    4 
+7/24/1993  NEP     Hanson           General             8/9/1993     16    4 
+7/24/1993  RVK     McElroy          General             8/9/1993     16    4 
+8/4/1993   SFA     Listach          General             8/10/1993     6    5 ***
+8/3/1993   NEP     Voigt            General             8/11/1993     8    6 ***
+8/4/1993   FDH     Perez            Hit by pitch        8/11/1993     7    6 ***
+7/23/1993  RVK     Berry            General             8/11/1993    19    6 
+7/21/1993  GBP     DiSarcina        General             8/13/1993    23    8 
+8/2/1993   CIN     Wells            General             8/13/1993    11    8 ***
+7/22/1993  DLM     Lampkin          Collision in field  8/15/1993    24   10 
+7/31/1993  GCS     Mills            General             8/15/1993    15   10 
+8/1/1993   FER     Finley           General             8/16/1993    15   11 
+8/2/1993   FER     Gwynn            General             8/17/1993    15   12 
+7/23/1993  TEW     Kelly            Hit by pitch        8/17/1993    25   12 
+7/21/1993  CTW     Pavlik           Hit by pitch        8/18/1993    28   13 
+7/7/1993   NEP     Whitaker         Collision on bases  8/20/1993    44   15 
+7/9/1993   FER     Perez,Mi         Brawl               8/25/1993    47   20 
+
+-------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+-------------------------------------------------------------------------------------------
+8/5/1993, FDH93-DLM93, Fulton County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Firsts            0  0  0  0  0  0  2  0  0     2 11  0    12  0
+1993 Messiahs          0  0  0  1  2  0  0  0  x     3  4  0     4  1
+ 
+Firsts               AB  R  H BI   AVG    Messiahs             AB  R  H BI   AVG
+McLemore          rf  4  1  1  0  .239    Wilson            rf  3  1  0  0  .357       
+Curtis            cf  5  1  2  0  .268    Lind              2b  4  0  0  0  .235       
+Segui             1b  4  0  2  2  .260    Blankenship       lf  4  0  1  2  .264       
+Conine            lf  3  0  0  0  .300    Zupcic            1b  2  1  1  0  .275       
+ Bohanon          p   0  0  0  0  .000    Cuyler            cf  3  0  1  0  .220       
+ Jackson          ph  1  0  0  0  .181    Sharperson        3b  3  0  1  1  .171       
+Young             3b  5  0  0  0  .243    Ortiz             c   3  0  0  0  .230       
+Bordick           ss  4  0  4  0  .259    Ripken            ss  2  1  0  0  .265       
+Owens             c   4  0  0  0  .136    Fetters           p   0  0  0  0  .000       
+Mejia             2b  3  0  1  0  .183     Quintana         ph  1  0  0  0  .274       
+Rhodes            p   2  0  1  0  .269     Williams,Mik     p   0  0  0  0  .000       
+ McKnight         ph  1  0  0  0  .216     Kmak             ph  1  0  0  0  .097       
+ Hammonds         lf  1  0  0  0  .222     Sutcliffe        p   0  0  0  0  .000       
+                     37  2 11  2           Pendleton        ph  1  0  0  0  .276       
+                                           Hillegas         p   0  0  0  0  .000       
+                                                               27  3  4  3             
+ 
+Firsts                           INN  H  R ER BB  K PCH STR   ERA
+Rhodes           L 0-11          6.0  4  3  3  4  5  96  55  6.03
+Bohanon                          2.0  0  0  0  0  0  19  13  4.45
+                                 8.0  4  3  3  4  5 115  68 
+ 
+Messiahs                         INN  H  R ER BB  K PCH STR   ERA
+Fetters                          3.0  3  0  0  2  4  58  35  3.71
+Williams,Mik     W 1-4           2.0  1  0  0  2  2  37  24  4.76
+Sutcliffe        H 1             2.0  4  2  2  0  3  38  24  9.00
+Hillegas         S 3             2.0  3  0  0  0  1  28  17  7.36
+                                 9.0 11  2  2  4 10 161 100 
+ 
+FDH: McKnight batted for Rhodes in the 7th
+     Hammonds inserted at lf in the 7th
+     Jackson batted for Bohanon in the 9th
+DLM: Quintana batted for Fetters in the 3rd
+     Kmak batted for Williams,Mik in the 5th
+     Pendleton batted for Sutcliffe in the 7th
+ 
+2B-Curtis, Bordick, Blankenship, Sharperson. SB-McLemore(16), Zupcic(3). 
+K-Curtis, Segui, Conine 2, Young 2, Owens 2, Mejia, Rhodes, Wilson, 
+Blankenship, Cuyler, Sharperson, Ortiz. BB-McLemore, Segui, Conine, Mejia, 
+Wilson, Zupcic 2, Ripken. 
+GWRBI: Sharperson
+Temperature: 93, Sky: clear, Wind: left to right at 5 MPH.
+
+....................................................................................................
+8/5/1993, FDH93-DLM93, Fulton County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Firsts            0  0  0  0  0  0  2  0  0     2 11  0    12  0
+1993 Messiahs          0  0  0  1  2  0  0  0  x     3  4  0     4  1
+ 
+ 
+Firsts               -----A------ -----B------ -----C------ -----D------ -----E------
+McLemore          rf 1>W            7          5>9            S            3/fl      
+Curtis            cf   SB2          S.1-3        63           D.1-3      9>8         
+                       k                                                             
+Segui             1b   53           k            W            S.3-H;2-H    S         
+Conine            lf   IW           k            31           k                      
+ Bohanon          p                                                                  
+ Jackson          ph                                                       5/L       
+Young             3b   5          4>note 1     6>Sutcliffe    k            63        
+                                    8            k                                   
+Bordick           ss 2>S            S            D          8>Hillegas               
+                                                              S                      
+Owens             c    463/gdp      k            7            k                      
+Mejia             2b   k            W.1-2        2/fl         S.1-3                  
+Rhodes            p  3>S            k                                                
+ McKnight         ph                           7>3                                   
+ Hammonds         lf                                          7                      
+ 
+ 1: Williams,Mik 
+ 
+ 
+Messiahs             -----A------ -----B------ -----C------ -----D------ -----E------
+Wilson            rf 1>4            k            W.1-2        3/fl                   
+Lind              2b   2/fl       4>8            8          8>63                     
+Blankenship       lf   k            63           D.2-H;1-H    53                     
+Zupcic            1b 2>W            W            S.2xH(72)    43                     
+Cuyler            cf   SB2          S.1-3      6>9                                   
+                       k                                                             
+Sharperson        3b   k            D.3-H;1-3    8                                   
+Ortiz             c    k            63           43                                  
+Ripken            ss 3>8          5>W          7>Bohanon                             
+                                                 9                                   
+Fetters           p                                                                  
+ Quintana         ph   63                                                            
+ Williams,Mik     p                                                                  
+ Kmak             ph                4                                                
+ Sutcliffe        p                                                                  
+ Pendleton        ph                             53                                  
+ Hillegas         p                                                                  
+ 
+ 
+Firsts           IN OUT ER                  Messiahs         IN OUT ER                  
+Rhodes           A1  C7  3 L 0-11           Fetters          A1  B4  0                  
+Bohanon          C8  D4  0                  Williams,Mik     B5  C4  0 W 1-4            
+                                            Sutcliffe        C5  D5  2 H 1              
+                                            Hillegas         D6  E5  0 S 3              
+
+....................................................................................................
+8/5/1993, FDH93-DLM93, Fulton County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Firsts            0  0  0  0  0  0  2  0  0     2 11  0    12  0
+1993 Messiahs          0  0  0  1  2  0  0  0  x     3  4  0     4  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Firsts batting
+ 0-0  0 --- 32  McLemore walked (FFFBBBB)
+ 0-0  0 1-- 00  McLemore stole second (>C)
+ 0-0  0 -2- 22  Curtis struck out (>C.FFBFBC)
+ 0-0  1 -2- 22  Segui grounded out to third (CC2BBX)
+ 0-0  2 -2- 30  Conine was walked intentionally (IIII)
+ 0-0  2 12- 01  Young popped out to third (SX)
+ 
+**************  Bottom of the 1st inning, Messiahs batting
+ 0-0  0 --- 11  Wilson popped out to second (BFX)
+ 0-0  1 --- 32  Lind popped out to the catcher (BBFFBFX)
+ 0-0  2 --- 22  Blankenship struck out (BSBFC)
+ 
+**************  Top of the 2nd inning, Firsts batting
+ 0-0  0 --- 00  Bordick grounded a single up the middle (X)
+ 0-0  0 1-- 32  Owens grounded into a double play, Lind to Ripken to 
+                  Zupcic (1BCSBBX)
+ 0-0  2 --- 22  Mejia struck out (FCBBFS)
+ 
+**************  Bottom of the 2nd inning, Messiahs batting
+ 0-0  0 --- 32  Zupcic walked (BFFBBB)
+ 0-0  0 1-- 10  Zupcic stole second (Bp>C)
+ 0-0  0 -2- 22  Cuyler struck out (Bp>C.SBS)
+ 0-0  1 -2- 12  Sharperson struck out (CSBFS)
+ 0-0  2 -2- 12  Ortiz struck out (SBFS)
+ 
+**************  Top of the 3rd inning, Firsts batting
+ 0-0  0 --- 22  Rhodes lined a single to left center (BCBFX)
+ 0-0  0 1-- 00  McLemore flied out to left (X)
+ 0-0  1 1-- 12  Curtis singled down the right field line, Rhodes to third 
+                  (CFBFX)
+ 0-0  1 1-3 32  Segui struck out (BCBFBS)
+ 0-0  2 1-3 02  Conine struck out (FS1C)
+ 
+**************  Bottom of the 3rd inning, Messiahs batting
+ 0-0  0 --- 00  Ripken flied out to center (X)
+                Quintana pinch hitting for Fetters
+ 0-0  1 --- 00  Fetters grounded out to short (X)
+ 0-0  2 --- 12  Wilson struck out (FBFS)
+ 
+**************  Top of the 4th inning, Firsts batting
+                Williams,Mik now pitching
+ 0-0  0 --- 12  Young flied out to center (CCBX)
+ 0-0  1 --- 00  Bordick grounded a single between third and short (X)
+ 0-0  1 1-- 12  Owens struck out (SFBS)
+ 0-0  2 1-- 31  Mejia walked, Bordick to second (1BB11C1B1B)
+ 0-0  2 12- 12  Rhodes struck out (SSFBFFS)
+ 
+**************  Bottom of the 4th inning, Messiahs batting
+ 0-0  0 --- 22  Lind lined out to center (FBFFBX)
+ 0-0  1 --- 20  Blankenship grounded out to short (BBX)
+ 0-0  2 --- 31  Zupcic walked (BFBBB)
+ 0-0  2 1-- 12  Cuyler grounded a single between first and second, Zupcic 
+                  to third (1CB1S1X)
+ 0-0  2 1-3 22  Sharperson doubled deep down the left-field line, Zupcic 
+                  scored, Cuyler to third (C11BB1SF1FX)
+ 0-1  2 -23 11  Ortiz grounded out to short (CBX)
+ 
+**************  Top of the 5th inning, Firsts batting
+ 0-1  0 --- 22  McLemore flied out to right (BBFFFX)
+ 0-1  1 --- 02  Curtis grounded out to short (CCX)
+ 0-1  2 --- 30  Segui walked (BBBB)
+ 0-1  2 1-- 02  Conine grounded out to first (FF1X)
+ 
+**************  Bottom of the 5th inning, Messiahs batting
+ 0-1  0 --- 30  Ripken walked (BBBB)
+                Kmak pinch hitting for Williams,Mik
+ 0-1  0 1-- 11  Kmak popped out to second (BCX)
+ 0-1  1 1-- 31  Wilson walked, Ripken to second (BBBCB)
+ 0-1  1 12- 01  Lind flied out to center (CX)
+ 0-1  2 12- 20  Blankenship lined a double to left center, Ripken scored, 
+                  Wilson scored (BBX)
+ 0-3  2 -2- 00  Zupcic grounded a single between third and short, 
+                  Blankenship out at home (X)
+ 
+**************  Top of the 6th inning, Firsts batting
+                Sutcliffe now pitching
+ 0-3  0 --- 12  Young struck out (CFBFFC)
+ 0-3  1 --- 00  Bordick lined a double to right center (X)
+ 0-3  1 -2- 32  Owens lined out to left (CBBFBX)
+ 0-3  2 -2- 00  Mejia popped out to the catcher (X)
+ 
+**************  Bottom of the 6th inning, Messiahs batting
+ 0-3  0 --- 00  Cuyler lined out to right (X)
+ 0-3  1 --- 21  Sharperson flied out to center (CBBX)
+ 0-3  2 --- 12  Ortiz grounded out to second (CBFX)
+ 
+**************  Top of the 7th inning, Firsts batting
+                McKnight pinch hitting for Rhodes
+ 0-3  0 --- 31  McKnight popped out to first (BBBCX)
+ 0-3  1 --- 31  McLemore lined a single to right (BBBCX)
+ 0-3  1 1-- 21  Curtis grounded a double down the third base line, 
+                  McLemore to third (BBCX)
+ 0-3  1 -23 10  Segui lined a single up the middle, McLemore scored, 
+                  Curtis scored (BX)
+ 2-3  1 1-- 02  Conine struck out (CC1FC)
+ 2-3  2 1-- 12  Young struck out (BC1FS)
+ 
+**************  Bottom of the 7th inning, Messiahs batting
+                Hammonds now playing left field
+                Bohanon now pitching
+ 2-3  0 --- 11  Ripken flied out to right (CBX)
+                Pendleton pinch hitting for Sutcliffe
+ 2-3  1 --- 11  Pendleton grounded out to third (BFX)
+ 2-3  2 --- 12  Wilson popped out to first (BFFFX)
+ 
+**************  Top of the 8th inning, Firsts batting
+                Hillegas now pitching
+ 2-3  0 --- 00  Bordick lined a single to right center (X)
+ 2-3  0 1-- 32  Owens struck out (CBBSBS)
+ 2-3  1 1-- 10  Mejia lined a single to left center, Bordick to third 
+                  (BpX)
+ 2-3  1 1-3 00  Hammonds lined out to left (X)
+ 2-3  2 1-3 20  McLemore popped out to first (BBX)
+ 
+**************  Bottom of the 8th inning, Messiahs batting
+ 2-3  0 --- 00  Lind grounded out to short (X)
+ 2-3  1 --- 31  Blankenship grounded out to third (BCBBX)
+ 2-3  2 --- 01  Zupcic grounded out to second (SX)
+ 
+**************  Top of the 9th inning, Firsts batting
+ 2-3  0 --- 22  Curtis flied out to center (BBCSFX)
+ 2-3  1 --- 11  Segui grounded a single between first and second (CBX)
+                Jackson pinch hitting for Bohanon
+ 2-3  1 1-- 22  Jackson lined out to third (BSBCX)
+ 2-3  2 1-- 00  Young grounded out to short (X)
+
+___________________________________________________________________________________________            
+
+8/5/1993, CIN93-HOU93, SkyDome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Reds              0  0  0  0  1  0  0  0  0     1  4  0     5  2
+1993 Streets           2  0  1  0  0  0  0  1  x     4 11  1     5  2
+ 
+Reds                 AB  R  H BI   AVG    Streets              AB  R  H BI   AVG
+Polonia           lf  4  0  1  0  .344    Branson           ss  4  1  1  0  .220       
+Offerman          2b  2  0  0  0  .263    Hulse             cf  4  1  2  0  .293       
+Palmeiro          1b  4  0  0  0  .256    Alomar            2b  4  2  4  2  .292       
+Caminiti          3b  4  0  0  0  .291    McGriff           1b  3  0  1  1  .296       
+Tettleton         c   3  0  0  0  .246    Clark             lf  4  0  2  1  .274       
+Lankford          cf  3  1  1  0  .283    Anthony           rf  4  0  0  0  .211       
+Larkin            ss  3  0  1  0  .347    Martinez          3b  3  0  1  0  .083       
+Nixon             rf  3  0  1  1  .263    Tackett           c   3  0  0  0  .254       
+Benes             p   0  0  0  0  .178    Haney             p   3  0  0  0  .043       
+ Natal            ph  1  0  0  0  .164                         32  4 11  4             
+ Assenmacher      p   0  0  0  0  .571                                              
+                     27  1  4  1                                                    
+ 
+Reds                             INN  H  R ER BB  K PCH STR   ERA
+Benes            L 7-8           7.0  9  3  3  1  4  97  67  3.77
+Assenmacher                      1.0  2  1  1  0  1  13   8  3.68
+                                 8.0 11  4  4  1  5 110  75 
+ 
+Streets                          INN  H  R ER BB  K PCH STR   ERA
+Haney            W 4-5           9.0  4  1  1  4  1 113  68  5.03
+                                 9.0  4  1  1  4  1 113  68 
+ 
+CIN: Natal batted for Benes in the 8th
+ 
+E-Martinez. 2B-Branson, Alomar 2. SB-Offerman(19), Lankford(13), Hulse(12), 
+Alomar 2(32), Clark(3). K-Tettleton, Hulse, Anthony 2, Tackett 2. 
+BB-Offerman 2, Tettleton, Lankford, McGriff. SH-Benes 2. WP-Haney. 
+GWRBI: Alomar
+Temperature: 81, Sky: clear, Wind: none.
+
+....................................................................................................
+8/5/1993, CIN93-HOU93, SkyDome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Reds              0  0  0  0  1  0  0  0  0     1  4  0     5  2
+1993 Streets           2  0  1  0  0  0  0  1  x     4 11  1     5  2
+ 
+ 
+Reds                 -----A------ -----B------ -----C------ -----D------ -----E------
+Polonia           lf 1>63           53           PO2(16)      43                     
+                                               6>S                                   
+Offerman          2b   W            8            wp.1-2       53                     
+                                                 W                                   
+Palmeiro          1b   SB2        4>9            9          9>8                      
+                       53.2-3                                                        
+Caminiti          3b   31           8            643/gdp      7                      
+Tettleton         c  2>k            7          7>7            W                      
+Lankford          cf   9          5>S            W            8                      
+Larkin            ss   9            6/L          S.1-2                               
+Nixon             rf 3>e5.B-2       SB2          643/gdp                             
+                                    S.2-H                                            
+Benes             p    24/SH.2-3    34/SH.1-2                                        
+ Natal            ph                           8>3                                   
+ Assenmacher      p                                                                  
+ 
+ 
+Streets              -----A------ -----B------ -----C------ -----D------ -----E------
+Branson           ss 1>7          3>D            7            8                      
+Hulse             cf   S            k            S            4                      
+Alomar            2b   POSB2        S.2-H        D.1-3      8>note 1                 
+                       S.2-H                                  D                      
+McGriff           1b   SB2          73/ldp.1x1   53           note 2                 
+                       SB3                                                           
+                       W                                                             
+Clark             lf   63.3-H;1-2 4>S          6>S            31                     
+Anthony           rf   31           SB2          k            k                      
+                                    63                                               
+Martinez          3b 2>7            S.2-3        7                                   
+Tackett           c    k            643/gdp      k                                   
+Haney             p    9          5>43         7>7                                   
+ 
+ 1: Assenmacher  2: S.2-H;Bx2(854) 
+ 
+ 
+Reds             IN OUT ER                  Streets          IN OUT ER                  
+Benes            A1  D2  3 L 7-8            Haney            A1  D6  1 W 4-5            
+Assenmacher      D3  D6  1                                                              
+
+....................................................................................................
+8/5/1993, CIN93-HOU93, SkyDome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1993 Reds              0  0  0  0  1  0  0  0  0     1  4  0     5  2
+1993 Streets           2  0  1  0  0  0  0  1  x     4 11  1     5  2
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Reds batting
+ 0-0  0 --- 11  Polonia grounded out to short (BCX)
+ 0-0  1 --- 30  Offerman walked (BBBB)
+ 0-0  1 1-- 11  Offerman stole second (CB>B)
+ 0-0  1 -2- 21  Palmeiro grounded out to third, Offerman to third (CB>B.X)
+ 0-0  2 --3 00  Caminiti grounded out to first (X)
+ 
+**************  Bottom of the 1st inning, Streets batting
+ 0-0  0 --- 02  Branson flied out to left (FSX)
+ 0-0  1 --- 31  Hulse reached on an infield single to third (BFBBX)
+ 0-0  1 1-- 01  Hulse stole second after being picked off first by Benes 
+                  (C1)
+ 0-0  1 -2- 22  Alomar grounded a single between third and short, Hulse 
+                  scored (C1.BFBX)
+ 0-1  1 1-- 00  Alomar stole second (>C)
+ 0-1  1 -2- 01  Alomar stole third (>C.>B)
+ 0-1  1 --3 31  McGriff walked (>C.>B.BBB)
+ 0-1  1 1-3 01  Clark grounded out to short, Alomar scored, McGriff to 
+                  second (C>X)
+ 0-2  2 -2- 00  Anthony grounded out to first (X)
+ 
+**************  Top of the 2nd inning, Reds batting
+ 0-2  0 --- 12  Tettleton struck out (FBFFC)
+ 0-2  1 --- 20  Lankford lined out to right (BBX)
+ 0-2  2 --- 12  Larkin flied out to right (CBFX)
+ 
+**************  Bottom of the 2nd inning, Streets batting
+ 0-2  0 --- 11  Martinez flied out to left (CBX)
+ 0-2  1 --- 02  Tackett struck out (SFS)
+ 0-2  2 --- 01  Haney popped out to right (FX)
+ 
+**************  Top of the 3rd inning, Reds batting
+ 0-2  0 --- 10  Nixon to second on an error by the third baseman Martinez 
+                  (BX)
+ 0-2  0 -2- 00  Benes sacrifice bunted to the catcher, Nixon to third (Xb)
+ 0-2  1 --3 21  Polonia grounded out to third (BBFX)
+ 0-2  2 --3 21  Offerman flied out to center (BFBX)
+ 
+**************  Bottom of the 3rd inning, Streets batting
+ 0-2  0 --- 00  Branson doubled deep to left center (X)
+ 0-2  0 -2- 32  Hulse struck out (BbCBbCFBS)
+ 0-2  1 -2- 32  Alomar grounded a single between first and second, 
+                  Branson scored (BBBCFFX)
+ 0-3  1 1-- 00  McGriff lined into a double play, Polonia to Palmeiro to 
+                  Polonia, Alomar out at first (>X)
+ 
+**************  Top of the 4th inning, Reds batting
+ 0-3  0 --- 12  Palmeiro flied out to right (FCBX)
+ 0-3  1 --- 01  Caminiti flied out to center (CX)
+ 0-3  2 --- 12  Tettleton flied out to left (CBFX)
+ 
+**************  Bottom of the 4th inning, Streets batting
+ 0-3  0 --- 10  Clark lined a single down the right field line (BX)
+ 0-3  0 1-- 00  Clark stole second (>B)
+ 0-3  0 -2- 12  Anthony grounded out to short (>B.SSX)
+ 0-3  1 -2- 00  Martinez lined a single to shallow center, Clark to third 
+                  (X)
+ 0-3  1 1-3 01  Tackett grounded into a double play, Larkin to Offerman 
+                  to Palmeiro (SX)
+ 
+**************  Top of the 5th inning, Reds batting
+ 0-3  0 --- 22  Lankford reached on an infield single to the pitcher 
+                  (CBCBX)
+ 0-3  0 1-- 00  Larkin lined out to short (X)
+ 0-3  1 1-- 00  Lankford stole second (>C)
+ 0-3  1 -2- 21  Nixon grounded a single up the middle, Lankford scored 
+                  (>C.BBX)
+ 1-3  1 1-- 11  Benes sacrifice bunted to first, Nixon to second (BbSbXb)
+ 1-3  2 -2- 22  Nixon was picked off second by Haney (CFBBF2)
+ 
+**************  Bottom of the 5th inning, Streets batting
+ 1-3  0 --- 12  Haney grounded out to second (BSSFX)
+ 1-3  1 --- 01  Branson flied out to left (FX)
+ 1-3  2 --- 00  Hulse lined a single to shallow center (X)
+ 1-3  2 1-- 00  Alomar lined a double down the right field line, Hulse to 
+                  third (X)
+ 1-3  2 -23 12  McGriff grounded out to third (SBCX)
+ 
+**************  Top of the 6th inning, Reds batting
+ 1-3  0 --- 00  Polonia lined a single to right center (X)
+ 1-3  0 1-- 20  Haney threw a wild pitch, Polonia to second (BBB)
+ 1-3  0 -2- 32  Offerman walked (BBB.CFB)
+ 1-3  0 12- 02  Palmeiro lined out to right (FbFX)
+ 1-3  1 12- 20  Caminiti grounded into a double play, Branson to Alomar 
+                  to McGriff (2BBX)
+ 
+**************  Bottom of the 6th inning, Streets batting
+ 1-3  0 --- 11  Clark lined a single up the middle (BFX)
+ 1-3  0 1-- 22  Anthony struck out (CSBBS)
+ 1-3  1 1-- 11  Martinez flied out to left (C1BX)
+ 1-3  2 1-- 12  Tackett struck out (CBpFFS)
+ 
+**************  Top of the 7th inning, Reds batting
+ 1-3  0 --- 00  Tettleton flied out to left (X)
+ 1-3  1 --- 32  Lankford walked (CBBFBFB)
+ 1-3  1 1-- 10  Larkin lined a single to shallow right, Lankford to 
+                  second (BX)
+ 1-3  1 12- 12  Nixon grounded into a double play, Branson to Alomar to 
+                  McGriff (CBCX)
+ 
+**************  Bottom of the 7th inning, Streets batting
+ 1-3  0 --- 12  Haney popped out to left (CBFFFX)
+ 1-3  1 --- 10  Branson flied out to center (BX)
+ 1-3  2 --- 32  Hulse popped out to second (BFCBBX)
+ 
+**************  Top of the 8th inning, Reds batting
+                Natal pinch hitting for Benes
+ 1-3  0 --- 02  Natal popped out to first (CSFX)
+ 1-3  1 --- 02  Polonia grounded out to second (CFX)
+ 1-3  2 --- 01  Offerman grounded out to third (FX)
+ 
+**************  Bottom of the 8th inning, Streets batting
+                Assenmacher now pitching
+ 1-3  0 --- 11  Alomar lined a double to right center (FBX)
+ 1-3  0 -2- 10  McGriff lined a single to shallow center, Alomar scored, 
+                  McGriff out at second (BX)
+ 1-4  1 --- 10  Clark grounded out to first (BX)
+ 1-4  2 --- 22  Anthony struck out (SBBCFS)
+ 
+**************  Top of the 9th inning, Reds batting
+ 1-4  0 --- 00  Palmeiro flied out to center (X)
+ 1-4  1 --- 12  Caminiti popped out to left (SFBX)
+ 1-4  2 --- 30  Tettleton walked (BBBB)
+ 1-4  2 1-- 31  Lankford flied out to center (BBBCX)
+
+-------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+-------------------------------------------------------------------------------------------
+
+                            FBL Team Status -- 1993 Butt Mountain Beavis                            
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Harvey Pulliam             96     89     94    0    47    18       
+  Juan Gonzalez             137     71     83    0   115   472       
+  Matt Williams              78     78     78    0   201   418       
+  Mark McGwire               56     81     75    0    27    80       
+  John Kruk                  73     73     73    0   215   436       
+  John Valentin              59     78     73    0   146   393       
+  Terry Steinbach            86     65     71    0   118   302   193 
+  Ryne Sandberg             134     49     69    0   117   386       
+  Tim Hulett                 16     98     66    0   112   177       
+  Al Martin                  28     73     64    0   103   425       
+  Mark Whiten                21     65     52    0   179   447       
+  Kirt Manwaring             34     36     35    0   161   325   152 
+  Mike Devereaux             62     11     27    0   177   400       
+  Rene Gonzales              42      7     19    0   129   260       
+  Andre Dawson               46      5     16    0   135   363       
+  Julio Franco                8     10      9    0   116   491       
+f Dan Gladden                 9      5      6    0   151   235       
+f Rico Brogna                 0      0      0    0     0     0       
+f Dave Silvestri              0      0      0    0    12    14       
+f Rafael Bournigal            0      0      0    0     4    14       
+f Rick Parker                 0      0      0    0    36    13       
+f Jerry Goff                  0      0      0    0     4    42       
+f Ben Shelton                 0      0      0    0    12    15       
+f Carlton Fisk                0      0      0    0    32    26       
+f Charlie Montoyo             0      0      0    0     4     1       
+f Steve Balboni               0      0      0    0     0     5       
+  Total                                             2353  5758       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Rich Robertson            127    0     56     44   7/3/1993                                   
+f Jay Howell                108    0    251    233   8/3/1993           24r            7r    31 
+f Mark Wohlers              106    0    211    199  7/21/1993                                   
+f Steve Ontiveros            97    0     70     72  5/18/1993                                   
+  Frank Viola                72    0    566    787   8/4/1993   122s                        122 
+  John Smoltz                68    0    695   1028   8/3/1993           67s                  67 
+  Jeff Montgomery            66    0    229    347   8/2/1993                  21r    18r    39 
+  Roger Clemens              66    0    533    808  7/31/1993                                   
+  Greg Maddux                63    0    671   1064   8/2/1993                  89s           89 
+  Greg Harris                63    0    309    494   8/3/1993           40r    18r           58 
+f Ken Hill                   62    0    482    780  7/22/1993                                   
+  Nolan Ryan                 37    0    107    291   8/1/1993                         85s    85 
+  John Briscoe               31    0     38    122   8/3/1993           42r           33r    75 
+  Paul Kilgus                28    0     30    109   8/4/1993    10r           11r    27r    48 
+f Mike Ignasiak               0    0      0    158                                              
+  Terry Leach                 0    0      0     64                                              
+f James Austin                0    0      0    137                                              
+f Jose Melendez               0    0      0     63                                              
+f Barry Manuel                0    0      0      0                                              
+f Mike Oquist                 0    0      0     50                                              
+f Ross Powell                 0    0      0     66                                              
+f Matt Whiteside              0    0      0    305                                              
+f Vince Horsman               0    0      0    116                                              
+  Total                                4248   7337                                              
+
+
+
+                             FBL Team Status -- 1993 Needmore Perfectos                             
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Curtis Pride                0    111    122    0     0     9       
+f Norberto Martin           200    100    107    0     1    14       
+f Chip Hale                 300     95    105    0    10   203       
+f Jose Valentin              22    130     90    0    23    40       
+  Jack Voigt                101     40     75    7   100    77       
+  Ken Griffey                68     76     74    0   241   450       
+  John Olerud                69     74     73    0   213   466       
+  Gary Sheffield             75     65     68    0   155   402       
+  Lonnie Smith               81     48     67    0   164   120       
+  Phil Clark                 50     84     65    0   145   111    38 
+  Rick Wilkins               22     70     63    0    77   423   201 
+  Orlando Merced             24     73     61    0   127   400       
+d Lou Whitaker               39     64     60   16    62   414       
+  Danny Tartabull            11     74     52    0   214   397       
+  Delino DeShields           67     43     51    0   189   373       
+  Rich Amaral                89     18     46    0   165   256       
+  Scott Hemond               73     21     40    0    95   160    74 
+f Pete Incaviglia            41     18     28    0   173   229       
+f Dave Gallagher              3     49     18    0   156    73       
+  Tim Jones                   0     20     18    0     7    66       
+  Derek Bell                  5      2      3    0   190   395       
+f Todd Haney                  0      0      0    0     0     0       
+f Jim Lindeman                0      0      0    0     9    14       
+  Nelson Liriano              0      0      0    0    37   138       
+f Stan Royer                  0      0      0    0    19    29       
+f Jacob Brumfield             0      0      0    0    94   205       
+f J.R. Phillips               0      0      0    0     2    14       
+f Karl Rhodes                 0      0      0    0    12    53       
+  Total                                             2680  5531       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Steve Bedrosian           106    0    209    198  7/16/1993                                   
+  Gregg Olson                94    0    176    188   8/1/1993                         23r    23 
+  Jeff Russell               76    0    144    189   8/3/1993           23r    13r           36 
+f Robb Nen                   75    0    203    272  7/19/1993                                   
+  Ben McDonald               69    0    628    914   8/1/1993                         98s    98 
+  Danny Darwin               68    0    627    919  7/31/1993                                   
+  Stan Belinda               68    0    194    287   8/1/1993                         28r    28 
+  Jimmy Key                  63    0    601    948   8/2/1993                  73s           73 
+d Erik Hanson                63    5    568    898  7/24/1993                                   
+  Denis Boucher              62    0     69    111   8/4/1993    95s                         95 
+  Chuck Finley               60    0    638   1065   8/3/1993           89s                  89 
+  Danny Cox                  10    0     36    348  7/28/1993                                   
+  Joel Johnston               8    0     17    210   8/2/1993                  19r           19 
+f Scott Service               0    0      0    197                                              
+f Sterling Hitchcock          0    0      0    135                                              
+f Donn Pall                   0    0      0    320                                              
+f Ricky Trlicek               0    0      0    267                                              
+f Chris Howard                0    0      0     10                                              
+f John Johnstone              0    0      0     54                                              
+  Total                                4110   7530                                              
+
+
+
+                               FBL Team Status -- 1993 Tewksbury Bobs                               
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+d Sandy Alomar               89     99     97    5    66   171       
+f Javier Lopez               50    100     94    0     2    15   144 
+d Pat Kelly                  72     93     86   13   159   292       
+  Andres Galarraga          100     70     77    0   128   378       
+f Hubie Brooks              100     25     73    0   117    64       
+  Chuck Knoblauch            70     71     71    0   169   516       
+  Jim Leyritz                35    117     70    0   176   129   151 
+  Greg Vaughn                68     62     64    0   203   464       
+f Bill Pecota                89     30     62    0    35    30       
+  Reggie Sanders            102     40     56    0   145   418       
+  Luis Gonzalez              22     70     55    0   195   415       
+  Scott Cooper               16     69     54    0   162   435       
+  Darryl Hamilton            15     74     53    0   199   374       
+  Brian Dorsett              77     38     53    0    26    40    38 
+  Mike Blowers               81     11     39    0   172   257       
+  Rico Rossy                 77     15     34    0    30    67       
+  Paul Sorrento              12     29     26    0    95   432       
+  Kevin Bass                  7     31     22    0    90   168       
+  Doug Strange                3      8      7    0   119   423       
+  Bernardo Brito              3      0      2    0    34    21       
+f Greg Myers                  0      0      0    0    25   290       
+f Todd Benzinger              0      0      0    0    43   151       
+f Derrick White               0      0      0    0    25    27       
+f Tim Spehr                   0      0      0    0    61    38       
+f Dan Walters                 0      0      0    0    41    61       
+f Alex Diaz                   0      0      0    0    35    37       
+f Mario Diaz                  0      0      0    0    57   169       
+  Total                                             2609  5882       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Rick Reed                 133    0     48     36  5/18/1993                                   
+  Scott Bankhead             93    0    253    272   8/3/1993           19r           37r    56 
+  Chris Bosio                89    0    602    678   8/2/1993                 112s          112 
+  Bryan Harvey               84    0    221    264   8/2/1993                  20r           20 
+  Tommy Greene               80    0    667    834   8/4/1993   112s                        112 
+  Steve Avery                68    0    604    891   8/1/1993                         46s    46 
+  Kevin Gross                66    0    589    892   8/3/1993           86s                  86 
+f Mitch Williams             65    0    184    281  7/17/1993                                   
+  John Wetteland             60    0    206    344   8/3/1993           10r     8r           18 
+  Tom Candiotti              60    0    536    898  7/31/1993                                   
+  Xavier Hernandez           56    0    219    389   8/2/1993                  10r    17r    27 
+  Mark Dewey                 25    0     27    108   8/4/1993    15r                  45r    60 
+f Anthony Telford             0    0      0     34                                              
+f Pete Smith                  0    0      0    390                                              
+f Nate Minchey                0    0      0    141                                              
+f Ryan Bowen                  0    0      0    693                                              
+f Richie Lewis                0    0      0    341                                              
+  Total                                4156   7486                                              
+
+
+
+                            FBL Team Status -- 1993 Grain Belt Premiums                             
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Luis Sojo                 141     84    102    0    17    37       
+f Matt Stairs                 0    133    100    0     2     6       
+f Jim Edmonds               110     75     81    0    10    53       
+  Tim Salmon                 76     76     76    0   152   458       
+f Brad Ausmus               138     50     75    0    48   119       
+  Jeff Blauser               71     73     73    0   173   537       
+  Bobby Bonilla              70     73     73    0   169   413       
+  Tim Bogar                  87     57     67    0    75   149       
+  Travis Fryman              56     62     61    0   192   503       
+d Gary DiSarcina             11     79     60    9   125   320       
+  Bo Jackson                 20     91     58    0   144   164       
+  Ron Gant                   64     55     57    0   174   508       
+  Eric Karros                55     56     56    0   178   480       
+  Joe Oliver                 33     63     55    0   145   376   309 
+  Hal Morris                 26     38     35    0    95   326       
+f Phil Hiatt                 11     23     19    0    88   175       
+  Junior Felix                9     22     18    0    70   155       
+  Tom Brunansky               2     10      6    0   117   134       
+  Mackey Sasser               0      2      2    0     7   201    41 
+  Gene Larkin                 2      1      1    0    43   130       
+f Torey Lovullo               0      0      0    0    71   338       
+f John Orton                  0      0      0    0    42    63       
+f Mike Felder                 0      0      0    0    73   301       
+f Sid Bream                   0      0      0    0    31   280       
+  Total                                             2241  6226       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Joe Slusarski             109    0     47     43  6/29/1993                                   
+  Mike Trombley              98    0    495    506   8/4/1993    34r                         34 
+f Mark Guthrie               97    0     91     94  6/27/1993                                   
+  Doug Brocail               96    0    551    571   8/2/1993                  74s           74 
+f Julian Tavarez             95    0    164    172  7/18/1993                                   
+f Paul Quantrill             92    0    549    594  7/21/1993                                   
+f John Habyan                90    0    216    239  7/20/1993                                   
+  Scott Kamieniecki          89    0    584    659   8/4/1993    22s                         22 
+  Donovan Osborne            86    0    564    657  7/31/1993                                   
+f Mike Magnante              81    0    118    145  5/15/1993                                   
+f Todd Jones                 81    0    121    150  6/15/1993                                   
+f Ken Ryan                   79    0    177    223  6/18/1993                                   
+f Mike Hampton               77    0     73     95  5/15/1993                                   
+  Kent Bottenfield           36    0    257    710   8/1/1993                        113s   113 
+  Mark Leiter                35    0    164    471   8/3/1993          103s                 103 
+  Roger McDowell             31    0     93    300   8/4/1993    23r           16r    24r    63 
+  Bryan Hickerson            13    0     69    525   8/4/1993    14r            7r           21 
+  Larry Andersen              9    0     23    256   8/1/1993                         15r    15 
+  Jeff Innis                  8    0     26    345   8/4/1993    28r           21r           49 
+  Tom Browning                6    0     28    505   8/4/1993     8r                          8 
+f Tom Kramer                  0    0      0    535                                              
+f Dave Telgheder              0    0      0    325                                              
+  Total                                4410   8120                                              
+
+
+
+                            FBL Team Status -- 1993 Wilken Tools Police                             
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Deion Sanders             116     86     89    0    37   257       
+  Willie McGee               79     84     83    0   152   367       
+f Steve Buechele             72     78     77    0   148   372       
+f Mike LaValliere            72     74     74    0    18    97       
+  Carlos Baerga              55     79     71    0   237   443       
+  Mike Macfarlane            54     77     68    0   178   273   232 
+  Paul Molitor               64     69     67    0   203   522       
+  Shane Mack                 72     65     66    0   124   429       
+  Jay Bell                   49     73     65    0   228   473       
+  Casey Candaele             44     51     49    0    45    86       
+  Charlie Hayes              49     40     42    0   150   480       
+f Rod Brewer                 61     33     36    0    18   151       
+  Vince Coleman              62     26     36    0   110   289       
+  Carlos Hernandez           29     35     33    0    31    71   117 
+  Chuck Carr                 20     29     26    0   189   424       
+f Dickie Thon                19     24     21    0   138   137       
+  Chris Jones                15     17     16    0   100   125       
+  Chico Walker               29      5     13    0    75   155       
+  George Brett                2     14     10    0   199   413       
+f David Howard                0      0      0    0     0    29       
+f Kelly Gruber                0      0      0    0    23    47       
+f Ricky Jordan                0      0      0    0    76    94       
+f Brian Turang                0      0      0    0    70    90       
+f Greg Tubbs                  0      0      0    0    23    51       
+f Butch Davis                 0      0      0    0    61   109       
+f Darrell Whitmore            0      0      0    0    44   223       
+f Marc Newfield               0      0      0    0    30    40       
+  Total                                             2707  6247       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+  Randy Tomlin               97    0    398    411   8/2/1993                  10r           10 
+  Doug Drabek                71    0    703    991   8/2/1993                  79s           79 
+  Ramon Martinez             71    0    651    918   8/4/1993   107s                        107 
+  Pedro Astacio              63    0    492    777  7/31/1993                                   
+  David Cone                 62    0    652   1060   8/1/1993                        122s   122 
+f Jim Bullinger              57    0     43     75  7/28/1993                                   
+  Shawn Boskie               55    0    153    277   8/4/1993    18r            8r    28r    54 
+  John Franco                45    0     78    172   8/1/1993                         22r    22 
+f Brian Barnes               43    0    191    442  7/29/1993                                   
+  Bob Scanlan                36    0    115    323   8/2/1993                  10r           10 
+  Jose Guzman                31    0    250    819   8/3/1993          117s                 117 
+  Goose Gossage               2    0      4    213   8/2/1993                  11r           11 
+  Carlos Maldonado            0    0      0    167                                              
+f Scott Scudder               0    0      0     20                                              
+f Bob MacDonald               0    0      0    293                                              
+f John Roper                  0    0      0    360                                              
+f Curt Young                  0    0      0     64                                              
+  Total                                3730   7382                                              
+
+
+
+                           FBL Team Status -- 1993 Dún Laoghaire Messiahs                           
+                                  Regular season -- as of 8/5/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Frank Bolick               78    118    107    0    69   173       
+f Edgar Martinez            106    107    107    0    48   117       
+f Ivan Calderon             113    104    106    0    69   196       
+f Jeromy Burnitz            161     98    106    0    38   268       
+f Bob Melvin                 51    121    105    0    43   147       
+f Cliff Floyd                 0    103     97    0     2    29       
+  Carlos Quintana            33    125     92    0   122   221       
+  Keith Miller               70     93     86    0    33    85       
+  Jose Lind                  93     71     77    0   114   350       
+  Milt Cuyler                79     70     73    0    86   190       
+f Luis Rivera                47     81     70    0    49    96       
+  Junior Ortiz               82     43     59    0   106   164    76 
+  Cal Ripken                 54     59     58    0   203   515       
+  Kevin Roberson            117     25     56    0    65   130       
+  Lance Blankenship          47     56     53    0   109   219       
+d Tom Lampkin                10     56     47   10    39   149       
+  Terry Pendleton            40     42     42    0   189   493       
+  Mike Sharperson            28    107     39    0    83    14       
+f Lloyd McClendon             9    139     38    0   161    46       
+  Joe Kmak                    3     71     30    0    76    51   260 
+  Bob Zupcic                 19     24     23    0   109   217       
+  Willie Wilson              26      2     12    0   105   132       
+  Dave Henderson              2      3      2    0   158   264       
+f Jesse Levis                 0      0      0    0     9    58       
+f Robin Yount                 0      0      0    0   141   373       
+f Steve Lake                  0      0      0    0    82    44       
+  Total                                             2308  4741       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/5    8/4    8/3    8/2   Cum 
+f Rudy Seanez               115    0     23     20  5/11/1993                                   
+f Craig Lefferts            112    0    416    373  6/20/1993                                   
+f Albie Lopez               100    0    223    222   6/5/1993                                   
+  Mike Williams              95    0    211    221   8/5/1993    37r    25r           23r    85 
+f Steve Karsay               84    0    177    210  7/28/1993                                   
+f Salomon Torres             80    0    157    196  6/20/1993                                   
+  Jim Abbott                 76    0    687    906   8/4/1993           99s                  99 
+  Jaime Navarro              74    0    706    955   8/3/1993                  96s           96 
+  Tom Glavine                71    0    719   1014   8/2/1993                         87s    87 
+  John Farrell               66    0    276    420   8/4/1993           16r           13r    29 
+  Al Leiter                  56    0    256    454   8/1/1993                                   
+  Mike Fetters               48    0    117    246   8/5/1993    58s                         58 
+  Shawn Hillegas             45    0    130    288   8/5/1993    28r                         28 
+  Kelly Downs                32    0    174    539   8/3/1993                   2r            2 
+  George Tsamis               3    0      8    309  5/31/1993                                   
+  Rick Sutcliffe              1    0     10    763   8/5/1993    38r                         38 
+f Bob Welch                   0    0      0    746                                              
+  Total                                4290   7882                                              
+
+
+
+                             FBL Team Status -- 1993 Barcelona Brewers                              
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Rob Ducey                  67    113    107    0    12    87       
+f Randy Knorr                43    140    105    0    40    72    37 
+  Brady Anderson             83     74     77    0   214   450       
+  Robin Ventura              75     75     75    0   206   463       
+  Tony Phillips              73     72     72    0   215   492       
+  Kirby Puckett             108     59     70    0   159   523       
+  Jerry Browne              102     61     70    0    65   221       
+  Mo Vaughn                  71     69     70    0   188   445       
+  Ozzie Smith                84     60     66    0   164   439       
+  Alex Arias                 87     54     65    0    93   190       
+  Erik Pappas               112     34     59    0    83   183    41 
+  B.J. Surhoff               59     56     57    0   204   395   292 
+  Devon White                59     53     55    0   208   460       
+  Billy Hatcher               6     42     32    0   146   416       
+f John Wehner                 4     47     21    0    26    17       
+  Chili Davis                26     11     15    0   144   501       
+  Craig Wilson               13      2      5    0    15    42       
+f Tony Eusebio                0      0      0    0     0     0       
+  Total                                             2182  5396       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Mike Cook                 185    0     24     13  7/24/1993                                   
+f Bill Wertz                108    0    284    262   7/3/1993                                   
+f Brad Brink                108    0     26     24  7/25/1993                                   
+f Pedro Martinez            108    0    480    444  7/19/1993                                   
+f Cory Bailey               105    0     69     66  4/21/1993                                   
+  Joe Klink                  97    0    163    168   8/4/1993    20r     2r    15r     4r    41 
+  Ken Patterson              95    0    243    255   8/3/1993            4r    50r           54 
+  Jerry Spradlin             90    0    173    193   8/1/1993                         58r    58 
+  Lee Smith                  88    0    211    239   8/4/1993    36r                         36 
+  Joe Magrane                83    0    590    708   8/3/1993           58s                  58 
+  Brian Williams             80    0    287    357   8/3/1993           51r     9r    11r    71 
+f Mike Timlin                79    0    201    254  7/30/1993                                   
+  Curt Schilling             64    0    626    982   8/4/1993   101s                        101 
+  Dennis Martinez            57    0    543    945   8/1/1993                         52s    52 
+  Mike Morgan                51    0    451    883   7/3/1993                                   
+  Todd Burns                 32    0    134    419   8/2/1993                  99s           99 
+f Tim Mauser                  7    0     16    235   8/3/1993           46r    16r           62 
+  Mike Maddux                 6    0     18    320   8/3/1993           17r           36r    53 
+f Edwin Nunez                 0    0      0    341                                              
+f Jeff Bronkey                0    0      0    152                                              
+f Mark Williamson             0    0      0    386                                              
+f Scott Fredrickson           0    0      0    137                                              
+f Juan Agosto                 0    0      0     26                                              
+f Scott Brow                  0    0      0     83                                              
+f Darryl Scott                0    0      0     90                                              
+  Total                                4539   7982                                              
+
+
+
+                             FBL Team Status -- 1993 Chinatrust Whales                              
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Chipper Jones             250    200    225    0     2     2       
+f Mark Carreon              116     72    102    0   115    54       
+f Kurt Abbott                86     90     88    0    28    39       
+  Tim Teufel                 78     70     75    0   157    74       
+f Chad Kreuter               29     87     70    0   129   302       
+  Tim Raines                121     51     70    0   132   354       
+  Robby Thompson             79     66     70    0   161   398       
+  Kirk Gibson               100     64     67    0    43   411       
+  Will Clark                 25     91     67    0   207   360       
+  Paul O'Neill               26     80     66    0   147   400       
+  Mike Gallego               47     63     57    0   170   295       
+  Wade Boggs                 43     59     54    0   193   451       
+  Wes Chamberlain            78     22     49    0   147   159       
+f Ruben Amaro                67     24     48    0    33    25       
+  Dave Hansen               400     42     48    0     2   125       
+  Phil Plantier              17     55     45    0   138   398       
+  Dave Valle                 98     17     39    0   136   364   121 
+  Shawn Green                 0     40     33    0     1     5       
+f Randy Ready                11     42     33    0    47   112       
+f Sam Horn                   20     32     31    0     5    31       
+  Cecil Fielder              71     10     26    0   182   490       
+  Matt Nokes                  6     13     12    0    31   207   226 
+f Greg Gagne                 13      6      7    0   152   429       
+f Dion James                  0      0      0    0    30   348       
+f Mike Pagliarulo             0      0      0    0    40   365       
+f Jerome Walton               0      0      0    0     2     1       
+f Gary Redus                  0      0      0    0    95   153       
+f Don Mattingly               0      0      0    0   227   369       
+f Dave Staton                 0      0      0    0     7    39       
+  Total                                             2759  6760       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Kip Gross                  93    0     55     59  4/26/1993                                   
+  Jim Gott                   84    0    262    313   8/4/1993    32r     9r                  41 
+f Jim Poole                  79    0    155    197   7/6/1993                                   
+f Pedro A. Martinez          78    0    115    148   6/4/1993                                   
+f Jerry DiPoto               77    0    190    247  7/10/1993                                   
+d Roger Pavlik               76   14    538    712  7/21/1993                                   
+f Jose Bautista              75    0    344    459  7/19/1993                                   
+  Randy Johnson              67    0    695   1043   8/4/1993    90s                         90 
+  Duane Ward                 63    0    177    282   8/3/1993           28r    15r           43 
+  Bill Swift                 63    0    582    928  7/31/1993                                   
+  Cal Eldred                 60    0    655   1087   8/1/1993                        111s   111 
+  Mike Henneman              59    0    186    316   8/4/1993    34r    15r                  49 
+  Mike Butcher               46    0     57    124   8/3/1993           20r    23r           43 
+  Luis Aquino                43    0    204    471   8/2/1993                  98s           98 
+  Tim Scott                  30    0     96    317   8/2/1993                  59r           59 
+  Willie Banks               16    0    121    754   8/3/1993          119s                 119 
+f Terry Mathews               0    0      0      0                                              
+f Roger Mason                 0    0      0    417                                              
+f Charlie Hough               0    0      0    876                                              
+f Paul Gibson                 0    0      0    184                                              
+f Matt Turner                 0    0      0    279                                              
+  Total                                4432   9213                                              
+
+
+
+                              FBL Team Status -- 1993 Cincinnati Reds                               
+                                  Regular season -- as of 8/5/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Scott Stahoviak           233     86     93    0     3    57       
+  Eddie Taubensee           145     74     86    0    51   261   144 
+f Matt Mieske                92     79     84    0    25    38       
+  Bip Roberts                82     81     81    0    93   243       
+f Geronimo Berroa            89     72     81    0    18    18       
+f Tom Goodwin               200     71     78    0     1    17       
+f Tony Tarasco              167     58     76    0     6    31       
+f Lance Parrish             140     58     75    0     5    19       
+f Tony Womack               200     48     75    0     5    23       
+  Otis Nixon                 71     70     71    0   173   359       
+  Mickey Tettleton           86     61     67    0   157   480   187 
+  Barry Larkin               85     57     65    0   116   324       
+  Rafael Palmeiro            86     56     63    0   166   520       
+  Jose Offerman              66     61     63    0   217   479       
+  Ken Caminiti               66     60     62    0   210   386       
+  Ray Lankford               65     58     60    0   143   352       
+  Lenny Harris              138     49     57    0    16   160       
+  Bob Natal                  83     38     50    0    35    96       
+  Luis Polonia               24      8     11    0   119   518       
+  Henry Cotto                 1      0      1    0   157    94       
+f Eddie Williams              0      0      0    0     0     0       
+f Kevin Reimer                0      0      0    0   119   358       
+f George Bell                 0      0      0    0   115   321       
+  Total                                             1950  5154       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/5    8/4    8/3    8/2   Cum 
+f Kevin Foster               88    0     35     40  5/31/1993                                   
+f David Mlicki               84    0     49     58  7/10/1993                                   
+f Pedro Borbon               82    0      9     11  4/10/1993                                   
+f Sid Fernandez              80    0    374    469  6/13/1993                                   
+f Jeff Brantley              77    0    384    496  7/10/1993                                   
+  Joe Hesketh                77    0    189    246   8/3/1993                   9r     5r    14 
+  Paul Assenmacher           76    0    181    237   8/5/1993    13r           16r           29 
+f Johnny Ruffin              76    0    121    159  5/11/1993                                   
+f Norm Charlton              76    0    107    141  6/18/1993                                   
+f Shane Reynolds             76    0     37     49   6/7/1993                                   
+f Todd Worrell               75    0    125    167  6/18/1993                                   
+  Mike Mohler                73    0    211    290   8/3/1993                  67s           67 
+  Bobby Munoz                69    0    143    208   8/3/1993                   5r    13r    18 
+  David Wells                68    8    529    776   8/2/1993                        101s   101 
+  Orel Hershiser             68    0    621    913   8/1/1993                                   
+  Andy Benes                 66    0    635    968   8/5/1993    97s                         97 
+  Eric Plunk                 65    0    199    306   8/2/1993                         11r    11 
+  Anthony Young              52    0    231    445   8/4/1993          108s                 108 
+  Bob Walk                    5    0     42    822   8/3/1993                  20r           20 
+  Tim Leary                   4    0     28    746   8/3/1993                  28r           28 
+f Yorkis Perez                0    0      0      0                                              
+f Tom Bolton                  0    0      0    462                                              
+  Total                                4250   8009                                              
+
+
+
+                              FBL Team Status -- 1993 Houston Streets                               
+                                  Regular season -- as of 8/5/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Troy O'Leary               36    143    112    0    14    35       
+f Jarvis Brown              147     89    104    0    43   114       
+f Mark Parent               135     55     85    0    23    38       
+  Mitch Webster             136     51     83    0    73   119       
+  Damon Berryhill            71     80     78    0    91   272   107 
+f Leo Gomez                  53     87     78    0    76   209       
+  Jeff Branson               46     87     77    0    99   313       
+  Fred McGriff               82     71     75    0   226   414       
+f Rich Becker                25    100     75    0     4     8       
+  Roberto Alomar            107     60     73    0   182   501       
+  Jeff Tackett              152     35     61    0    23    80   199 
+  Eric Anthony               41     70     61    0   175   365       
+  David Hulse               170     45     57    0    40   401       
+  Archi Cianfrocco          113     33     54    0    88   236       
+  Chris Gomez                82     35     54    0    57    84       
+  Jerald Clark               64     43     48    0   125   387       
+  Cory Snyder               104     22     46    0   168   402       
+f Manuel Lee                125     13     37    0    51   188       
+  Tom Prince                 63     17     34    0    75   129    38 
+  Carlos Martinez             2      6      4    0   131   154       
+f Kurt Stillwell              0      0      0    0    29   174       
+f Mike Benjamin               0      0      0    0    40   125       
+f Russ Morman                 0      0      0    0     0     0       
+  Total                                             1833  4748       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/5    8/4    8/3    8/2   Cum 
+f Jason Grimsley            112    0    218    194  6/22/1993                                   
+f Darren Oliver             107    0     15     14   5/9/1993                                   
+f Lance Painter             105    0    175    166  7/19/1993                                   
+f Mike Bielecki             104    0    329    317  7/20/1993                                   
+f Mark Petkovsek            103    0    150    145  6/10/1993                                   
+f Gil Heredia                85    0    208    246  5/11/1993                                   
+  Rich Rodriguez             79    0    260    331   8/2/1993                         29r    29 
+  Larry Luebbers             71    0    236    332   8/2/1993                         13r    13 
+  Tim Wakefield              68    0    407    595   8/2/1993                         50s    50 
+  Juan Guzman                68    0    653    963   8/3/1993                 102s          102 
+  Mel Rojas                  62    0    234    378   8/2/1993                         17r    17 
+  Scott Erickson             59    0    571    976   8/1/1993                                   
+  Chris Haney                57    0    317    556   8/5/1993   113s                        113 
+  Tim Pugh                   57    0    417    738   8/3/1993                  36r    33r    69 
+  Bob Patterson              54    0    120    224   8/4/1993           38r                  38 
+  Mike Harkey                20    0    137    676   8/4/1993          109s                 109 
+  Jeff Mutis                 17    0     63    364   8/4/1993            6r    22r    19r    47 
+f Mike Gardiner               0    0      0    224                                              
+f Steve Farr                  0    0      0    211                                              
+  Total                                4510   7650                                              
+
+
+
+                            FBL Team Status -- 1993 Ferdinand Magellans                             
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Mike Aldrete               80    102     99    0    35   257       
+f Tim Naehring              100     90     94    0    50    91       
+  Kevin Seitzer              76     81     79    0   164   307       
+  Randy Velarde             120     35     78    0   128   125       
+  Randy Milligan            101     53     75    0   159   184       
+  Barry Bonds                62     82     74    0   260   414       
+  Dave Nilsson              117     55     72    0    96   244   234 
+  Craig Biggio               67     66     66    0   218   489       
+  Jose Oquendo               36     72     62    0    25    64       
+  Walt Weiss                 11     76     59    0   154   437       
+  Geronimo Pena             138     13     58    0   105   184       
+  Glenallen Hill             75     25     55    0   167   117       
+d Steve Finley               17     71     55   12   174   411       
+d John Jaha                  10     61     44    5   189   393       
+d Chris Hoiles               21     52     44    3   138   365       
+  Todd Pratt                 90     11     35    0    29    66    13 
+d Chris Gwynn                42     34     34   13    19   297       
+  Francisco Cabrera          44     15     33    0    57    34   105 
+  Gerald Williams             8      3      6    0    39    32       
+  Chris Turner                6      3      3    0    17    69     8 
+  Dale Sveum                  0      3      2    0    18    78       
+f Rex Hudler                  0      0      0    0     0     0       
+f John Cangelosi              0      0      0    0     0     0       
+  Total                                             2241  4658       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Phil Leftwich             108    0    370    343   6/8/1993                                   
+f Graeme Lloyd               96    0    259    269   8/2/1993                  40r     4r    44 
+  Greg McMichael             92    0    334    365   8/3/1993           33r           12r    45 
+d Mike Perez                 79   21    235    298   7/8/1993                                   
+  Hipolito Pichardo          78    0    562    720   8/4/1993   117s                        117 
+  Kevin Appier               71    0    680    953   8/2/1993                  71s           71 
+  Tom Gordon                 69    0    451    651  6/23/1993                                   
+  Todd Frohwirth             66    0    270    411   8/2/1993                  36r     8r    44 
+  Bruce Ruffin               62    0    386    619   8/4/1993    29r                         29 
+f Bob Wickman                50    0    312    629   8/1/1993                         94s    94 
+  Melido Perez               42    0    305    718   8/3/1993          118s                 118 
+  Zane Smith                 42    0    147    353   8/4/1993    18r    32r    12r           62 
+  Heathcliff Slocumb         30    0     49    164   8/4/1993     7r                          7 
+f Shawn Barton                0    0      0      0                                              
+f Jim Corsi                   0    0      0     97                                              
+f Huck Flener                 0    0      0     30                                              
+f Rich Monteleone             0    0      0    369                                              
+f Mark Kiefer                 0    0      0     37                                              
+f Jeff Parrett                0    0      0    341                                              
+f Jeff Juden                  0    0      0     23                                              
+f Richard Batchelor           0    0      0     45                                              
+  Total                                4360   7435                                              
+
+
+
+                              FBL Team Status -- 1993 Reykjavík 101ers                              
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Carlos Delgado              0    150    150    0     0     2       
+d Sean Berry                 20    117     86    7   112   239       
+  Dante Bichette             78     83     82    0   130   451       
+f Moises Alou                58     93     81    0   179   356       
+f Eric Young                 77     78     78    0   146   419       
+  Sammy Sosa                 66     69     68    0   163   478       
+  Albert Belle               57     73     68    0   199   494       
+  Andujar Cedeno             58     71     67    0   185   384       
+  Mike Piazza                72     64     66    0   159   443   287 
+  Lenny Webster              35     71     61    0    34    83    73 
+  Rob Butler                 25     50     41    0    20    36       
+  Dave Hollins               45     25     32    0   214   426       
+  Ricky Gutierrez            17     25     22    0   182   313       
+  Bret Barberie              18     22     21    1   121   303       
+  Thomas Howard               6     23     17    0   122   226       
+  Daryl Boston               50     14     15    0    14   306       
+  Wally Joyner                4     18     13    0   190   383       
+  Eric Yelding                0      2      2    0    37    86       
+f Jeff Frye                   0      0      0    0     0     0       
+f Rich Renteria               0      0      0    0   103   187       
+f Andy Stankiewicz            0      0      0    0     6     4       
+f Greg Olson                  0      0      0    0   103   192       
+f Gerald Young                0      0      0    0     3    20       
+f Greg Pirkl                  0      0      0    0    14     9       
+f John Russell                0      0      0    0    11    13       
+f Doug Jennings               0      0      0    0     4    53       
+f Jeff McNeely                0      0      0    0    11    33       
+  Total                                             2462  5939       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+  Kent Mercker               98    0    278    283   8/1/1993                         35r    35 
+f Marvin Freeman             98    0    101    103  5/27/1993                                   
+  Andy Ashby                 87    0    504    577   8/3/1993          108s                 108 
+d Chuck McElroy              87    5    186    214  7/24/1993                                   
+  Danny Jackson              69    0    638    919  7/31/1993                                   
+  Wilson Alvarez             67    0    588    877   8/1/1993                        104s   104 
+  Alex Fernandez             66    0    662   1004   8/4/1993    89s                         89 
+  Randy Myers                66    0    206    313   8/3/1993           10r           15r    25 
+  Denny Neagle               65    0    234    360   8/4/1993    35r                  15r    50 
+  Mike Munoz                 64    0     65    101  7/29/1993                                   
+  Mike Mussina               62    0    431    693   8/2/1993                 116s          116 
+  Butch Henry                46    0    215    467   8/4/1993    30r                         30 
+  Rene Arocha                26    0    205    774   8/2/1993                  38r           38 
+f Mark Gubicza                0    0      0    474                                              
+f Charlie Leibrandt           0    0      0    656                                              
+f Domingo Jean                0    0      0    176                                              
+f Tony Menendez               0    0      0     85                                              
+  Total                                4313   8076                                              
+
+
+
+                             FBL Team Status -- 1993 Baraboo GoiterMen                              
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Gerald Perry              120    112    113    0    10   106       
+f Eddie Zambrano             50    117     94    0     6    12       
+  Tony Gwynn                 57     98     82    0   206   328       
+f Chris James                61    124     78    0   132    50       
+  Michael Huff              117     56     75    0    18    39       
+f Bob Hamelin               180     64     75    0     5    50       
+  Rey Sanchez                59     80     73    0   125   248       
+  Jeff Bagwell               61     74     69    0   213   396       
+  Jay Buhner                 68     69     69    0   209   466       
+  Kenny Lofton               57     72     67    0   228   429       
+  Craig Shipley              49     79     66    0   103   142       
+  Juan Samuel                94     49     66    0   109   180       
+  Mike Stanley               54     66     61    0   200   291   289 
+  Jeff Kent                  49     66     61    0   160   384       
+  Tim Wallach                47     65     60    0   148   374       
+  Pat Borders                26     35     33    0   127   393    80 
+  Craig Paquette              4     13     10    0   145   264       
+  Jeff Gardner               20      7      8    0    30   422       
+f Kevin Higgins              13      7      7    0    16   186       
+f Felix Fermin               11      6      7    0   165   349       
+  Joe Orsulak                 5      2      2    0    44   397       
+f Mike Kingery                0      0      0    0     0     0       
+f Jeff Manto                  0      0      0    0     8    11       
+f Mike Simms                  0      0      0    0     0     0       
+  Total                                             2407  5517       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Bill Risley               121    0     17     14  6/25/1993                                   
+  Billy Brewer               99    0    156    157   8/4/1993    49r                  28r    77 
+f Josias Manzanillo          92    0    129    140   7/2/1993                                   
+  Steve Howe                 88    0    189    215   8/2/1993                  36r    13r    49 
+  Mark Eichhorn              83    0    258    309   8/1/1993                         36r    36 
+f Bobby Jones                78    0    208    265  5/10/1993                                   
+f Charles Nagy               78    0    174    223  5/11/1993                                   
+f Bret Saberhagen            78    0    433    556  6/20/1993                                   
+f Kevin Campbell             77    0     59     77   7/7/1993                                   
+f Bobby Ayala                75    0    339    450  7/19/1993                                   
+f Storm Davis                75    0    320    428   6/6/1993                                   
+f Jose DeLeon                75    0    182    244   6/8/1993                                   
+  Mike Jackson               74    0    235    317   8/2/1993                  12r           12 
+  Ricky Bones                62    0    544    883   8/3/1993          120s                 120 
+  Trevor Hoffman             61    0    239    391   8/3/1993           12r    40r           52 
+  Greg W. Harris             46    0    448    975   8/2/1993                  61s    89s   150 
+  John Doherty               19    0    147    780  7/31/1993                                   
+  John Dopson                14    3     98    681  7/27/1993                                   
+  Ben Rivera                 10    0     77    742   8/4/1993    81s                         81 
+f Scott Bailes                0    0      0      0                                              
+f Mike Birkbeck               0    0      0      0                                              
+f Paul Abbott                 0    0      0     84                                              
+f Dave Leiper                 0    0      0      0                                              
+  Total                                4252   7931                                              
+
+
+
+                               FBL Team Status -- 1993 Century Atoms                                
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Roberto Kelly             124     97    105    0   100   243       
+  Eric Davis                 92     85     87    0   161   350       
+f Ryan Klesko               250     61     80    0     2    18       
+f Manny Ramirez              77     83     80    0    26    29       
+f Bill Haselman             108     59     76    0    53   101       
+f Scott Brosius              91     67     76    0    89   144       
+f Mark Lewis                 88     69     75    0    17    36       
+  Reggie Jefferson           59     81     75    0   120   283       
+  Jeff Reboulet             119     37     69    0   111   172       
+  Tony Fernandez             62     70     68    0   194   400       
+  Dan Wilson                105     52     64    0    19    69   145 
+  Carlos Garcia              74     57     63    0   203   394       
+  Dave Magadan               31     71     61    0   141   403       
+  Bernie Williams            58     54     56    0   219   409       
+  Todd Hundley               80     48     53    5    61   387    78 
+  Stan Javier                42     46     45    0    99   170       
+  Dave Martinez             109     30     40    0    33   235       
+  Bill Spiers                43     25     29    0    79   307       
+  Charlie O'Brien            34     13     26    0   128    80   129 
+  Darryl Strawberry           7     16     13    0    30    90       
+  Tony Longmire               0      0      0    0     0    13       
+f Kevin Elster                0      0      0    0     0     0       
+f Candy Maldonado             0      0      0    0   117   131       
+f Pat Meares                  0      0      0    0   103   258       
+  Total                                             2105  4722       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Rich Garces                89    0     16     18  6/27/1993                                   
+f Omar Daal                  85    0    131    155   6/8/1993                                   
+f Pat Rapp                   79    0    324    412   7/6/1993                                   
+f Turk Wendell               78    0     76     98   8/2/1993                  39r           39 
+f Woody Williams             76    0    131    172  6/22/1993                                   
+f Tim Worrell                76    0    336    443  6/18/1993                                   
+f Steve Reed                 75    0    260    347  7/29/1993                                   
+f Rick Honeycutt             75    0    130    174  6/23/1993                                   
+  Greg Hibbard               74    0    593    800  7/30/1993                                   
+  Jeff Nelson                74    0    199    269   8/3/1993           16r           15r    31 
+  Kenny Rogers               70    0    622    885   8/2/1993                  72s           72 
+  Pat Hentgen                70    0    650    926   8/1/1993                         70s    70 
+  Scott Sanderson            50    0    388    777   8/3/1993           92s                  92 
+  Rich DeLucia               44    0     85    195   8/4/1993     1r           38r           39 
+  Ron Darling                35    0    278    793   8/4/1993    99s                         99 
+  Dennis Cook                27    0     62    233   8/4/1993    18r                  23r    41 
+  Tony Fossas                17    0     30    175   8/3/1993           15r           22r    37 
+  Mark Davis                  5    0     16    327   8/4/1993    23r    25r     9r           57 
+f Gene Nelson                 0    0      0    265                                              
+f Kevin Ritz                  0    0      0      0                                              
+f Fernando Valenzuela         0    0      0    768                                              
+f Kirk McCaskill              0    0      0    502                                              
+f Jack Morris                 0    0      0    702                                              
+  Total                                4327   9436                                              
+
+
+
+                            FBL Team Status -- 1993 Evanston Endorphins                             
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Brian Jordan              126     63     81    0    68   174       
+  Don Slaught                12     96     70    0   131   289   280 
+  Mark Grace                 65     71     69    0   217   459       
+  Lenny Dykstra              59     62     61    0   266   507       
+  Mike Greenwell             39     67     59    0   178   425       
+  Bernard Gilkey             83     49     57    0   149   473       
+  Scott Servais              81     31     57    0   154   137    68 
+  Alan Trammell              42     61     55    0   159   288       
+  Greg Litton                28     89     52    0   120    79       
+  Scott Fletcher             10     66     52    0   131   400       
+  Raul Mondesi               41     54     46    0    56    35       
+  Ryan Thompson               6     57     41    0    98   218       
+  Ozzie Guillen              15     45     37    0   137   349       
+f Fernando Vina               0     27     26    0     2    51       
+  Mark Lemke                 77      7     26    0   158   411       
+  Jose Vizcaino              46     18     24    0   145   472       
+f Alvaro Espinoza            43      8     23    0   121   162       
+f Tony Pena                   0      0      0    0    91   256       
+f Derrick May                 0      0      0    0    94   409       
+f Dwight Smith                0      0      0    0    14   329       
+f John Flaherty               0      0      0    0     9    20       
+f Eddie Murray                0      0      0    0   197   462       
+f Dave Winfield               0      0      0    0   148   446       
+f Scott Livingstone           0      0      0    0    25   305       
+  Total                                             2868  7156       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Scott Sanders              90    0    209    231   7/1/1993                                   
+  Darren Holmes              85    0    234    274   8/2/1993                  19r     8r    27 
+  Terry Mulholland           81    0    635    786  7/31/1993                                   
+  Jesse Orosco               77    0    179    233   8/2/1993                  24r           24 
+  Tom Henke                  68    0    206    302   8/4/1993    31r                  12r    43 
+  Roberto Hernandez          63    0    197    314   8/2/1993                  18r    15r    33 
+f Dwight Gooden              62    0    533    866   7/9/1993                                   
+  Steve Cooke                60    0    530    882   8/3/1993          111s                 111 
+  Pete Harnisch              59    0    531    896   8/4/1993    81s                         81 
+  Jose Rijo                  55    0    563   1029   8/2/1993                  64s           64 
+  Jeff Fassero               48    0    295    616   8/1/1993                        116s   116 
+  Brad Holman                42    0     64    152   8/4/1993    35r           38r           73 
+f Kevin Rogers               32    0    108    334  6/17/1993                                   
+f Joe Grahe                  19    0     46    247  5/20/1993                                   
+  Lee Guetterman             15    0     28    192  7/21/1993                                   
+f Les Lancaster               9    0     24    259  4/25/1993                                   
+d Bill Wegman                 9    0     45    514  6/16/1993                                   
+f Jim Deshaies                0    0      0    770                                              
+f Chris Nabholz               0    0      0    505                                              
+f Bill Landrum                0    0      0     86                                              
+f Mark Hutton                 0    0      0    104                                              
+  Total                                4427   9592                                              
+
+
+
+                            FBL Team Status -- 1993 Hong Kong Cavaliers                             
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Freddie Benavides          23    135    105    0    60   163       
+  Ivan Rodriguez            103     75     82    0   121   398   309 
+  Lance Johnson              78     82     81    0   159   420       
+  Dean Palmer               109     69     77    0   120   465       
+  Frank Thomas               71     72     71    0   191   485       
+  Larry Walker               57     77     69    0   214   368       
+  Mariano Duncan             25     92     65    0   205   313       
+  Ruben Sierra               34     70     58    0   222   470       
+  Turner Ward               147     38     57    0    34   164       
+  Vinny Castilla            109     36     55    0    92   265       
+  Mickey Morandini          106     19     39    0   109   361       
+  Brent Mayne               133     24     34    0    21   206    64 
+  Alex Cole                 161     17     26    0    23   376       
+  Joey Cora                  26     20     21    0   185   493       
+  Denny Hocking              86      6     19    0     7    35       
+f Dave McCarty               42      4     15    0   113   258       
+f Tim Laker                   4     17     11    0    47    46       
+f Shawon Dunston              0      0      0    0     7     3       
+f Jose Hernandez              0      0      0    0     0     0       
+f Henry Rodriguez             0      0      0    0     6   182       
+f Benji Gil                   0      0      0    0    11    55       
+f Greg Briley                 0      0      0    0    14   171       
+f Pedro Munoz                 0      0      0    0   112   242       
+f Chris Donnels               0      0      0    0    39   160       
+  Total                                             2112  6099       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Danny Miceli              116    0     29     25  7/21/1993                                   
+f Brad Pennington           108    0    171    158   7/3/1993                                   
+f Rob Dibble                106    0    208    196  7/21/1993                                   
+f Dennis Powell             106    0    208    197  6/30/1993                                   
+f Curt Leskanic             105    0    273    260  6/29/1993                                   
+  Darryl Kile                80    0    586    733   8/3/1993          111s                 111 
+  Dan Plesac                 76    0    211    276   8/3/1993           20r    30r           50 
+  Frank Tanana               74    0    649    872   8/4/1993   122s                        122 
+  Dave Stewart               69    0    477    687   8/2/1993                  96s           96 
+  Jose Mesa                  68    0    608    897   8/1/1993                         97s    97 
+  Mike Moore                 66    0    624    942  7/31/1993                                   
+  Pete Schourek              52    0    303    586   8/3/1993            5r    12r    33r    50 
+  Bill Krueger               18    0     65    356   8/4/1993    22r    21r     7r    13r    63 
+  Bill Gullickson            15    0    106    699   8/4/1993    10r           26r    22r    58 
+  Dave Burba                 12    0     47    408  7/30/1993                                   
+  Tony Castillo               5    0     11    211  7/31/1993                                   
+f Ed Vosberg                  0    0      0      0                                              
+f Jeff Reardon                0    0      0    267                                              
+  Total                                4576   7770                                              
+
+
+
+                              FBL Team Status -- 1993 GPCC Shebazzle!                               
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Jeff Treadway             114    103    104    0    22   218       
+f Warren Newson             220     82     96    0     5    44       
+  Kevin Mitchell            125     73     88    0    99   254       
+  Rickey Henderson          107     70     80    0   167   443       
+  Harold Baines              74     77     76    0   107   373       
+  Andy Van Slyke             43     84     69    0   124   230       
+  Brett Butler               81     60     67    0   239   477       
+f Howard Johnson             18     81     64    0    78   202       
+  Kevin Stocker             125     33     62    0    96   206       
+  Darren Daulton             29     71     56    0   228   409   174 
+  Royce Clayton              37     54     48    0   188   419       
+  Chris Sabo                 95     32     48    0   153   458       
+  Damion Easley              84     19     39    0    79   185       
+  Rob Deer                  102     10     35    0   146   386       
+  Brian Harper              104     10     32    0   134   439   142 
+  Brent Gates                39     12     21    0   200   409       
+f Kim Batiste                31      2     10    0    45   116       
+  Darnell Coles               3      5      5    0    71   146       
+  Kent Hrbek                  0      3      2    0    74   397       
+f Craig Grebeck               0      0      0    0   132    91       
+f Geno Petralli               0      0      0    0    17   139       
+f Lou Frazier                 0      0      0    0    66   145       
+f Andy Tomberlin              0      0      0    0     6    39       
+f Kevin McReynolds            0      0      0    0   150   243       
+f Skeeter Barnes              0      0      0    0   110    70       
+f Matias Carrillo             0      0      0    0     6    52       
+f Steve Lyons                 0      0      0    0    10    15       
+f Kevin Koslofski             0      0      0    0     4    28       
+  Total                                             2756  6633       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+  Jason Bere                101    0    617    610   8/2/1993                 103s          103 
+f Angel Miranda              97    0    489    502   7/2/1993                                   
+  Carl Willis                83    0    196    236   8/1/1993                         11r    11 
+d Alan Mills                 78   11    330    421  7/31/1993                                   
+f Jeff Schwarz               78    0    170    218  7/29/1993                                   
+  Mark Langston              67    0    695   1039   8/4/1993   132s                        132 
+  Roger Smithberg            61    0     46     76  7/23/1993                                   
+  Jack McDowell              56    0    602   1067  7/31/1993                                   
+  Armando Reynoso            52    0    431    830   8/1/1993                         95s    95 
+f David West                 32    0    119    375  6/16/1993                                   
+f Cris Carpenter             30    0     89    293  7/29/1993                                   
+f Joe Boever                 27    0    123    449  7/29/1993                                   
+  Dave Fleming               18    0    132    737   8/3/1993          116s                 116 
+f Mike Hartley               15    0     54    359  7/23/1993                                   
+f Wally Whitehurst           10    0     46    441  7/21/1993                                   
+  Mauro Gozzo                 9    0      5     57   8/1/1993                         24r    24 
+  Gene Harris                 3    0      7    269   8/2/1993                  35r           35 
+f Willie Blair                0    0      0    664                                              
+f Pete Young                  0    0      0     20                                              
+f Roger Salkeld               0    0      0     61                                              
+f Bud Black                   0    0      0    394                                              
+f Gino Minutelli              0    0      0     64                                              
+  Steve Frey                  0    0      0    212                                              
+  Total                                4151   9394                                              
+
+
+
+                               FBL Team Status -- 1993 Ferlin Huskies                               
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Jim Thome                  79     90     86    0    57   135       
+  Ellis Burks                69     90     83    0   179   395       
+  Gregg Jefferies            82     84     83    0   160   452       
+  Wil Cordero                67     91     83    0   168   353       
+  Darrin Fletcher            35     86     75    0    93   352   248 
+  Marquis Grissom            64     78     74    0   210   483       
+  Dave Justice               67     75     73    0   196   474       
+  Todd Zeile                 54     55     55    0   152   495       
+  Mike Lansing               14     57     44    0   172   383       
+f Juan Bell                  47     35     40    0   163   237       
+  Tom Pagnozzi              107     13     35    0    83   272    96 
+  Rod Correia                14     18     17    0    49    94       
+  Troy Neel                   6     12     11    0   110   372       
+  Dave Clark                 30      9     10    0    20   298       
+  Joe Carter                 15      2      6    0   176   493       
+f Orestes Destrade            0      0      0    0   192   445       
+f Spike Owen                  0      0      0    0   147   220       
+f Bob Geren                   0      0      0    0    83    79       
+f Wayne Kirby                 0      0      0    0   125   386       
+f Matt Walbeck                0      0      0    0    12    19       
+f Rick Wrona                  0      0      0    0     3     5       
+f Scott Leius                 0      0      0    0     1    21       
+f Hector Villanueva           0      0      0    0    12    47       
+  Total                                             2563  6510       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Steve Trachsel            146    0    114     78   7/4/1993                                   
+f Kirk Rueter               106    0    360    341  6/12/1993                                   
+  Rheal Cormier             101    0    624    619   8/3/1993          108s                 108 
+  Bob Tewksbury              73    0    665    907   8/1/1993                         89s    89 
+  Mark Portugal              71    0    622    876  7/31/1993                                   
+  Blas Minor                 67    0    266    398   8/3/1993           13r    32r    21r    66 
+  Kevin Brown                63    0    627   1001   8/4/1993    84s                         84 
+  Paul Wagner                50    0    297    599   8/4/1993    16r           45r           61 
+  Rod Beck                   47    0    145    309   8/3/1993           18r                  18 
+  Derek Lilliquist           45    0    121    271   8/4/1993    23r                         23 
+  Steve Foster               41    0     43    105   8/4/1993    15r                  32r    47 
+  Mark Clark                 29    0    132    454   8/2/1993                  45s           45 
+f Jeremy Hernandez           28    0    132    467   7/1/1993                                   
+  Omar Olivares              14    0     73    537   8/2/1993                  41r           41 
+f Tim Belcher                 0    0      0    886                                              
+f Mike Walker                 0    0      0      0                                              
+f Rusty Meacham               0    0      0    104                                              
+f Trevor Wilson               0    0      0    455                                              
+f Al Osuna                    0    0      0    107                                              
+f Tom Edens                   0    0      0    203                                              
+f Fred Toliver                0    0      0     90                                              
+  Total                                4221   8807                                              
+
+
+
+                           FBL Team Status -- 1993 San Francisco Árboles                            
+                                  Regular season -- as of 8/4/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Danny Bautista             72    124    110    0    18    45       
+f Jose Canseco              126    101    105    0    43   210       
+f Rondell White             159     76    105    0    29    54       
+  Luis Alicea               128     91     99    0    89   332       
+  Jim Eisenreich            134     90     97    0    68   326       
+  Joe Girardi               110     92     96    0    89   261   296 
+f Carl Everett              140     80     95    0     5    15       
+  Gary Gaetti               105     87     92    0   115   254       
+f Terry Shumpert            300     55     75    0     1    11       
+  Darren Lewis               61     70     67    0   191   381       
+  J.T. Snow                  69     64     65    0   105   384       
+  Omar Vizquel               73     59     62    0   148   482       
+  Tino Martinez              58     39     45    0   149   315       
+  Ron Karkovice              29     40     37    0   136   317    45 
+  Butch Huskey               53     17     30    0    15    29       
+  Jeff King                  23     31     28    0   209   474       
+  Brian McRae                32     23     26    0   210   475       
+  Pat Listach                38     15     23    6   143   260       
+  John Vander Wal             0      1      1    0    21   223       
+f Harold Reynolds             0      0      0    0   142   428       
+f Ed Sprague                  0      0      0    0   158   438       
+f Jody Reed                   0      0      0    0   138   366       
+f Danny Sheaffer              0      0      0    0    51   182       
+  Felix Jose                  0      0      0    0    68   471       
+f Steve Scarsone              0      0      0    0    43    69       
+f Rafael Belliard             0      0      0    0    19    70       
+  Total                                             2403  6872       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/4    8/3    8/2    8/1   Cum 
+f Brian Shouse              118    0     26     22  4/19/1993                                   
+f Allen Watson              113    0    422    373   7/4/1993                                   
+f Brian Anderson            107    0     48     45  4/20/1993                                   
+f John Smiley               105    0    477    455  7/28/1993                                   
+  Rick Aguilera              93    0    267    287   8/4/1993    16r    15r           28r    59 
+  Jeff Shaw                  86    0    346    404   8/4/1993    42r                         42 
+  Pat Mahomes                85    0    147    173  7/31/1993                                   
+  Dave Nied                  78    0    308    394   8/4/1993     5r                  28r    33 
+  Greg Swindell              73    0    600    818   8/1/1993                         81s    81 
+  Doug Jones                 72    0    276    381   8/4/1993    17r                         17 
+  Dennis Eckersley           68    0    188    276   8/4/1993    20r           23r    18r    61 
+  Todd Stottlemyre           56    0    440    786   8/2/1993                 120s          120 
+  Kevin Tapani               50    0    480    964   8/4/1993    45s                         45 
+  Eric Hillman               21    0    131    627   8/3/1993           89s                  89 
+f Jack Armstrong              0    0      0    879                                              
+f Julio Valera                0    0      0    246                                              
+  Total                                4156   7130                                              
+
+
+
+                            FBL Team Status -- 1993 Felldownhead Firsts                             
+                                  Regular season -- as of 8/5/1993                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Willie Greene               0    125     85    0    17    36       
+  Roberto Mejia             113     74     83    0    54   194       
+  Eduardo Perez             118     70     81    6    44   148       
+  Kevin Young                50     99     81    0   188   320       
+f Greg Colbrunn              38    112     77    0    78    86       
+f Damon Buford               46     86     76    0    24    66       
+f Bret Boone                 52     86     75    0    93   209       
+  Chad Curtis                83     72     75    0   171   500       
+  Jeff Conine                68     76     73    0   191   467       
+f Jeff Reed                  20     75     71    0    10   126       
+  Ron Tingley                 5    159     70    0    60    44       
+  Mike Bordick               64     67     66    0   187   446       
+  Mark McLemore              54     67     63    0   179   484       
+  David Segui                62     61     61    0   162   357       
+  Benito Santiago            80     48     57    0   139   377   282 
+  Darrin Jackson             24     35     31    0    89   191       
+  Jeff McKnight              51     25     31    0    39   144       
+  Midre Cummings             38     18     24    0    13    28       
+  Jayhawk Owens              24     23     23    0    25    69    64 
+  Jeffrey Hammonds            7      9      8    0    45    65       
+f Milt Thompson               0      0      0    0    65   322       
+f Tom Foley                   0      0      0    0    13   198       
+  Total                                             1886  4877       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    8/5    8/4    8/3    8/2   Cum 
+  Arthur Rhodes             103    0    398    387   8/5/1993    96s                         96 
+  Larry Casian               96    0    232    241   8/4/1993           15r           32r    47 
+  Todd Van Poppel            84    0    320    380   8/2/1993                        111s   111 
+f Sean Bergman               83    0    156    189  7/11/1993                                   
+  Buddy Groom                80    0    136    170  7/30/1993                                   
+f Eddie Guardado             79    0    338    426  7/11/1993                                   
+f Jamie Moyer                78    0    491    630   7/3/1993                                   
+f Mike Stanton               77    0    181    236   7/2/1993                                   
+f Aaron Sele                 76    0    368    484  6/18/1993                                   
+f Dave Weathers              76    0    153    202  5/28/1993                                   
+f Frank Castillo             75    0    458    614  7/20/1993                                   
+  Brian Bohanon              65    0    273    418   8/5/1993    19r    10r    16r           45 
+  John Burkett               65    0    609    942   8/1/1993                                   
+  Russ Springer              36    0    101    278   8/4/1993          113s                 113 
+  Chris Hammond              28    0    229    826   8/3/1993                 112s          112 
+  Scott Radinsky             26    0     65    250   8/1/1993                                   
+  Doug Henry                 16    0     41    260  7/30/1993                                   
+f Miguel Batista              0    0      0      0                                              
+f Bobby Witt                  0    0      0    950                                              
+  Total                                4549   7883                                              
+

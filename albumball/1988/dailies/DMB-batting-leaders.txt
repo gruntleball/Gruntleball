@@ -1,0 +1,340 @@
+                           DMB batting leaders -- All players in database                           
+                                           Regular season                                           
+
+--------Batting average-------     ------On-base percentage------     ------Slugging percentage----- 
+                                                                                                     
+Winfield       CEN        .350     Boggs          BBG        .422     Van Slyke      CIN        .634 
+Gwynn          BBG        .342     Van Slyke      CIN        .417     Galarraga      TEW        .581 
+Greenwell      BBG        .342     Greenwell      BBG        .411     Gaetti         MAR        .578 
+Van Slyke      CIN        .342     Winfield       CEN        .408     Winfield       CEN        .573 
+Puckett        GBP        .326     Gwynn          BBG        .396     McGriff        MAR        .565 
+Boggs          BBG        .326     Davis          CEN        .393     Strawberry     CEN        .540 
+Larkin         CIN        .321     McGriff        MAR        .386     Canseco        TEW        .512 
+Gaetti         MAR        .320     Henderson      CEN        .382     Clark          CTW        .493 
+Ray            CEN        .313     Butler         MAR        .379     Greenwell      BBG        .490 
+Palmeiro       CIN        .313     Canseco        TEW        .378     Davis          FHK        .488 
+                                                                                                     
+                                                                                                     
+-------------Hits-------------     -------------Runs-------------     --------Runs batted in-------- 
+                                                                                                     
+Greenwell      BBG         210     Boggs          BBG         120     Winfield       CEN         108 
+Boggs          BBG         209     Butler         MAR         113     Gaetti         MAR         107 
+Winfield       CEN         205     Strawberry     CEN         111     Galarraga      TEW         104 
+Yount          ES?         203     Canseco        TEW         107     McGriff        MAR         103 
+Galarraga      TEW         199     Winfield       CEN         105     Strawberry     CEN         102 
+Larkin         CIN         198     McGriff        MAR         104     Greenwell      BBG         102 
+Ray            CEN         191     Galarraga      TEW         104     Canseco        TEW         102 
+Gwynn          BBG         187     Ripken,C       CCC          96     Van Slyke      CIN          96 
+Canseco        TEW         183     Greenwell      BBG          95     McReynolds     SUN          92 
+Puckett        GBP         179     Van Slyke      CIN          94     Tartabull      NEE          90 
+                                                                                                     
+                                                                                                     
+------------Doubles-----------     ------------Triples-----------     -----------Homeruns----------- 
+                                                                                                     
+Winfield       CEN          57     Gagne          FHK          13     Davis          FHK          34 
+Galarraga      TEW          49     Samuel         RYK          13     Strawberry     CEN          33 
+McGriff        MAR          46     Galarraga      TEW          13     Gaetti         MAR          32 
+Ray            CEN          44     Van Slyke      CIN          12     Canseco        TEW          32 
+Strawberry     CEN          38     Alomar,R       MAR          11     Galarraga      TEW          32 
+Greenwell      BBG          38     Sheridan       SUN          10     Van Slyke      CIN          30 
+Boggs          BBG          38     Butler         MAR          10     McGriff        MAR          30 
+Palmeiro       CIN          37     Yount          ES?          10     Jackson        GBP          29 
+Carter         CCC          36     Lee            CIN           9     Tartabull      NEE          27 
+Baines         ES?          35     Strawberry     CEN           9     Davis          TEW          26 
+                                                                                                     
+                                                                                                     
+--------Extra base hits-------     ---------Stolen bases---------     -------Steal percentage------- 
+                                                                                                     
+Galarraga      TEW          94     Henderson      CEN       69-26     Yount          ES?        .941 
+Winfield       CEN          84     Canseco        TEW       48-21     Coleman        GBP        .882 
+McGriff        MAR          83     Sabo           FHK       42-16     Palmeiro       CIN        .875 
+Strawberry     CEN          80     McDowell       NFG       42-18     McGee          CCC        .865 
+Canseco        TEW          67     Strawberry     CEN       39-17     Larkin         CIN        .810 
+Gaetti         MAR          64     Dunston        NFG       37-15     Doran          CIN        .800 
+Van Slyke      CIN          63     Larkin         CIN        34-8     Thon           NEE        .800 
+Tartabull      NEE          62     McGee          CCC        32-5     Gwynn          BBG        .793 
+Clark          CTW          60     Butler         MAR       32-12     Jackson        GBP        .781 
+Carter         CCC          60     Van Slyke      CIN       31-16     Davis          TEW        .778 
+                                                                                                     
+                                                                                                     
+-------------Walks------------     -------Intentional walks------     ----------Strikeouts---------- 
+                                                                                                     
+Boggs          BBG         106     Sandberg       NFG          12     Jackson        GBP         175 
+Butler         MAR          93     Boone          CEN          11     Galarraga      TEW         165 
+McGwire        BMB          89     Franco         BBG          10     Samuel         RYK         156 
+Kruk           FHK          87     Fernandez      CTW          10     McGriff        MAR         149 
+Ripken,C       CCC          80     Smith          BAR           9     Tartabull      NEE         145 
+Clark          NEE          78     Bonds          FER           8     Clark          NEE         142 
+McGriff        MAR          75     Dykstra        EVN           7     Gagne          FHK         136 
+Smith          BAR          72     LaValliere     ES?           6     Davis,C        BAR         136 
+Gibson         CTW          72     Bream          NFG           6     Canseco        TEW         133 
+Strawberry     CEN          72     Hrbek          GBP           6     Davis          TEW         129 
+                                                                                                     
+                           DMB batting leaders -- All players in database                           
+                                           Regular season                                           
+
+--------Sacrifice bunts-------     --------Sacrifice flies-------     ---------Hit by pitch--------- 
+                                                                                                     
+Larkin         CIN          26     Mattingly      BBG          10     Samuel         RYK          17 
+Smith          BAR          16     Carter         CCC          10     Canseco        TEW          14 
+Alomar,R       MAR          15     Benzinger      NFG           8     Bradley        BAR          13 
+Anderson       BAR          12     Murray         BAR           8     Galarraga      TEW          12 
+Surhoff        MAR          12     Strawberry     CEN           8     Greenwell      BBG          11 
+Gagne          FHK          12     Greenwell      BBG           8     Fletcher       MAR           9 
+Ray            CEN          12     Wallach        FER           7     Davis          CEN           9 
+Molitor        TEW          12     Barrett        BAR           7     Ripken,C       CCC           9 
+Smiley         EVN          11     Lansford       NFG           7     Campusano      RYK           8 
+Brookens       SUN          11     Joyner         RYK           7     Schmidt        CTW           8 
+                                                                                                     
+                                                                                                     
+--------Ground ball DP--------     ---------Runs created---------     -----Runs created/27 outs----- 
+                                                                                                     
+Franco         BBG          33     Winfield       CEN       138.9     Van Slyke      CIN        10.2 
+Yount          ES?          24     McGriff        MAR       125.8     Winfield       CEN         9.3 
+Steinbach      BMB          21     Greenwell      BBG       125.7     McGriff        MAR         8.1 
+Galarraga      TEW          19     Galarraga      TEW       125.1     Greenwell      BBG         7.8 
+Baines         ES?          18     Van Slyke      CIN       123.5     Gaetti         MAR         7.6 
+Heath          BBG          17     Canseco        TEW       120.9     Galarraga      TEW         7.3 
+Murray         BAR          17     Boggs          BBG       119.3     Boggs          BBG         7.1 
+Gwynn          BBG          17     Strawberry     CEN       108.3     Canseco        TEW         7.0 
+Greenwell      BBG          17     Ripken,C       CCC       106.1     Gwynn          BBG         6.9 
+Boggs          BBG          17     Butler         MAR       103.2     Clark          CTW         6.6 
+                                                                                                     
+                                                                                                     
+--------Isolated power--------     ---------Total average--------     ----------Total bases--------- 
+                                                                                                     
+Van Slyke      CIN        .292     Van Slyke      CIN       1.191     Galarraga      TEW         370 
+Strawberry     CEN        .273     Winfield       CEN       1.038     Winfield       CEN         336 
+Galarraga      TEW        .268     McGriff        MAR        .998     McGriff        MAR         320 
+McGriff        MAR        .265     Canseco        TEW        .961     Canseco        TEW         315 
+Gaetti         MAR        .259     Strawberry     CEN        .955     Strawberry     CEN         306 
+Tartabull      NEE        .231     Galarraga      TEW        .926     Greenwell      BBG         301 
+Winfield       CEN        .224     Greenwell      BBG        .918     Yount          ES?         301 
+Davis          FHK        .219     Gaetti         MAR        .913     Gaetti         MAR         295 
+Clark          CTW        .219     Henderson      CEN        .908     Van Slyke      CIN         293 
+Canseco        TEW        .215     Gibson         CTW        .872     Larkin         CIN         277 
+                                                                                                     
+                                                                                                     
+-----On-base plus slugging----     -------Secondary average------     --------AB per homerun-------- 
+                                                                                                     
+Van Slyke      CIN       1.052     Van Slyke      CIN        .455     Van Slyke      CIN        15.4 
+Winfield       CEN        .981     Strawberry     CEN        .439     Gaetti         MAR        15.9 
+McGriff        MAR        .952     McGriff        MAR        .405     Davis          FHK        16.1 
+Galarraga      TEW        .937     Canseco        TEW        .371     Strawberry     CEN        17.2 
+Gaetti         MAR        .929     Tartabull      NEE        .359     Davis          TEW        18.2 
+Greenwell      BBG        .902     Clark          CTW        .358     McGriff        MAR        18.9 
+Canseco        TEW        .891     Davis          TEW        .357     Canseco        TEW        19.2 
+Strawberry     CEN        .889     Gibson         CTW        .346     Tartabull      NEE        19.6 
+Gwynn          BBG        .859     Butler         MAR        .342     Galarraga      TEW        19.9 
+Clark          CTW        .853     Henderson      CEN        .336     McReynolds     SUN        21.2 
+                                                                                                     
+                                                                                                     
+------------Atbats------------     -------Plate appearances------     -------------Games------------ 
+                                                                                                     
+Yount          ES?         657     Boggs          BBG         754     Ripken,C       CCC         162 
+Davis,C        BAR         646     Yount          ES?         714     Greenwell      BBG         162 
+Boggs          BBG         642     Ripken,C       CCC         711     Davis,C        BAR         162 
+Galarraga      TEW         637     Canseco        TEW         703     Yount          ES?         162 
+Molitor        TEW         622     Greenwell      BBG         700     Canseco        TEW         162 
+Larkin         CIN         617     Davis,C        BAR         700     Sax            CCC         162 
+Canseco        TEW         615     Butler         MAR         697     Galarraga      TEW         162 
+Greenwell      BBG         614     Molitor        TEW         693     Samuel         RYK         162 
+Ripken,C       CCC         613     Galarraga      TEW         687     Fernandez      CTW         161 
+Ray            CEN         610     Larkin         CIN         684     Franco         BBG         158 
+                                                                                                     
+                                                                                                     
+                           DMB batting leaders -- All players in database                           
+                                           Regular season                                           
+
+------Current hit streak------     ------Longest hit streak------     ------------------------------ 
+                                                                                                     
+Molitor        TEW          20     Larkin         CIN          26                                    
+Larkin         CIN          13     Molitor        TEW          20                                    
+Baines         ES?          12     Evans          NEE          19                                    
+Davis,C        BAR          11     Galarraga      TEW          19                                    
+Washington     RYK           8     Lynn           CTW          19                                    
+Lee            CIN           8     Winfield       CEN          16                                    
+Santovenia     CTW           7     Wilkerson      CEN          16                                    
+Greenwell      BBG           6     Sierra         ES?          16                                    
+Winfield       CEN           6     Van Slyke      CIN          16                                    
+Reynolds       FHK           6     Boggs          BBG          15                                    
+                                                                                                     
+                           DMB batting leaders -- All players in database                           
+                                           Regular season                                           
+
+----Batting average vs LHP----     ---On-base percentage vs LHP--     --Slugging percentage vs LHP-- 
+                                                                                                     
+Puckett        GBP        .378     Henderson      CEN        .451     Snyder         SUN        .639 
+Larkin         CIN        .364     Ripken,C       CCC        .431     Carter         CCC        .599 
+Gaetti         MAR        .363     Franco         BBG        .429     Winfield       CEN        .588 
+Salazar        SUN        .358     Slaught        CEN        .423     Gant           GBP        .584 
+Franco         BBG        .350     Davis          CEN        .417     Salazar        SUN        .574 
+Ripken,C       CCC        .344     Larkin         CIN        .414     Galarraga      TEW        .563 
+Henderson      CEN        .344     Puckett        GBP        .398     Larkin         CIN        .561 
+Gagne          FHK        .341     Winfield       CEN        .396     Puckett        GBP        .552 
+Slaught        CEN        .340     Evans          NEE        .394     Henderson      CEN        .547 
+Davis          CEN        .333     Gaetti         MAR        .393     Brooks         TEW        .544 
+                                                                                                     
+                                                                                                     
+----------Hits vs LHP---------     -----Runs batted in vs LHP----     -----Isolated power vs LHP---- 
+                                                                                                     
+Franco         BBG          79     Brett          SUN          48     Snyder         SUN        .337 
+Larkin         CIN          78     Incaviglia     BBG          43     Gant           GBP        .292 
+Salazar        SUN          68     Canseco        TEW          43     Murphy         CTW        .277 
+Sax            CCC          68     Snyder         SUN          41     Carter         CCC        .275 
+Boggs          BBG          68     Davis          TEW          38     Winfield       CEN        .271 
+Brooks         TEW          67     Carter         CCC          36     Galarraga      TEW        .262 
+Puckett        GBP          65     Tettleton      ES?          36     McReynolds     SUN        .257 
+Gwynn          BBG          65     McReynolds     SUN          36     Strawberry     CEN        .254 
+Brett          SUN          65     Tartabull      NEE          34     Incaviglia     BBG        .253 
+Ripken,C       CCC          64     Davis          CEN          34     Quinones       TEW        .249 
+                                                                                                     
+                                                                                                     
+--------Doubles vs LHP--------     --------Triples vs LHP--------     --------Homeruns vs LHP------- 
+                                                                                                     
+Galarraga      TEW          24     Gagne          FHK          12     Snyder         SUN          17 
+Ramirez        BBG          19     Sheridan       SUN           9     Tettleton      ES?          14 
+Larkin         CIN          18     Sveum          RYK           8     Incaviglia     BBG          13 
+Winfield       CEN          17     Samuel         RYK           8     McReynolds     SUN          13 
+Snyder         SUN          17     Franco         BBG           6     Davis          TEW          13 
+Schmidt        CTW          15     Boggs          BBG           5     Brett          SUN          13 
+Pena           EVN          15     Van Slyke      CIN           4     Coles          CEN          12 
+Murphy         CTW          15     Borders        GBP           4     Gant           GBP          12 
+Carter         CCC          15     Esasky         CIN           4     Strawberry     CEN          12 
+Brooks         TEW          15     Lee            CIN           4     Tartabull      NEE          11 
+                                                                                                     
+                                                                                                     
+----Extra base hits vs LHP----     ------Total bases vs LHP------     ------Hit by pitch vs LHP----- 
+                                                                                                     
+Snyder         SUN          34     Snyder         SUN         129     Greenwell      BBG          11 
+Galarraga      TEW          34     Larkin         CIN         120     Martinez       BMB           7 
+Winfield       CEN          28     Brett          SUN         119     Moseby         BMB           7 
+Carter         CCC          27     Brooks         TEW         117     Orsulak        NFG           6 
+Larkin         CIN          27     Franco         BBG         117     Bass           EVN           6 
+Brooks         TEW          27     Galarraga      TEW         116     Schmidt        CTW           6 
+Murphy         CTW          26     Carter         CCC         109     Samuel         RYK           6 
+Quinones       TEW          25     Salazar        SUN         109     Downing        CTW           5 
+Samuel         RYK          25     Leonard        RYK         102     Joyner         RYK           5 
+Leonard        RYK          25     Incaviglia     BBG         101     Davis          CEN           5 
+                                                                                                     
+                                                                                                     
+---------Walks vs LHP---------     -------Strikeouts vs LHP------     ----Sacrifice bunts vs LHP---- 
+                                                                                                     
+Boggs          BBG          39     McGriff        MAR          69     Larkin         CIN           7 
+Franco         BBG          32     Incaviglia     BBG          64     Hammaker       BAR           6 
+McGwire        BMB          30     Strawberry     CEN          57     Fernandez      CIN           6 
+Ripken,C       CCC          29     Galarraga      TEW          56     Jones          EVN           6 
+Butler         MAR          29     Davis,C        BAR          52     Butler         MAR           6 
+Stanley        SUN          26     Jackson        GBP          51     Moyer          BAR           5 
+Davis          TEW          26     Baines         ES?          48     Rijo           GBP           5 
+Murphy         CTW          25     Fielder        SUN          47     Perez          FER           4 
+Sax            CCC          25     Gagne          FHK          47     Hawkins        SUN           4 
+Henderson      CEN          24     Canseco        TEW          45     Flanagan       CCC           4 
+                                                                                                     
+                                                                                                     
+                           DMB batting leaders -- All players in database                           
+                                           Regular season                                           
+
+----Sacrifice flies vs LHP----     ---------Atbats vs LHP--------     ---Plate appearances vs LHP--- 
+                                                                                                     
+Benzinger      NFG           5     Boggs          BBG         240     Boggs          BBG         283 
+Lansford       NFG           5     Yount          ES?         237     Yount          ES?         265 
+Larkin         CIN           3     Brett          SUN         233     Franco         BBG         259 
+Hatcher        EVN           3     Greenwell      BBG         227     Molitor        TEW         254 
+Mattingly      BBG           3     Franco         BBG         226     Sax            CCC         248 
+Aguayo         EVN           3     Molitor        TEW         224     Greenwell      BBG         247 
+White          TEW           3     Sax            CCC         217     Brett          SUN         245 
+Bass           EVN           3     Sierra         ES?         216     Butler         MAR         241 
+Winfield       CEN           3     Ramirez        BBG         215     Larkin         CIN         239 
+McGwire        BMB           3     Brooks         TEW         215     Davis          TEW         235 
+                                                                                                     
+                           DMB batting leaders -- All players in database                           
+                                           Regular season                                           
+
+----Batting average vs RHP----     ---On-base percentage vs RHP--     --Slugging percentage vs RHP-- 
+                                                                                                     
+Greenwell      BBG        .377     Greenwell      BBG        .457     Van Slyke      CIN        .668 
+Gwynn          BBG        .364     Boggs          BBG        .442     McGriff        MAR        .645 
+Van Slyke      CIN        .364     Van Slyke      CIN        .441     Gaetti         MAR        .614 
+Winfield       CEN        .363     Gibson         CTW        .424     Galarraga      TEW        .589 
+Boggs          BBG        .351     Gwynn          BBG        .418     Winfield       CEN        .567 
+Yount          ES?        .336     McGriff        MAR        .415     Strawberry     CEN        .567 
+Ray            CEN        .333     Winfield       CEN        .413     Greenwell      BBG        .540 
+Gallagher      CTW        .320     Magadan        CEN        .401     Clark          CTW        .539 
+Hassey         TEW        .319     Butler         MAR        .395     Davis          FHK        .536 
+Palmeiro       CIN        .318     Canseco        TEW        .391     Gwynn          BBG        .531 
+                                                                                                     
+                                                                                                     
+----------Hits vs RHP---------     -----Runs batted in vs RHP----     -----Isolated power vs RHP---- 
+                                                                                                     
+Winfield       CEN         151     Van Slyke      CIN          92     McGriff        MAR        .338 
+Van Slyke      CIN         147     Gaetti         MAR          88     Gaetti         MAR        .316 
+Greenwell      BBG         146     Winfield       CEN          85     Van Slyke      CIN        .304 
+Boggs          BBG         141     McGriff        MAR          81     Strawberry     CEN        .283 
+Yount          ES?         141     Galarraga      TEW          76     Galarraga      TEW        .271 
+Ray            CEN         141     Davis          FHK          72     Davis          FHK        .244 
+Galarraga      TEW         137     Greenwell      BBG          71     Clark          CTW        .244 
+Murray         BAR         128     Strawberry     CEN          69     Jackson        GBP        .241 
+Davis,C        BAR         126     Gruber         MAR          68     Gruber         MAR        .225 
+Canseco        TEW         125     Murray         BAR          68     Canseco        TEW        .215 
+                                                                                                     
+                                                                                                     
+--------Doubles vs RHP--------     --------Triples vs RHP--------     --------Homeruns vs RHP------- 
+                                                                                                     
+Winfield       CEN          40     Galarraga      TEW          13     Van Slyke      CIN          29 
+Ray            CEN          33     Yount          ES?           9     Gaetti         MAR          28 
+Hayes          BBG          32     Raines         TEW           8     Davis          FHK          28 
+McGriff        MAR          32     Strawberry     CEN           8     McGriff        MAR          25 
+Burks          FHK          29     Van Slyke      CIN           8     Galarraga      TEW          22 
+Palmeiro       CIN          28     Burks          FHK           8     Jackson        GBP          21 
+Greenwell      BBG          28     Riles          GBP           7     Strawberry     CEN          21 
+Daniels        CIN          27     Bush           GBP           7     Clark          CTW          21 
+Strawberry     CEN          27     Templeton      BBG           7     Canseco        TEW          21 
+Boggs          BBG          26     Gwynn          BBG           7     Murray         BAR          21 
+                                                                                                     
+                                                                                                     
+----Extra base hits vs RHP----     ------Total bases vs RHP------     ------Hit by pitch vs RHP----- 
+                                                                                                     
+McGriff        MAR          64     Van Slyke      CIN         270     Bradley        BAR          13 
+Galarraga      TEW          60     Galarraga      TEW         254     Samuel         RYK          11 
+Van Slyke      CIN          57     Winfield       CEN         236     Galarraga      TEW          11 
+Strawberry     CEN          56     McGriff        MAR         231     Canseco        TEW          10 
+Winfield       CEN          56     Clark          CTW         221     Ripken,C       CCC           9 
+Clark          CTW          52     Davis          FHK         217     Campusano      RYK           8 
+Gaetti         MAR          48     Canseco        TEW         214     Bell           FHK           8 
+Burks          FHK          46     Strawberry     CEN         212     Carter         NFG           8 
+Canseco        TEW          46     Greenwell      BBG         209     Fletcher       MAR           7 
+Gruber         MAR          43     Murray         BAR         209     Washington     RYK           7 
+                                                                                                     
+                                                                                                     
+---------Walks vs RHP---------     -------Strikeouts vs RHP------     ----Sacrifice bunts vs RHP---- 
+                                                                                                     
+Kruk           FHK          81     Jackson        GBP         124     Larkin         CIN          19 
+Boggs          BBG          67     Tartabull      NEE         121     Smith          BAR          15 
+McGriff        MAR          66     Samuel         RYK         116     Alomar,R       MAR          13 
+Gibson         CTW          64     Galarraga      TEW         109     Surhoff        MAR          12 
+Butler         MAR          64     Clark          NEE         101     Smiley         EVN          10 
+Greenwell      BBG          61     Henderson      NEE         101     Gagne          FHK          10 
+James          RYK          60     McGwire        BMB          97     Brookens       SUN          10 
+Strawberry     CEN          60     Gant           GBP          95     Anderson       BAR           9 
+Clark          CTW          60     Dunston        NFG          94     Whitaker       SUN           9 
+McGwire        BMB          59     Davis          TEW          92     Stieb          EVN           8 
+                                                                                                     
+                                                                                                     
+                           DMB batting leaders -- All players in database                           
+                                           Regular season                                           
+
+----Sacrifice flies vs RHP----     ---------Atbats vs RHP--------     ---Plate appearances vs RHP--- 
+                                                                                                     
+Carter         CCC           8     Davis,C        BAR         433     Ripken,C       CCC         495 
+Mattingly      BBG           7     Galarraga      TEW         431     Canseco        TEW         481 
+Joyner         RYK           7     Ripken,C       CCC         427     Murray         BAR         479 
+Murray         BAR           7     Murray         BAR         426     Davis,C        BAR         477 
+Wallach        FER           6     Ray            CEN         423     Clark          CTW         474 
+Whitt          BBG           6     Dunston        NFG         423     Boggs          BBG         471 
+Davis          FHK           6     Yount          ES?         420     Galarraga      TEW         468 
+Strawberry     CEN           6     Winfield       CEN         416     Van Slyke      CIN         466 
+Evans          NEE           6     Canseco        TEW         414     Tartabull      NEE         460 
+Tartabull      NEE           6     Burks          FHK         412     Evans          NEE         458 
+                                                                                                     
+

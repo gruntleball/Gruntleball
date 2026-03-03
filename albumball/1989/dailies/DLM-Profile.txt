@@ -1,0 +1,154 @@
+                Manager Profile for 1989 Dun Laoghaire Messiahs
+ 
+Manager Tendencies
+ 
+Bunting:                  Neutral
+Hit and run:              Neutral
+Stealing:                 Neutral
+Running:                  Neutral
+Take pitch:               Neutral
+PH for a pitcher:         Neutral
+PH for a non-pitcher:     Neutral
+PH for platoon player:    Neutral
+PH in a blowout:          Neutral
+Pitching around:          Neutral
+Intentional walk:         Neutral
+Pickoff throws:           Neutral
+Pitching out:             Neutral
+Using relievers:          Neutral
+Using closers:            Neutral
+Holding runners:          Neutral
+Infield in:               Neutral
+Guard lines:              Neutral
+ 
+ 
+Pitching Chart
+ 
+Usage mode:    Strict
+Rotation size: 5
+Next starter:  4
+ 
+Starting Rotation   Brantley          Glavine           Abbott            Flanagan          Stottlemyre       
+Spot Starters                                                                               Berenguer         
+Spot Pct                                                                                    25                
+ 
+Mopup situations    Wegman            Patterson         Maddux                                                
+Long relievers      Patterson         Wegman            Pall                                                  
+Setup vs LHB        Pall              Tanana            Eichhorn                                              
+Setup vs RHB        Eichhorn          Tanana            Wegman                                                
+Closers vs LHB      Maddux            Pall              Tanana                                                
+Closers vs RHB      Berenguer         Eichhorn          Tanana                                                
+
+....................................................................................................
+                Manager Profile for 1989 Dun Laoghaire Messiahs
+ 
+Depth Chart for 1989 Dun Laoghaire Messiahs -- vs LHP
+ 
+ 
+Usage: Game by game        Versus: Left        DH: No
+ 
+Starting Lineup
+ 
+1: Devereaux        cf
+2: Liriano          2b
+3: Brock            1b
+4: Harper           c
+5: Pendleton        3b
+6: Carter           lf
+7: Ripken,C         ss
+8: O'Neill          rf
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Harper               Brock                Liriano              Pendleton       
+Plat                                                                                 
+Def                                                                                  
+Util1 Scioscia         50  Martinez         25                                       
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Ripken,C             Carter               Devereaux            O'Neill         
+Plat                                                                                 
+Def                                                                                  
+Util1                                           McGee            50                  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Griffin              McGee           
+Util2                      Martinez             Scioscia        
+Util3                      Scioscia             Martinez        
+Util4                      McGee                Prince          
+Util5                      Prince               Griffin         
+
+....................................................................................................
+                Manager Profile for 1989 Dun Laoghaire Messiahs
+ 
+Depth Chart for 1989 Dun Laoghaire Messiahs -- vs RHP
+ 
+ 
+Usage: Game by game        Versus: Right        DH: No
+ 
+Starting Lineup
+ 
+1: Gallego          2b
+2: Harper           c
+3: O'Neill          rf
+4: Carter           lf
+5: Ripken,C         ss
+6: Brock            1b
+7: Pendleton        3b
+8: Devereaux        cf
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Harper               Brock                Gallego              Pendleton       
+Plat                                                                                 
+Def                                                                                  
+Util1 Scioscia         50  Martinez         25                                       
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Ripken,C             Carter               Devereaux            O'Neill         
+Plat                                                                                 
+Def                                                                                  
+Util1                                           McGee            50                  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Griffin              McGee           
+Util2                      Martinez             Scioscia        
+Util3                      Scioscia             Martinez        
+Util4                      McGee                Prince          
+Util5                                           Griffin         

@@ -1,0 +1,1648 @@
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+11/1/1999  BBG     Lee,Da              Demoted to reserve roster                          Before   
+11/1/1999  GAR     Saberhagen          Demoted to reserve roster                          Before   
+10/30/1999 GAR     Pote                Demoted to reserve roster                          Before   
+10/29/1999 GAR     Difelice            Promoted to active roster                          Before   
+10/28/1999 GAR     Paquette            Promoted to active roster                          Before   
+10/25/1999 BBG     Lee,Da              Promoted to active roster                          Before   
+10/25/1999 GAR     Jimenez,D           Demoted to reserve roster                          Before   
+10/25/1999 GAR     Paniagua            Demoted to reserve roster                          Before   
+10/25/1999 GAR     Petrick             Promoted to active roster                          Before   
+10/20/1999 GAR     Jimenez,D           Promoted to active roster                          Before   
+10/19/1999 CTW     Thompson,M          Demoted to reserve roster                          Before   
+10/18/1999 MCL     Jackson,Dar         Promoted to active roster                          Before   
+10/15/1999 BAR     Ankiel              Promoted to active roster                          Before   
+10/15/1999 BAR     Meares              Promoted to active roster                          Before   
+10/15/1999 BBG     Chouinard           Promoted to active roster                          Before   
+10/15/1999 CTW     Buhner              Promoted to active roster                          Before   
+10/15/1999 CTW     Mateo               Demoted to reserve roster                          Before   
+10/15/1999 GAR     Garces              Promoted to active roster                          Before   
+10/15/1999 GAR     Halama              Promoted to active roster                          Before   
+10/15/1999 GAR     Jimenez,D           Demoted to reserve roster                          Before   
+10/15/1999 GAR     Petrick             Demoted to reserve roster                          Before   
+10/15/1999 GAR     Pote                Promoted to active roster                          Before   
+10/15/1999 GAR     Saberhagen          Promoted to active roster                          Before   
+10/15/1999 MCL     Brantley            Demoted to reserve roster                          Before   
+10/15/1999 MCL     Dalesandro          Demoted to reserve roster                          Before   
+10/15/1999 MCL     Ducey               Demoted to reserve roster                          Before   
+10/15/1999 MCL     Embree              Demoted to reserve roster                          Before   
+10/15/1999 MCL     Embree              Promoted to active roster                          Before   
+10/15/1999 MCL     Fox,A               Demoted to reserve roster                          Before   
+10/15/1999 MCL     Greene,T            Demoted to reserve roster                          Before   
+10/15/1999 MCL     Howard,D            Demoted to reserve roster                          Before   
+10/15/1999 MCL     Jackson,Dar         Demoted to reserve roster                          Before   
+10/15/1999 MCL     Mussina             Promoted to active roster                          Before   
+10/15/1999 MCL     Norton              Demoted to reserve roster                          Before   
+10/15/1999 MCL     Olson               Demoted to reserve roster                          Before   
+10/15/1999 MCL     Peterson            Demoted to reserve roster                          Before   
+10/15/1999 MCL     Radinsky            Demoted to reserve roster                          Before   
+10/15/1999 MCL     Rogers              Promoted to active roster                          Before   
+10/15/1999 MCL     Schrenk             Demoted to reserve roster                          Before   
+10/15/1999 MCL     Shaw                Promoted to active roster                          Before   
+10/15/1999 MCL     Silva               Demoted to reserve roster                          Before   
+10/15/1999 MCL     Watson              Demoted to reserve roster                          Before   
+10/15/1999 MCL     Whisenant           Demoted to reserve roster                          Before   
+10/15/1999 TEW     Rios                Promoted to active roster                          Before   
+10/12/1999 BBG     Chouinard           Demoted to reserve roster                          Before   
+10/12/1999 GAR     Jimenez,D           Promoted to active roster                          Before   
+10/12/1999 GAR     Saberhagen          Demoted to reserve roster                          Before   
+10/10/1999 BAR     Ankiel              Demoted to reserve roster                          Before   
+10/10/1999 BAR     Meares              Demoted to reserve roster                          Before   
+10/10/1999 GAR     Garces              Demoted to reserve roster                          Before   
+10/10/1999 TEW     Rios                Demoted to reserve roster                          Before   
+10/9/1999  GAR     Pote                Demoted to reserve roster                          Before   
+10/5/1999  BAR     Adams               Demoted to reserve roster                          Before   
+10/5/1999  BAR     Ankiel              Promoted to active roster                          Before   
+10/5/1999  BAR     Bennett,G           Demoted to reserve roster                          Before   
+10/5/1999  BAR     Cabrera,Jos         Promoted to active roster                          Before   
+10/5/1999  BAR     Dipoto              Demoted to reserve roster                          Before   
+10/5/1999  BAR     Jones,J             Demoted to reserve roster                          Before   
+10/5/1999  BAR     Lloyd               Demoted to reserve roster                          Before   
+10/5/1999  BAR     Lopez,J             Promoted to active roster                          Before   
+10/5/1999  BAR     McLemore            Demoted to reserve roster                          Before   
+10/5/1999  BAR     Meares              Promoted to active roster                          Before   
+10/5/1999  BAR     Millar              Promoted to active roster                          Before   
+10/5/1999  BAR     Miller,Tra          Demoted to reserve roster                          Before   
+10/5/1999  BAR     Perez,Y             Demoted to reserve roster                          Before   
+10/5/1999  BAR     Reyes,A             Demoted to reserve roster                          Before   
+10/5/1999  BAR     Reyes,D             Demoted to reserve roster                          Before   
+10/5/1999  BAR     Runyan              Demoted to reserve roster                          Before   
+10/5/1999  BAR     Schilling           Promoted to active roster                          Before   
+10/5/1999  BAR     Smoltz              Promoted to active roster                          Before   
+10/5/1999  BAR     Steinbach           Demoted to reserve roster                          Before   
+10/5/1999  BAR     Steinbach           Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+10/5/1999  BAR     Vizquel             Promoted to active roster                          Before   
+10/5/1999  BAR     Williams,J          Demoted to reserve roster                          Before   
+10/5/1999  BAR     Winn                Demoted to reserve roster                          Before   
+10/5/1999  BBG     Agbayani            Promoted to active roster                          Before   
+10/5/1999  BBG     Bogar               Demoted to reserve roster                          Before   
+10/5/1999  BBG     Bragg               Demoted to reserve roster                          Before   
+10/5/1999  BBG     Cedeno,R            Demoted to reserve roster                          Before   
+10/5/1999  BBG     Chouinard           Promoted to active roster                          Before   
+10/5/1999  BBG     Collier             Demoted to reserve roster                          Before   
+10/5/1999  BBG     Gooden              Demoted to reserve roster                          Before   
+10/5/1999  BBG     Graffanino          Promoted to active roster                          Before   
+10/5/1999  BBG     Gwynn               Promoted to active roster                          Before   
+10/5/1999  BBG     Hill,K              Demoted to reserve roster                          Before   
+10/5/1999  BBG     Hoffman             Promoted to active roster                          Before   
+10/5/1999  BBG     Hudson              Promoted to active roster                          Before   
+10/5/1999  BBG     Hunter,BR           Demoted to reserve roster                          Before   
+10/5/1999  BBG     Johns               Demoted to reserve roster                          Before   
+10/5/1999  BBG     Kent                Promoted to active roster                          Before   
+10/5/1999  BBG     Lankford            Promoted to active roster                          Before   
+10/5/1999  BBG     Milton              Promoted to active roster                          Before   
+10/5/1999  BBG     Mlicki              Demoted to reserve roster                          Before   
+10/5/1999  BBG     Nitkowski           Promoted to active roster                          Before   
+10/5/1999  BBG     Osik                Demoted to reserve roster                          Before   
+10/5/1999  BBG     Parque              Demoted to reserve roster                          Before   
+10/5/1999  BBG     Posada              Promoted to active roster                          Before   
+10/5/1999  BBG     Rocker              Promoted to active roster                          Before   
+10/5/1999  BBG     Rosado              Promoted to active roster                          Before   
+10/5/1999  BBG     Tapani              Demoted to reserve roster                          Before   
+10/5/1999  BBG     Thompson,J          Demoted to reserve roster                          Before   
+10/5/1999  BBG     Villone             Promoted to active roster                          Before   
+10/5/1999  BBG     Walbeck             Demoted to reserve roster                          Before   
+10/5/1999  BBG     Wasdin              Demoted to reserve roster                          Before   
+10/5/1999  BBG     Wilson,D            Demoted to reserve roster                          Before   
+10/5/1999  BBG     Wright,Jar          Demoted to reserve roster                          Before   
+10/5/1999  TEW     Banks               Demoted to reserve roster                          Before   
+10/5/1999  TEW     Croushore           Demoted to reserve roster                          Before   
+10/5/1999  TEW     Delgado,C           Promoted to active roster                          Before   
+10/5/1999  TEW     Garciaparra         Promoted to active roster                          Before   
+10/5/1999  TEW     Greer               Promoted to active roster                          Before   
+10/5/1999  TEW     Hermanson           Promoted to active roster                          Before   
+10/5/1999  TEW     Leyritz             Promoted to active roster                          Before   
+10/5/1999  TEW     Mayne               Promoted to active roster                          Before   
+10/5/1999  TEW     Morandini           Demoted to reserve roster                          Before   
+10/5/1999  TEW     Pavano              Promoted to active roster                          Before   
+10/5/1999  TEW     Randa               Promoted to active roster                          Before   
+10/5/1999  TEW     Reed,R              Demoted to reserve roster                          Before   
+10/5/1999  TEW     Sadler              Placed on disabled list                 9/27/1999  Before   
+10/5/1999  TEW     Sanchez,R           Demoted to reserve roster                          Before   
+10/5/1999  TEW     Sanchez,R           Promoted to active roster                          Before   
+10/5/1999  TEW     Schmidt             Demoted to reserve roster                          Before   
+10/5/1999  TEW     Seguignol           Demoted to reserve roster                          Before   
+10/5/1999  TEW     Stocker             Placed on disabled list                 10/3/1999  Before   
+10/5/1999  TEW     Telford             Demoted to reserve roster                          Before   
+10/5/1999  TEW     Wall                Promoted to active roster                          Before   
+10/3/1999  BBG     Tapani              Demoted to reserve roster                          Before   
+10/3/1999  BBG     Tapani              Promoted to active roster                          Before   
+10/3/1999  CIN     Larkin,B            Demoted to reserve roster                          Before   
+10/3/1999  CTW     Benard              Demoted to reserve roster                          Before   
+10/3/1999  CTW     Buhner              Demoted to reserve roster                          Before   
+10/3/1999  CTW     Buhner              Promoted to active roster                          Before   
+10/3/1999  CTW     Burba               Demoted to reserve roster                          Before   
+10/3/1999  CTW     Castillo,A          Demoted to reserve roster                          Before   
+10/3/1999  CTW     Gonzalez,AS         Demoted to reserve roster                          Before   
+10/3/1999  CTW     Howard,T            Demoted to reserve roster                          Before   
+10/3/1999  CTW     Johnson,B           Demoted to reserve roster                          Before   
+10/3/1999  CTW     Jones,C             Promoted to active roster                          Before   
+10/3/1999  CTW     LaRue               Demoted to reserve roster                          Before   
+10/3/1999  CTW     Lima                Demoted to reserve roster                          Before   
+10/3/1999  CTW     Mateo               Demoted to reserve roster                          Before   
+10/3/1999  CTW     Mateo               Promoted to active roster                          Before   
+10/3/1999  CTW     Matthews            Promoted to active roster                          Before   
+10/3/1999  CTW     McElroy             Demoted to reserve roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+10/3/1999  CTW     Montgomery,S        Demoted to reserve roster                          Before   
+10/3/1999  CTW     Orie                Demoted to reserve roster                          Before   
+10/3/1999  CTW     Pratt               Demoted to reserve roster                          Before   
+10/3/1999  CTW     Sauerbeck           Promoted to active roster                          Before   
+10/3/1999  CTW     Spehr               Promoted to active roster                          Before   
+10/3/1999  CTW     Thompson,M          Promoted to active roster                          Before   
+10/3/1999  CTW     Trombley            Demoted to reserve roster                          Before   
+10/3/1999  CTW     Wright,Jam          Demoted to reserve roster                          Before   
+10/3/1999  FER     Wickman             Demoted to reserve roster                          Before   
+10/3/1999  FLL     Jones,A             Demoted to reserve roster                          Before   
+10/3/1999  GAR     Abbott,P            Promoted to active roster                          Before   
+10/3/1999  GAR     Almanza             Demoted to reserve roster                          Before   
+10/3/1999  GAR     Clontz              Demoted to reserve roster                          Before   
+10/3/1999  GAR     Cone                Promoted to active roster                          Before   
+10/3/1999  GAR     Garces              Promoted to active roster                          Before   
+10/3/1999  GAR     Harnisch            Demoted to reserve roster                          Before   
+10/3/1999  GAR     Hidalgo             Demoted to reserve roster                          Before   
+10/3/1999  GAR     Hitchcock           Demoted to reserve roster                          Before   
+10/3/1999  GAR     Karchner            Demoted to reserve roster                          Before   
+10/3/1999  GAR     Olivares            Demoted to reserve roster                          Before   
+10/3/1999  GAR     Orosco              Demoted to reserve roster                          Before   
+10/3/1999  GAR     Paniagua            Promoted to active roster                          Before   
+10/3/1999  GAR     Paquette            Demoted to reserve roster                          Before   
+10/3/1999  GAR     Parris              Demoted to reserve roster                          Before   
+10/3/1999  GAR     Petrick             Promoted to active roster                          Before   
+10/3/1999  GAR     Pote                Promoted to active roster                          Before   
+10/3/1999  GAR     Saberhagen          Promoted to active roster                          Before   
+10/3/1999  GAR     Sirotka             Demoted to reserve roster                          Before   
+10/3/1999  GAR     Swindell            Promoted to active roster                          Before   
+10/3/1999  GAR     Vazquez             Promoted to active roster                          Before   
+10/3/1999  NEP     Myers,M             Demoted to reserve roster                          Before   
+10/3/1999  OKO     Oliver,J            Demoted to reserve roster                          Before   
+10/2/1999  BAR     Vizquel             Demoted to reserve roster                          Before   
+10/2/1999  CEN     McRae               Signed                                             Before   
+10/2/1999  CEN     Williams,Be         Demoted to reserve roster                          Before   
+10/2/1999  CIN     Lee,Ca              Demoted to reserve roster                          Before   
+10/2/1999  CTW     Jones,C             Demoted to reserve roster                          Before   
+10/2/1999  GAR     Petrick             Demoted to reserve roster                          Before   
+10/2/1999  NEP     Conine              Promoted to active roster                          Before   
+10/2/1999  NNN     Mathews,TJ          Demoted to reserve roster                          Before   
+10/2/1999  NNN     Morgan              Signed                                             Before   
+10/2/1999  NNN     Munoz               Demoted to reserve roster                          Before   
+10/2/1999  NNN     Snyder              Signed                                             Before   
+10/2/1999  TEW     Randa               Demoted to reserve roster                          Before   
+10/1/1999  BAR     Daneker             Demoted to reserve roster                          Before   
+10/1/1999  CEN     Klesko              Demoted to reserve roster                          Before   
+10/1/1999  CIN     Gagne               Demoted to reserve roster                          Before   
+10/1/1999  CIN     Mota                Demoted to reserve roster                          Before   
+10/1/1999  CTW     Thompson,M          Demoted to reserve roster                          Before   
+10/1/1999  FER     Speier              Demoted to reserve roster                          Before   
+10/1/1999  MCL     Shaw                Demoted to reserve roster                          Before   
+10/1/1999  OKO     Escobar             Demoted to reserve roster                          Before   
+10/1/1999  OKO     Kotsay              Demoted to reserve roster                          Before   
+10/1/1999  TAR     Rose                Demoted to reserve roster                          Before   
+10/1/1999  TEW     Pavano              Demoted to reserve roster                          Before   
+9/30/1999  BAR     Dipoto              Promoted to active roster                          Before   
+9/30/1999  BBG     Rosado              Demoted to reserve roster                          Before   
+9/30/1999  CEN     Ramirez,M           Demoted to reserve roster                          Before   
+9/30/1999  CIN     Palmeiro,R          Demoted to reserve roster                          Before   
+9/30/1999  CTW     Luke                Demoted to reserve roster                          Before   
+9/30/1999  FFR     Benes,An            Demoted to reserve roster                          Before   
+9/30/1999  FHK     Ledee               Demoted to reserve roster                          Before   
+9/30/1999  MCL     Rogers              Demoted to reserve roster                          Before   
+9/29/1999  BBG     Nitkowski           Demoted to reserve roster                          Before   
+9/29/1999  CEN     Mahomes             Demoted to reserve roster                          Before   
+9/29/1999  CIN     Young,D             Demoted to reserve roster                          Before   
+9/29/1999  CTW     Sauerbeck           Demoted to reserve roster                          Before   
+9/29/1999  DLM     Maddux,G            Demoted to reserve roster                          Before   
+9/29/1999  FDH     Rincon              Demoted to reserve roster                          Before   
+9/29/1999  FER     Guillen,C           Demoted to reserve roster                          Before   
+9/29/1999  FER     Hiljus              Demoted to reserve roster                          Before   
+9/29/1999  FFR     Johnson,Ja          Demoted to reserve roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/29/1999  GAR     Swindell            Demoted to reserve roster                          Before   
+9/29/1999  NNN     Neagle              Demoted to reserve roster                          Before   
+9/29/1999  NNN     Percival            Demoted to reserve roster                          Before   
+9/29/1999  TAR     Hinch               Demoted to reserve roster                          Before   
+9/29/1999  TEW     Delgado,C           Demoted to reserve roster                          Before   
+9/28/1999  BBG     Agbayani            Demoted to reserve roster                          Before   
+9/28/1999  BBG     Bogar               Promoted to active roster                          Before   
+9/28/1999  BBG     Gooden              Promoted to active roster                          Before   
+9/28/1999  BBG     Hudson              Demoted to reserve roster                          Before   
+9/28/1999  BBG     Osik                Promoted to active roster                          Before   
+9/28/1999  BBG     Parque              Promoted to active roster                          Before   
+9/28/1999  CEN     Fernandez,T         Demoted to reserve roster                          Before   
+9/28/1999  CEN     Hernandez,Ro        Demoted to reserve roster                          Before   
+9/28/1999  CEN     Mahomes             Promoted to active roster                          Before   
+9/28/1999  CEN     Thomson             Promoted to active roster                          Before   
+9/28/1999  CEN     Wells,B             Demoted to reserve roster                          Before   
+9/28/1999  NNN     Green,Sh            Demoted to reserve roster                          Before   
+9/28/1999  TEW     Hermanson           Demoted to reserve roster                          Before   
+9/28/1999  TEW     Leyritz             Demoted to reserve roster                          Before   
+9/27/1999  BBG     Graffanino          Demoted to reserve roster                          Before   
+9/27/1999  CEN     Radke               Demoted to reserve roster                          Before   
+9/27/1999  CTW     Buhner              Demoted to reserve roster                          Before   
+9/27/1999  DLM     Simms               Demoted to reserve roster                          Before   
+9/27/1999  FER     Brower              Demoted to reserve roster                          Before   
+9/27/1999  FFR     Dotel               Demoted to reserve roster                          Before   
+9/27/1999  NNN     Wallace             Demoted to reserve roster                          Before   
+9/26/1999  CIN     Bottalico           Promoted to active roster                          Before   
+9/26/1999  CIN     Nomo                Demoted to reserve roster                          Before   
+9/26/1999  CIN     Padilla             Demoted to reserve roster                          Before   
+9/26/1999  DLM     Molina,J            Demoted to reserve roster                          Before   
+9/26/1999  FLL     Cruz,N              Promoted to active roster                          Before   
+9/26/1999  GAR     Abbott,P            Demoted to reserve roster                          Before   
+9/25/1999  CIN     Boone,A             Demoted to reserve roster                          Before   
+9/25/1999  CTW     Battle              Demoted to reserve roster                          Before   
+9/25/1999  GAR     Cone                Demoted to reserve roster                          Before   
+9/25/1999  GAR     Harnisch            Promoted to active roster                          Before   
+9/25/1999  GAR     Hitchcock           Promoted to active roster                          Before   
+9/25/1999  GAR     Parris              Promoted to active roster                          Before   
+9/25/1999  GAR     Saberhagen          Demoted to reserve roster                          Before   
+9/25/1999  GAR     Vazquez             Demoted to reserve roster                          Before   
+9/25/1999  NEP     Olerud              Demoted to reserve roster                          Before   
+9/25/1999  NEP     Valentin,Jos        Promoted to active roster                          Before   
+9/25/1999  NEP     Washburn            Promoted to active roster                          Before   
+9/25/1999  NNN     Reynoso             Demoted to reserve roster                          Before   
+9/25/1999  TAR     Clark,W             Promoted to active roster                          Before   
+9/25/1999  TAR     Franco,Jo           Promoted to active roster                          Before   
+9/25/1999  TAR     Lieber              Demoted to reserve roster                          Before   
+9/25/1999  TAR     Miceli              Promoted to active roster                          Before   
+9/25/1999  TAR     Simas               Promoted to active roster                          Before   
+9/24/1999  BAR     Lloyd               Promoted to active roster                          Before   
+9/24/1999  BAR     Miller,Tra          Activated from disabled list                       Before   
+9/24/1999  BAR     Perez,Y             Promoted to active roster                          Before   
+9/24/1999  BAR     Seanez              Promoted to active roster                          Before   
+9/24/1999  BAR     Timlin              Promoted to active roster                          Before   
+9/24/1999  BBG     Milton              Demoted to reserve roster                          Before   
+9/24/1999  CEN     Daal                Demoted to reserve roster                          Before   
+9/24/1999  FDH     Mays                Promoted to active roster                          Before   
+9/24/1999  FDH     Stanton             Demoted to reserve roster                          Before   
+9/24/1999  MCL     Mussina             Demoted to reserve roster                          Before   
+9/24/1999  NEP     Borbon              Promoted to active roster                          Before   
+9/24/1999  NEP     Chen                Demoted to reserve roster                          Before   
+9/24/1999  NEP     Conine              Demoted to reserve roster                          Before   
+9/24/1999  NEP     Liefer              Demoted to reserve roster                          Before   
+9/24/1999  NEP     Trammell            Promoted to active roster                          Before   
+9/23/1999  BAR     Bennett,G           Promoted to active roster                          Before   
+9/23/1999  BAR     Gubanich            Demoted to reserve roster                          Before   
+9/23/1999  BAR     Leiter,M            Demoted to reserve roster                          Before   
+9/23/1999  FDH     Politte             Demoted to reserve roster                          Before   
+9/23/1999  FDH     Saenz               Demoted to reserve roster                          Before   
+9/23/1999  TEW     Greer               Demoted to reserve roster                          Before   
+9/22/1999  BAR     Jones,J             Promoted to active roster                          Before   
+9/22/1999  BAR     McLemore            Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/22/1999  BAR     Wakefield           Demoted to reserve roster                          Before   
+9/22/1999  BBG     Walbeck             Promoted to active roster                          Before   
+9/22/1999  CEN     Christiansen        Demoted to reserve roster                          Before   
+9/21/1999  FDH     Counsell            Demoted to reserve roster                          Before   
+9/21/1999  GAR     Halama              Demoted to reserve roster                          Before   
+9/21/1999  GAR     Olivares            Promoted to active roster                          Before   
+9/20/1999  BAR     Javier              Promoted to active roster                          Before   
+9/20/1999  BAR     Millar              Demoted to reserve roster                          Before   
+9/20/1999  BAR     Perez,Y             Demoted to reserve roster                          Before   
+9/20/1999  BAR     Runyan              Promoted to active roster                          Before   
+9/20/1999  BAR     Timlin              Demoted to reserve roster                          Before   
+9/20/1999  BBG     Kent                Demoted to reserve roster                          Before   
+9/20/1999  DLM     Martinez,E          Demoted to reserve roster                          Before   
+9/20/1999  OKO     Sparks,S            Demoted to reserve roster                          Before   
+9/20/1999  TAR     Lewis,D             Signed                                             Before   
+9/20/1999  TEW     Schmidt             Promoted to active roster                          Before   
+9/19/1999  CIN     Ward,B              Demoted to reserve roster                          Before   
+9/19/1999  CIN     Wheeler             Promoted to active roster                          Before   
+9/19/1999  FFR     Pierzynski          Demoted to reserve roster                          Before   
+9/19/1999  TEW     Banks               Promoted to active roster                          Before   
+9/19/1999  TEW     Garciaparra         Demoted to reserve roster                          Before   
+9/19/1999  TEW     Mantei              Promoted to active roster                          Before   
+9/19/1999  TEW     Morandini           Promoted to active roster                          Before   
+9/19/1999  TEW     Sadler              Promoted to active roster                          Before   
+9/18/1999  BBG     Gwynn               Demoted to reserve roster                          Before   
+9/18/1999  FDH     Arrojo              Promoted to active roster                          Before   
+9/18/1999  FDH     LoDuca              Promoted to active roster                          Before   
+9/18/1999  FDH     Lowe,S              Promoted to active roster                          Before   
+9/18/1999  FDH     Politte             Promoted to active roster                          Before   
+9/18/1999  FDH     Rodriguez,Fe        Promoted to active roster                          Before   
+9/18/1999  FER     Biggio              Promoted to active roster                          Before   
+9/17/1999  BAR     Daneker             Promoted to active roster                          Before   
+9/17/1999  BAR     Jones,J             Demoted to reserve roster                          Before   
+9/17/1999  BAR     Schilling           Demoted to reserve roster                          Before   
+9/17/1999  BAR     Williams,J          Promoted to active roster                          Before   
+9/17/1999  GAR     Paniagua            Demoted to reserve roster                          Before   
+9/17/1999  NNN     Davis,D             Demoted to reserve roster                          Before   
+9/17/1999  OKO     Worrell             Demoted to reserve roster                          Before   
+9/15/1999  BAR     Smoltz              Demoted to reserve roster                          Before   
+9/15/1999  BBG     Posada              Demoted to reserve roster                          Before   
+9/15/1999  OKO     DeJean              Demoted to reserve roster                          Before   
+9/15/1999  RMO     Knorr               Signed                                             Before   
+9/15/1999  TEW     Mayne               Demoted to reserve roster                          Before   
+9/14/1999  CIN     Gagne               Promoted to active roster                          Before   
+9/14/1999  CIN     Ryan,BJ             Demoted to reserve roster                          Before   
+9/14/1999  FDH     Arrojo              Demoted to reserve roster                          Before   
+9/14/1999  FDH     Kline               Promoted to active roster                          Before   
+9/14/1999  FDH     Manzanillo          Demoted to reserve roster                          Before   
+9/14/1999  NEP     Acevedo             Promoted to active roster                          Before   
+9/14/1999  NEP     Finley,C            Demoted to reserve roster                          Before   
+9/14/1999  NEP     Quinn               Demoted to reserve roster                          Before   
+9/14/1999  NEP     Spencer,Sh          Promoted to active roster                          Before   
+9/14/1999  TEW     Wall                Demoted to reserve roster                          Before   
+9/13/1999  CEN     Anderson,Mar        Promoted to active roster                          Before   
+9/13/1999  CEN     Bush                Promoted to active roster                          Before   
+9/13/1999  CEN     Frye                Promoted to active roster                          Before   
+9/13/1999  CEN     Guzman,J            Promoted to active roster                          Before   
+9/13/1999  CEN     Magadan             Promoted to active roster                          Before   
+9/13/1999  CEN     Moehler             Promoted to active roster                          Before   
+9/13/1999  CEN     Myers,G             Promoted to active roster                          Before   
+9/13/1999  CEN     Wells,B             Promoted to active roster                          Before   
+9/13/1999  CEN     White,G             Promoted to active roster                          Before   
+9/13/1999  EVN     Boggs               Promoted to active roster                          Before   
+9/13/1999  EVN     Lawton              Activated from disabled list                       Before   
+9/13/1999  EVN     Prince              Demoted to reserve roster                          Before   
+9/13/1999  GAR     DaVanon             Demoted to reserve roster                          Before   
+9/13/1999  TEW     Lidle               Demoted to reserve roster                          Before   
+9/12/1999  CEN     Mahomes             Demoted to reserve roster                          Before   
+9/12/1999  DLM     Aguilera            Promoted to active roster                          Before   
+9/12/1999  DLM     Aldred              Promoted to active roster                          Before   
+9/12/1999  DLM     Borders             Promoted to active roster                          Before   
+9/12/1999  DLM     Brosius             Demoted to reserve roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/12/1999  DLM     Cancel              Promoted to active roster                          Before   
+9/12/1999  DLM     Cedeno,D            Promoted to active roster                          Before   
+9/12/1999  DLM     Curtis              Promoted to active roster                          Before   
+9/12/1999  DLM     Gates               Promoted to active roster                          Before   
+9/12/1999  DLM     Johnson,L           Promoted to active roster                          Before   
+9/12/1999  DLM     Jordan,K            Promoted to active roster                          Before   
+9/12/1999  DLM     Martinez,D          Promoted to active roster                          Before   
+9/12/1999  DLM     Molina,J            Promoted to active roster                          Before   
+9/12/1999  DLM     Rivera,Ru           Promoted to active roster                          Before   
+9/12/1999  DLM     Simms               Promoted to active roster                          Before   
+9/12/1999  DLM     Spoljaric           Promoted to active roster                          Before   
+9/12/1999  DLM     Spradlin            Promoted to active roster                          Before   
+9/12/1999  NNN     Davis,D             Promoted to active roster                          Before   
+9/12/1999  NNN     Halladay            Demoted to reserve roster                          Before   
+9/12/1999  OKO     Edmonds             Demoted to reserve roster                          Before   
+9/12/1999  RMO     Anderson,Mat        Demoted to reserve roster                          Before   
+9/12/1999  RMO     Carpenter           Promoted to active roster                          Before   
+9/12/1999  RMO     Colon               Promoted to active roster                          Before   
+9/12/1999  RMO     Eyre                Demoted to reserve roster                          Before   
+9/12/1999  RMO     Fox,C               Promoted to active roster                          Before   
+9/12/1999  RMO     Koch                Promoted to active roster                          Before   
+9/12/1999  RMO     Osborne             Demoted to reserve roster                          Before   
+9/12/1999  RMO     Plunk               Demoted to reserve roster                          Before   
+9/12/1999  RMO     Strickland          Promoted to active roster                          Before   
+9/12/1999  RMO     Vizcaino,J          Promoted to active roster                          Before   
+9/12/1999  RMO     Williamson          Promoted to active roster                          Before   
+9/12/1999  TAR     Powell,Ja           Demoted to reserve roster                          Before   
+9/11/1999  BAR     Catalanotto         Promoted to active roster                          Before   
+9/11/1999  BAR     Lloyd               Demoted to reserve roster                          Before   
+9/11/1999  BAR     Meares              Demoted to reserve roster                          Before   
+9/11/1999  BBG     Hoffman             Demoted to reserve roster                          Before   
+9/11/1999  CIN     Erickson            Promoted to active roster                          Before   
+9/11/1999  CIN     Weaver,J            Demoted to reserve roster                          Before   
+9/11/1999  FFR     Holmes              Demoted to reserve roster                          Before   
+9/11/1999  FFR     Lilly               Demoted to reserve roster                          Before   
+9/10/1999  NEP     Hernandez,O         Demoted to reserve roster                          Before   
+9/10/1999  NEP     Myers,M             Promoted to active roster                          Before   
+9/10/1999  NNN     Hollandsworth       Demoted to reserve roster                          Before   
+9/10/1999  TAR     Allen               Promoted to active roster                          Before   
+9/10/1999  TAR     Bones               Promoted to active roster                          Before   
+9/10/1999  TAR     Joyner              Demoted to reserve roster                          Before   
+9/10/1999  TAR     Joyner              Promoted to active roster                          Before   
+9/10/1999  TAR     Joyner              Promoted to active roster                          Before   
+9/10/1999  TAR     Peters              Promoted to active roster                          Before   
+9/10/1999  TAR     Sheets              Promoted to active roster                          Before   
+9/10/1999  TAR     Sorrento            Promoted to active roster                          Before   
+9/10/1999  TAR     Webster             Promoted to active roster                          Before   
+9/10/1999  TAR     White,Ro            Demoted to reserve roster                          Before   
+9/10/1999  TAR     Wilson,E            Promoted to active roster                          Before   
+9/9/1999   BAR     Cornelius           Demoted to reserve roster                          Before   
+9/9/1999   BAR     Daubach             Promoted to active roster                          Before   
+9/9/1999   BAR     Ibanez              Demoted to reserve roster                          Before   
+9/9/1999   BAR     Jones,J             Promoted to active roster                          Before   
+9/9/1999   BAR     Reyes,D             Promoted to active roster                          Before   
+9/9/1999   DLM     Martin,T            Demoted to reserve roster                          Before   
+9/9/1999   DLM     Valdes              Activated from disabled list                       Before   
+9/9/1999   FDH     Bautista            Demoted to reserve roster                          Before   
+9/9/1999   FDH     Farnsworth          Promoted to active roster                          Before   
+9/9/1999   FDH     Fick                Promoted to active roster                          Before   
+9/9/1999   FDH     Manzanillo          Promoted to active roster                          Before   
+9/9/1999   FDH     Politte             Demoted to reserve roster                          Before   
+9/9/1999   FHK     Anderson,Bri        Promoted to active roster                          Before   
+9/9/1999   FHK     Davis,B             Promoted to active roster                          Before   
+9/9/1999   FHK     Jefferies           Promoted to active roster                          Before   
+9/9/1999   FHK     Pena,Ju             Promoted to active roster                          Before   
+9/9/1999   FHK     Sullivan            Promoted to active roster                          Before   
+9/9/1999   NNN     Ritchie             Demoted to reserve roster                          Before   
+9/9/1999   NNN     Shuey               Activated from disabled list                       Before   
+9/9/1999   OKO     Quantrill           Activated from disabled list                       Before   
+9/9/1999   OKO     Weathers            Demoted to reserve roster                          Before   
+9/8/1999   BBG     Rapp                Demoted to reserve roster                          Before   
+9/8/1999   BBG     Rocker              Demoted to reserve roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/8/1999   BBG     Slusarski           Demoted to reserve roster                          Before   
+9/8/1999   FFR     Anderson,G          Promoted to active roster                          Before   
+9/8/1999   FFR     Branyan             Promoted to active roster                          Before   
+9/8/1999   FFR     Castro,R            Promoted to active roster                          Before   
+9/8/1999   FFR     Franco,M            Promoted to active roster                          Before   
+9/8/1999   FFR     Hunter,T            Promoted to active roster                          Before   
+9/8/1999   FFR     Kennedy             Promoted to active roster                          Before   
+9/8/1999   FFR     Meadows             Promoted to active roster                          Before   
+9/8/1999   FFR     Pierzynski          Promoted to active roster                          Before   
+9/8/1999   FFR     Smith,D             Promoted to active roster                          Before   
+9/7/1999   BAR     Leiter,M            Promoted to active roster                          Before   
+9/7/1999   BAR     Seanez              Demoted to reserve roster                          Before   
+9/7/1999   BAR     Timlin              Promoted to active roster                          Before   
+9/7/1999   BAR     Wakefield           Promoted to active roster                          Before   
+9/7/1999   FDH     Arrojo              Promoted to active roster                          Before   
+9/7/1999   FDH     Moyer               Demoted to reserve roster                          Before   
+9/7/1999   FFR     Kennedy             Demoted to reserve roster                          Before   
+9/7/1999   GAR     Pote                Demoted to reserve roster                          Before   
+9/7/1999   RMO     Clemens             Promoted to active roster                          Before   
+9/7/1999   RMO     Grudzielanek        Demoted to reserve roster                          Before   
+9/5/1999   EVN     Fassero             Promoted to active roster                          Before   
+9/5/1999   EVN     Macfarlane          Promoted to active roster                          Before   
+9/5/1999   EVN     Mulholland          Activated from disabled list                       Before   
+9/5/1999   EVN     Prince              Promoted to active roster                          Before   
+9/5/1999   TEW     Buford              Promoted to active roster                          Before   
+9/5/1999   TEW     Lidle               Promoted to active roster                          Before   
+9/5/1999   TEW     Seguignol           Promoted to active roster                          Before   
+9/5/1999   TEW     Spiezio             Promoted to active roster                          Before   
+9/5/1999   TEW     Telford             Promoted to active roster                          Before   
+9/4/1999   BBG     Buddie              Demoted to reserve roster                          Before   
+9/4/1999   FFR     Almanzar            Promoted to active roster                          Before   
+9/4/1999   FFR     Blair               Promoted to active roster                          Before   
+9/4/1999   FFR     Cloude              Promoted to active roster                          Before   
+9/4/1999   FFR     Haney               Promoted to active roster                          Before   
+9/4/1999   FFR     Mesa                Demoted to reserve roster                          Before   
+9/4/1999   FFR     Navarro             Activated from disabled list                       Before   
+9/4/1999   FFR     Tavarez             Demoted to reserve roster                          Before   
+9/4/1999   FFR     Wolf                Promoted to active roster                          Before   
+9/3/1999   BAR     Cornelius           Activated from disabled list                       Before   
+9/3/1999   BAR     Martinez,R          Demoted to reserve roster                          Before   
+9/3/1999   FDH     Farnsworth          Demoted to reserve roster                          Before   
+9/3/1999   FDH     Mays                Demoted to reserve roster                          Before   
+9/3/1999   FDH     Rhodes              Promoted to active roster                          Before   
+9/3/1999   FDH     Witt,B              Promoted to active roster                          Before   
+9/3/1999   FER     Glover              Demoted to reserve roster                          Before   
+9/3/1999   FFR     Baerga              Promoted to active roster                          Before   
+9/3/1999   FFR     Hunter,BL           Promoted to active roster                          Before   
+9/2/1999   GAR     Magnante            Demoted to reserve roster                          Before   
+9/2/1999   NNN     Brown               Promoted to active roster                          Before   
+9/2/1999   NNN     Brown,E             Promoted to active roster                          Before   
+9/2/1999   NNN     Davis,C             Promoted to active roster                          Before   
+9/2/1999   NNN     Greene,C            Promoted to active roster                          Before   
+9/2/1999   NNN     Guillen,J           Promoted to active roster                          Before   
+9/2/1999   NNN     Helms               Promoted to active roster                          Before   
+9/2/1999   NNN     Kingsale            Promoted to active roster                          Before   
+9/2/1999   NNN     Mientkiewicz        Promoted to active roster                          Before   
+9/2/1999   NNN     Munoz               Promoted to active roster                          Before   
+9/2/1999   NNN     Neagle              Promoted to active roster                          Before   
+9/2/1999   NNN     Newhan              Promoted to active roster                          Before   
+9/2/1999   NNN     Ortiz,D             Promoted to active roster                          Before   
+9/2/1999   NNN     Slocumb             Demoted to reserve roster                          Before   
+9/1/1999   BAR     Winn                Promoted to active roster                          Before   
+9/1/1999   BBG     Bragg               Promoted to active roster                          Before   
+9/1/1999   BBG     Buddie              Promoted to active roster                          Before   
+9/1/1999   BBG     Collier             Promoted to active roster                          Before   
+9/1/1999   BBG     Hill,K              Promoted to active roster                          Before   
+9/1/1999   BBG     Hunter,BR           Promoted to active roster                          Before   
+9/1/1999   BBG     Johns               Promoted to active roster                          Before   
+9/1/1999   BBG     Lankford            Demoted to reserve roster                          Before   
+9/1/1999   BBG     Mlicki              Promoted to active roster                          Before   
+9/1/1999   BBG     Slusarski           Promoted to active roster                          Before   
+9/1/1999   BBG     Snow                Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/1/1999   BBG     Sprague             Promoted to active roster                          Before   
+9/1/1999   BBG     Thompson,J          Promoted to active roster                          Before   
+9/1/1999   BBG     Wilson,D            Promoted to active roster                          Before   
+9/1/1999   BBG     Wright,Jar          Promoted to active roster                          Before   
+9/1/1999   CIN     Cairo               Promoted to active roster                          Before   
+9/1/1999   CIN     Cruz,Ja             Promoted to active roster                          Before   
+9/1/1999   CIN     Davis,E             Promoted to active roster                          Before   
+9/1/1999   CIN     Figga               Promoted to active roster                          Before   
+9/1/1999   CIN     Giambi,Je           Promoted to active roster                          Before   
+9/1/1999   CIN     Goodwin,T           Promoted to active roster                          Before   
+9/1/1999   CIN     Guthrie             Promoted to active roster                          Before   
+9/1/1999   CIN     Heredia,F           Promoted to active roster                          Before   
+9/1/1999   CIN     Padilla             Promoted to active roster                          Before   
+9/1/1999   CIN     Perez,O             Promoted to active roster                          Before   
+9/1/1999   CIN     Perry               Promoted to active roster                          Before   
+9/1/1999   CIN     Ryan,BJ             Promoted to active roster                          Before   
+9/1/1999   CIN     Stinnett            Promoted to active roster                          Before   
+9/1/1999   CIN     Ward,D              Promoted to active roster                          Before   
+9/1/1999   CIN     Wells,V             Promoted to active roster                          Before   
+9/1/1999   CTW     Battle              Promoted to active roster                          Before   
+9/1/1999   CTW     Buhner              Promoted to active roster                          Before   
+9/1/1999   CTW     Canizaro            Demoted to reserve roster                          Before   
+9/1/1999   CTW     Canizaro            Promoted to active roster                          Before   
+9/1/1999   CTW     Durazo              Promoted to active roster                          Before   
+9/1/1999   CTW     Gonzalez,AS         Promoted to active roster                          Before   
+9/1/1999   CTW     Howard,T            Promoted to active roster                          Before   
+9/1/1999   CTW     Johnson,B           Promoted to active roster                          Before   
+9/1/1999   CTW     LaRue               Promoted to active roster                          Before   
+9/1/1999   CTW     Luke                Promoted to active roster                          Before   
+9/1/1999   CTW     McElroy             Promoted to active roster                          Before   
+9/1/1999   CTW     McGlinchy           Promoted to active roster                          Before   
+9/1/1999   CTW     Montgomery,S        Promoted to active roster                          Before   
+9/1/1999   CTW     Orie                Promoted to active roster                          Before   
+9/1/1999   CTW     Pratt               Promoted to active roster                          Before   
+9/1/1999   CTW     Strawberry          Promoted to active roster                          Before   
+9/1/1999   CTW     Thompson,M          Promoted to active roster                          Before   
+9/1/1999   FDH     Helton              Promoted to active roster                          Before   
+9/1/1999   FDH     Kline               Demoted to reserve roster                          Before   
+9/1/1999   FDH     Koskie              Promoted to active roster                          Before   
+9/1/1999   FDH     Witt,B              Demoted to reserve roster                          Before   
+9/1/1999   FER     Biggio              Demoted to reserve roster                          Before   
+9/1/1999   FER     Bonds               Demoted to reserve roster                          Before   
+9/1/1999   FER     Brower              Promoted to active roster                          Before   
+9/1/1999   FER     Brown,A             Promoted to active roster                          Before   
+9/1/1999   FER     DeRosa              Promoted to active roster                          Before   
+9/1/1999   FER     Diaz,Ei             Promoted to active roster                          Before   
+9/1/1999   FER     Echevarria          Promoted to active roster                          Before   
+9/1/1999   FER     Florie              Promoted to active roster                          Before   
+9/1/1999   FER     Glover              Promoted to active roster                          Before   
+9/1/1999   FER     Graves              Demoted to reserve roster                          Before   
+9/1/1999   FER     Grebeck             Demoted to reserve roster                          Before   
+9/1/1999   FER     Groom               Promoted to active roster                          Before   
+9/1/1999   FER     Guillen,C           Promoted to active roster                          Before   
+9/1/1999   FER     Hiljus              Promoted to active roster                          Before   
+9/1/1999   FER     Hill,G              Promoted to active roster                          Before   
+9/1/1999   FER     Jaha                Demoted to reserve roster                          Before   
+9/1/1999   FER     Leskanic            Promoted to active roster                          Before   
+9/1/1999   FER     Merloni             Promoted to active roster                          Before   
+9/1/1999   FER     Painter             Promoted to active roster                          Before   
+9/1/1999   FER     Reichert            Promoted to active roster                          Before   
+9/1/1999   FER     Schoeneweis         Promoted to active roster                          Before   
+9/1/1999   FER     Taylor              Promoted to active roster                          Before   
+9/1/1999   FER     Wagner,B            Demoted to reserve roster                          Before   
+9/1/1999   FLL     Hansen,D            Promoted to active roster                          Before   
+9/1/1999   GAR     Abbott,P            Promoted to active roster                          Before   
+9/1/1999   GAR     Almanza             Promoted to active roster                          Before   
+9/1/1999   GAR     DaVanon             Promoted to active roster                          Before   
+9/1/1999   GAR     Hammonds            Promoted to active roster                          Before   
+9/1/1999   GAR     Nilsson             Promoted to active roster                          Before   
+9/1/1999   GAR     Orosco              Promoted to active roster                          Before   
+9/1/1999   GAR     Paniagua            Promoted to active roster                          Before   
+9/1/1999   GAR     Paquette            Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/1/1999   GAR     Swindell            Promoted to active roster                          Before   
+9/1/1999   MCL     Brantley            Promoted to active roster                          Before   
+9/1/1999   MCL     Dalesandro          Promoted to active roster                          Before   
+9/1/1999   MCL     Ducey               Promoted to active roster                          Before   
+9/1/1999   MCL     Fasano              Promoted to active roster                          Before   
+9/1/1999   MCL     Fox,A               Promoted to active roster                          Before   
+9/1/1999   MCL     Greene,T            Promoted to active roster                          Before   
+9/1/1999   MCL     Howard,D            Promoted to active roster                          Before   
+9/1/1999   MCL     Johnson,Ru          Promoted to active roster                          Before   
+9/1/1999   MCL     Norton              Promoted to active roster                          Before   
+9/1/1999   MCL     Olson               Promoted to active roster                          Before   
+9/1/1999   MCL     Peterson            Promoted to active roster                          Before   
+9/1/1999   MCL     Radinsky            Promoted to active roster                          Before   
+9/1/1999   MCL     Schrenk             Promoted to active roster                          Before   
+9/1/1999   MCL     Silva               Promoted to active roster                          Before   
+9/1/1999   MCL     Whisenant           Promoted to active roster                          Before   
+9/1/1999   NEP     Chen                Promoted to active roster                          Before   
+9/1/1999   NEP     Urbina              Demoted to reserve roster                          Before   
+9/1/1999   OKO     Fyhrie              Promoted to active roster                          Before   
+9/1/1999   OKO     Kim                 Promoted to active roster                          Before   
+9/1/1999   OKO     Ogea                Activated from disabled list                       Before   
+9/1/1999   OKO     Ojala               Promoted to active roster                          Before   
+9/1/1999   OKO     Riske               Promoted to active roster                          Before   
+8/31/1999  FFR     Castro,R            Demoted to reserve roster                          Before   
+8/31/1999  FFR     Holtz               Promoted to active roster                          Before   
+8/30/1999  CEN     Christiansen        Promoted to active roster                          Before   
+8/30/1999  CEN     Cordova,F           Activated from disabled list                       Before   
+8/30/1999  CEN     Eusebio             Activated from disabled list                       Before   
+8/30/1999  CEN     Guzman,J            Demoted to reserve roster                          Before   
+8/30/1999  CEN     Magadan             Demoted to reserve roster                          Before   
+8/30/1999  CEN     Myers,G             Demoted to reserve roster                          Before   
+8/30/1999  CEN     Simon               Promoted to active roster                          Before   
+8/30/1999  CEN     Wells,B             Demoted to reserve roster                          Before   
+8/30/1999  MCL     Byrd                Activated from disabled list                       Before   
+8/30/1999  MCL     Schrenk             Demoted to reserve roster                          Before   
+8/30/1999  TEW     Croushore           Promoted to active roster                          Before   
+8/30/1999  TEW     Mantei              Demoted to reserve roster                          Before   
+8/30/1999  TEW     Schmidt             Demoted to reserve roster                          Before   
+8/30/1999  TEW     Thurman             Promoted to active roster                          Before   
+8/29/1999  BAR     Anderson,Bra        Activated from disabled list                       Before   
+8/29/1999  BAR     Frias               Promoted to active roster                          Before   
+8/29/1999  BAR     Jones,J             Demoted to reserve roster                          Before   
+8/29/1999  BAR     McLemore            Demoted to reserve roster                          Before   
+8/29/1999  FLL     Glavine             Promoted to active roster                          Before   
+8/29/1999  FLL     Ramsay              Demoted to reserve roster                          Before   
+8/29/1999  RMO     Pose                Promoted to active roster                          Before   
+8/29/1999  RMO     Santiago,J          Demoted to reserve roster                          Before   
+8/28/1999  EVN     Amaral              Demoted to reserve roster                          Before   
+8/28/1999  EVN     Johnson,Ma          Promoted to active roster                          Before   
+8/28/1999  GAR     Garces              Demoted to reserve roster                          Before   
+8/28/1999  GAR     Pote                Promoted to active roster                          Before   
+8/27/1999  CIN     Barker,G            Promoted to active roster                          Before   
+8/27/1999  CIN     Stinnett            Demoted to reserve roster                          Before   
+8/27/1999  FHK     Blauser             Promoted to active roster                          Before   
+8/27/1999  FHK     Cox,S               Demoted to reserve roster                          Before   
+8/27/1999  RMO     Carpenter           Demoted to reserve roster                          Before   
+8/27/1999  RMO     Womack              Promoted to active roster                          Before   
+8/27/1999  TEW     Clement             Demoted to reserve roster                          Before   
+8/27/1999  TEW     Pavano              Promoted to active roster                          Before   
+8/25/1999  FER     Speier              Promoted to active roster                          Before   
+8/25/1999  FER     Wells,K             Placed on disabled list                 8/22/1999  Before   
+8/25/1999  FFR     Haney               Demoted to reserve roster                          Before   
+8/25/1999  FFR     Harris,L            Promoted to active roster                          Before   
+8/25/1999  FFR     Hunter,T            Demoted to reserve roster                          Before   
+8/25/1999  FFR     Lilly               Activated from disabled list                       Before   
+8/25/1999  GAR     Olivares            Demoted to reserve roster                          Before   
+8/25/1999  GAR     Sirotka             Activated from disabled list                       Before   
+8/25/1999  MCL     Jackson,Dar         Promoted to active roster                          Before   
+8/25/1999  MCL     Johnson,Ru          Demoted to reserve roster                          Before   
+8/25/1999  NEP     Nen                 Demoted to reserve roster                          Before   
+8/25/1999  NEP     Ortiz,Ra            Promoted to active roster                          Before   
+8/25/1999  RMO     Plunk               Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/25/1999  RMO     Williamson          Demoted to reserve roster                          Before   
+8/24/1999  CTW     Loaiza              Promoted to active roster                          Before   
+8/24/1999  CTW     McGlinchy           Demoted to reserve roster                          Before   
+8/23/1999  BBG     Sprague             Demoted to reserve roster                          Before   
+8/23/1999  BBG     Tatis               Activated from disabled list                       Before   
+8/23/1999  FLL     Glavine             Demoted to reserve roster                          Before   
+8/23/1999  FLL     Lincoln             Promoted to active roster                          Before   
+8/23/1999  RMO     Colon               Demoted to reserve roster                          Before   
+8/23/1999  RMO     Osborne             Promoted to active roster                          Before   
+8/22/1999  BBG     Cedeno,R            Promoted to active roster                          Before   
+8/22/1999  BBG     Perez,Edu           Demoted to reserve roster                          Before   
+8/22/1999  CIN     Cordero,F           Demoted to reserve roster                          Before   
+8/22/1999  CIN     Mota                Promoted to active roster                          Before   
+8/22/1999  NNN     Percival            Promoted to active roster                          Before   
+8/22/1999  NNN     Shuey               Placed on disabled list                 8/19/1999  Before   
+8/21/1999  CIN     Barker,G            Demoted to reserve roster                          Before   
+8/21/1999  CIN     Stinnett            Promoted to active roster                          Before   
+8/21/1999  GAR     Garces              Promoted to active roster                          Before   
+8/21/1999  GAR     Hammonds            Demoted to reserve roster                          Before   
+8/21/1999  GAR     Nilsson             Demoted to reserve roster                          Before   
+8/21/1999  GAR     Petrick             Promoted to active roster                          Before   
+8/21/1999  GAR     Ripken              Activated from disabled list                       Before   
+8/21/1999  GAR     Swindell            Demoted to reserve roster                          Before   
+8/21/1999  RMO     Isringhausen        Demoted to reserve roster                          Before   
+8/21/1999  RMO     Santiago,J          Promoted to active roster                          Before   
+8/20/1999  CTW     Dellucci            Promoted to active roster                          Before   
+8/20/1999  CTW     Strawberry          Demoted to reserve roster                          Before   
+8/20/1999  EVN     Aven                Promoted to active roster                          Before   
+8/20/1999  EVN     Lawton              Placed on disabled list                 8/19/1999  Before   
+8/20/1999  FDH     Floyd               Promoted to active roster                          Before   
+8/20/1999  FDH     Manzanillo          Demoted to reserve roster                          Before   
+8/20/1999  FFR     Marrero             Activated from disabled list                       Before   
+8/20/1999  FFR     Sweeney,Ma          Demoted to reserve roster                          Before   
+8/20/1999  FHK     Davis,B             Demoted to reserve roster                          Before   
+8/20/1999  FHK     Justice             Demoted to reserve roster                          Before   
+8/20/1999  FHK     Lansing             Promoted to active roster                          Before   
+8/20/1999  FHK     Miller,D            Activated from disabled list                       Before   
+8/19/1999  BAR     Martinez,R          Promoted to active roster                          Before   
+8/19/1999  BAR     Wakefield           Demoted to reserve roster                          Before   
+8/19/1999  DLM     Aguilera            Demoted to reserve roster                          Before   
+8/19/1999  DLM     Martin,T            Promoted to active roster                          Before   
+8/19/1999  FLL     Hansen,D            Demoted to reserve roster                          Before   
+8/19/1999  FLL     Kile                Activated from disabled list                       Before   
+8/18/1999  CTW     Castillo,A          Promoted to active roster                          Before   
+8/18/1999  CTW     Spehr               Demoted to reserve roster                          Before   
+8/17/1999  FER     Becker              Promoted to active roster                          Before   
+8/17/1999  FER     Brown,A             Demoted to reserve roster                          Before   
+8/17/1999  FER     Hill,G              Demoted to reserve roster                          Before   
+8/17/1999  FER     Meche               Promoted to active roster                          Before   
+8/17/1999  FER     Mieske              Promoted to active roster                          Before   
+8/17/1999  FER     Reichert            Demoted to reserve roster                          Before   
+8/17/1999  FER     Speier              Demoted to reserve roster                          Before   
+8/17/1999  FER     Wells,K             Promoted to active roster                          Before   
+8/15/1999  CIN     Barker,G            Promoted to active roster                          Before   
+8/15/1999  GAR     Hammonds            Promoted to active roster                          Before   
+8/15/1999  GAR     Magnante            Promoted to active roster                          Before   
+8/15/1999  GAR     Paniagua            Demoted to reserve roster                          Before   
+8/15/1999  GAR     Paquette            Demoted to reserve roster                          Before   
+8/14/1999  BAR     Crabtree            Promoted to active roster                          Before   
+8/14/1999  BAR     Dipoto              Demoted to reserve roster                          Before   
+8/14/1999  BAR     Seanez              Promoted to active roster                          Before   
+8/14/1999  BAR     Timlin              Demoted to reserve roster                          Before   
+8/14/1999  BAR     Timlin              Promoted to active roster                          Before   
+8/14/1999  CIN     Garcia,M            Demoted to reserve roster                          Before   
+8/14/1999  GAR     Harnisch            Demoted to reserve roster                          Before   
+8/14/1999  GAR     Olivares            Promoted to active roster                          Before   
+8/14/1999  MCL     Byrd                Placed on disabled list                 8/14/1999  Before   
+8/14/1999  MCL     Schrenk             Promoted to active roster                          Before   
+8/13/1999  BAR     Cabrera,Jos         Demoted to reserve roster                          Before   
+8/13/1999  CEN     Cora                Demoted to reserve roster                          Before   
+8/13/1999  CEN     Magadan             Promoted to active roster                          Before   
+8/13/1999  CTW     Boehringer          Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/13/1999  CTW     Loaiza              Demoted to reserve roster                          Before   
+8/13/1999  FER     Alvarez,W           Promoted to active roster                          Before   
+8/13/1999  FER     Benson              Placed on disabled list                 8/13/1999  Before   
+8/13/1999  FFR     Almanzar            Demoted to reserve roster                          Before   
+8/13/1999  FFR     Anderson,G          Demoted to reserve roster                          Before   
+8/13/1999  FFR     Dotel               Activated from disabled list                       Before   
+8/13/1999  FFR     Drew                Activated from disabled list                       Before   
+8/13/1999  FFR     Holmes              Activated from disabled list                       Before   
+8/13/1999  FFR     Holtz               Demoted to reserve roster                          Before   
+8/13/1999  FFR     Navarro             Placed on disabled list                 8/13/1999  Before   
+8/13/1999  FFR     Pettitte            Activated from disabled list                       Before   
+8/13/1999  FFR     Tavarez             Promoted to active roster                          Before   
+8/13/1999  FFR     Wohlers             Demoted to reserve roster                          Before   
+8/13/1999  RMO     Anderson,Mat        Promoted to active roster                          Before   
+8/13/1999  RMO     Clemens             Demoted to reserve roster                          Before   
+8/13/1999  RMO     Eyre                Promoted to active roster                          Before   
+8/13/1999  RMO     Fox,C               Demoted to reserve roster                          Before   
+8/13/1999  RMO     Koch                Demoted to reserve roster                          Before   
+8/13/1999  RMO     Miller,Tre          Promoted to active roster                          Before   
+8/12/1999  BAR     Anderson,Bra        Placed on disabled list                 8/12/1999  Before   
+8/12/1999  BAR     Jones,J             Promoted to active roster                          Before   
+8/12/1999  BAR     Miller,Tra          Placed on disabled list                 8/12/1999  Before   
+8/12/1999  BAR     Perez,Y             Promoted to active roster                          Before   
+8/12/1999  BBG     Tapani              Promoted to active roster                          Before   
+8/12/1999  BBG     Villone             Demoted to reserve roster                          Before   
+8/12/1999  DLM     Hasegawa            Activated from disabled list                       Before   
+8/12/1999  DLM     Valdes              Placed on disabled list                 8/9/1999   Before   
+8/12/1999  OKO     Estes               Activated from disabled list                       Before   
+8/12/1999  OKO     Kida                Promoted to active roster                          Before   
+8/12/1999  OKO     Ogea                Placed on disabled list                 8/12/1999  Before   
+8/12/1999  OKO     Quantrill           Placed on disabled list                 8/12/1999  Before   
+8/11/1999  BAR     Ibanez              Promoted to active roster                          Before   
+8/11/1999  BAR     Winn                Demoted to reserve roster                          Before   
+8/11/1999  CIN     Erickson            Demoted to reserve roster                          Before   
+8/11/1999  CIN     Hershiser           Activated from disabled list                       Before   
+8/11/1999  FDH     Cameron             Promoted to active roster                          Before   
+8/11/1999  FDH     Helton              Demoted to reserve roster                          Before   
+8/11/1999  FHK     Barry               Promoted to active roster                          Before   
+8/11/1999  FHK     Blauser             Demoted to reserve roster                          Before   
+8/11/1999  FHK     Cabrera,O           Activated from disabled list                       Before   
+8/11/1999  FHK     Macias              Demoted to reserve roster                          Before   
+8/10/1999  FFR     Vizcaino,L          Demoted to reserve roster                          Before   
+8/10/1999  FFR     Wohlers             Promoted to active roster                          Before   
+8/9/1999   CEN     Cora                Activated from disabled list                       Before   
+8/9/1999   CEN     Elarton             Activated from disabled list                       Before   
+8/9/1999   CEN     Magadan             Demoted to reserve roster                          Before   
+8/9/1999   CEN     Moehler             Demoted to reserve roster                          Before   
+8/9/1999   FER     Finley,S            Activated from disabled list                       Before   
+8/9/1999   FER     Schoeneweis         Demoted to reserve roster                          Before   
+8/9/1999   FFR     Baerga              Demoted to reserve roster                          Before   
+8/9/1999   FFR     Castro,R            Promoted to active roster                          Before   
+8/9/1999   FFR     Holtz               Promoted to active roster                          Before   
+8/9/1999   FFR     Smith,D             Demoted to reserve roster                          Before   
+8/8/1999   BBG     Sprague             Promoted to active roster                          Before   
+8/8/1999   BBG     Tatis               Placed on disabled list                 8/7/1999   Before   
+8/8/1999   FHK     Carrasco            Promoted to active roster                          Before   
+8/8/1999   FHK     Cox,S               Promoted to active roster                          Before   
+8/8/1999   FHK     Encarnacion         Promoted to active roster                          Before   
+8/8/1999   FHK     Patterson           Promoted to active roster                          Before   
+8/8/1999   FHK     Sullivan            Demoted to reserve roster                          Before   
+8/7/1999   CIN     Bottalico           Demoted to reserve roster                          Before   
+8/7/1999   CIN     Cordero,F           Promoted to active roster                          Before   
+8/7/1999   FDH     Appier              Promoted to active roster                          Before   
+8/7/1999   FDH     Burkett             Demoted to reserve roster                          Before   
+8/7/1999   FER     Gordon              Promoted to active roster                          Before   
+8/7/1999   FER     Mecir               Demoted to reserve roster                          Before   
+8/7/1999   FHK     Cormier             Demoted to reserve roster                          Before   
+8/7/1999   TAR     Darensbourg         Promoted to active roster                          Before   
+8/7/1999   TAR     Miceli              Demoted to reserve roster                          Before   
+8/6/1999   CEN     Casey               Activated from disabled list                       Before   
+8/6/1999   CEN     Cordova,F           Placed on disabled list                 8/4/1999   Before   
+8/6/1999   CEN     Eusebio             Placed on disabled list                 8/5/1999   Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/6/1999   CEN     Moehler             Promoted to active roster                          Before   
+8/6/1999   CTW     McGlinchy           Promoted to active roster                          Before   
+8/6/1999   CTW     Montgomery,S        Demoted to reserve roster                          Before   
+8/6/1999   EVN     Mulholland          Placed on disabled list                 8/5/1999   Before   
+8/6/1999   EVN     Woodard             Promoted to active roster                          Before   
+8/3/1999   FDH     Rhodes              Demoted to reserve roster                          Before   
+8/3/1999   FDH     Witt,B              Promoted to active roster                          Before   
+8/3/1999   FER     Alvarez,W           Demoted to reserve roster                          Before   
+8/3/1999   FER     Florie              Demoted to reserve roster                          Before   
+8/3/1999   FER     Graves              Promoted to active roster                          Before   
+8/3/1999   FER     Groom               Demoted to reserve roster                          Before   
+8/3/1999   FER     Rupe                Promoted to active roster                          Before   
+8/3/1999   FER     Wagner,B            Promoted to active roster                          Before   
+8/3/1999   FFR     Bradford            Demoted to reserve roster                          Before   
+8/3/1999   FFR     Vizcaino,L          Promoted to active roster                          Before   
+8/3/1999   FHK     Burks               Demoted to reserve roster                          Before   
+8/3/1999   GAR     Clontz              Promoted to active roster                          Before   
+8/3/1999   GAR     Harnisch            Promoted to active roster                          Before   
+8/3/1999   GAR     Karchner            Promoted to active roster                          Before   
+8/3/1999   GAR     Pote                Demoted to reserve roster                          Before   
+8/3/1999   GAR     Redman              Demoted to reserve roster                          Before   
+8/3/1999   GAR     Sirotka             Placed on disabled list                 8/3/1999   Before   
+8/3/1999   NEP     Chen                Demoted to reserve roster                          Before   
+8/3/1999   NEP     Quinn               Promoted to active roster                          Before   
+8/3/1999   NEP     Williams,W          Promoted to active roster                          Before   
+8/2/1999   BAR     Daubach             Demoted to reserve roster                          Before   
+8/2/1999   BAR     Grieve              Promoted to active roster                          Before   
+8/2/1999   FFR     Branyan             Demoted to reserve roster                          Before   
+8/2/1999   FFR     Sweeney,Ma          Promoted to active roster                          Before   
+8/2/1999   FHK     Cruz,Jo             Demoted to reserve roster                          Before   
+8/2/1999   FHK     Miller,D            Placed on disabled list                 7/31/1999  Before   
+8/2/1999   FHK     Mirabelli           Promoted to active roster                          Before   
+8/2/1999   FLL     Cruz,N              Demoted to reserve roster                          Before   
+8/2/1999   FLL     Ramsay              Promoted to active roster                          Before   
+8/1/1999   BAR     Anderson,J          Released                                           Before   
+8/1/1999   BAR     Grieve              Demoted to reserve roster                          Before   
+8/1/1999   BAR     Javier              Demoted to reserve roster                          Before   
+8/1/1999   CTW     Gonzalez,AS         Demoted to reserve roster                          Before   
+8/1/1999   FLL     McEwing             Promoted to active roster                          Before   
+8/1/1999   NEP     Sheldon             Demoted to reserve roster                          Before   
+8/1/1999   NNN     Maddux,M            Demoted to reserve roster                          Before   
+8/1/1999   NNN     Maddux,M            Promoted to active roster                          Before   
+8/1/1999   NNN     Maddux,M            Promoted to active roster                          Before   
+8/1/1999   OKO     Herges              Demoted to reserve roster                          Before   
+8/1/1999   TAR     Garcia,K            Promoted to active roster                          Before   
+8/1/1999   TAR     Grimsley            Promoted to active roster                          Before   
+7/31/1999  BAR     Grieve              Acquired via trade             TAR                 After    
+7/31/1999  BAR     Grimsley            Traded away                    TAR                 After    
+7/31/1999  BAR     Javier              Acquired via trade             TAR                 After    
+7/31/1999  CIN     Garcia,M            Promoted to active roster                          Before   
+7/31/1999  CIN     Heredia,F           Demoted to reserve roster                          Before   
+7/31/1999  CTW     Bell,J              Acquired via trade             NNN                 After    
+7/31/1999  CTW     Kida                Traded away                    OKO                 After    
+7/31/1999  CTW     Kinkade             Traded away                    OKO                 After    
+7/31/1999  CTW     Maddux,M            Traded away                    NNN                 After    
+7/31/1999  CTW     Quantrill           Traded away                    OKO                 After    
+7/31/1999  CTW     Remlinger           Acquired via trade             OKO                 After    
+7/31/1999  FDH     Appier              Demoted to reserve roster                          Before   
+7/31/1999  FDH     Moyer               Promoted to active roster                          Before   
+7/31/1999  FFR     Bradford            Promoted to active roster                          Before   
+7/31/1999  FFR     Lilly               Placed on disabled list                 7/30/1999  Before   
+7/31/1999  FFR     Navarro             Promoted to active roster                          Before   
+7/31/1999  FFR     Romero              Demoted to reserve roster                          Before   
+7/31/1999  FLL     Castilla            Traded away                    OKO                 After    
+7/31/1999  FLL     Ojala               Traded away                    OKO                 After    
+7/31/1999  NNN     Bell,J              Traded away                    CTW                 After    
+7/31/1999  NNN     Maddux,M            Acquired via trade             CTW                 After    
+7/31/1999  OKO     Castilla            Acquired via trade             FLL                 After    
+7/31/1999  OKO     Kida                Acquired via trade             CTW                 After    
+7/31/1999  OKO     Kinkade             Acquired via trade             CTW                 After    
+7/31/1999  OKO     Ojala               Acquired via trade             FLL                 After    
+7/31/1999  OKO     Quantrill           Acquired via trade             CTW                 After    
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/31/1999  OKO     Remlinger           Traded away                    CTW                 After    
+7/31/1999  TAR     Grieve              Traded away                    BAR                 After    
+7/31/1999  TAR     Grimsley            Acquired via trade             BAR                 After    
+7/31/1999  TAR     Javier              Traded away                    BAR                 After    
+7/30/1999  FDH     Arrojo              Demoted to reserve roster                          Before   
+7/30/1999  FDH     Manzanillo          Promoted to active roster                          Before   
+7/30/1999  TEW     Buford              Demoted to reserve roster                          Before   
+7/30/1999  TEW     Hughes              Promoted to active roster                          Before   
+7/30/1999  TEW     Reed,R              Promoted to active roster                          Before   
+7/30/1999  TEW     Thurman             Demoted to reserve roster                          Before   
+7/29/1999  CEN     Bohanon             Acquired via trade             TAR                 After    
+7/29/1999  CEN     Reed,S              Traded away                    TAR                 After    
+7/29/1999  EVN     Amaral              Promoted to active roster                          Before   
+7/29/1999  EVN     Avery               Demoted to reserve roster                          Before   
+7/29/1999  EVN     Bottenfield         Promoted to active roster                          Before   
+7/29/1999  EVN     Darr                Demoted to reserve roster                          Before   
+7/29/1999  GAR     Paquette            Promoted to active roster                          Before   
+7/29/1999  GAR     Ripken              Placed on disabled list                 7/26/1999  Before   
+7/29/1999  TAR     Bohanon             Traded away                    CEN                 After    
+7/29/1999  TAR     Reed,S              Acquired via trade             CEN                 After    
+7/28/1999  BAR     Gubanich            Promoted to active roster                          Before   
+7/28/1999  FDH     Cameron             Demoted to reserve roster                          Before   
+7/28/1999  FDH     Politte             Promoted to active roster                          Before   
+7/27/1999  BAR     Lopez,J             Demoted to reserve roster                          Before   
+7/27/1999  FHK     Anderson,Bri        Demoted to reserve roster                          Before   
+7/27/1999  FHK     Cabrera,O           Placed on disabled list                 7/9/1999   Before   
+7/27/1999  FHK     Macias              Promoted to active roster                          Before   
+7/27/1999  FHK     Nathan              Activated from disabled list                       Before   
+7/25/1999  CEN     Cora                Placed on disabled list                 7/25/1999  Before   
+7/25/1999  CEN     Elarton             Placed on disabled list                 7/25/1999  Before   
+7/25/1999  CEN     Magadan             Promoted to active roster                          Before   
+7/25/1999  CEN     Reed,S              Promoted to active roster                          Before   
+7/25/1999  CTW     Harris,R            Demoted to reserve roster                          Before   
+7/25/1999  CTW     Loaiza              Promoted to active roster                          Before   
+7/25/1999  FER     Finley,S            Placed on disabled list                 7/25/1999  Before   
+7/25/1999  FER     Leskanic            Demoted to reserve roster                          Before   
+7/25/1999  FER     Mecir               Promoted to active roster                          Before   
+7/25/1999  FER     Wickman             Promoted to active roster                          Before   
+7/25/1999  OKO     Estalella           Demoted to reserve roster                          Before   
+7/25/1999  OKO     Estes               Placed on disabled list                 7/20/1999  Before   
+7/25/1999  OKO     Ogea                Promoted to active roster                          Before   
+7/25/1999  OKO     Oliver,J            Promoted to active roster                          Before   
+7/25/1999  OKO     Raines              Promoted to active roster                          Before   
+7/25/1999  OKO     Springer,D          Promoted to active roster                          Before   
+7/25/1999  OKO     Woodward            Demoted to reserve roster                          Before   
+7/24/1999  CEN     Cordova,F           Promoted to active roster                          Before   
+7/24/1999  CEN     Thomson             Demoted to reserve roster                          Before   
+7/24/1999  CTW     Burba               Promoted to active roster                          Before   
+7/24/1999  CTW     Thompson,M          Demoted to reserve roster                          Before   
+7/23/1999  CIN     Beltran             Promoted to active roster                          Before   
+7/23/1999  CIN     Erickson            Promoted to active roster                          Before   
+7/23/1999  CIN     Guthrie             Demoted to reserve roster                          Before   
+7/23/1999  CIN     Hershiser           Placed on disabled list                 7/22/1999  Before   
+7/23/1999  FDH     Batista             Promoted to active roster                          Before   
+7/23/1999  FDH     Farnsworth          Promoted to active roster                          Before   
+7/23/1999  FDH     Koskie              Demoted to reserve roster                          Before   
+7/23/1999  FDH     Lowe,S              Demoted to reserve roster                          Before   
+7/23/1999  FDH     Merced              Promoted to active roster                          Before   
+7/23/1999  FDH     Moyer               Demoted to reserve roster                          Before   
+7/23/1999  FDH     Rodriguez,Fe        Demoted to reserve roster                          Before   
+7/23/1999  FDH     Stanton             Promoted to active roster                          Before   
+7/23/1999  NEP     Hernandez,O         Promoted to active roster                          Before   
+7/23/1999  NEP     Williams,W          Demoted to reserve roster                          Before   
+7/22/1999  FLL     Alfonseca           Promoted to active roster                          Before   
+7/22/1999  FLL     Kile                Placed on disabled list                 7/20/1999  Before   
+7/21/1999  CTW     Buhner              Demoted to reserve roster                          Before   
+7/21/1999  CTW     Mateo               Promoted to active roster                          Before   
+7/21/1999  GAR     Harnisch            Demoted to reserve roster                          Before   
+7/21/1999  GAR     Saberhagen          Activated from disabled list                       Before   
+7/21/1999  OKO     Rusch               Demoted to reserve roster                          Before   
+7/20/1999  CEN     Casey               Placed on disabled list                 7/20/1999  Before   
+7/20/1999  CEN     Wetteland           Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/20/1999  FER     Benson              Activated from disabled list                       Before   
+7/20/1999  FER     Fernandez,A         Promoted to active roster                          Before   
+7/20/1999  FER     Graves              Demoted to reserve roster                          Before   
+7/20/1999  FER     Meche               Demoted to reserve roster                          Before   
+7/20/1999  FER     Painter             Demoted to reserve roster                          Before   
+7/20/1999  FER     Reichert            Promoted to active roster                          Before   
+7/20/1999  FER     Rupe                Demoted to reserve roster                          Before   
+7/20/1999  FER     Schoeneweis         Promoted to active roster                          Before   
+7/20/1999  FER     Speier              Promoted to active roster                          Before   
+7/20/1999  FER     Wagner,B            Demoted to reserve roster                          Before   
+7/20/1999  FFR     DeLosSantos         Demoted to reserve roster                          Before   
+7/20/1999  FFR     Dotel               Placed on disabled list                 7/20/1999  Before   
+7/20/1999  FFR     Haney               Promoted to active roster                          Before   
+7/20/1999  FFR     Romero              Promoted to active roster                          Before   
+7/19/1999  CTW     Boehringer          Demoted to reserve roster                          Before   
+7/19/1999  CTW     Durazo              Demoted to reserve roster                          Before   
+7/19/1999  CTW     Kinkade             Demoted to reserve roster                          Before   
+7/19/1999  CTW     Sauerbeck           Promoted to active roster                          Before   
+7/19/1999  CTW     Servais             Activated from disabled list                       Before   
+7/19/1999  CTW     Strawberry          Promoted to active roster                          Before   
+7/19/1999  EVN     Avery               Promoted to active roster                          Before   
+7/19/1999  EVN     Bottenfield         Demoted to reserve roster                          Before   
+7/19/1999  EVN     Johnson,Ma          Demoted to reserve roster                          Before   
+7/19/1999  EVN     Kendall             Activated from disabled list                       Before   
+7/18/1999  BAR     Hampton             Promoted to active roster                          Before   
+7/18/1999  BAR     Meares              Promoted to active roster                          Before   
+7/18/1999  BAR     Reyes,D             Demoted to reserve roster                          Before   
+7/18/1999  FFR     Haynes              Promoted to active roster                          Before   
+7/18/1999  FFR     Ohka                Demoted to reserve roster                          Before   
+7/18/1999  MCL     Olson               Demoted to reserve roster                          Before   
+7/18/1999  MCL     Shaw                Promoted to active roster                          Before   
+7/18/1999  NEP     Sheldon             Promoted to active roster                          Before   
+7/18/1999  NEP     Trammell            Demoted to reserve roster                          Before   
+7/18/1999  TAR     Bones               Demoted to reserve roster                          Before   
+7/18/1999  TAR     Bones               Promoted to active roster                          Before   
+7/18/1999  TAR     Brock               Promoted to active roster                          Before   
+7/18/1999  TAR     Clark,W             Demoted to reserve roster                          Before   
+7/18/1999  TAR     Darensbourg         Demoted to reserve roster                          Before   
+7/18/1999  TAR     Franco,Jo           Demoted to reserve roster                          Before   
+7/18/1999  TAR     Oquist              Promoted to active roster                          Before   
+7/18/1999  TAR     Sanders,S           Promoted to active roster                          Before   
+7/17/1999  BAR     Hampton             Acquired via trade             TAR                 After    
+7/17/1999  BAR     Polanco             Traded away                    TAR                 After    
+7/17/1999  FFR     Karl                Promoted to active roster                          Before   
+7/17/1999  FFR     Pettitte            Placed on disabled list                 7/17/1999  Before   
+7/17/1999  GAR     D'Amico             Demoted to reserve roster                          Before   
+7/17/1999  GAR     Redman              Promoted to active roster                          Before   
+7/17/1999  MCL     Konerko             Traded away                    TAR                 After    
+7/17/1999  MCL     Shaw                Acquired via trade             TAR                 After    
+7/17/1999  MCL     Young,K             Acquired via trade             TAR                 After    
+7/17/1999  TAR     Stottlemyre         Demoted to reserve roster                          Before   
+7/17/1999  TAR     Hampton             Traded away                    BAR                 After    
+7/17/1999  TAR     Konerko             Acquired via trade             MCL                 After    
+7/17/1999  TAR     Polanco             Acquired via trade             BAR                 After    
+7/17/1999  TAR     Shaw                Traded away                    MCL                 After    
+7/17/1999  TAR     Young,K             Traded away                    MCL                 After    
+7/16/1999  FFR     Drew                Placed on disabled list                 7/16/1999  Before   
+7/16/1999  FFR     Eldred              Activated from disabled list                       Before   
+7/16/1999  FFR     Holmes              Placed on disabled list                 7/16/1999  Before   
+7/16/1999  FFR     Kennedy             Promoted to active roster                          Before   
+7/16/1999  FFR     Marrero             Placed on disabled list                 7/12/1999  Before   
+7/16/1999  FFR     Valentin,Ja         Activated from disabled list                       Before   
+7/15/1999  GAR     Abbott,P            Demoted to reserve roster                          Before   
+7/15/1999  GAR     Brocail             Promoted to active roster                          Before   
+7/15/1999  GAR     Burnett             Demoted to reserve roster                          Before   
+7/15/1999  GAR     D'Amico             Promoted to active roster                          Before   
+7/11/1999  BAR     Adams               Promoted to active roster                          Before   
+7/11/1999  BAR     Grimsley            Demoted to reserve roster                          Before   
+7/11/1999  GAR     Olivares            Demoted to reserve roster                          Before   
+7/11/1999  GAR     Vazquez             Activated from disabled list                       Before   
+7/11/1999  NEP     Hernandez,O         Demoted to reserve roster                          Before   
+7/11/1999  NEP     Person              Activated from disabled list                       Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/11/1999  RMO     Castillo,L          Activated from disabled list                       Before   
+7/11/1999  RMO     Valentin,Joh        Demoted to reserve roster                          Before   
+7/10/1999  BBG     Johnstone           Promoted to active roster                          Before   
+7/10/1999  BBG     Lee,Da              Demoted to reserve roster                          Before   
+7/10/1999  CTW     Burba               Demoted to reserve roster                          Before   
+7/10/1999  CTW     Wright,Jam          Promoted to active roster                          Before   
+7/10/1999  DLM     Davey               Promoted to active roster                          Before   
+7/10/1999  DLM     Hasegawa            Placed on disabled list                 7/9/1999   Before   
+7/9/1999   CTW     Wright,Jam          Acquired via trade             GAR                 After    
+7/9/1999   DLM     Bournigal           Demoted to reserve roster                          Before   
+7/9/1999   DLM     Wilson,C            Promoted to active roster                          Before   
+7/9/1999   FFR     Blair               Demoted to reserve roster                          Before   
+7/9/1999   FFR     DeLosSantos         Promoted to active roster                          Before   
+7/9/1999   GAR     Wright,Jam          Traded away                    CTW                 After    
+7/8/1999   CTW     Sauerbeck           Demoted to reserve roster                          Before   
+7/8/1999   CTW     Thompson,M          Promoted to active roster                          Before   
+7/8/1999   FDH     Batista             Demoted to reserve roster                          Before   
+7/8/1999   FDH     Charlton            Activated from disabled list                       Before   
+7/7/1999   DLM     Mendoza             Promoted to active roster                          Before   
+7/7/1999   DLM     Harnisch            Traded away                    GAR                 After    
+7/7/1999   DLM     Mendoza             Acquired via trade             GAR                 After    
+7/7/1999   GAR     Wright,Jam          Demoted to reserve roster                          Before   
+7/7/1999   GAR     Harnisch            Acquired via trade             DLM                 After    
+7/7/1999   GAR     Mendoza             Traded away                    DLM                 After    
+7/7/1999   TAR     DeShields           Activated from disabled list                       Before   
+7/7/1999   TAR     Hernandez,Ra        Demoted to reserve roster                          Before   
+7/7/1999   TAR     O'Brien             Promoted to active roster                          Before   
+7/7/1999   TAR     Wilson,E            Demoted to reserve roster                          Before   
+7/6/1999   TAR     Darensbourg         Promoted to active roster                          Before   
+7/6/1999   TAR     Simas               Demoted to reserve roster                          Before   
+7/5/1999   NNN     Mathews,TJ          Promoted to active roster                          Before   
+7/5/1999   NNN     Mills               Promoted to active roster                          Before   
+7/5/1999   NNN     Munoz               Demoted to reserve roster                          Before   
+7/5/1999   NNN     Neagle              Demoted to reserve roster                          Before   
+7/5/1999   NNN     Percival            Demoted to reserve roster                          Before   
+7/5/1999   NNN     Wallace             Promoted to active roster                          Before   
+7/5/1999   TAR     Hampton             Demoted to reserve roster                          Before   
+7/5/1999   TAR     Holt                Promoted to active roster                          Before   
+7/5/1999   TAR     Rose                Promoted to active roster                          Before   
+7/5/1999   TAR     Shaw                Demoted to reserve roster                          Before   
+7/4/1999   FER     Benson              Placed on disabled list                 7/4/1999   Before   
+7/4/1999   FER     Guardado            Promoted to active roster                          Before   
+7/4/1999   FER     Meche               Promoted to active roster                          Before   
+7/4/1999   FER     Painter             Promoted to active roster                          Before   
+7/4/1999   FER     Stein               Demoted to reserve roster                          Before   
+7/4/1999   FER     Wickman             Demoted to reserve roster                          Before   
+7/4/1999   FFR     Houston             Promoted to active roster                          Before   
+7/4/1999   FFR     Pierzynski          Demoted to reserve roster                          Before   
+7/4/1999   OKO     Caruso              Promoted to active roster                          Before   
+7/4/1999   OKO     Chavez              Demoted to reserve roster                          Before   
+7/4/1999   OKO     Guzman,C            Promoted to active roster                          Before   
+7/4/1999   OKO     Mora                Demoted to reserve roster                          Before   
+7/4/1999   OKO     Rusch               Promoted to active roster                          Before   
+7/2/1999   CTW     Harris,R            Promoted to active roster                          Before   
+7/2/1999   CTW     McGlinchy           Demoted to reserve roster                          Before   
+7/2/1999   DLM     Jones,BM            Promoted to active roster                          Before   
+7/2/1999   DLM     Miller,W            Demoted to reserve roster                          Before   
+7/2/1999   FFR     Ohka                Promoted to active roster                          Before   
+7/2/1999   FFR     Wolf                Demoted to reserve roster                          Before   
+7/2/1999   NEP     Aybar               Promoted to active roster                          Before   
+7/2/1999   NEP     Stark               Demoted to reserve roster                          Before   
+7/2/1999   OKO     Gutierrez           Activated from disabled list                       Before   
+7/2/1999   OKO     Guzman,C            Demoted to reserve roster                          Before   
+7/2/1999   OKO     Herges              Activated from disabled list                       Before   
+7/2/1999   OKO     Tam                 Demoted to reserve roster                          Before   
+7/1/1999   CEN     Bush                Demoted to reserve roster                          Before   
+7/1/1999   CEN     Clayton             Acquired via trade             EVN                 After    
+7/1/1999   CEN     White,Ri            Traded away                    EVN                 After    
+7/1/1999   CTW     Bordick             Traded away                    DLM                 After    
+7/1/1999   CTW     Harris,R            Acquired via trade             DLM                 After    
+7/1/1999   CTW     Maddux,M            Acquired via trade             DLM                 After    
+7/1/1999   CTW     Martin,T            Traded away                    DLM                 After    
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/1/1999   CTW     Ordonez,R           Acquired via trade             DLM                 After    
+7/1/1999   CTW     Strawberry          Acquired via trade             DLM                 After    
+7/1/1999   DLM     Bordick             Acquired via trade             CTW                 After    
+7/1/1999   DLM     Harris,R            Traded away                    CTW                 After    
+7/1/1999   DLM     Maddux,M            Traded away                    CTW                 After    
+7/1/1999   DLM     Martin,T            Acquired via trade             CTW                 After    
+7/1/1999   DLM     Ordonez,R           Traded away                    CTW                 After    
+7/1/1999   DLM     Strawberry          Traded away                    CTW                 After    
+7/1/1999   EVN     Bottenfield         Promoted to active roster                          Before   
+7/1/1999   EVN     Fassero             Demoted to reserve roster                          Before   
+7/1/1999   EVN     Weiss               Promoted to active roster                          Before   
+7/1/1999   EVN     White,Ri            Promoted to active roster                          Before   
+7/1/1999   EVN     Woodard             Demoted to reserve roster                          Before   
+7/1/1999   EVN     Clayton             Traded away                    CEN                 After    
+7/1/1999   EVN     White,Ri            Acquired via trade             CEN                 After    
+7/1/1999   FFR     Lilly               Promoted to active roster                          Before   
+7/1/1999   FFR     Tavarez             Demoted to reserve roster                          Before   
+7/1/1999   GAR     Olivares            Promoted to active roster                          Before   
+7/1/1999   GAR     Saberhagen          Placed on disabled list                 7/1/1999   Before   
+7/1/1999   OKO     Kolb                Demoted to reserve roster                          Before   
+6/30/1999  BAR     Catalanotto         Demoted to reserve roster                          Before   
+6/30/1999  BAR     McLemore            Promoted to active roster                          Before   
+6/30/1999  GAR     Vazquez             Placed on disabled list                 6/26/1999  Before   
+6/30/1999  GAR     Wright,Jam          Promoted to active roster                          Before   
+6/29/1999  BAR     Adams               Demoted to reserve roster                          Before   
+6/29/1999  BAR     Grimsley            Promoted to active roster                          Before   
+6/29/1999  BAR     Martinez,P          Activated from disabled list                       Before   
+6/29/1999  BAR     Martinez,R          Demoted to reserve roster                          Before   
+6/29/1999  BAR     Timlin              Demoted to reserve roster                          Before   
+6/29/1999  BAR     Wakefield           Promoted to active roster                          Before   
+6/29/1999  CEN     Mahomes             Promoted to active roster                          Before   
+6/29/1999  CEN     White,G             Demoted to reserve roster                          Before   
+6/29/1999  CIN     Guerrero,W          Promoted to active roster                          Before   
+6/29/1999  CIN     Hershiser           Promoted to active roster                          Before   
+6/29/1999  CIN     Perez,O             Demoted to reserve roster                          Before   
+6/29/1999  CIN     Wells,V             Demoted to reserve roster                          Before   
+6/29/1999  FDH     Fick                Demoted to reserve roster                          Before   
+6/29/1999  FDH     Matheny             Promoted to active roster                          Before   
+6/29/1999  FER     Becker              Demoted to reserve roster                          Before   
+6/29/1999  FER     Berg                Promoted to active roster                          Before   
+6/29/1999  FER     Brown,A             Promoted to active roster                          Before   
+6/29/1999  FER     Cordero,W           Promoted to active roster                          Before   
+6/29/1999  FER     Fernandez,A         Demoted to reserve roster                          Before   
+6/29/1999  FER     Florie              Promoted to active roster                          Before   
+6/29/1999  FER     Merloni             Demoted to reserve roster                          Before   
+6/29/1999  FER     Mieske              Demoted to reserve roster                          Before   
+6/29/1999  FLL     McEwing             Demoted to reserve roster                          Before   
+6/29/1999  NEP     Alomar,S            Demoted to reserve roster                          Before   
+6/29/1999  NEP     Colbrunn            Demoted to reserve roster                          Before   
+6/29/1999  NEP     Liefer              Promoted to active roster                          Before   
+6/29/1999  NEP     Santiago,B          Promoted to active roster                          Before   
+6/27/1999  OKO     Mordecai            Demoted to reserve roster                          Before   
+6/27/1999  OKO     Woodward            Promoted to active roster                          Before   
+6/26/1999  FER     Lopez,A             Activated from disabled list                       Before   
+6/26/1999  FER     Mecir               Demoted to reserve roster                          Before   
+6/25/1999  CIN     Alexander           Promoted to active roster                          Before   
+6/25/1999  CTW     Boehringer          Promoted to active roster                          Before   
+6/25/1999  CTW     Dellucci            Demoted to reserve roster                          Before   
+6/25/1999  CTW     Johnson,B           Demoted to reserve roster                          Before   
+6/25/1999  CTW     Johnson,B           Promoted to active roster                          Before   
+6/25/1999  CTW     Kinkade             Promoted to active roster                          Before   
+6/25/1999  CTW     Loaiza              Demoted to reserve roster                          Before   
+6/25/1999  CTW     Quantrill           Promoted to active roster                          Before   
+6/25/1999  CTW     Servais             Placed on disabled list                 6/25/1999  Before   
+6/25/1999  TEW     Croushore           Demoted to reserve roster                          Before   
+6/25/1999  TEW     Schmidt             Promoted to active roster                          Before   
+6/24/1999  CIN     Caminiti            Traded away                    FLL                 After    
+6/24/1999  CIN     Cordero,F           Acquired via trade             FLL                 After    
+6/24/1999  CIN     Lee,Ca              Acquired via trade             FLL                 After    
+6/24/1999  CIN     Ordonez,M           Traded away                    FLL                 After    
+6/24/1999  FLL     Castilla            Promoted to active roster                          Before   
+6/24/1999  FLL     Caminiti            Acquired via trade             CIN                 After    
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/24/1999  FLL     Cordero,F           Traded away                    CIN                 After    
+6/24/1999  FLL     Lee,Ca              Traded away                    CIN                 After    
+6/24/1999  FLL     Ordonez,M           Acquired via trade             CIN                 After    
+6/24/1999  NEP     Blum                Promoted to active roster                          Before   
+6/24/1999  NEP     Valentin,Jos        Demoted to reserve roster                          Before   
+6/24/1999  TEW     Schmidt             Demoted to reserve roster                          Before   
+6/23/1999  FLL     Schmidt             Traded away                    TEW                 After    
+6/23/1999  TEW     Schmidt             Acquired via trade             FLL                 After    
+6/22/1999  FFR     Branyan             Promoted to active roster                          Before   
+6/22/1999  FFR     Franco,M            Demoted to reserve roster                          Before   
+6/22/1999  NEP     Hamilton,J          Promoted to active roster                          Before   
+6/22/1999  NEP     Washburn            Demoted to reserve roster                          Before   
+6/22/1999  TAR     Haselman            Demoted to reserve roster                          Before   
+6/22/1999  TAR     Hinch               Promoted to active roster                          Before   
+6/22/1999  TEW     Telford             Demoted to reserve roster                          Before   
+6/22/1999  TEW     Wilkins,M           Promoted to active roster                          Before   
+6/21/1999  BAR     Adams               Promoted to active roster                          Before   
+6/21/1999  BAR     Cornelius           Placed on disabled list                 6/21/1999  Before   
+6/21/1999  CIN     Mota                Demoted to reserve roster                          Before   
+6/21/1999  CIN     Williams,Br         Promoted to active roster                          Before   
+6/21/1999  DLM     Miller,W            Promoted to active roster                          Before   
+6/21/1999  DLM     Reyes,C             Promoted to active roster                          Before   
+6/21/1999  GAR     Brocail             Demoted to reserve roster                          Before   
+6/21/1999  GAR     Parris              Demoted to reserve roster                          Before   
+6/20/1999  DLM     Brocail             Traded away                    GAR                 After    
+6/20/1999  DLM     Cone                Traded away                    GAR                 After    
+6/20/1999  DLM     Miller,W            Acquired via trade             GAR                 After    
+6/20/1999  DLM     Molina,J            Acquired via trade             GAR                 After    
+6/20/1999  EVN     Fassero             Promoted to active roster                          Before   
+6/20/1999  EVN     Pena,A              Promoted to active roster                          Before   
+6/20/1999  EVN     Powell,Je           Demoted to reserve roster                          Before   
+6/20/1999  EVN     Prince              Demoted to reserve roster                          Before   
+6/20/1999  GAR     Garces              Demoted to reserve roster                          Before   
+6/20/1999  GAR     Pote                Promoted to active roster                          Before   
+6/20/1999  GAR     Brocail             Acquired via trade             DLM                 After    
+6/20/1999  GAR     Cone                Acquired via trade             DLM                 After    
+6/20/1999  GAR     Miller,W            Traded away                    DLM                 After    
+6/20/1999  GAR     Molina,J            Traded away                    DLM                 After    
+6/20/1999  NEP     Myers,M             Demoted to reserve roster                          Before   
+6/20/1999  NEP     Stark               Promoted to active roster                          Before   
+6/20/1999  RMO     Lee,De              Demoted to reserve roster                          Before   
+6/20/1999  RMO     Valentin,Joh        Promoted to active roster                          Before   
+6/19/1999  BAR     Anderson,J          Demoted to reserve roster                          Before   
+6/19/1999  BAR     Martinez,R          Promoted to active roster                          Before   
+6/19/1999  CTW     Pratt               Demoted to reserve roster                          Before   
+6/19/1999  CTW     Servais             Promoted to active roster                          Before   
+6/19/1999  FFR     Baerga              Promoted to active roster                          Before   
+6/19/1999  FFR     Harris,L            Demoted to reserve roster                          Before   
+6/18/1999  CIN     Gagne               Demoted to reserve roster                          Before   
+6/18/1999  CIN     Nelson              Promoted to active roster                          Before   
+6/18/1999  MCL     Jackson,Dar         Demoted to reserve roster                          Before   
+6/18/1999  MCL     Rolen               Activated from disabled list                       Before   
+6/18/1999  NEP     Gardner             Promoted to active roster                          Before   
+6/18/1999  NEP     Hamilton,J          Demoted to reserve roster                          Before   
+6/18/1999  NEP     Hentgen             Promoted to active roster                          Before   
+6/16/1999  BAR     Dunston             Promoted to active roster                          Before   
+6/16/1999  BAR     Frias               Demoted to reserve roster                          Before   
+6/16/1999  EVN     Jensen              Demoted to reserve roster                          Before   
+6/16/1999  EVN     Mohler              Promoted to active roster                          Before   
+6/16/1999  FDH     Batista             Promoted to active roster                          Before   
+6/16/1999  FDH     Charlton            Placed on disabled list                 6/15/1999  Before   
+6/16/1999  NEP     Armas               Demoted to reserve roster                          Before   
+6/14/1999  FDH     Davis,R             Promoted to active roster                          Before   
+6/14/1999  FDH     Floyd               Demoted to reserve roster                          Before   
+6/14/1999  FDH     Gonzalez,W          Demoted to reserve roster                          Before   
+6/14/1999  FDH     Kreuter             Promoted to active roster                          Before   
+6/14/1999  FFR     Almanzar            Promoted to active roster                          Before   
+6/14/1999  FFR     Eldred              Placed on disabled list                 6/14/1999  Before   
+6/14/1999  NNN     Frascatore          Promoted to active roster                          Before   
+6/14/1999  NNN     Osuna               Demoted to reserve roster                          Before   
+6/14/1999  OKO     Fyhrie              Demoted to reserve roster                          Before   
+6/14/1999  OKO     Gutierrez           Placed on disabled list                 6/12/1999  Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/14/1999  OKO     Lockhart            Promoted to active roster                          Before   
+6/14/1999  OKO     Remlinger           Activated from disabled list                       Before   
+6/13/1999  CTW     Dellucci            Promoted to active roster                          Before   
+6/13/1999  CTW     Thompson,M          Demoted to reserve roster                          Before   
+6/13/1999  GAR     Olivares            Demoted to reserve roster                          Before   
+6/13/1999  GAR     Parris              Promoted to active roster                          Before   
+6/12/1999  BAR     Martinez,P          Placed on disabled list                 6/12/1999  Before   
+6/12/1999  BAR     Schilling           Promoted to active roster                          Before   
+6/12/1999  CTW     Canizaro            Demoted to reserve roster                          Before   
+6/12/1999  CTW     Sanders,R           Activated from disabled list                       Before   
+6/12/1999  EVN     Aven                Demoted to reserve roster                          Before   
+6/12/1999  EVN     Hermanson           Demoted to reserve roster                          Before   
+6/12/1999  EVN     Schourek            Promoted to active roster                          Before   
+6/12/1999  EVN     Baldwin             Acquired via trade             TEW                 After    
+6/12/1999  EVN     Hermanson           Traded away                    TEW                 After    
+6/12/1999  EVN     Owens               Acquired via trade             TEW                 After    
+6/12/1999  NEP     Armas               Promoted to active roster                          Before   
+6/12/1999  NEP     Person              Placed on disabled list                 6/11/1999  Before   
+6/12/1999  TEW     Hermanson           Promoted to active roster                          Before   
+6/12/1999  TEW     Irabu               Promoted to active roster                          Before   
+6/12/1999  TEW     Pavano              Demoted to reserve roster                          Before   
+6/12/1999  TEW     Reed,R              Demoted to reserve roster                          Before   
+6/12/1999  TEW     Sanchez,R           Promoted to active roster                          Before   
+6/12/1999  TEW     Baldwin             Traded away                    EVN                 After    
+6/12/1999  TEW     Hermanson           Acquired via trade             EVN                 After    
+6/12/1999  TEW     Owens               Traded away                    EVN                 After    
+6/11/1999  CTW     Dellucci            Acquired via trade             FLL                 After    
+6/11/1999  DLM     Manwaring           Demoted to reserve roster                          Before   
+6/11/1999  DLM     Perez,Edd           Activated from disabled list                       Before   
+6/11/1999  FLL     Dellucci            Traded away                    CTW                 After    
+6/11/1999  FLL     Sanchez,R           Traded away                    TEW                 After    
+6/11/1999  TEW     Sanchez,R           Acquired via trade             FLL                 After    
+6/10/1999  BAR     Cornelius           Promoted to active roster                          Before   
+6/10/1999  BAR     Wakefield           Demoted to reserve roster                          Before   
+6/10/1999  BBG     Chouinard           Demoted to reserve roster                          Before   
+6/10/1999  BBG     Wasdin              Promoted to active roster                          Before   
+6/10/1999  CEN     Christiansen        Demoted to reserve roster                          Before   
+6/10/1999  CEN     Meluskey            Demoted to reserve roster                          Before   
+6/10/1999  CEN     Myers,G             Promoted to active roster                          Before   
+6/10/1999  CEN     Thomson             Promoted to active roster                          Before   
+6/10/1999  DLM     Strawberry          Demoted to reserve roster                          Before   
+6/10/1999  DLM     Walker,L            Activated from disabled list                       Before   
+6/9/1999   BAR     Cabrera,Jos         Promoted to active roster                          Before   
+6/9/1999   BAR     Crabtree            Demoted to reserve roster                          Before   
+6/9/1999   BAR     Grimsley            Demoted to reserve roster                          Before   
+6/9/1999   BAR     Reyes,A             Promoted to active roster                          Before   
+6/9/1999   BAR     Reyes,D             Promoted to active roster                          Before   
+6/9/1999   BAR     Seanez              Demoted to reserve roster                          Before   
+6/9/1999   FFR     Pierzynski          Promoted to active roster                          Before   
+6/9/1999   FFR     Valentin,Ja         Placed on disabled list                 6/9/1999   Before   
+6/8/1999   BAR     Pose                Traded away                    RMO                 After    
+6/8/1999   BAR     Reyes,A             Acquired via trade             RMO                 After    
+6/8/1999   BAR     Reyes,D             Acquired via trade             RMO                 After    
+6/8/1999   EVN     Johnson,Ma          Activated from disabled list                       Before   
+6/8/1999   EVN     Kendall             Placed on disabled list                 6/7/1999   Before   
+6/8/1999   EVN     Mohler              Demoted to reserve roster                          Before   
+6/8/1999   EVN     Prince              Promoted to active roster                          Before   
+6/8/1999   GAR     Hitchcock           Demoted to reserve roster                          Before   
+6/8/1999   GAR     Saberhagen          Promoted to active roster                          Before   
+6/8/1999   NEP     Hentgen             Demoted to reserve roster                          Before   
+6/8/1999   NEP     Person              Promoted to active roster                          Before   
+6/8/1999   RMO     Castillo,L          Placed on disabled list                 6/7/1999   Before   
+6/8/1999   RMO     Fox,C               Promoted to active roster                          Before   
+6/8/1999   RMO     Ledesma             Demoted to reserve roster                          Before   
+6/8/1999   RMO     Ledesma             Promoted to active roster                          Before   
+6/8/1999   RMO     Ledesma             Demoted to reserve roster                          Before   
+6/8/1999   RMO     Ledesma             Promoted to active roster                          Before   
+6/8/1999   RMO     Ledesma             Promoted to active roster                          Before   
+6/8/1999   RMO     Santiago,J          Demoted to reserve roster                          Before   
+6/8/1999   RMO     Pose                Acquired via trade             BAR                 After    
+6/8/1999   RMO     Reyes,A             Traded away                    BAR                 After    
+6/8/1999   RMO     Reyes,D             Traded away                    BAR                 After    
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/8/1999   TAR     DeShields           Placed on disabled list                 6/3/1999   Before   
+6/8/1999   TAR     Franco,Jo           Activated from disabled list                       Before   
+6/8/1999   TAR     Rose                Demoted to reserve roster                          Before   
+6/8/1999   TAR     Wilson,E            Promoted to active roster                          Before   
+6/5/1999   BAR     Martinez,P          Promoted to active roster                          Before   
+6/5/1999   BAR     Schilling           Demoted to reserve roster                          Before   
+6/5/1999   DLM     Martinez,D          Demoted to reserve roster                          Before   
+6/5/1999   EVN     Darr                Promoted to active roster                          Before   
+6/5/1999   MCL     Ducey               Demoted to reserve roster                          Before   
+6/5/1999   MCL     Singleton           Activated from disabled list                       Before   
+6/5/1999   RMO     Ramirez,Ar          Demoted to reserve roster                          Before   
+6/5/1999   RMO     Stevens,L           Promoted to active roster                          Before   
+6/4/1999   DLM     Cancel              Acquired via trade             EVN                 After    
+6/4/1999   DLM     Glanville           Acquired via trade             EVN                 After    
+6/4/1999   DLM     Pena,A              Traded away                    EVN                 After    
+6/4/1999   DLM     Schourek            Traded away                    EVN                 After    
+6/4/1999   DLM     Smart               Traded away                    EVN                 After    
+6/4/1999   EVN     Cancel              Traded away                    DLM                 After    
+6/4/1999   EVN     Glanville           Traded away                    DLM                 After    
+6/4/1999   EVN     Pena,A              Acquired via trade             DLM                 After    
+6/4/1999   EVN     Schourek            Acquired via trade             DLM                 After    
+6/4/1999   EVN     Smart               Acquired via trade             DLM                 After    
+6/3/1999   BAR     Jones,J             Demoted to reserve roster                          Before   
+6/3/1999   BAR     Winn                Promoted to active roster                          Before   
+6/3/1999   CIN     Hernandez,L         Activated from disabled list                       Before   
+6/3/1999   CIN     Hershiser           Demoted to reserve roster                          Before   
+6/3/1999   CTW     Boehringer          Demoted to reserve roster                          Before   
+6/3/1999   FER     Meche               Demoted to reserve roster                          Before   
+6/3/1999   FER     Stein               Promoted to active roster                          Before   
+6/3/1999   NNN     Osuna               Promoted to active roster                          Before   
+6/2/1999   CTW     Loaiza              Promoted to active roster                          Before   
+6/2/1999   CTW     Perisho             Demoted to reserve roster                          Before   
+6/2/1999   CTW     McGlinchy           Acquired via trade             NNN                 After    
+6/2/1999   CTW     Sauerbeck           Acquired via trade             NNN                 After    
+6/2/1999   CTW     Shuey               Traded away                    NNN                 After    
+6/2/1999   NNN     McGlinchy           Traded away                    CTW                 After    
+6/2/1999   NNN     Sauerbeck           Traded away                    CTW                 After    
+6/2/1999   NNN     Shuey               Acquired via trade             CTW                 After    
+6/1/1999   FDH     Charlton            Promoted to active roster                          Before   
+6/1/1999   FDH     Farnsworth          Demoted to reserve roster                          Before   
+5/31/1999  OKO     Guzman,C            Promoted to active roster                          Before   
+5/31/1999  OKO     Herges              Placed on disabled list                 5/31/1999  Before   
+5/31/1999  OKO     Stynes              Demoted to reserve roster                          Before   
+5/31/1999  OKO     Tam                 Promoted to active roster                          Before   
+5/29/1999  BBG     Cedeno,R            Demoted to reserve roster                          Before   
+5/29/1999  BBG     Christenson         Activated from disabled list                       Before   
+5/29/1999  CTW     Canizaro            Promoted to active roster                          Before   
+5/29/1999  CTW     Matthews            Demoted to reserve roster                          Before   
+5/29/1999  FDH     Fick                Promoted to active roster                          Before   
+5/29/1999  FDH     Zaun                Demoted to reserve roster                          Before   
+5/28/1999  CTW     LaRue               Demoted to reserve roster                          Before   
+5/28/1999  CTW     Spehr               Promoted to active roster                          Before   
+5/28/1999  GAR     Jimenez,D           Demoted to reserve roster                          Before   
+5/28/1999  GAR     Shumpert            Promoted to active roster                          Before   
+5/28/1999  RMO     Plesac              Activated from disabled list                       Before   
+5/28/1999  RMO     Strickland          Demoted to reserve roster                          Before   
+5/26/1999  FDH     Batista             Demoted to reserve roster                          Before   
+5/26/1999  FDH     Burkett             Promoted to active roster                          Before   
+5/26/1999  FLL     Alfonseca           Demoted to reserve roster                          Before   
+5/26/1999  FLL     Levine              Promoted to active roster                          Before   
+5/26/1999  FLL     Looper              Promoted to active roster                          Before   
+5/26/1999  FLL     Mahay               Demoted to reserve roster                          Before   
+5/24/1999  BAR     Frias               Promoted to active roster                          Before   
+5/24/1999  BAR     Pose                Demoted to reserve roster                          Before   
+5/24/1999  CIN     Ryan,BJ             Demoted to reserve roster                          Before   
+5/24/1999  CIN     Ward,B              Promoted to active roster                          Before   
+5/23/1999  CEN     Cora                Promoted to active roster                          Before   
+5/23/1999  CEN     Cordova,F           Demoted to reserve roster                          Before   
+5/23/1999  CEN     Daal                Promoted to active roster                          Before   
+5/23/1999  CEN     Elarton             Promoted to active roster                          Before   
+5/23/1999  CEN     Eusebio             Activated from disabled list                       Before   
+5/23/1999  CEN     Howry               Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+5/23/1999  CEN     Mahomes             Demoted to reserve roster                          Before   
+5/23/1999  CEN     Myers,G             Demoted to reserve roster                          Before   
+5/23/1999  CEN     Thomson             Demoted to reserve roster                          Before   
+5/23/1999  CEN     Wetteland           Demoted to reserve roster                          Before   
+5/23/1999  EVN     Avery               Demoted to reserve roster                          Before   
+5/23/1999  EVN     Kamieniecki         Promoted to active roster                          Before   
+5/23/1999  EVN     Woodard             Promoted to active roster                          Before   
+5/23/1999  OKO     Estalella           Promoted to active roster                          Before   
+5/23/1999  OKO     Oliver,J            Demoted to reserve roster                          Before   
+5/22/1999  BAR     Anderson,J          Promoted to active roster                          Before   
+5/22/1999  BAR     Ankiel              Demoted to reserve roster                          Before   
+5/22/1999  BAR     Grimsley            Promoted to active roster                          Before   
+5/22/1999  BAR     Martinez,P          Demoted to reserve roster                          Before   
+5/22/1999  CEN     Daal                Acquired via trade             EVN                 After    
+5/22/1999  CEN     Elarton             Acquired via trade             EVN                 After    
+5/22/1999  CEN     Hernandez,Ro        Acquired via trade             EVN                 After    
+5/22/1999  CEN     Mahomes             Acquired via trade             EVN                 After    
+5/22/1999  CEN     Wells,D             Traded away                    EVN                 After    
+5/22/1999  EVN     Bottenfield         Demoted to reserve roster                          Before   
+5/22/1999  EVN     Powell,Je           Promoted to active roster                          Before   
+5/22/1999  EVN     Daal                Traded away                    CEN                 After    
+5/22/1999  EVN     Elarton             Traded away                    CEN                 After    
+5/22/1999  EVN     Hernandez,Ro        Traded away                    CEN                 After    
+5/22/1999  EVN     Mahomes             Traded away                    CEN                 After    
+5/22/1999  EVN     Wells,D             Acquired via trade             CEN                 After    
+5/22/1999  MCL     Jackson,Dar         Promoted to active roster                          Before   
+5/22/1999  MCL     Singleton           Placed on disabled list                 5/21/1999  Before   
+5/22/1999  NEP     Chen                Promoted to active roster                          Before   
+5/22/1999  NEP     Ortiz,Ra            Demoted to reserve roster                          Before   
+5/22/1999  OKO     Kolb                Promoted to active roster                          Before   
+5/22/1999  OKO     Remlinger           Placed on disabled list                 5/20/1999  Before   
+5/22/1999  OKO     Riske               Demoted to reserve roster                          Before   
+5/22/1999  OKO     Worrell             Activated from disabled list                       Before   
+5/21/1999  FER     Bonds               Activated from disabled list                       Before   
+5/21/1999  FER     Cordero,W           Demoted to reserve roster                          Before   
+5/21/1999  FER     Fernandez,A         Promoted to active roster                          Before   
+5/21/1999  FER     Lopez,A             Placed on disabled list                 5/21/1999  Before   
+5/21/1999  FER     Mecir               Promoted to active roster                          Before   
+5/21/1999  FER     Stein               Demoted to reserve roster                          Before   
+5/20/1999  FDH     Gonzalez,W          Promoted to active roster                          Before   
+5/20/1999  FDH     LoDuca              Demoted to reserve roster                          Before   
+5/19/1999  DLM     Hansell             Promoted to active roster                          Before   
+5/18/1999  EVN     Daal                Demoted to reserve roster                          Before   
+5/18/1999  EVN     Mercker             Promoted to active roster                          Before   
+5/18/1999  FHK     Davis,B             Promoted to active roster                          Before   
+5/18/1999  NEP     Higginson           Activated from disabled list                       Before   
+5/18/1999  NEP     Quinn               Demoted to reserve roster                          Before   
+5/16/1999  BBG     Lofton              Activated from disabled list                       Before   
+5/16/1999  CIN     Hernandez,L         Placed on disabled list                 5/16/1999  Before   
+5/16/1999  CIN     Hershiser           Promoted to active roster                          Before   
+5/16/1999  FHK     Hatteberg           Demoted to reserve roster                          Before   
+5/15/1999  BBG     Christenson         Placed on disabled list                 5/13/1999  Before   
+5/14/1999  CTW     Sanders,R           Placed on disabled list                 5/14/1999  Before   
+5/14/1999  CTW     Trombley            Promoted to active roster                          Before   
+5/14/1999  DLM     Strawberry          Promoted to active roster                          Before   
+5/14/1999  DLM     Walker,L            Placed on disabled list                 5/12/1999  Before   
+5/14/1999  DLM     Yarnall             Demoted to reserve roster                          Before   
+5/14/1999  TAR     Franco,Jo           Placed on disabled list                 5/14/1999  Before   
+5/14/1999  TAR     Holt                Demoted to reserve roster                          Before   
+5/14/1999  TAR     Rose                Promoted to active roster                          Before   
+5/14/1999  TAR     Tomko               Promoted to active roster                          Before   
+5/12/1999  CTW     Decker              Demoted to reserve roster                          Before   
+5/12/1999  CTW     LaRue               Activated from disabled list                       Before   
+5/12/1999  CTW     Loaiza              Demoted to reserve roster                          Before   
+5/12/1999  CTW     Perisho             Promoted to active roster                          Before   
+5/12/1999  CTW     Quantrill           Demoted to reserve roster                          Before   
+5/12/1999  CTW     Thompson,M          Promoted to active roster                          Before   
+5/12/1999  FLL     Cordero,F           Demoted to reserve roster                          Before   
+5/12/1999  FLL     Cruz,N              Promoted to active roster                          Before   
+5/12/1999  FLL     King,R              Demoted to reserve roster                          Before   
+5/12/1999  FLL     Mahay               Promoted to active roster                          Before   
+5/12/1999  OKO     Fyhrie              Activated from disabled list                       Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+5/12/1999  OKO     Gutierrez           Activated from disabled list                       Before   
+5/12/1999  OKO     Guzman,C            Demoted to reserve roster                          Before   
+5/12/1999  OKO     Kim                 Demoted to reserve roster                          Before   
+5/10/1999  EVN     Jensen              Promoted to active roster                          Before   
+5/10/1999  EVN     Johnson,Ma          Placed on disabled list                 5/10/1999  Before   
+5/10/1999  FDH     Burkett             Demoted to reserve roster                          Before   
+5/10/1999  FDH     Charlton            Demoted to reserve roster                          Before   
+5/10/1999  FDH     Mays                Promoted to active roster                          Before   
+5/10/1999  FDH     Rincon              Promoted to active roster                          Before   
+5/10/1999  NEP     Hamilton,J          Promoted to active roster                          Before   
+5/10/1999  NEP     Person              Demoted to reserve roster                          Before   
+5/9/1999   BAR     Daubach             Activated from disabled list                       Before   
+5/9/1999   BAR     Ibanez              Demoted to reserve roster                          Before   
+5/9/1999   BBG     Sprague             Demoted to reserve roster                          Before   
+5/9/1999   BBG     Tatis               Activated from disabled list                       Before   
+5/9/1999   OKO     Berkman             Demoted to reserve roster                          Before   
+5/9/1999   OKO     Lockhart            Demoted to reserve roster                          Before   
+5/9/1999   OKO     Mouton,J            Promoted to active roster                          Before   
+5/9/1999   OKO     Stynes              Activated from disabled list                       Before   
+5/8/1999   MCL     Fox,A               Demoted to reserve roster                          Before   
+5/8/1999   MCL     Jackson,Dar         Demoted to reserve roster                          Before   
+5/8/1999   MCL     Williams,G          Promoted to active roster                          Before   
+5/7/1999   EVN     Elarton             Demoted to reserve roster                          Before   
+5/7/1999   EVN     Lawton              Promoted to active roster                          Before   
+5/7/1999   EVN     Mulholland          Promoted to active roster                          Before   
+5/7/1999   NEP     Blum                Demoted to reserve roster                          Before   
+5/7/1999   NEP     Walker,T            Activated from disabled list                       Before   
+5/7/1999   TEW     Buford              Promoted to active roster                          Before   
+5/5/1999   DLM     Perez,Edd           Placed on disabled list                 5/3/1999   Before   
+5/5/1999   DLM     Reed,J              Promoted to active roster                          Before   
+5/5/1999   EVN     Lawton              Acquired via trade             MCL                 After    
+5/5/1999   EVN     Surhoff             Traded away                    MCL                 After    
+5/5/1999   FER     Bonds               Placed on disabled list                 5/5/1999   Before   
+5/5/1999   FER     Cordero,W           Promoted to active roster                          Before   
+5/5/1999   FER     Fernandez,A         Demoted to reserve roster                          Before   
+5/5/1999   FER     Meche               Activated from disabled list                       Before   
+5/5/1999   MCL     Fox,A               Promoted to active roster                          Before   
+5/5/1999   MCL     Rolen               Placed on disabled list                 5/5/1999   Before   
+5/5/1999   MCL     Lawton              Traded away                    EVN                 After    
+5/5/1999   MCL     Surhoff             Acquired via trade             EVN                 After    
+5/5/1999   TEW     Payton              Demoted to reserve roster                          Before   
+5/4/1999   FFR     Houston             Demoted to reserve roster                          Before   
+5/4/1999   FFR     Marrero             Activated from disabled list                       Before   
+5/2/1999   EVN     Avery               Promoted to active roster                          Before   
+5/2/1999   EVN     Bottenfield         Promoted to active roster                          Before   
+5/2/1999   EVN     Mulholland          Demoted to reserve roster                          Before   
+5/2/1999   EVN     Woodard             Demoted to reserve roster                          Before   
+5/1/1999   FHK     Anderson,Bri        Promoted to active roster                          Before   
+5/1/1999   FHK     Nathan              Placed on disabled list                 4/26/1999  Before   
+5/1/1999   TEW     Blake               Demoted to reserve roster                          Before   
+5/1/1999   TEW     Payton              Promoted to active roster                          Before   
+4/29/1999  CIN     Ryan,BJ             Promoted to active roster                          Before   
+4/29/1999  CIN     Wheeler             Demoted to reserve roster                          Before   
+4/28/1999  GAR     Saberhagen          Demoted to reserve roster                          Before   
+4/28/1999  GAR     Vazquez             Activated from disabled list                       Before   
+4/27/1999  FLL     Alfonseca           Promoted to active roster                          Before   
+4/27/1999  FLL     Fabregas            Promoted to active roster                          Before   
+4/27/1999  FLL     Marte               Demoted to reserve roster                          Before   
+4/27/1999  FLL     Paul                Demoted to reserve roster                          Before   
+4/27/1999  MCL     Batista             Activated from disabled list                       Before   
+4/27/1999  MCL     Fox,A               Demoted to reserve roster                          Before   
+4/25/1999  NEP     Higginson           Placed on disabled list                 4/24/1999  Before   
+4/25/1999  NEP     Quinn               Promoted to active roster                          Before   
+4/25/1999  OKO     Fyhrie              Placed on disabled list                 4/25/1999  Before   
+4/25/1999  OKO     Riske               Promoted to active roster                          Before   
+4/23/1999  BBG     Cedeno,R            Promoted to active roster                          Before   
+4/23/1999  BBG     Lofton              Placed on disabled list                 4/23/1999  Before   
+4/23/1999  BBG     Sprague             Promoted to active roster                          Before   
+4/23/1999  BBG     Tatis               Placed on disabled list                 4/23/1999  Before   
+4/23/1999  NEP     Blum                Promoted to active roster                          Before   
+4/23/1999  NEP     Menechino           Demoted to reserve roster                          Before   
+4/23/1999  OKO     Herges              Promoted to active roster                          Before   
+                            League transaction log -- Seven More Minutes                            
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+4/23/1999  OKO     Worrell             Placed on disabled list                 4/23/1999  Before   
+4/22/1999  BAR     Adams               Demoted to reserve roster                          Before   
+4/22/1999  BAR     Ankiel              Promoted to active roster                          Before   
+4/22/1999  FLL     Franklin            Demoted to reserve roster                          Before   
+4/22/1999  FLL     Hansen,D            Promoted to active roster                          Before   
+4/22/1999  FLL     Long                Demoted to reserve roster                          Before   
+4/22/1999  FLL     Williams,Mi         Promoted to active roster                          Before   
+4/21/1999  CTW     Decker              Promoted to active roster                          Before   
+4/21/1999  CTW     LaRue               Placed on disabled list                 4/21/1999  Before   
+4/21/1999  FER     Meche               Placed on disabled list                 4/17/1999  Before   
+4/21/1999  FER     Stein               Promoted to active roster                          Before   
+4/20/1999  BAR     Cabrera,Jos         Demoted to reserve roster                          Before   
+4/20/1999  BAR     Dipoto              Promoted to active roster                          Before   
+4/20/1999  NEP     Menechino           Promoted to active roster                          Before   
+4/20/1999  NEP     Walker,T            Placed on disabled list                 4/19/1999  Before   
+4/19/1999  CEN     Eusebio             Placed on disabled list                 4/18/1999  Before   
+4/19/1999  CEN     Myers,G             Promoted to active roster                          Before   
+4/18/1999  FDH     Rhodes              Promoted to active roster                          Before   
+4/18/1999  FDH     Rincon              Demoted to reserve roster                          Before   
+4/18/1999  OKO     Gutierrez           Placed on disabled list                 4/18/1999  Before   
+4/18/1999  OKO     Guzman,C            Promoted to active roster                          Before   
+4/18/1999  OKO     Lockhart            Promoted to active roster                          Before   
+4/18/1999  OKO     Stynes              Placed on disabled list                 4/18/1999  Before   
+4/17/1999  NNN     Davis,D             Demoted to reserve roster                          Before   
+4/17/1999  NNN     Gomez               Promoted to active roster                          Before   
+4/17/1999  NNN     Soriano             Demoted to reserve roster                          Before   
+4/16/1999  CEN     Gomez               Traded away                    NNN                 After    
+4/16/1999  NNN     Gomez               Acquired via trade             CEN                 After    
+4/12/1999  FFR     Marrero             Placed on disabled list                 4/12/1999  Before   
+4/12/1999  FFR     Valentin,Ja         Promoted to active roster                          Before   
+4/12/1999  FLL     Cordero,F           Promoted to active roster                          Before   
+4/12/1999  FLL     Franco,Ju           Demoted to reserve roster                          Before   
+4/12/1999  FLL     Long                Promoted to active roster                          Before   
+4/12/1999  FLL     Sturtze             Demoted to reserve roster                          Before   
+4/12/1999  NNN     Bako                Promoted to active roster                          Before   
+4/12/1999  NNN     Ortiz,D             Demoted to reserve roster                          Before   
+4/12/1999  NNN     Sexson              Promoted to active roster                          Before   
+4/11/1999  GAR     Saberhagen          Promoted to active roster                          Before   
+4/11/1999  GAR     Vazquez             Placed on disabled list                 4/11/1999  Before   
+4/11/1999  MCL     Batista             Placed on disabled list                 4/11/1999  Before   
+4/11/1999  MCL     Fox,A               Promoted to active roster                          Before   
+4/9/1999   CIN     Gagne               Promoted to active roster                          Before   
+4/9/1999   CIN     Padilla             Demoted to reserve roster                          Before   
+4/8/1999   RMO     Plesac              Placed on disabled list                 4/8/1999   Before   
+4/8/1999   RMO     Polonia             Promoted to active roster                          Before   
+4/7/1999   BAR     Daubach             Placed on disabled list                 4/7/1999   Before   
+4/7/1999   BAR     Pose                Promoted to active roster                          Before   
+

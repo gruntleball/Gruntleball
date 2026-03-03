@@ -1,0 +1,721 @@
+                            Team roster ID -- 1994 Butt Mountain Beavis                             
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+11440   John Briscoe           mr Rsp  R   26   82   18      0     0 
+11461 f Rico Brogna            1b Lsp  L   24   40    0      0     0 
+12328   Roger Clemens          sp Rsp  R   31  100    0      0     0 
+14796 f Juan Gonzalez          lf Rp   R   24  100    0      0     0 
+15790   Ken Hill               sp Rsp  R   28  100    0      0     0 
+16136   Tim Hulett             2b Rsp  R   34  100    0      0     0 
+17148   John Kruk              1b Lsp  L   33   79   21      0     0 
+17900   Greg Maddux            sp Rsp  R   28  100    0      0     0 
+18044   Barry Manuel           rp Rsp  R   28  100    0      0     0 
+18110   Al Martin              lf Lsp  L   26   75   25      0     0 
+18516 f Mark McGwire           1b Rsp  R   30   49   51      0     0 
+19020   Jeff Montgomery        cl Rsp  R   32  100    0      0     0 
+19770 f Steve Ontiveros        sp Rsp  R   33  100    0      0     0 
+20516   Harvey Pulliam         of Rsp  R   26  100    0      0     0 
+20991 f Rich Robertson         mr Lsp  L   25   25    0      0     0 
+21359   Ryne Sandberg          2b Rsp  R   34   53    0      0     0 
+22150   John Smoltz            sp Rsp  R   27   93    0      0     0 
+22403   Terry Steinbach        c  Rsp  R   32  100    0      0     0 
+23273   John Valentin          ss Rp   R   27   77   23      0     0 
+23850   Mark Whiten            rf Ssp  R   27   89   11      0     0 
+23983 f Matt Williams          3b Rsp  R   28  100    0      0     0 
+24133 f Mark Wohlers           mr Rsp  R   24  100    0      0     0 
+        Total                            28.5                0       
+
+
+
+                             Team roster ID -- 1994 Needmore Perfectos                              
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10766 f Steve Bedrosian        mr Rsp  R   36  100    0      0     0 
+10791   Stan Belinda           mr Rsp  R   27  100    0      0     0 
+12290   Phil Clark             1b Rsp  R   26  100    0      0     0 
+12975   Danny Darwin           sp Rsp  R   38   54   46      0     0 
+13199   Delino DeShields       2b Lsp  R   25   82   18      0     0 
+14018   Chuck Finley           sp Lsp  L   31  100    0      0     0 
+15005   Ken Griffey            cf Lsp  L   24  100    0      0     0 
+15181 f Chip Hale              3b Lsp  R   29  100    0      0     0 
+15272 f Todd Haney             2b Rsp  R   28   27    0      0     0 
+15293   Erik Hanson            sp Rsp  R   29   97    3      0     0 
+15824   Sterling Hitchcock     mr Lsp  L   23   74    0      0     0 
+16036 f Chris Howard           mr Rsp  L   28   73    0      0     0 
+16428   John Johnstone         mr Rsp  R   25   36    0      0     0 
+16847   Jimmy Key              sp Rsp  L   33  100    0      0     0 
+18148 f Norberto Martin        2b Rsp  R   27   65    0      0     0 
+18413   Ben McDonald           sp Rsp  R   26  100    0      0     0 
+18734   Orlando Merced         rf Lsp  R   27  100    0      0     0 
+19457 f Robb Nen               cl Rsp  R   24  100    0      0     0 
+19710 f John Olerud            1b Lsp  L   25  100    0      0     0 
+19736 f Gregg Olson            mr Rsp  R   27   59   41      0     0 
+20481   Curtis Pride           of Lsp  R   25  100    0      0     0 
+21256 f Jeff Russell           cl Rsp  R   32  100    0      0     0 
+21789   Gary Sheffield         rf Rp   R   25   77   23      0     0 
+22101   Lonnie Smith           dh Rsp  R   38   84   16      0     0 
+22765   Danny Tartabull        dh Rsp  R   31  100    0      0     0 
+23274   Jose Valentin          ss Ssp  R   24  100    0      0     0 
+23397   Jack Voigt             rf Rsp  R   28   82    0      0     0 
+23847   Lou Whitaker           2b Lsp  R   37  100    0      0     0 
+23917   Rick Wilkins           c  Lsp  R   27  100    0      0     0 
+        Total                            28.4                0       
+
+
+
+                               Team roster ID -- 1994 Tewksbury Bobs                                
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10177 f Sandy Alomar           c  Rsp  R   28   88   12      0     0 
+10386   Steve Avery            sp Lsp  L   24  100    0      0     0 
+10522 f Scott Bankhead         mr Rsp  R   30   60   40      0     0 
+11216 f Chris Bosio            sp Rsp  R   31   77   23      0     0 
+11902   Tom Candiotti          sp Rsp  R   36  100    0      0     0 
+12586   Scott Cooper           3b Lsp  R   26   93    7      0     0 
+13229   Mark Dewey             mr Rsp  R   29   89   11      0     0 
+14400 f Andres Galarraga       1b Rsp  R   33   89   11      0     0 
+14800   Luis Gonzalez          lf Lsp  R   26  100    0      0     0 
+15052   Kevin Gross            sp Rsp  R   33  100    0      0     0 
+15233   Darryl Hamilton        cf Lsp  R   29   38   62      0     0 
+15679   Xavier Hernandez       mr Lsp  R   28   86   14      0     0 
+16766   Pat Kelly              2b Rsp  R   26   88   12      0     0 
+17008   Chuck Knoblauch        2b Rsp  R   25  100    0      0     0 
+17548 f Jim Leyritz            c  Rsp  R   30  100    0      0     0 
+17715 f Javy Lopez             c  Rp   R   23  100    0      0     0 
+20717 f Rick Reed              sp Rsp  R   29   16    0      0     0 
+21360   Reggie Sanders         rf Rsp  R   26   96    0      0     0 
+22842   Anthony Telford        rp Rsp  R   28  100    0      0     0 
+23328   Greg Vaughn            lf Rp   R   28   85   15      0     0 
+23768   John Wetteland         cl Rsp  R   27   88   12      0     0 
+        Total                            28.3                0       
+
+
+
+                             Team roster ID -- 1994 Grain Belt Premiums                             
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10375 f Brad Ausmus            c  Rsp  R   25  100    0      0     0 
+11062 f Jeff Blauser           ss Rsp  R   28   88   12      0     0 
+11166   Bobby Bonilla          3b Ssp  R   31  100    0      0     0 
+11231   Kent Bottenfield       mr Ssp  R   25  100    0      0     0 
+11452 f Doug Brocail           mr Lsp  R   27   36   64      0     0 
+13291   Gary DiSarcina         ss Rsp  R   26  100    0      0     0 
+13644 f Jim Edmonds            lf Lsp  L   24  100    0      0     0 
+14343   Travis Fryman          3b Rsp  R   25  100    0      0     0 
+14444   Ron Gant               of Rsp  R   29  100    0      0     0 
+15116 f Mark Guthrie           mr Ssp  L   28  100    0      0     0 
+15137 f John Habyan            mr Rsp  R   30   85   15      0     0 
+15254 f Mike Hampton           mr Rsp  L   21  100    0      0     0 
+16249   Bo Jackson             lf Rsp  R   31  100    0      0     0 
+16553   Todd Jones             mr Lsp  R   26  100    0      0     0 
+16642 f Scott Kamieniecki      sp Rsp  R   30  100    0      0     0 
+16670   Eric Karros            1b Rsp  R   26  100    0      0     0 
+17929 f Mike Magnante          mr Lsp  L   29   88   12      0     0 
+19722   Joe Oliver             c  Rsp  R   28    5   95      0     0 
+19813   Donovan Osborne        sp Ssp  L   25  100    0      0     0 
+20539 f Paul Quantrill         mr Lsp  R   25  100    0      0     0 
+21287   Ken Ryan               cl Rsp  R   25   88    0      0     0 
+21327 f Tim Salmon             rf Rsp  R   25   88   12      0     0 
+22005   Joe Slusarski          rp Rsp  R   27  100    0      0     0 
+22195 f Luis Sojo              2b Rsp  R   28   77    0      0     0 
+22314   Matt Stairs            of Lsp  R   26  100    0      0     0 
+22784 f Julian Tavarez         sp Rsp  R   21    5    0      0     0 
+23131 f Mike Trombley          mr Rsp  R   27   58    0      0     0 
+        Total                            26.6                0       
+
+
+
+                             Team roster ID -- 1994 Tucker Tools Police                             
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10350   Pedro Astacio          sp Rsp  R   24  100    0      0     0 
+10414   Carlos Baerga          2b Ssp  R   25  100    0      0     0 
+10806   Jay Bell               ss Rsp  R   28  100    0      0     0 
+11217   Shawn Boskie           sp Rsp  R   27  100    0      0     0 
+11623   Steve Buechele         3b Rsp  R   32  100    0      0     0 
+11638   Jim Bullinger          mr Rsp  R   28  100    0      0     0 
+12481   David Cone             sp Lsp  R   31  100    0      0     0 
+13441   Doug Drabek            sp Rsp  R   31  100    0      0     0 
+14256   John Franco            cl Lsp  L   33  100    0      0     0 
+15658   Carlos Hernandez       c  Rp   R   27   86   14      0     0 
+16037 f David Howard           3b Ssp  R   27  100    0      0     0 
+17349   Mike LaValliere        c  Lsp  R   33  100    0      0     0 
+17863   Mike Macfarlane        c  Rp   R   30  100    0      0     0 
+17885   Shane Mack             lf Rsp  R   30   77   23      0     0 
+18156   Ramon Martinez         sp Lsp  R   26  100    0      0     0 
+18473 f Willie McGee           rf Ssp  R   35   50   50      0     0 
+18993   Paul Molitor           dh Rsp  R   37  100    0      0     0 
+21353 f Deion Sanders          cf Lsp  L   26  100    0      0     0 
+        Total                            29.4                0       
+
+
+
+                           Team roster ID -- 1994 Dún Laoghaire Messiahs                            
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10011 f Jim Abbott             sp Lsp  L   26  100    0      0     0 
+11702 f Jeromy Burnitz         rf Lp   R   25   45    0      0     0 
+12896 f Milt Cuyler            cf Ssp  R   25   51   49      0     0 
+13982   Mike Fetters           cl Rsp  R   29  100    0      0     0 
+14146   Cliff Floyd            1b Lsp  L   21  100    0      0     0 
+14719 f Tom Glavine            sp Lsp  L   28  100    0      0     0 
+16672 f Steve Karsay           sp Rsp  R   22   17   83      0     0 
+17249   Tom Lampkin            c  Lsp  R   30  100    0      0     0 
+17432 f Craig Lefferts         mr Lsp  L   36   75    0      0     0 
+17456   Al Leiter              sp Lsp  L   28   89   11      0     0 
+17585 f Jose Lind              2b Rsp  R   30  100    0      0     0 
+17709   Albie Lopez            sp Rsp  R   22   18    0      0     0 
+18128 f Edgar Martinez         3b Rsp  R   31   85   15      0     0 
+18712 f Bob Melvin             c  Rsp  R   32  100    0      0     0 
+19405 f Jaime Navarro          mr Rsp  R   27  100    0      0     0 
+19804   Junior Ortiz           c  Rsp  R   34  100    0      0     0 
+20928   Cal Ripken             ss Rsp  R   33  100    0      0     0 
+20953 f Luis Rivera            ss Rsp  R   30  100    0      0     0 
+21637 f Rudy Seanez            mr Rsp  R   25   48    0      0     0 
+23076   Salomon Torres         sp Rsp  R   22   70    0      0     0 
+23985 f Mike Williams          sp Rsp  R   24   50    0      0     0 
+        Total                            27.6                0       
+
+
+
+                              Team roster ID -- 1994 Barcelona Brewers                              
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10219   Brady Anderson         lf Lsp  L   30  100    0      0     0 
+10304   Alex Arias             ss Rsp  R   26  100    0      0     0 
+10429 f Cory Bailey            mr Rsp  R   23   11    0      0     0 
+11433 f Brad Brink             mr Rsp  R   29   12    0      0     0 
+11516   Jerry Browne           3b Ssp  R   28  100    0      0     0 
+13488 f Rob Ducey              rf Lsp  R   29   14    0      0     0 
+13820 f Tony Eusebio           c  Rsp  R   27  100    0      0     0 
+17014 f Randy Knorr            c  Rsp  R   25  100    0      0     0 
+18123   Dennis Martinez        sp Rsp  R   39  100    0      0     0 
+18149 f Pedro Martinez         sp Rsp  R   22  100    0      0     0 
+19127   Mike Morgan            sp Rsp  R   34   58   42      0     0 
+20025 f Ken Patterson          mr Lsp  L   29    3   83      0     0 
+20249   Tony Phillips          lf Ssp  R   35  100    0      0     0 
+20505   Kirby Puckett          rf Rsp  R   33  100    0      0     0 
+21494   Curt Schilling         sp Rsp  R   27   47   53      0     0 
+22100 f Lee Smith              cl Rsp  R   36  100    0      0     0 
+22114   Ozzie Smith            ss Ssp  R   39   98    0      0     0 
+22286 f Jerry Spradlin         mr Ssp  R   27   19    0      0     0 
+22659   B.J. Surhoff           3b Lp   R   29   38   62      0     0 
+23009 f Mike Timlin            mr Rsp  R   28   90   10      0     0 
+23331 f Mo Vaughn              1b Lsp  R   26  100    0      0     0 
+23350 f Robin Ventura          3b Lp   R   26  100    0      0     0 
+23681   John Wehner            3b Rsp  R   27    4   19      0     0 
+23811   Devon White            cf Ssp  R   31  100    0      0     0 
+        Total                            29.4                0       
+
+
+
+                              Team roster ID -- 1994 Chinatrust Whales                              
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10013   Kurt Abbott            ss Rsp  R   25  100    0      0     0 
+10207   Ruben Amaro            dh Ssp  R   29   63    0      0     0 
+10290   Luis Aquino            mr Rsp  R   30   70   30      0     0 
+10695   Jose Bautista          mr Rsp  R   29   96    4      0     0 
+11122   Wade Boggs             3b Lsp  R   36  100    0      0     0 
+11758   Mike Butcher           mr Rsp  R   29   67    0      0     0 
+11992   Mark Carreon           rf Rsp  L   30   90   10      0     0 
+12121   Wes Chamberlain        rf Rsp  R   28  100    0      0     0 
+12304   Will Clark             1b Lsp  L   30  100    0      0     0 
+13290   Jerry DiPoto           mr Rsp  R   26   27   50      0     0 
+13690   Cal Eldred             sp Rsp  R   26  100    0      0     0 
+14421   Mike Gallego           ss Rsp  R   33   85   15      0     0 
+14626   Kirk Gibson            dh Lsp  L   37  100    0      0     0 
+14974   Shawn Green            lf Lsp  L   21   24    0      0     0 
+15290   Dave Hansen            3b Lsp  R   25   85   15      0     0 
+15617   Mike Henneman          cl Rsp  R   32   84   16      0     0 
+16453   Randy Johnson          sp Rsp  L   30  100    0      0     0 
+16494   Chipper Jones          3b Ssp  R   22  100    0      0     0 
+17123   Chad Kreuter           c  Ssp  R   29  100    0      0     0 
+18150   Pedro A. Martinez      mr Lsp  L   25  100    0      0     0 
+18203   Terry Mathews          mr Lsp  R   29   44    0      0     0 
+19558   Matt Nokes             c  Lp   R   30   51   49      0     0 
+19763   Paul O'Neill           rf Lsp  L   31  100    0      0     0 
+20040   Roger Pavlik           sp Rsp  R   26   39   61      0     0 
+20384   Jim Poole              mr Lsp  L   28  100    0      0     0 
+20608   Tim Raines             lf Ssp  R   34  100    0      0     0 
+20680   Randy Ready            2b Rp   R   34   38    0      0     0 
+21628   Tim Scott              mr Rsp  R   27   88   12      0     0 
+22721   Bill Swift             sp Rsp  R   32   64   36      0     0 
+22953   Robby Thompson         2b Rp   R   32   35   65      0     0 
+23544   Jerome Walton          1b Rsp  R   28   71   29      0     0 
+        Total                            29.1                0       
+
+
+
+                               Team roster ID -- 1994 Cincinnati Reds                               
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10349   Paul Assenmacher       mr Lsp  L   33  100    0      0     0 
+10827   Andy Benes             sp Rsp  R   26  100    0      0     0 
+10904   Geronimo Berroa        dh Rsp  R   29   91    9      0     0 
+11194   Pedro Borbon           rp Rsp  L   26  100    0      0     0 
+11348   Jeff Brantley          cl Rsp  R   30  100    0      0     0 
+11855   Ken Caminiti           3b Ssp  R   31  100    0      0     0 
+12153   Norm Charlton          rp Ssp  L   31  100    0      0     0 
+13964 f Sid Fernandez          sp Lsp  L   31   79   21      0     0 
+14215   Kevin Foster           sp Rsp  R   25   58    0      0     0 
+14829   Tom Goodwin            rf Lsp  R   25    5    0      0     0 
+15384   Lenny Harris           3b Lsp  R   29  100    0      0     0 
+15702   Orel Hershiser         sp Rsp  R   35  100    0      0     0 
+15708 f Joe Hesketh            sp Lsp  L   35  100    0      0     0 
+17291   Ray Lankford           cf Lsp  L   27  100    0      0     0 
+17306 f Barry Larkin           ss Rsp  R   30  100    0      0     0 
+18806   Matt Mieske            rf Rsp  R   26   97    0      0     0 
+18970   Dave Mlicki            sp Rsp  R   26  100    0      0     0 
+18986   Mike Mohler            sp Rsp  L   25    1    0      0     0 
+19269 f Bobby Munoz            sp Rsp  R   26   77    0      0     0 
+19403   Bob Natal              c  Rsp  R   28   36    0      0     0 
+19551 f Otis Nixon             cf Ssp  R   35  100    0      0     0 
+19683   Jose Offerman          ss Ssp  R   25   65    0      0     0 
+19926   Rafael Palmeiro        1b Lp   L   29  100    0      0     0 
+19973   Lance Parrish          c  Rsp  R   38   82    0      0     0 
+20141 f Yorkis Perez           mr Lsp  L   26   84   16      0     0 
+20351   Eric Plunk             mr Rsp  R   30  100    0      0     0 
+20825   Shane Reynolds         mr Rsp  R   26  100    0      0     0 
+20973   Bip Roberts            2b Ssp  R   30   97    0      0     0 
+21238   Johnny Ruffin          mr Rsp  R   22  100    0      0     0 
+22313   Scott Stahoviak        1b Lsp  R   24  100    0      0     0 
+22763   Tony Tarasco           lf Lp   R   23  100    0      0     0 
+22780   Eddie Taubensee        c  Lp   R   25  100    0      0     0 
+22876   Mickey Tettleton       c  Ssp  R   33  100    0      0     0 
+23717   David Wells            sp Lsp  L   31   63   37      0     0 
+23951 f Eddie Williams         1b Rsp  R   29   47    0      0     0 
+24159   Tony Womack            2b Lsp  R   24   15    0      0     0 
+24213   Todd Worrell           cl Rsp  R   34   85   15      0     0 
+24315 f Anthony Young          sp Rsp  R   28   76   24      0     0 
+        Total                            28.6                0       
+
+
+
+                               Team roster ID -- 1994 Houston Streets                               
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10176   Roberto Alomar         2b Ssp  R   26  100    0      0     0 
+10277   Eric Anthony           lf Lsp  L   26   84   13      0     0 
+10757   Rich Becker            cf Ssp  L   22   32   12      0     0 
+10902   Damon Berryhill        c  Ssp  R   30  100    0      0     0 
+10951 f Mike Bielecki          mr Rsp  R   34  100    0      0     0 
+11349   Jeff Branson           2b Lp   R   27  100    0      0     0 
+11517 f Jarvis Brown           cf Rsp  R   27   50    0      0     0 
+12218 f Archi Cianfrocco       3b Rsp  R   27   67    0      0     0 
+12277   Jerald Clark           of Rsp  R   30  100    0      0     0 
+13778   Scott Erickson         sp Rsp  R   26   89   11      0     0 
+14779 f Chris Gomez            ss Rsp  R   23  100    0      0     0 
+14781   Leo Gomez              3b Rsp  R   28  100    0      0     0 
+15025 f Jason Grimsley         sp Rsp  R   26   58    0      0     0 
+15123   Juan Guzman            sp Rsp  R   27  100    0      0     0 
+15268   Chris Haney            sp Lsp  L   25   37    0      0     0 
+15648 f Gil Heredia            mr Rsp  R   28  100    0      0     0 
+16138   David Hulse            cf Lsp  L   26   76    0      0     0 
+17779   Larry Luebbers         sp Rsp  R   24  100    0      0     0 
+18498   Fred McGriff           1b Lsp  L   30  100    0      0     0 
+19139 f Russ Morman            1b Rsp  R   32   15    0      0     0 
+19709 f Troy O'Leary           rf Lsp  L   24   41    0      0     0 
+19716 f Darren Oliver          mr Rsp  L   23   89    0      0     0 
+19909 f Lance Painter          sp Lsp  L   26   62    0      0     0 
+19944 f Mark Parent            c  Rsp  R   32  100    0      0     0 
+20008   Bob Patterson          mr Rsp  L   35  100    0      0     0 
+20193   Mark Petkovsek         rp Rsp  R   28  100    0      0     0 
+20487   Tom Prince             c  Rsp  R   29   11    0      0     0 
+20508   Tim Pugh               sp Rsp  R   27   45    0      0     0 
+21066 f Rich Rodriguez         mr Rsp  L   31  100    0      0     0 
+21105   Mel Rojas              cl Rsp  R   27  100    0      0     0 
+22175   Cory Snyder            lf Rp   R   31   93    7      0     0 
+22744   Jeff Tackett           c  Rp   R   28  100    0      0     0 
+23452   Tim Wakefield          sp Rsp  R   27  100    0      0     0 
+23670 f Mitch Webster          lf Ssp  L   35  100    0      0     0 
+        Total                            27.9                0       
+
+
+
+                             Team roster ID -- 1994 Ferdinand Magellans                             
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10285 f Kevin Appier           sp Rsp  R   26  100    0      0     0 
+10633   Shawn Barton           rp Rsp  L   31  100    0      0     0 
+10652   Rich Batchelor         rp Rsp  R   27  100    0      0     0 
+10959   Craig Biggio           2b Rsp  R   28  100    0      0     0 
+11155 f Barry Bonds            lf Lp   L   29  100    0      0     0 
+11904 f John Cangelosi         lf Ssp  L   31   71    0      0     0 
+12630   Jim Corsi              rp Rsp  R   32  100    0      0     0 
+14020   Steve Finley           cf Lp   L   29   83   17      0     0 
+14114   Huck Flener            rp Ssp  L   25  100    0      0     0 
+14840   Tom Gordon             sp Rsp  R   26  100    0      0     0 
+15780   Glenallen Hill         cf Rsp  R   29  100    0      0     0 
+15898   Chris Hoiles           c  Rsp  R   29  100    0      0     0 
+16094 f Rex Hudler             2b Rp   R   33   87   13      0     0 
+16297   John Jaha              1b Rsp  R   28   85    0      0     0 
+16603   Jeff Juden             sp Rsp  R   23   35    0      0     0 
+16854 f Mark Kiefer            mr Rsp  R   25   17    0      0     0 
+17640 f Graeme Lloyd           mr Lsp  L   27  100    0      0     0 
+18597 f Greg McMichael         cl Rsp  R   27  100    0      0     0 
+18894   Randy Milligan         1b Rsp  R   32  100    0      0     0 
+19374   Tim Naehring           2b Rp   R   27   77   23      0     0 
+19543   Dave Nilsson           c  Lsp  R   24  100    0      0     0 
+19772   Jose Oquendo           ss Ssp  R   30  100    0      0     0 
+20095   Geronimo Pena          2b Ssp  R   27   92    8      0     0 
+20133   Melido Perez           sp Rsp  R   28  100    0      0     0 
+20260   Hipolito Pichardo      mr Rsp  R   24  100    0      0     0 
+21237   Bruce Ruffin           cl Ssp  L   30  100    0      0     0 
+21665 f Kevin Seitzer          3b Rsp  R   32   73   27      0     0 
+22003   Heathcliff Slocumb     mr Rsp  R   28  100    0      0     0 
+22149   Zane Smith             sp Lsp  L   33  100    0      0     0 
+22680 f Dale Sveum             dh Ssp  R   30   19    0      0     0 
+23346 f Randy Velarde          ss Rsp  R   31  100    0      0     0 
+23699   Walt Weiss             ss Ssp  R   30  100    0      0     0 
+23872   Bob Wickman            mr Rsp  R   25  100    0      0     0 
+23957   Gerald Williams        lf Rp   R   27  100    0      0     0 
+        Total                            28.3                0       
+
+
+
+                              Team roster ID -- 1994 Reykjavík 101ers                               
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10181   Moises Alou            lf Rsp  R   27  100    0      0     0 
+10201   Wilson Alvarez         sp Lsp  L   24  100    0      0     0 
+10341 f Andy Ashby             sp Rsp  R   26  100    0      0     0 
+10530   Bret Barberie          2b Ssp  R   26  100    0      0     0 
+10807   Albert Belle           lf Rp   R   27   95    0      0     0 
+10911   Sean Berry             3b Rsp  R   28  100    0      0     0 
+10947 f Dante Bichette         rf Rsp  R   30  100    0      0     0 
+12091   Andujar Cedeno         ss Rsp  R   24  100    0      0     0 
+13144 f Carlos Delgado         lf Lsp  R   22   49    0      0     0 
+13958   Alex Fernandez         sp Rsp  R   24  100    0      0     0 
+14290   Marvin Freeman         sp Rsp  R   31  100    0      0     0 
+14342 f Jeff Frye              2b Rsp  R   27   70   12      0     0 
+16052   Thomas Howard          lf Ssp  R   29  100    0      0     0 
+16254   Danny Jackson          sp Rsp  L   32  100    0      0     0 
+18435   Chuck McElroy          mr Lsp  L   26  100    0      0     0 
+18730 f Kent Mercker           sp Lsp  L   26  100    0      0     0 
+19270 f Mike Munoz             mr Lsp  L   28  100    0      0     0 
+19349 f Mike Mussina           sp Rsp  R   25  100    0      0     0 
+19369 f Randy Myers            cl Lsp  L   31  100    0      0     0 
+19412   Denny Neagle           sp Lsp  L   25  100    0      0     0 
+20257   Mike Piazza            c  Rsp  R   25  100    0      0     0 
+20318 f Greg Pirkl             1b Rsp  R   23   29    0      0     0 
+22217   Sammy Sosa             rf Rsp  R   25  100    0      0     0 
+23669   Lenny Webster          c  Rsp  R   29  100    0      0     0 
+24328   Eric Young             lf Rsp  R   27  100    0      0     0 
+        Total                            26.7                0       
+
+
+
+                              Team roster ID -- 1994 Baraboo GoiterMen                              
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10015   Paul Abbott            sp Rsp  R   26  100    0      0     0 
+10391   Bobby Ayala            cl Rsp  R   24  100    0      0     0 
+10420   Jeff Bagwell           1b Rp   R   26  100    0      0     0 
+10981   Mike Birkbeck          sp Rsp  R   33  100    0      0     0 
+11162   Ricky Bones            sp Rsp  R   25  100    0      0     0 
+11402   Billy Brewer           mr Lsp  L   26  100    0      0     0 
+11631   Jay Buhner             rf Rsp  R   29  100    0      0     0 
+11879   Kevin Campbell         mr Rsp  R   29   39    0      0     0 
+13052   Storm Davis            mr Rsp  R   32  100    0      0     0 
+13141   Jose DeLeon            mr Rsp  R   33  100    0      0     0 
+13678   Mark Eichhorn          mr Rsp  R   33  100    0      0     0 
+15127   Tony Gwynn             rf Lsp  L   34  100    0      0     0 
+15231   Bob Hamelin            dh Lp   L   26  100    0      0     0 
+15877   Trevor Hoffman         cl Rsp  R   26  100    0      0     0 
+16068   Steve Howe             cl Lsp  L   36   88   12      0     0 
+16108   Mike Huff              lf Rsp  R   30   88   12      0     0 
+16267   Mike Jackson           mr Rsp  R   29   62   38      0     0 
+16306   Chris James            rf Rsp  R   31   65   35      0     0 
+16484   Bobby Jones            sp Rsp  R   24  100    0      0     0 
+16814   Jeff Kent              2b Rsp  R   26  100    0      0     0 
+16900 f Mike Kingery           cf Lsp  L   33  100    0      0     0 
+17452 f Dave Leiper            mr Lsp  L   32   53    0      0     0 
+17664   Kenny Lofton           cf Lsp  L   27  100    0      0     0 
+18041   Jeff Manto             3b Rsp  R   29  100    0      0     0 
+18052   Josias Manzanillo      mr Rsp  R   26   72   12      0     0 
+19380   Charles Nagy           sp Lsp  R   27  100    0      0     0 
+20156 f Gerald Perry           1b Lsp  R   33  100    0      0     0 
+20936 f Bill Risley            mr Rsp  R   27   81    0      0     0 
+21296   Bret Saberhagen        sp Rsp  R   30   96    0      0     0 
+21339 f Juan Samuel            cf Rsp  R   33  100    0      0     0 
+21349   Rey Sanchez            2b Rsp  R   26  100    0      0     0 
+21841 f Craig Shipley          3b Rsp  R   31   83   17      0     0 
+21921 f Mike Simms             rf Rsp  R   27   11    0      0     0 
+22344   Mike Stanley           c  Rsp  R   31   90   10      0     0 
+23517   Tim Wallach            3b Rsp  R   36  100    0      0     0 
+24368 f Eddie Zambrano         rf Rp   R   28  100    0      0     0 
+        Total                            29.3                0       
+
+
+
+                                Team roster ID -- 1994 Century Atoms                                
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+11476   Scott Brosius          3b Rsp  R   27   86   14      0     0 
+12551   Dennis Cook            mr Lsp  L   31  100    0      0     0 
+12900 f Omar Daal              mr Lsp  L   22   64    0      0     0 
+13019 f Eric Davis             cf Rsp  R   32   40   60      0     0 
+13156   Rich DeLucia           mr Rsp  R   29   26    0      0     0 
+13725 f Kevin Elster           ss Rp   R   29    7   28      0     0 
+13965 f Tony Fernandez         3b Ssp  R   32  100    0      0     0 
+14467   Rich Garces            rp Rsp  R   23  100    0      0     0 
+14456   Carlos Garcia          2b Rsp  R   26  100    0      0     0 
+15437 f Bill Haselman          c  Rsp  R   28   78    0      0     0 
+15642 f Pat Hentgen            sp Rsp  R   25  100    0      0     0 
+15956 f Rick Honeycutt         mr Lsp  L   40   83   17      0     0 
+16152   Todd Hundley           c  Ssp  R   25  100    0      0     0 
+16334   Stan Javier            cf Ssp  R   30  100    0      0     0 
+16344   Reggie Jefferson       dh Ssp  L   25   85   15      0     0 
+16732 f Roberto Kelly          cf Rsp  R   29  100    0      0     0 
+16960 f Ryan Klesko            lf Lsp  L   23  100    0      0     0 
+17541 f Mark Lewis             ss Rsp  R   24   40    0      0     0 
+17696 f Tony Longmire          rf Lsp  R   25  100    0      0     0 
+17919   Dave Magadan           3b Lsp  R   31   77   23      0     0 
+18124   Dave Martinez          rf Lsp  L   29  100    0      0     0 
+19442   Jeff Nelson            mr Rsp  R   27   63    0      0     0 
+19627   Charlie O'Brien        c  Rp   R   34  100    0      0     0 
+20619 f Manny Ramirez          rf Rsp  R   22  100    0      0     0 
+20646 f Pat Rapp               sp Rsp  R   26  100    0      0     0 
+20688   Jeff Reboulet          ss Rp   R   30  100    0      0     0 
+20718   Steve Reed             mr Rsp  R   28  100    0      0     0 
+20948 f Kevin Ritz             sp Rsp  R   29   64    0      0     0 
+21087 f Kenny Rogers           sp Lsp  L   29  100    0      0     0 
+22266   Bill Spiers            3b Lp   R   28  100    0      0     0 
+23729 f Turk Wendell           mr Lsp  R   27   27    0      0     0 
+23926   Bernie Williams        cf Ssp  R   25  100    0      0     0 
+24010 f Woody Williams         mr Rsp  R   27  100    0      0     0 
+24026   Dan Wilson             c  Rsp  R   25  100    0      0     0 
+24214 f Tim Worrell            sp Rsp  R   26   12   88      0     0 
+        Total                            27.7                0       
+
+
+
+                             Team roster ID -- 1994 Evanston Endorphins                             
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+12562   Steve Cooke            sp Rsp  L   24  100    0      0     0 
+13584   Lenny Dykstra          cf Lsp  L   31   74   26      0     0 
+13918   Jeff Fassero           sp Lsp  L   31   85   15      0     0 
+14092   John Flaherty          c  Rp   R   26   70    0      0     0 
+14664   Bernard Gilkey         lf Rp   R   27   98    0      0     0 
+14816   Dwight Gooden          sp Rsp  R   29   29   37      0     0 
+14876   Mark Grace             1b Lsp  L   30  100    0      0     0 
+14969   Mike Greenwell         lf Lsp  R   30   93    7      0     0 
+15339   Pete Harnisch          sp Rsp  R   27   70   30      0     0 
+15611 f Tom Henke              cl Rsp  R   36   75   25      0     0 
+15672   Roberto Hernandez      cl Rsp  R   29  100    0      0     0 
+15937   Darren Holmes          mr Rsp  R   28   56   36      0     0 
+16564   Brian Jordan           rf Rsp  R   27   73   27      0     0 
+19004   Raul Mondesi           rf Rsp  R   23  100    0      0     0 
+19235 f Terry Mulholland       sp Rsp  L   31  100    0      0     0 
+19781   Jesse Orosco           mr Rsp  L   37  100    0      0     0 
+20913   Jose Rijo              sp Rsp  R   29  100    0      0     0 
+21366 f Scott Sanders          sp Rsp  R   25   89   11      0     0 
+21692   Scott Servais          c  Rp   R   27  100    0      0     0 
+21993   Don Slaught            c  Rsp  R   35  100    0      0     0 
+23096   Alan Trammell          ss Rsp  R   36  100    0      0     0 
+23377   Fernando Vina          3b Lsp  R   25   88   12      0     0 
+        Total                            29.2                0       
+
+
+
+                             Team roster ID -- 1994 Hong Kong Cavaliers                             
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+12070   Vinny Castilla         ss Rsp  R   26   79    0      0     0 
+12068   Tony Castillo          mr Lsp  L   31  100    0      0     0 
+13522   Mariano Duncan         2b Rsp  R   31   89   11      0     0 
+13547 f Shawon Dunston         ss Rp   R   31  100    0      0     0 
+15663 f Jose Hernandez         ss Rsp  R   24  100    0      0     0 
+15838 f Denny Hocking          ss Ssp  R   24   12    0      0     0 
+16438 f Lance Johnson          cf Lp   L   30  100    0      0     0 
+16860   Darryl Kile            sp Rsp  R   25  100    0      0     0 
+17139   Bill Krueger           mr Lsp  L   36  100    0      0     0 
+17512 f Curt Leskanic          mr Rsp  R   26   32    0      0     0 
+18266   Brent Mayne            c  Lsp  R   26  100    0      0     0 
+18754   Jose Mesa              mr Rsp  R   28  100    0      0     0 
+18791 f Danny Miceli           mr Rsp  R   23   65    0      0     0 
+19071   Mike Moore             sp Rsp  R   34  100    0      0     0 
+19917   Dean Palmer            3b Rsp  R   25   89   11      0     0 
+20344 f Dan Plesac             mr Lsp  L   32  100    0      0     0 
+21061   Ivan Rodriguez         c  Rsp  R   22  100    0      0     0 
+21542 f Pete Schourek          mr Lsp  L   25   98    0      0     0 
+21896   Ruben Sierra           rf Ssp  R   28  100    0      0     0 
+22448   Dave Stewart           sp Rsp  R   37  100    0      0     0 
+22916   Frank Thomas           1b Rsp  R   26  100    0      0     0 
+23407 f Ed Vosberg             mr Lsp  L   32   30    0      0     0 
+23480   Larry Walker           rf Lsp  R   27   96    0      0     0 
+23578   Turner Ward            cf Ssp  R   29  100    0      0     0 
+        Total                            28.3                0       
+
+
+
+                               Team roster ID -- 1994 GPCC Shebazzle!                               
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10442 f Harold Baines          dh Lsp  L   35  100    0      0     0 
+10867 f Jason Bere             sp Rsp  R   23  100    0      0     0 
+11763   Brett Butler           cf Lsp  L   37  100    0      0     0 
+12989   Darren Daulton         c  Lsp  R   32   66   34      0     0 
+13599   Damion Easley          3b Rp   R   24   86   14      0     0 
+15604 f Rickey Henderson       lf Rsp  L   35   88   12      0     0 
+16421   Howard Johnson         lf Ssp  R   33  100    0      0     0 
+17284   Mark Langston          sp Rsp  L   33   71   29      0     0 
+18420   Jack McDowell          sp Rsp  R   28  100    0      0     0 
+18823   Alan Mills             mr Ssp  R   27  100    0      0     0 
+18956 f Kevin Mitchell         lf Rsp  R   32  100    0      0     0 
+19491 f Warren Newson          rf Lsp  L   29  100    0      0     0 
+20809   Armando Reynoso        sp Rsp  R   28   33   67      0     0 
+21298   Chris Sabo             3b Rp   R   32   89   11      0     0 
+22480   Kevin Stocker          ss Ssp  R   24   74   26      0     0 
+23308   Andy Van Slyke         cf Lp   R   33  100    0      0     0 
+        Total                            30.3                0       
+
+
+
+                               Team roster ID -- 1994 Ferlin Huskies                                
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10756   Rod Beck               cl Rsp  R   25   83   17      0     0 
+11528   Kevin Brown            sp Rsp  R   29  100    0      0     0 
+11670 f Ellis Burks            cf Rp   R   29   40   60      0     0 
+12285   Mark Clark             sp Rsp  R   26   81   19      0     0 
+12608 f Wil Cordero            ss Rp   R   22  100    0      0     0 
+12616 f Rheal Cormier          sp Lsp  L   27   31   69      0     0 
+14116   Darrin Fletcher        c  Lsp  R   27  100    0      0     0 
+15036   Marquis Grissom        cf Rsp  R   27  100    0      0     0 
+16338 f Gregg Jefferies        1b Ssp  R   26  100    0      0     0 
+16615   Dave Justice           rf Lsp  L   28  100    0      0     0 
+17298   Mike Lansing           2b Rsp  R   26  100    0      0     0 
+17461   Scott Leius            3b Rsp  R   28  100    0      0     0 
+17565   Derek Lilliquist       mr Lsp  L   28  100    0      0     0 
+18937   Blas Minor             mr Rsp  R   28   47    0      0     0 
+20405   Mark Portugal          sp Rsp  R   31   83   17      0     0 
+21235 f Kirk Rueter            sp Lsp  L   23   92    0      0     0 
+22878   Bob Tewksbury          sp Rsp  R   33  100    0      0     0 
+22936 f Jim Thome              3b Lsp  R   23  100    0      0     0 
+23092 f Steve Trachsel         sp Rsp  R   23   88   12      0     0 
+23442   Paul Wagner            sp Rsp  R   26  100    0      0     0 
+23453 f Matt Walbeck           c  Ssp  R   24  100    0      0     0 
+23482   Mike Walker            rp Rsp  R   27  100    0      0     0 
+24254   Rick Wrona             c  Rsp  R   30   16    0      0     0 
+24384   Todd Zeile             3b Rsp  R   28  100    0      0     0 
+        Total                            26.8                0       
+
+
+
+                            Team roster ID -- 1994 San Francisco Árboles                            
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10087 f Rick Aguilera          cl Rsp  R   32  100    0      0     0 
+10131 f Luis Alicea            2b Ssp  R   28  100    0      0     0 
+10220 f Brian Anderson         sp Ssp  L   22   73   23      0     0 
+10693 f Danny Bautista         cf Rsp  R   22   33   42      0     0 
+11909 f Jose Canseco           dh Rsp  R   29  100    0      0     0 
+13625   Dennis Eckersley       cl Rsp  R   39  100    0      0     0 
+13683 f Jim Eisenreich         rf Lsp  L   35  100    0      0     0 
+13838   Carl Everett           rf Ssp  R   24   15   15      0     0 
+14384 f Gary Gaetti            3b Rp   R   35   89   11      0     0 
+14705 f Joe Girardi            c  Rsp  R   29   91    9      0     0 
+16502 f Doug Jones             cl Rsp  R   37  100    0      0     0 
+16661   Ron Karkovice          c  Rp   R   30   80   20      0     0 
+17534   Darren Lewis           cf Rsp  R   26  100    0      0     0 
+17956   Pat Mahomes            sp Rsp  R   23   88   12      0     0 
+18164   Tino Martinez          1b Lsp  R   26  100    0      0     0 
+19519 f David Nied             sp Rsp  R   25  100    0      0     0 
+21436 f Steve Scarsone         2b Rp   R   28  100    0      0     0 
+21760 f Jeff Shaw              mr Rsp  R   27  100    0      0     0 
+21870   Brian Shouse           rp Lsp  L   25  100    0      0     0 
+21882 f Terry Shumpert         2b Rsp  R   27  100    0      0     0 
+22017 f John Smiley            sp Lsp  L   29  100    0      0     0 
+22171   J.T. Snow              1b Ssp  L   26   53    0      0     0 
+22511   Todd Stottlemyre       sp Lsp  R   29  100    0      0     0 
+22727 f Greg Swindell          sp Rsp  L   29  100    0      0     0 
+22759   Kevin Tapani           sp Rsp  R   30  100    0      0     0 
+23395   Omar Vizquel           ss Ssp  R   27   61   39      0     0 
+23627 f Allen Watson           sp Lsp  L   23   93    0      0     0 
+23858 f Rondell White          lf Rp   R   22   59    0      0     0 
+        Total                            28.0                0       
+
+
+
+                             Team roster ID -- 1994 Felldownhead Firsts                             
+                                           Regular season                                           
+
+                                                   --Contract-       
+  UID S Name                   P  Bats T  Age %Act %Dis Salary  Year 
+10667   Miguel Batista         rp Rsp  R   23  100    0      0     0 
+10881 f Sean Bergman           sp Rsp  R   24   12    0      0     0 
+11124 f Brian Bohanon          sp Lsp  L   25   34    0      0     0 
+11183   Bret Boone             2b Rsp  R   25  100    0      0     0 
+11200   Mike Bordick           ss Rsp  R   28  100    0      0     0 
+11628 f Damon Buford           lf Rsp  R   24   20    0      0     0 
+11675   John Burkett           sp Rsp  R   29  100    0      0     0 
+12036 f Larry Casian           mr Rsp  L   28  100    0      0     0 
+12050   Frank Castillo         sp Rsp  R   25   22   27      0     0 
+12388   Greg Colbrunn          1b Rsp  R   24   52   48      0     0 
+12486   Jeff Conine            lf Rsp  R   28  100    0      0     0 
+12855 f Midre Cummings         lf Lsp  R   22   23    0      0     0 
+12879   Chad Curtis            cf Rsp  R   25  100    0      0     0 
+14977 f Willie Greene          3b Lsp  R   22   19    0      0     0 
+15044 f Buddy Groom            mr Lsp  L   28   89    0      0     0 
+15077 f Eddie Guardado         sp Rsp  L   23   18    0      0     0 
+15246 f Jeffrey Hammonds       rf Rsp  R   23   67   33      0     0 
+15627   Doug Henry             mr Rsp  R   30   67   17      0     0 
+16255   Darrin Jackson         rf Rp   R   31  100    0      0     0 
+18580   Mark McLemore          2b Ssp  R   29  100    0      0     0 
+18695 f Roberto Mejia          2b Rp   R   22   44    0      0     0 
+19217   Jamie Moyer            sp Lsp  L   31  100    0      0     0 
+20130 f Eduardo Perez          1b Rsp  R   24   47    0      0     0 
+20593   Scott Radinsky         rp Lsp  L   26  100    0      0     0 
+20710   Jeff Reed              c  Lp   R   31  100    0      0     0 
+20833 f Arthur Rhodes          sp Lsp  L   24   38   12      0     0 
+21378   Benito Santiago        c  Rsp  R   29  100    0      0     0 
+21659   David Segui            1b Ssp  L   27   88   12      0     0 
+21667   Aaron Sele             sp Rsp  R   24  100    0      0     0 
+22293 f Russ Springer          mr Rsp  R   25   50    0      0     0 
+22345   Mike Stanton           mr Lsp  L   27  100    0      0     0 
+23306 f Todd Van Poppel        sp Rsp  R   22  100    0      0     0 
+23644 f David Weathers         sp Rsp  R   24  100    0      0     0 
+24340   Kevin Young            3b Rsp  R   25   68    0      0     0 
+        Total                            25.8                0       
+

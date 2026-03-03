@@ -1,0 +1,70 @@
+<html>
+<head>
+<style type="text/css">
+p         {color: #FFFFFF; font-size: 14; font-weight:normal; font-family: arial; }
+h1        {color: #FFFFFF; font-size: 34; font-weight:heavy; font-family: arial; }
+h2        {color: #FFFFFF; font-size: 15; font-family: arial; padding-top: 12px; border-top: 3px ; border-top-style: solid; border-top-color: #cccccc; }
+h3        {color: #FFFFFF; font-size: 14; font-family: arial; font-weight:normal; padding-top: 6px; border-top: 1px ; border-top-style: solid; border-top-color: #999999; }
+h4        {color: #FFFFFF; font-size: 20; font-weight:normal; font-family: arial; }
+a:link    {color: #0000FF; font-size: 14; font-family: arial; }
+a:visited {color: #00FF00; font-size: 14; font-family: arial; }
+a:hover   {color: #FF0000; font-size: 14; font-family: arial; }
+pre       {font-size: 14; font-family: "courier" ; }
+body      {background-color: #000000; color:#FFFFFF; font-family: arial; font-size: 12;}
+</style>
+</head>
+<img src="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/Images/2005.jpg" border=1; width=355/>
+<h1> LATE REGISTRATION </h1>
+<h4><b> INSIDER BASEBALL LEAGUE DAILY </b></h4>
+ 
+<p><b> 2005 </b></p><br>
+<p> 
+<br><br>
+
+</p><br><br>
+<a href="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/2005/Web/index.htm">League statistics only</a></p>
+<a href="#Standings"> Jump to Standings </a></p> 
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p> 
+
+<h2> ROSTER NOTES </h2><pre>
+
+</pre>
+
+
+<h2> CURRENT INJURIES </h2><pre>
+
+</pre>
+
+
+<h2> TRANSACTIONS </h2><pre>
+
+</pre>
+
+
+<h2> RESULTS <a name="Results"></a> </h2>
+      <h3> <a href="#Game 1"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre> 
+
+
+<h2> <a name="Standings"></a> STANDINGS </h2>
+<pre>
+
+</pre>
+
+
+<h2> BOXSCORES, SCORESHEETS, AND GAME LOGS </h2><pre>
+</pre><h3> <a name="Game 1"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre>
+
+
+<h2> <a name="Playing Time Report"></a> PLAYING TIME REPORT </h2><pre>
+
+</pre></body></html>
+<!-- 
+https://dl.dropbox.com/u/3641528/Gruntleball/Albumball/2005/Dailies/xxxx.htm
+-->

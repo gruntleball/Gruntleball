@@ -1,0 +1,122 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="2006.css">
+</head>
+<img src="http://www.gruntleball.com/albumball/Images/2006.jpg" border=1; width=310/>
+<h1> DRUM'S NOT DEAD </h1>
+<h4><b> INSIDER BASEBALL LEAGUE DAILY </b></h4>
+ 
+<p><b> 2006 </b></p><br>
+<p> 
+<br><br>
+
+</p><br><br>
+<a href="http://www.gruntleball.com/albumball/2006/web/index.html">League statistics only</a></p>
+<a href="#Standings"> Jump to Standings </a></p> 
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p> 
+
+<h2> ROSTER NOTES </h2><pre>
+
+</pre>
+
+
+<h2> CURRENT INJURIES </h2><pre>
+
+</pre>
+
+
+<h2> TRANSACTIONS </h2><pre>
+
+</pre>
+
+
+<h2> RESULTS <a name="Results"></a> </h2>
+      <h3> <a href="#Game 1"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 2"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 3"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 4"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 5"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 6"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 7"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 8"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 9"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre><h3> <a href="#Game 10"> Details</a></h3><pre>
+
+
+HR - 
+
+</pre> 
+
+
+<h2> <a name="Standings"></a> STANDINGS </h2>
+<pre>
+
+</pre>
+
+
+<h2> BOXSCORES, SCORESHEETS, AND GAME LOGS </h2><pre>
+</pre><h3> <a name="Game 1"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 2"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 3"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 4"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 5"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 6"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 7"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 8"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 9"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 10"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre>
+
+
+<h2> <a name="Playing Time Report"></a> PLAYING TIME REPORT </h2><pre>
+
+</pre></body></html>
+<!-- 
+http://www.gruntleball.com/albumball/2006/dailies/xxxx.html
+-->

@@ -1,0 +1,2214 @@
+TPL Daily - May 28, 1990
+
+
+*** TRANSACTIONS ***
+
+CEN - Farm Rich Garces
+      Promote Greg Minton
+
+
+*** RESULTS ***
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Endorphins        0  1  0  0  0  0  0  1  0     2  6  2     7  1
+1990 Beavis            0  0  0  2  0  3  0  1  x     6 12  0    10  0
+Smoltz (W,2-6), Smith,B (L,3-3)
+HR - None
+John Smoltz goes the distance and drives in the game-winning run.
+
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1990 GoiterMen         0  0  0  1  0  0  2  0  0  0     3 10  0    12  1
+1990 Perfectos         1  0  0  0  0  1  0  0  1  1     4  9  0     6  1
+Schooler (W,2-0), Abbott (L,0-2)
+HR - Santiago (4), Evans (2)
+Rafael Ramirez gets 3 hits including a double and drives in a pair.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Magellans         0  0  2  1  1  0  2  1  0     7 13  1    10  0
+1990 Bobs              0  0  0  0  0  0  0  6  0     6  7  1     3  0
+Perez (W,3-5), Morris (L,3-8), Ward (S,4)
+HR - Fitzgerald (2), Seitzer (1)
+Mike Fitzgerald scores twice, gets 3 hits to bring his average back to
+.500 and drives in a run.  Melido Perez is finding a groove.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  1  0  0  0  0  0  0  8     9 10  1     7  1
+1990 Brewers           0  0  1  0  0  0  1  1  0     3  9  0     6  0
+Robinson (W,4-5), Smith,L (L,2-2)
+HR - Coleman (2), Canseco,J (22)
+Vince Coleman hits a granny in the top of the 9th to put the Bronx
+ahead.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Messiahs          0  0  0  0  1  1  2  3  0     7 12  1     6  2
+1990 Whales            0  1  0  0  1  0  1  0  0     3  8  1     9  0
+Stottlemyre (W,4-4), Mulholland (L,4-4)
+HR - Franco (10)
+The Messiah bullpen tosses 3 shutout innings, and gives them the chance
+to pull ahead.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 101ers            1  1  3  1  5  0  1  0  0    12 12  0     6  3
+1990 Reds              0  0  0  0  0  0  0  0  0     0  8  1     8  0
+Harnisch (W,3-5), Welch (L,4-4)
+HR - Ramos (1), Bichette (11), Elster (2)
+Only Jeff Brantley is effective for the Reds.  Meanwhile, Harnisch tosses 
+a complete game, walking 3 and striking out 3.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Premiums          0  1  0  0  0  0  0  0  0     1  6  0    10  1
+1990 Streets           1  2  0  0  0  0  0  0  x     3  5  1     4  1
+Patterson (W,5-1), Leibrandt (L,4-5), Rogers (S,3)
+HR - None
+A well pitched game on both sides.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Huskies           0  1  0  0  0  0  0  0  2     3  6  0     8  1
+1990 Atoms             1  0  3  1  0  0  0  0  x     5  7  1     3  0
+Smiley (W,5-1), Tewskbury (L,4-4)
+HR - Davis,G (5), Winfield (5)
+John Smiley goes 7 strong innings, and T-Fern gets a pair of hits and
+scores twice.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Shebazzle!        1  1  1  5  2  0  0  0  0    10 17  1    10  1
+1990 FrozenDeadGuys    2  0  1  1  0  0  0  0  0     4  9  0     4  1
+DeLeon (W,3-5), Mesa (L,3-1), Eichhorn (S,5)
+HR - Mack (2), Baines (4), Sierra (4), Sandberg (20), Lansford (4)
+The Shebazzle offense explodes and Jose Mesa finally chalks up a well-
+deserved loss.
+
+
+*** STANDINGS ***
+
+Year Team                            W    L   Pct      GB    L10  Strk   RF   RA  Mgn 
+GLORIOUS
+1990 Century Atoms                  33   18  .647       -    8-2   W2   228  189   39 
+1990 The Bronx 1918s                31   23  .574   3 1/2    6-4   W4   270  228   42 
+1990 Newfoundland Perfectos         29   22  .569       4    5-5   W1   229  179   50 
+1990 Evanston Endorphins            30   25  .545       5    6-4   L1   260  210   50 
+1990 Ferdinand Magellans            28   26  .519   6 1/2    7-3   W1   289  270   19 
+1990 Effin Shebazzle!               21   32  .396      13    5-5   W1   245  293  -48 
+                                                                                      
+HELLBOUND
+1990 Grain Belt Premiums            38   16  .704       -    6-4   L1   302  182  120 
+1990 Cincinnati Reds                36   16  .692       1    6-4   L1   257  207   50 
+1990 Houston Streets                30   21  .588   6 1/2    7-3   W2   273  223   50 
+1990 Nederland FrozenDeadGuys       23   30  .434  14 1/2    4-6   L1   217  259  -42 
+1990 Reykjavik 101ers               19   34  .358  18 1/2    4-6   W1   198  273  -75 
+1990 Tewksbury Bobs                 16   36  .308      21    2-8   L2   205  256  -51 
+                                                                                      
+LIMEHOUSE
+1990 Butt Mountain Beavis           30   23  .566       -    7-3   W4   244  219   25 
+1990 Ferlin Huskies                 28   23  .549       1    6-4   L3   202  186   16 
+1990 China Trust Whales             25   28  .472       5    6-4   L1   202  234  -32 
+1990 Barcelona Brewers              21   31  .404   8 1/2    2-8   L3   191  248  -57 
+1990 Dun Laoghaire Messiahs         21   32  .396       9    2-8   W1   257  288  -31 
+1990 Baraboo GoiterMen              14   37  .275      15    2-8   L6   189  314 -125 
+
+
+*** CURRENT INJURIES ***
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+4/22/1990  CTW     Hall             Hit by pitch        6/11/1990    50   14 
+5/2/1990   FHK     Brown            General             6/2/1990     31    5 
+5/6/1990   FHK     Gagne            Brawl               5/31/1990    25    3 
+5/14/1990  EVN     Harris           General             5/29/1990    15    1 
+5/14/1990  CIN     Daniels          General             6/2/1990     19    5 
+5/20/1990  NFG     Dascenzo         General             6/5/1990     16    8 
+5/21/1990  BBG     Saberhagen       General             6/1/1990     11    4 
+5/21/1990  EVN     Heath            General             6/5/1990     15    8 
+5/22/1990  EVN     Hammaker         General             6/6/1990     15    9 
+5/23/1990  FHK     Gooden           General             6/8/1990     16   11 
+5/26/1990  TEW     Fermin           General             6/4/1990      9    7 
+5/27/1990  GBP     Morris           General             5/30/1990     3    2 
+5/27/1990  TEW     Alomar           General             6/2/1990      6    5 
+5/28/1990  EVN     Hatcher          Hit by pitch        5/29/1990     1    1 
+5/28/1990  CEN     Hayes,V          General             6/10/1990    13   13 
+
+
+*** BOXSCORES AND SCORESHEETS ***
+
+5/28/1990, EVN90-BMB90, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Endorphins        0  1  0  0  0  0  0  1  0     2  6  2     7  1
+1990 Beavis            0  0  0  2  0  3  0  1  x     6 12  0    10  0
+ 
+Endorphins           AB  R  H BI   AVG    Beavis               AB  R  H BI   AVG
+Dykstra           cf  4  0  2  0  .327    Backman           2b  5  1  2  2  .199       
+Orsulak           lf  3  0  1  0  .384     Candaele         2b  0  0  0  0  .209       
+Trammell          ss  3  0  0  1  .288    Moseby            cf  5  1  2  1  .239       
+ Searage          p   0  0  0  0  .000     Javier           cf  0  0  0  0  .258       
+Dawson            rf  4  0  0  0  .272    McGwire           1b  3  0  1  1  .254       
+Jacoby            3b  4  1  2  0  .290    Pasqua            lf  4  1  1  0  .218       
+Reed,Jo           2b  3  0  0  0  .250    Williams          3b  4  0  2  0  .235       
+Guerrero          1b  3  0  1  1  .280    Martinez,Da       rf  4  0  1  0  .311       
+Bradley           c   2  0  0  0  .000    Quirk             c   4  1  1  1  .258       
+ Hatcher          ph  0  0  0  0  .207    Guillen           ss  3  1  0  0  .300       
+ Gantner          pr  0  1  0  0  .196    Smoltz            p   3  1  2  1  .211       
+ Jones            ss  1  0  0  0  .286                         35  6 12  6             
+Smith,B           p   2  0  0  0  .148                                              
+ Guetterman       p   0  0  0  0  .000                                              
+ Reynolds         ph  1  0  0  0  .309                                              
+ Pena             c   1  0  0  0  .266                                              
+                     31  2  6  2                                                    
+ 
+Endorphins                       INN  H  R ER BB  K PCH STR   ERA
+Smith,B          L 3-3           5.2 11  5  5  3  4  95  57  3.03
+Guetterman                       1.1  0  0  0  0  2  17  12  2.01
+Searage                          1.0  1  1  0  1  0  32  18  0.00
+                                 8.0 12  6  5  4  6 144  87 
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Smoltz           W 2-6           9.0  6  2  2  2  6 124  78  5.19
+                                 9.0  6  2  2  2  6 124  78 
+ 
+EVN: Hatcher batted for Bradley in the 8th
+     Reynolds batted for Guetterman in the 8th
+     Gantner ran for Hatcher in the 8th
+     Jones inserted at ss in the 8th
+     Pena inserted at c in the 8th
+BMB: Candaele inserted at 2b in the 9th
+     Javier inserted at cf in the 9th
+ 
+E-Trammell, Jones. 2B-Jacoby, Backman, Pasqua. K-Trammell, Dawson 2, Smith,B, 
+Reynolds, Pena, McGwire 2, Pasqua, Williams, Martinez,Da, Quirk. BB-Orsulak, 
+Reed,Jo, McGwire 2, Pasqua, Guillen. SH-Smoltz. SF-Trammell, Guerrero. 
+HBP-Hatcher. HB-Smoltz. WP-Searage. 
+GWRBI: Smoltz
+Billy Hatcher was injured for this game only
+Temperature: 76, Sky: clear, Wind: none.
+
+....................................................................................................
+5/28/1990, EVN90-BMB90, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Endorphins        0  1  0  0  0  0  0  1  0     2  6  2     7  1
+1990 Beavis            0  0  0  2  0  3  0  1  x     6 12  0    10  0
+ 
+ 
+Endorphins           -----A------ -----B------ -----C------ -----D------ -----E------
+Dykstra           cf 1>S            8            53           S.1-3                  
+Orsulak           lf   7            31           S            W.1-2                  
+Trammell          ss   4          4>63           k            note 1                 
+ Searage          p                                                                  
+Dawson            rf   4            k          7>k            64/f                   
+Jacoby            3b 2>D            9            S          9>8                      
+Reed,Jo           2b   8.2-3      5>63           8            W                      
+Guerrero          1b   8/SF.3-H     9            8            S.1-2                  
+Bradley           c    6            9                                                
+ Hatcher          ph                           8>HBP                                 
+ Gantner          pr                                                                 
+ Jones            ss                                          8.2-3                  
+Smith,B           p  3>k          6>9                                                
+ Guetterman       p                                                                  
+ Reynolds         ph                             k                                   
+ Pena             c                                           k                      
+ 
+ 1: 8/SF.3-H;2-3 
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Backman           2b 1>43           31           64/f         D.1-H        S.3-H     
+ Candaele         2b                                                                 
+Moseby            cf   53           S          5>9            S.2-H;B-2    wp.1-2    
+                                                                           8         
+ Javier           cf                                                                 
+McGwire           1b   k            k            W            S.2-H        IW        
+Pasqua            lf 2>7          4>W            D.1-3        Guetterman   13        
+                                                              k                      
+Williams          3b   S            S.1-2        k          7>8                      
+Martinez,Da       rf   S.1-2        7.2-3        53           k                      
+Quirk             c    k            note 1     6>S            53                     
+Guillen           ss   8            IW           463/gdp    8>Searage                
+                                                              e6.B-2                 
+Smoltz            p  3>63           S.2-H;1-3    S            54/SH.2-3              
+ 
+ 1: 46/f.3-H;B-2(e6/th) 
+ 
+ 
+Endorphins       IN OUT ER                  Beavis           IN OUT ER                  
+Smith,B          A1  D3  5 L 3-3            Smoltz           A1  D9  2 W 2-6            
+Guetterman       D4  D7  0                                                              
+Searage          D8  E4  0                                                              
+
+
+5/28/1990, BBG90-NEW90, Jack Murphy Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1990 GoiterMen         0  0  0  1  0  0  2  0  0  0     3 10  0    12  1
+1990 Perfectos         1  0  0  0  0  1  0  0  1  1     4  9  0     6  1
+ 
+GoiterMen            AB  R  H BI   AVG    Perfectos            AB  R  H BI   AVG
+Walton            cf  3  0  1  0  .235    DeShields         2b  4  1  2  0  .272       
+ Wilson           ph  1  0  0  0  .286    Santiago          c   5  1  2  1  .210       
+ Martinez         1b  1  0  0  0  .215    Griffey Jr.       cf  5  0  2  2  .286       
+Kingery           lf  4  1  1  0  .333    Tartabull         rf  4  0  0  0  .329       
+Gwynn             rf  4  2  2  0  .319    Merced            lf  2  0  0  0  .286       
+Ramirez           ss  5  0  3  2  .278     Griffey          ph  1  0  0  0  .367       
+Liriano           2b  3  0  1  0  .227     Webster          pr  0  0  0  0  .291       
+Worthington       3b  3  0  0  1  .288    Sheffield         3b  3  0  0  0  .276       
+Benzinger         1b  4  0  1  0  .125    Evans             1b  4  1  2  1  .286       
+ Lamp             p   0  0  0  0  .000    Thon              ss  3  0  0  0  .248       
+ Buhner           ph  1  0  0  0  .343    Hanson            p   2  1  1  0  .192       
+ Abbott           p   0  0  0  0  .000     Darwin           p   1  0  0  0  .333       
+Geren             c   4  0  1  0  .158     Schooler         p   0  0  0  0  .000       
+ Kunkel           pr  0  0  0  0  .167     Presley          ph  1  0  0  0  .132       
+ Stanley          c   1  0  0  0  .206                         35  4  9  4             
+Parrett           p   2  0  0  0  .045                                              
+ Bradley          ph  2  0  0  0  .205                                              
+                     38  3 10  3                                                    
+ 
+GoiterMen                        INN  H  R ER BB  K PCH STR   ERA
+Parrett                          6.0  5  2  2  0  4  71  45  4.74
+Lamp             BS 2            3.0  3  1  1  2  1  39  22  3.95
+Abbott           L 0-2           0.2  1  1  1  1  0  18   9  6.63
+                                 9.2  9  4  4  3  5 128  76 
+ 
+Perfectos                        INN  H  R ER BB  K PCH STR   ERA
+Hanson                           6.0  6  2  2  3 10 118  75  3.04
+Darwin           BS 2            2.0  3  1  1  2  0  29  15  2.61
+Schooler         W 2-0           2.0  1  0  0  1  3  32  19  0.00
+                                10.0 10  3  3  6 13 179 109 
+ 
+BBG: Bradley batted for Parrett in the 7th
+     Wilson batted for Walton in the 7th
+     Martinez inserted at 1b in the 7th
+     Bradley moved to cf in the 7th
+     Kunkel ran for Geren in the 8th
+     Stanley inserted at c in the 8th
+     Buhner batted for Lamp in the 10th
+NEW: Griffey batted for Merced in the 7th
+     Griffey moved to lf in the 8th
+     Webster ran for Griffey in the 9th
+     Webster moved to lf in the 10th
+     Presley batted for Schooler in the 10th
+ 
+2B-Ramirez, Benzinger, Geren, Santiago, Evans. 3B-Kingery, Gwynn. 
+HR-Santiago(4), Evans(2). SB-DeShields(19). CS-Webster. K-Walton, Gwynn, 
+Worthington 2, Benzinger, Geren 3, Parrett 2, Bradley, Stanley, Buhner, 
+Tartabull, Sheffield, Thon 2, Darwin. BB-Kingery, Liriano 2, Worthington 2, 
+Bradley, DeShields, Thon, Griffey. SH-Gwynn, Sheffield. BALK-Darwin. 
+GWRBI: Griffey Jr.
+Temperature: 72, Sky: partly cloudy, Wind: out to left at 22 MPH.
+
+....................................................................................................
+5/28/1990, BBG90-NEW90, Jack Murphy Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1990 GoiterMen         0  0  0  1  0  0  2  0  0  0     3 10  0    12  1
+1990 Perfectos         1  0  0  0  0  1  0  0  1  1     4  9  0     6  1
+ 
+ 
+GoiterMen            -----A------ -----B------ -----C------ -----D------ -----E------
+Walton            cf 1>43           k            S            Darwin                 
+ Wilson           ph                                          9                      
+ Martinez         1b                                                       7         
+Kingery           lf   T            9            16/f.B-1     64/f.B-1   9>Schooler  
+                                                                           W         
+Gwynn             rf   k          4>T            13           bk.1-2       13/SH.1-2 
+                                                              S.2-3                  
+Ramirez           ss   8            S.3-H      6>3/g          D.3-H;1-3    S.2-3     
+Liriano           2b 2>43           W.1-2        S            W            2/fl      
+Worthington       3b   k            k            W.1-2        note 1       64/f      
+Benzinger         1b   D            k            note 2       6                      
+ Lamp             p                                                                  
+ Buhner           ph                                                     0>k         
+ Abbott           p                                                                  
+Geren             c    k            k            k          8>D                      
+ Kunkel           pr                                                                 
+ Stanley          c                                                        k         
+Parrett           p  3>k          5>k                                                
+ Bradley          ph                           7>W            note 3       k         
+ 
+ 1: W.3-H;2-3;1-2  2: 64/f.2-3;B-1  3: 8/dp.2x3(85) 
+ 
+ 
+Perfectos            -----A------ -----B------ -----C------ -----D------ -----E------
+DeShields         2b 1>63           S            S.1-2      8>163          W         
+Santiago          c    HR           43           63/gdp.2-3   D            SB2       
+                                                                           8.2-3     
+Griffey Jr.       cf   8          4>5            S.3-H        63           S.3-H     
+Tartabull         rf   3/fl         k            5            63                     
+Merced            lf 2>7            43         7>Lamp                                
+ Griffey          ph                             53         9>W                      
+ Webster          pr                                                                 
+Sheffield         3b   8          5>k            63           34/SH.1-2              
+Evans             1b   31           7            D            CS3(25)                
+                                                              HR                     
+Thon              ss 3>k            k            IW           8                      
+Hanson            p    3/g        6>S                                                
+ Darwin           p                              k                                   
+ Schooler         p                                         0>Abbott                 
+ Presley          ph                                          8                      
+ 
+ 
+GoiterMen        IN OUT ER                  Perfectos        IN OUT ER                  
+Parrett          A1  C4  2                  Hanson           A1  C9  2                  
+Lamp             C5  D8  1 BS 2             Darwin           D1  E1  1 BS 2             
+Abbott           D9  E3  1 L 0-2            Schooler         E2  E9  0 W 2-0            
+
+
+5/28/1990, FER90-TEW90, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Magellans         0  0  2  1  1  0  2  1  0     7 13  1    10  0
+1990 Bobs              0  0  0  0  0  0  0  6  0     6  7  1     3  0
+ 
+Magellans            AB  R  H BI   AVG    Bobs                 AB  R  H BI   AVG
+Biggio            lf  5  2  2  0  .294    Raines            lf  4  1  1  1  .244       
+Fitzgerald        c   5  2  3  1  .500    Lind              2b  4  1  0  0  .315       
+Bonds             cf  4  1  2  2  .320    Molitor           3b  4  1  1  1  .257       
+Wallach           3b  4  0  2  1  .386    Davis             cf  4  0  1  1  .241       
+Seitzer           2b  4  1  2  2  .243    Galarraga         1b  4  1  1  0  .225       
+Weiss             ss  4  1  1  0  .187    Johnson           rf  4  0  0  0  .296       
+Milligan          1b  3  0  0  0  .296    Valle             c   4  1  2  1  .237       
+Finley            rf  5  0  0  0  .246    Vizquel           ss  2  0  0  0  .247       
+Perez             p   4  0  1  1  .200     Hamilton         ph  1  1  1  0  .286       
+ Gordon           p   0  0  0  0  .333     McLemore         ss  0  0  0  0  .500       
+ Ward             p   0  0  0  0  .143    Morris            p   0  0  0  0  .087       
+                     38  7 13  7           Segui            ph  1  0  0  0  .208       
+                                           Reed             p   0  0  0  0  .333       
+                                           Ojeda            p   0  0  0  0  .000       
+                                           Romine           ph  1  0  0  0  .218       
+                                           Hernandez        p   0  0  0  0  .000       
+                                           King             ph  1  0  0  0  .272       
+                                                               34  6  7  4             
+ 
+Magellans                        INN  H  R ER BB  K PCH STR   ERA
+Perez            W 3-5           7.2  5  4  2  0  5  93  64  5.10
+Gordon                           0.0  0  1  0  0  0   1   1  7.39
+Ward             S 4             1.1  2  1  1  1  0  25  17  2.62
+                                 9.0  7  6  3  1  5 119  82 
+ 
+Bobs                             INN  H  R ER BB  K PCH STR   ERA
+Morris           L 3-8           6.0  7  4  4  4  3 104  57  3.98
+Reed                             1.2  6  3  3  0  0  34  23  7.47
+Ojeda                            0.1  0  0  0  0  0   1   1  4.43
+Hernandez                        1.0  0  0  0  1  1  19   8  3.89
+                                 9.0 13  7  7  5  4 158  89 
+ 
+TEW: Segui batted for Morris in the 6th
+     Hamilton batted for Vizquel in the 8th
+     Romine batted for Ojeda in the 8th
+     McLemore inserted at ss in the 9th
+     King batted for Hernandez in the 9th
+ 
+E-Wallach, Molitor. 2B-Wallach, Perez, Galarraga, Valle. HR-Fitzgerald(2), 
+Seitzer(1). SB-Weiss(4), Molitor(4), Davis(11), McLemore(1). CS-Bonds, 
+Wallach. K-Biggio, Seitzer, Weiss, Milligan, Raines, Molitor, Davis, Valle, 
+Romine. BB-Bonds, Seitzer, Weiss, Milligan 2, McLemore. SH-Morris. 
+SF-Wallach. 
+GWRBI: Bonds
+Temperature: 64, Sky: cloudy, Wind: out to center at 10 MPH.
+
+....................................................................................................
+5/28/1990, FER90-TEW90, Cleveland Municipal Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Magellans         0  0  2  1  1  0  2  1  0     7 13  1    10  0
+1990 Bobs              0  0  0  0  0  0  0  6  0     6  7  1     3  0
+ 
+ 
+Magellans            -----A------ -----B------ -----C------ -----D------ -----E------
+Biggio            lf 1>8          3>S            4            k            S         
+Fitzgerald        c    8            S.1-3        7          7>Reed         S.1-3     
+                                                              HR                     
+Bonds             cf   43           S.3-H;1-3  5>W            8            S.3-H;1-2 
+Wallach           3b 2>D            7/SF.3-H     S.1-3        8            Ojeda     
+                                                                           64/f      
+Seitzer           2b   4            k            CS2(24)      HR         9>Hernandez 
+                                                 S.3-H                     W         
+Weiss             ss   3/fl         CS2(26)      43.1-2       S            k/b       
+                                  4>W                                                
+Milligan          1b   W            W.1-2        k            SB2          9         
+                                                              53                     
+Finley            rf   note 1       note 2     6>63         8>9            43        
+Perez             p    46/f         D.3-H;1-3    63           43                     
+ Gordon           p                                                                  
+ Ward             p                                                                  
+ 
+ 1: e5.2-3;1-2;B-1  2: 54/f.2-3;B-1 
+ 
+ 
+Bobs                 -----A------ -----B------ -----C------ -----D------ -----E------
+Raines            lf 1>4            k            43           S.3-H;1-3              
+Lind              2b   8          4>3/fl       7>5/fl         Gordon                 
+                                                              note 1                 
+Molitor           3b   3/L          k            8            Ward                   
+                                                              S.2-H;1-3              
+Davis             cf 2>53           9            k            S.3-H;1-3              
+Galarraga         1b   63         5>53         8>D            SBH;SB2                
+                                                              63                     
+Johnson           rf   3/b          7            53         9>3/g                    
+Valle             c  3>S            k            D.2-H        13                     
+Vizquel           ss   9          6>8                                                
+ Hamilton         ph                             S.2-3                               
+ McLemore         ss                                          W                      
+Morris            p    34/SH.1-2                                                     
+ Segui            ph                9                                                
+ Reed             p                                                                  
+ Ojeda            p                                                                  
+ Romine           ph                             k                                   
+ Hernandez        p                                                                  
+ King             ph                                          SB2                    
+                                                              7                      
+ 
+ 1: e5.3-H;1-2;B-1 
+ 
+ 
+Magellans        IN OUT ER                  Bobs             IN OUT ER                  
+Perez            A1  D1  2 W 3-5            Morris           A1  D1  4 L 3-8            
+Gordon           D2  D2  0                  Reed             D2  E3  3                  
+Ward             D3  D9  1 S 4              Ojeda            E4  E4  0                  
+                                            Hernandez        E5  E8  0                  
+
+
+5/28/1990, BRX90-BAR90, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  1  0  0  0  0  0  0  8     9 10  1     7  1
+1990 Brewers           0  0  1  0  0  0  1  1  0     3  9  0     6  0
+ 
+1918s                AB  R  H BI   AVG    Brewers              AB  R  H BI   AVG
+Coleman           lf  5  1  1  4  .278    Davis             rf  4  0  0  0  .275       
+Wilson            cf  3  0  0  0  .307    Olerud            1b  4  1  1  0  .231       
+Bell              ss  5  1  2  0  .280    Daulton           c   3  0  1  0  .242       
+Fielder           1b  3  0  0  0  .315     Karkovice        c   0  0  0  0  .125       
+ Parker           ph  2  2  2  1  .395    Boston            lf  4  0  1  0  .299       
+Canseco,J         rf  4  2  2  2  .290    Jefferies         2b  3  0  0  1  .213       
+Reed              c   4  0  1  0  .200    Anderson          cf  4  1  2  0  .246       
+Buechele          3b  3  0  1  0  .338     Milacki          p   0  0  0  0  .333       
+ Baerga           ph  2  1  1  2  .293    Smith,O           ss  4  1  2  1  .253       
+Whitaker          2b  2  1  0  0  .271    Phillips          3b  4  0  1  0  .258       
+Robinson          p   3  0  0  0  .095    Wells             p   2  0  1  0  .200       
+ Brett            ph  0  1  0  0  .322     Hrbek            ph  1  0  0  0  .230       
+ Kipper           p   0  0  0  0  .000     Smith,L          p   0  0  0  0  .000       
+                     36  9 10  9           Comstock         p   0  0  0  0  .500       
+                                           Barfield         cf  1  0  0  0  .188       
+                                                               34  3  9  2             
+ 
+1918s                            INN  H  R ER BB  K PCH STR   ERA
+Robinson         W 4-5           8.0  9  3  3  1  3 114  75  3.06
+Kipper                           1.0  0  0  0  0  0  10   6  3.20
+                                 9.0  9  3  3  1  3 124  81 
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Wells                            7.0  4  1  1  2  6 107  65  8.01
+Smith,L          BS 5, L 2-2     1.1  2  4  4  2  3  28  14  3.90
+Comstock                         0.1  3  4  4  2  0  17   7  7.90
+Milacki                          0.1  1  0  0  1  0  12   6  5.82
+                                 9.0 10  9  9  7  9 164  92 
+ 
+BRX: Parker batted for Fielder in the 9th
+     Baerga batted for Buechele in the 9th
+     Brett batted for Robinson in the 9th
+     Parker moved to 1b in the 9th
+     Baerga moved to 3b in the 9th
+BAR: Hrbek batted for Wells in the 7th
+     Karkovice inserted at c in the 9th
+     Barfield inserted at cf in the 9th
+ 
+E-Coleman. 2B-Reed, Buechele, Parker, Boston, Anderson. HR-Coleman(2), 
+Canseco,J(22). SB-Wilson(27). K-Coleman 2, Wilson, Bell, Fielder 2, 
+Canseco,J, Reed, Buechele, Davis, Daulton 2. BB-Wilson 2, Canseco,J, Reed, 
+Whitaker 2, Brett, Daulton. SF-Jefferies. WP-Smith,L. BALK-Wells. 
+GWRBI: Coleman
+Temperature: 65, Sky: cloudy, Wind: out to right at 10 MPH.
+
+....................................................................................................
+5/28/1990, BRX90-BAR90, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  1  0  0  0  0  0  0  8     9 10  1     7  1
+1990 Brewers           0  0  1  0  0  0  1  1  0     3  9  0     6  0
+ 
+ 
+1918s                -----A------ -----B------ -----C------ -----D------ -----E------
+Coleman           lf 1>k            7            9          8>Smith,L      note 1    
+                                                              k                      
+Wilson            cf   W          3>3/fl         7            k            W         
+Bell              ss   7            9          6>S            k            S.1x3(75) 
+Fielder           1b   SB2          k            k                                   
+                       bk.2-3                                                        
+                       8                                                             
+ Parker           ph                                        9>S            D.1-H     
+Canseco,J         rf 2>HR         4>k            4/L          W.1-2        Milacki   
+                                                                           S.2-H     
+Reed              c    8            D            k            9            W.1-2     
+Buechele          3b   D            53         7>k                                   
+ Baerga           ph                                          wp.2-3;1-2   2         
+                                                              note 2                 
+Whitaker          2b   W            7            13           IW                     
+Robinson          p    note 3     5>7            4/L                                 
+ Brett            ph                                          Comstock               
+                                                              W.2-3;1-2              
+ Kipper           p                                                                  
+ 
+ 1: HR.3-H;2-H;1-H  2: S.3-H;2-H;B-2  3: 16/b/f.1-2;B-1 
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Davis             rf 1>63           31           k            7                      
+Olerud            1b   7          4>8          6>7          8>S                      
+Daulton           c    k            S            W            k                      
+ Karkovice        c                                                                  
+Boston            lf 2>7            6            64/f.B-1     D.1-3                  
+Jefferies         2b   3/g          7            7            note 1                 
+Anderson          cf   8          5>S          7>D.B-3(e7)    7                      
+ Milacki          p                                                                  
+Smith,O           ss 3>S            9            S.3-H      9>Kipper                 
+                                                              4                      
+Phillips          3b   S.1-3        3            8            7                      
+Wells             p    note 2       S.1-3                                            
+ Hrbek            ph                             7                                   
+ Smith,L          p                                                                  
+ Comstock         p                                                                  
+ Barfield         cf                                          7                      
+ 
+ 1: 9/SF.3-H;2-3  2: 463/gdp.3-H 
+ 
+ 
+1918s            IN OUT ER                  Brewers          IN OUT ER                  
+Robinson         A1  D6  3 W 4-5            Wells            A1  C9  1                  
+Kipper           D7  D9  0                  Smith,L          D1  D8  4 BS 5, L 2-2      
+                                            Comstock         D9  E4  4                  
+                                            Milacki          E5  E7  0                  
+
+
+5/28/1990, DLM90-CTW90, Oakland Coliseum
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Messiahs          0  0  0  0  1  1  2  3  0     7 12  1     6  2
+1990 Whales            0  1  0  0  1  0  1  0  0     3  8  1     9  0
+ 
+Messiahs             AB  R  H BI   AVG    Whales               AB  R  H BI   AVG
+Franco            2b  5  1  2  2  .354    Walker            rf  5  1  1  0  .190       
+Jose              lf  5  1  2  0  .309    Gibson            cf  4  1  2  0  .295       
+Martinez,E        3b  5  0  2  0  .313    Boggs             3b  3  0  1  0  .321       
+Ripken,C          ss  3  1  1  1  .227    Pagliarulo        1b  3  0  0  0  .183       
+Tettleton         c   4  1  1  0  .276     Thomas           ph  1  0  0  0  .286       
+O'Neill           rf  4  2  2  1  .306    Rivera            ss  3  1  2  1  .227       
+Devereaux         cf  4  0  1  1  .237     Owen             ph  1  0  0  0  .227       
+Gallego           1b  1  0  0  1  .184    Thompson          lf  3  0  0  0  .193       
+ Cotto            ph  1  1  1  0  .463     Miller           ph  1  0  0  0  .172       
+ Scioscia         c   1  0  0  0  .170     Castillo         p   0  0  0  0  .000       
+Stottlemyre       p   3  0  0  0  .150    Thompson          2b  2  0  0  0  .211       
+ Mercker          p   1  0  0  0  .000    Nokes             c   4  0  1  0  .207       
+ Berenguer        p   0  0  0  0  .000    Mulholland        p   3  0  1  1  .136       
+                     37  7 12  6           Russell,Jo       lf  1  0  0  0  .220       
+                                                               34  3  8  2             
+ 
+Messiahs                         INN  H  R ER BB  K PCH STR   ERA
+Stottlemyre      W 4-4           6.0  8  3  2  4  4 117  75  4.96
+Mercker          H 1             1.0  0  0  0  0  2  16   9  6.55
+Berenguer                        2.0  0  0  0  1  0  16   9  4.20
+                                 9.0  8  3  2  5  6 149  93 
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Mulholland       L 4-4           7.0  9  6  6  1  0 101  70  4.68
+Castillo                         2.0  3  1  0  0  4  35  23  6.53
+                                 9.0 12  7  6  1  4 136  93 
+ 
+DLM: Cotto batted for Gallego in the 7th
+     Scioscia inserted at c in the 7th
+     Tettleton moved to 1b in the 7th
+CTW: Thomas batted for Pagliarulo in the 7th
+     Owen batted for Rivera in the 7th
+     Miller batted for Thompson in the 7th
+     Owen moved to ss in the 8th
+     Thomas moved to 1b in the 8th
+     Miller moved to lf in the 8th
+     Russell,Jo inserted at lf in the 8th
+ 
+E-Martinez,E, Gibson. 2B-Jose, O'Neill, Rivera. HR-Franco(10). K-Franco, 
+Ripken,C, Scioscia, Mercker, Gibson, Rivera, Mulholland 2, Thomas, Owen. 
+BB-Ripken,C, Gibson, Boggs 2, Thompson 2. SH-Gallego. SF-Ripken,C. 
+WP-Mulholland. 
+GWRBI: Franco
+Temperature: 68, Sky: clear, Wind: out to right at 11 MPH.
+
+....................................................................................................
+5/28/1990, DLM90-CTW90, Oakland Coliseum
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Messiahs          0  0  0  0  1  1  2  3  0     7 12  1     6  2
+1990 Whales            0  1  0  0  1  0  1  0  0     3  8  1     9  0
+ 
+ 
+Messiahs             -----A------ -----B------ -----C------ -----D------ -----E------
+Franco            2b 1>S            4          6>9            HR.3-H     9>k         
+Jose              lf   8            63           D            7            S         
+Martinez,E        3b   7          4>8            S.2-3      8>S            7         
+Ripken,C          ss   W.1-2        8            9/SF.3-H     S.1-2        k         
+Tettleton         c    8            63           S.1-2        Castillo               
+                                                              note 1                 
+O'Neill           rf 2>8          5>D            43           note 2                 
+Devereaux         cf   7            8.2-3      7>3/g          S.3-H                  
+Gallego           1b   8            14/SH.3-H                                        
+ Cotto            ph                             S                                   
+ Scioscia         c                                           k                      
+Stottlemyre       p  3>7            7            wp.1-2                              
+                                                 3/g.2-3                             
+ Mercker          p                                           k                      
+ Berenguer        p                                                                  
+ 
+ 1: 5/f.1-2;B-1  2: S.2-H;1-H(e8/th);B-3 
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Walker            rf 1>9            63         5>53         7>S          9>3/g       
+Gibson            cf   k          3>9            S            S.1-3        W         
+Boggs             3b   S            W            W.1-2        note 1       463/gdp   
+Pagliarulo        1b   64/f         463/gdp      8.2-3        Mercker                
+ Thomas           ph                                          k                      
+Rivera            ss 2>D          4>k            S.3-H;1-2                           
+ Owen             ph                                          k                      
+Thompson          lf   6            63           43                                  
+ Miller           ph                                          43                     
+ Castillo         p                                                                  
+Thompson          2b   W            W          6>13         8>Berenguer              
+                                                              53                     
+Nokes             c    8.2-3        S.1-2        9            53                     
+Mulholland        p    S.3-H;1-2    k            k                                   
+ Russell,Jo       lf                                          8                      
+ 
+ 1: e5.3-H;1-2;B-1 
+ 
+ 
+Messiahs         IN OUT ER                  Whales           IN OUT ER                  
+Stottlemyre      A1  D3  2 W 4-4            Mulholland       A1  D4  6 L 4-4            
+Mercker          D4  D6  0 H 1              Castillo         D5  E4  0                  
+Berenguer        D7  E3  0                                                              
+
+
+5/28/1990, RYK90-CIN90, Riverfront Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 101ers            1  1  3  1  5  0  1  0  0    12 12  0     6  3
+1990 Reds              0  0  0  0  0  0  0  0  0     0  8  1     8  0
+ 
+101ers               AB  R  H BI   AVG    Reds                 AB  R  H BI   AVG
+Ramos             3b  5  2  2  1  .260    McGee             cf  4  0  2  0  .281       
+Sax               2b  4  2  1  0  .282    Larkin            ss  4  0  1  0  .297       
+Joyner            1b  4  1  1  0  .306    Palmeiro          1b  4  0  1  0  .350       
+Bichette          lf  5  2  2  4  .245    Sheets            lf  4  0  0  0  .125       
+White             cf  5  2  2  0  .208    Brunansky         rf  2  0  1  0  .400       
+Sosa              rf  4  2  2  0  .224    Sasser            c   3  0  1  0  .241       
+Elster            ss  2  1  1  3  .321     Brantley         p   0  0  0  0  .000       
+Kennedy           c   3  0  1  1  .290     Martinez         ph  1  0  0  0  .250       
+Harnisch          p   3  0  0  1  .118    Roberts           2b  3  0  0  0  .382       
+                     35 12 12 10           Treadway         ph  1  0  0  0  .273       
+                                          Caminiti          3b  1  0  0  0  .294       
+                                           Charlton         p   0  0  0  0  .143       
+                                           Parrish          c   2  0  0  0  .248       
+                                          Welch             p   1  0  0  0  .333       
+                                           Jackson          p   0  0  0  0  .250       
+                                           Oester           3b  2  0  2  0  .387       
+                                                               32  0  8  0             
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Harnisch         W 3-5           9.0  8  0  0  3  3 128  77  3.64
+                                 9.0  8  0  0  3  3 128  77 
+ 
+Reds                             INN  H  R ER BB  K PCH STR   ERA
+Welch            L 4-4           2.2  5  5  5  0  2  57  34  4.89
+Jackson                          1.2  4  6  5  3  0  39  17  5.00
+Charlton                         1.2  1  1  1  1  0  34  20  5.46
+Brantley                         3.0  2  0  0  2  3  43  26  1.11
+                                 9.0 12 12 11  6  5 173  97 
+ 
+CIN: Oester inserted at 3b in the 5th
+     Parrish inserted at c in the 7th
+     Martinez batted for Brantley in the 9th
+     Treadway batted for Roberts in the 9th
+ 
+E-Sasser. 2B-Palmeiro. 3B-Sosa. HR-Ramos(1), Bichette(11), Elster(2). 
+SB-Sosa(6). K-Bichette 2, White, Sosa 2, Sheets, Brunansky, Roberts. BB-Sax, 
+Joyner, Sosa, Elster, Kennedy 2, Brunansky 2, Caminiti. SH-Harnisch. 
+SF-Elster 2, Harnisch. WP-Harnisch, Jackson. 
+GWRBI: Ramos
+Temperature: 67, Sky: partly cloudy, Wind: in from center at 15 MPH.
+
+....................................................................................................
+5/28/1990, RYK90-CIN90, Riverfront Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 101ers            1  1  3  1  5  0  1  0  0    12 12  0     6  3
+1990 Reds              0  0  0  0  0  0  0  0  0     0  8  1     8  0
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+Ramos             3b 1>HR           63         5>S            13           8         
+Sax               2b   63           S            W.1-2      6>9          8>9         
+Joyner            1b   6            S.1-2        8.2-3        53           W         
+Bichette          lf   k            HR.2-H;1-H   S.3-H;1-2    7            k         
+White             cf 2>7            Jackson      note 1     7>S            k         
+                                    8                                                
+Sosa              rf   k          4>T            W.2-3;1-2    Brantley   9>k         
+                                                              S.1-3                  
+Elster            ss   HR           9/SF.3-H     note 2       8/SF.3-H     8         
+                                                 W                                   
+Kennedy           c    63           43           Charlton     SB2          S         
+                                                 note 3       IW                     
+Harnisch          p  3>53           6            note 4       note 5       8         
+ 
+ 1: S.2-H(8e2);1-2  2: wp.3-H;2-3;1-2  3: W.3-H;2-3;1-2  4: 7/SF.3-H;2-3 
+ 5: 23/SH.2-3;1-2 
+ 
+ 
+Reds                 -----A------ -----B------ -----C------ -----D------ -----E------
+McGee             cf 1>63         3>S            S.1-2        363/gdp                
+Larkin            ss   S            8            note 1     8>43                     
+Palmeiro          1b   8            643/gdp      3/g          D                      
+Sheets            lf   64/f       4>9          6>k            8.2-3                  
+Brunansky         rf 2>S            W            W            k                      
+Sasser            c    6            S.1-2        3                                   
+ Brantley         p                                                                  
+ Martinez         ph                                        9>8                      
+Roberts           2b   8            8            k                                   
+ Treadway         ph                                          43                     
+Caminiti          3b   wp.1-2       4/L                                              
+                       W                                                             
+ Charlton         p                                                                  
+ Parrish          c                            7>9            43                     
+Welch             p    54/f                                                          
+ Jackson          p                                                                  
+ Oester           3b              5>S            S                                   
+ 
+ 1: 543/gdp.2-3 
+ 
+ 
+101ers           IN OUT ER                  Reds             IN OUT ER                  
+Harnisch         A1  D8  0 W 3-5            Welch            A1  B4  5 L 4-4            
+                                            Jackson          B5  C7  5                  
+                                            Charlton         C8  D5  1                  
+                                            Brantley         D6  E9  0                  
+
+
+5/28/1990, GBP90-HOU90, Memorial Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Premiums          0  1  0  0  0  0  0  0  0     1  6  0    10  1
+1990 Streets           1  2  0  0  0  0  0  0  x     3  5  1     4  1
+ 
+Premiums             AB  R  H BI   AVG    Streets              AB  R  H BI   AVG
+Puckett           cf  5  0  1  1  .203    Butler            cf  4  1  2  0  .279       
+Fisk              c   4  0  0  0  .283    Alomar            2b  4  0  0  0  .327       
+Gant              lf  4  0  0  0  .388    Maldonado         rf  3  0  1  0  .262       
+Murray            1b  3  0  1  0  .365    McGriff           1b  4  0  1  1  .242       
+Bonilla           3b  4  0  1  0  .302    Gruber            3b  2  0  0  0  .301       
+Blauser           ss  4  0  1  0  .238    McReynolds        lf  2  1  0  0  .215       
+Doran             2b  1  1  0  0  .300    Surhoff           c   3  1  1  0  .314       
+Jackson           rf  4  0  1  0  .284    Templeton         ss  3  0  0  1  .262       
+Leibrandt         p   2  0  0  0  .154    Patterson         p   2  0  0  0  .000       
+ Borders          ph  1  0  1  0  .288     Hill             ph  1  0  0  0  .258       
+                     32  1  6  1           Rogers           p   0  0  0  0  .000       
+                                                               28  3  5  2             
+ 
+Premiums                         INN  H  R ER BB  K PCH STR   ERA
+Leibrandt        L 4-5           8.0  5  3  3  3  5 119  72  3.17
+                                 8.0  5  3  3  3  5 119  72 
+ 
+Streets                          INN  H  R ER BB  K PCH STR   ERA
+Patterson        W 5-1           7.0  4  1  1  4  5 107  62  3.41
+Rogers           S 3             2.0  2  0  0  1  1  31  21  4.32
+                                 9.0  6  1  1  5  6 138  83 
+ 
+GBP: Borders batted for Leibrandt in the 9th
+HOU: Hill batted for Patterson in the 7th
+ 
+E-Alomar. 2B-Bonilla, McGriff. SB-Doran(6). K-Puckett, Fisk, Blauser, Doran, 
+Jackson 2, Maldonado, McGriff, Gruber, McReynolds, Templeton. BB-Fisk, 
+Murray, Doran 3, Maldonado, Gruber, McReynolds. SH-Leibrandt. WP-Leibrandt 2. 
+GWRBI: Templeton
+Temperature: 73, Sky: clear, Wind: out to center at 1 MPH.
+
+....................................................................................................
+5/28/1990, GBP90-HOU90, Memorial Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Premiums          0  1  0  0  0  0  0  0  0     1  6  0    10  1
+1990 Streets           1  2  0  0  0  0  0  0  x     3  5  1     4  1
+ 
+ 
+Premiums             -----A------ -----B------ -----C------ -----D------ -----E------
+Puckett           cf 1>63           S.2-H;B-2    9          7>k            463/gdp   
+Fisk              c    W            5          5>k            3            7         
+Gant              lf   e4.1-2;B-1 3>5/fl         53           63                     
+Murray            1b   W.2-3;1-2    S            53         8>Rogers                 
+                                                              63                     
+Bonilla           3b   3/fl         7          6>D            8                      
+Blauser           ss   7            8            k            S                      
+Doran             2b 2>W          4>k            W            W.1-2                  
+Jackson           rf   k            S            63.2-3;1-2   k                      
+Leibrandt         p    SB2          24/SH.1-2    53                                  
+                       53                                                            
+ Borders          ph                                        9>S                      
+ 
+ 
+Streets              -----A------ -----B------ -----C------ -----D------ -----E------
+Butler            cf 1>S            wp.3-H     5>23/b         9                      
+                                    S                                                
+Alomar            2b   7            7            7/fl       8>8                      
+Maldonado         rf   wp.1-2     3>W            S            9                      
+                       k                                                             
+McGriff           1b   D.2-H        46/f.B-1     9            k                      
+Gruber            3b   k            W.1-2      6>13                                  
+McReynolds        lf 2>W            143/gdp      k                                   
+Surhoff           c    S.1-3      4>9            8                                   
+Templeton         ss   43.3-H;1-2   63         7>k                                   
+Patterson         p    43.2-3       63                                               
+ Hill             ph                             7                                   
+ Rogers           p                                                                  
+ 
+ 
+Premiums         IN OUT ER                  Streets          IN OUT ER                  
+Leibrandt        A1  D4  3 L 4-5            Patterson        A1  D3  1 W 5-1            
+                                            Rogers           D4  E2  0 S 3              
+
+
+5/28/1990, FHK90-CEN90, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Huskies           0  1  0  0  0  0  0  0  2     3  6  0     8  1
+1990 Atoms             1  0  3  1  0  0  0  0  x     5  7  1     3  0
+ 
+Huskies              AB  R  H BI   AVG    Atoms                AB  R  H BI   AVG
+Sabo              3b  4  0  1  1  .215    Fernandez         ss  4  2  2  0  .246       
+Duncan            ss  4  0  0  0  .293    Magadan           3b  2  1  1  2  .360       
+ Grissom          ph  1  0  0  0  .203     Sharperson       ph  2  0  1  0  .289       
+Justice           lf  4  0  1  0  .257    Strawberry        rf  3  0  1  0  .313       
+Davis             1b  4  1  1  1  .207    Henderson,R       lf  1  0  1  2  .315       
+Burks             cf  4  1  2  0  .250    Winfield          1b  4  1  1  1  .237       
+Deer              rf  2  0  0  0  .224    Hayes,V           cf  1  0  0  0  .206       
+ Kruk             ph  1  1  0  0  .380     Kelly            cf  2  0  0  0  .240       
+Carter            c   3  0  1  0  .321    Browne            2b  3  0  0  0  .230       
+Reynolds          2b  2  0  0  1  .206    Hundley           c   2  1  0  0  .130       
+Tewksbury         p   1  0  0  0  .294    Smiley            p   3  0  0  0  .150       
+ Harris           p   0  0  0  0  .000     Minton           p   0  0  0  0  .000       
+ Hollins          ph  1  0  0  0  .087     Nelson           p   0  0  0  0  .000       
+ Cook             p   0  0  0  0  .600                         27  5  7  5             
+ Oliver           ph  1  0  0  0  .167                                              
+ Burke            p   0  0  0  0  .000                                              
+ Tomlin           p   0  0  0  0  .000                                              
+ Maas             ph  1  0  0  0  .265                                              
+                     33  3  6  3                                                    
+ 
+Huskies                          INN  H  R ER BB  K PCH STR   ERA
+Tewksbury        L 4-4           3.0  5  5  5  2  0  48  28  4.06
+Harris                           1.0  0  0  0  0  2  10   8  2.13
+Cook                             2.0  2  0  0  0  1  21  12  2.97
+Burke                            1.0  0  0  0  0  0  13   9  3.15
+Tomlin                           1.0  0  0  0  1  0  12   5  3.31
+                                 8.0  7  5  5  3  3 104  62 
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Smiley           W 5-1           7.0  5  1  1  2  2 118  77  3.73
+Minton                           1.0  1  1  0  0  1  12   7  1.00
+Nelson                           1.0  0  1  0  2  1  26  14  4.13
+                                 9.0  6  3  1  4  4 156  98 
+ 
+FHK: Hollins batted for Harris in the 5th
+     Oliver batted for Cook in the 7th
+     Kruk batted for Deer in the 9th
+     Maas batted for Tomlin in the 9th
+     Grissom batted for Duncan in the 9th
+CEN: Kelly inserted at cf in the 3rd
+     Sharperson batted for Magadan in the 5th
+     Sharperson moved to 3b in the 6th
+ 
+E-Browne. 2B-Burks, Henderson,R. 3B-Magadan. HR-Davis(5), Winfield(5). 
+SB-Justice(3), Henderson,R(19). K-Duncan, Justice, Deer, Grissom, Strawberry, 
+Hundley, Kelly. BB-Deer, Carter, Reynolds 2, Strawberry, Henderson,R, 
+Hundley. SF-Sabo, Henderson,R 2. PB-Hundley. 
+GWRBI: Magadan
+Von Hayes was injured for this game and 12 more days
+Temperature: 70, Wind: none.
+
+....................................................................................................
+5/28/1990, FHK90-CEN90, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Huskies           0  1  0  0  0  0  0  0  2     3  6  0     8  1
+1990 Atoms             1  0  3  1  0  0  0  0  x     5  7  1     3  0
+ 
+ 
+Huskies              -----A------ -----B------ -----C------ -----D------ -----E------
+Sabo              3b 1>7            7            53         8>S            note 1    
+Duncan            ss   43           k            3/fl         Minton                 
+                                                              7                      
+ Grissom          ph                                                       k         
+Justice           lf   5          4>S          6>43           k                      
+Davis             1b 2>HR           4            7            63                     
+Burks             cf   D            SB2          6          9>S                      
+                                    8                                                
+Deer              rf   k            W          7>7                                   
+ Kruk             ph                                          Nelson                 
+                                                              e4.1-2;B-1             
+Carter            c    63           S.2-3;1-2    53           W.2-3;1-2              
+Reynolds          2b   pb.2-3       8            W            note 2                 
+                       8                                                             
+Tewksbury         p  3>43                                                            
+ Harris           p                                                                  
+ Hollins          ph              5>7                                                
+ Cook             p                                                                  
+ Oliver           ph                             43                                  
+ Burke            p                                                                  
+ Tomlin           p                                                                  
+ Maas             ph                                          6                      
+ 
+ 1: 7/SF.3-H;2-3  2: W.3-H;2-3;1-2 
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Fernandez         ss 1>S            S.2-3        7            43                     
+Magadan           3b   8            T.3-H;1-H                                        
+ Sharperson       ph                             S          8>Tomlin                 
+                                                              53                     
+Strawberry        rf   S.1-3        W            k            63                     
+Henderson,R       lf   9/SF.3-H     note 1     6>D            W                      
+Winfield          1b   PO1(13)    4>HR           4/L          SB2                    
+                     2>41                                     8                      
+Hayes,V           cf   31                                                            
+ Kelly            cf                Harris       8                                   
+                                    k                                                
+Browne            2b   7            1/b          43                                  
+Hundley           c  3>W            k          7>Burke                               
+                                                 13                                  
+Smiley            p    63.1-2     5>Cook         43                                  
+                                    63                                               
+ Minton           p                                                                  
+ Nelson           p                                                                  
+ 
+ 1: 7/SF/dp.3-H;1x2(754) 
+ 
+ 
+Huskies          IN OUT ER                  Atoms            IN OUT ER                  
+Tewksbury        A1  B5  5 L 4-4            Smiley           A1  D1  1 W 5-1            
+Harris           B6  B8  0                  Minton           D2  D5  0                  
+Cook             B9  C7  0                  Nelson           D6  E2  0                  
+Burke            C8  D1  0                                                              
+Tomlin           D2  D5  0                                                              
+
+
+5/28/1990, EFF90-NFG90, Wrigley Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Shebazzle!        1  1  1  5  2  0  0  0  0    10 17  1    10  1
+1990 FrozenDeadGuys    2  0  1  1  0  0  0  0  0     4  9  0     4  1
+ 
+Shebazzle!           AB  R  H BI   AVG    FrozenDeadGuys       AB  R  H BI   AVG
+Mack              cf  5  3  3  1  .309    Redus             cf  3  0  0  0  .038       
+LaValliere        c   5  1  2  3  .284     Vaughn           ph  1  0  0  0  .210       
+Baines            rf  5  1  1  3  .261     Eisenreich       cf  0  0  0  0  .288       
+Mitchell          lf  5  0  1  0  .310    Calderon          lf  4  2  2  0  .293       
+Johnson           ss  5  1  3  0  .265    Sandberg          2b  4  1  2  2  .315       
+Sierra            1b  5  1  2  1  .213    Clark             1b  4  0  0  0  .222       
+ Kittle           1b  0  0  0  0  .278    Braggs            rf  4  0  3  1  .304       
+Zeile             3b  5  1  2  0  .219    Lansford          3b  4  1  2  1  .269       
+Randolph          2b  3  1  2  0  .277    Dunston           ss  4  0  0  0  .235       
+DeLeon            p   3  1  1  2  .100    Leyritz           c   4  0  0  0  .267       
+ Smith,L          ph  1  0  0  0  .241    Mesa              p   1  0  0  0  .167       
+ Eichhorn         p   1  0  0  0  .200     Burns            p   1  0  0  0  .000       
+                     43 10 17 10           Plesac           p   0  0  0  0  .000       
+                                           Williams         p   1  0  0  0  .000       
+                                                               35  4  9  4             
+ 
+Shebazzle!                       INN  H  R ER BB  K PCH STR   ERA
+DeLeon           W 3-5           6.0  7  4  4  0  8 111  69  7.26
+Eichhorn         S 5             3.0  2  0  0  0  0  37  23  3.93
+                                 9.0  9  4  4  0  8 148  92 
+ 
+FrozenDeadGuys                   INN  H  R ER BB  K PCH STR   ERA
+Mesa             L 3-1           3.2  7  7  7  3  3  82  46  3.38
+Burns                            0.2  5  3  3  0  1  18  14  4.94
+Plesac                           2.0  2  0  0  1  3  37  23  4.35
+Williams                         2.2  3  0  0  0  4  46  25  4.99
+                                 9.0 17 10 10  4 11 183 108 
+ 
+EFF: Smith,L batted for DeLeon in the 7th
+     Kittle inserted at 1b in the 8th
+NFG: Vaughn batted for Redus in the 7th
+     Eisenreich inserted at cf in the 8th
+ 
+E-Sierra. 2B-LaValliere, Johnson, DeLeon. HR-Mack(2), Baines(4), Sierra(4), 
+Sandberg(20), Lansford(4). SB-Calderon(10). K-Mack, LaValliere 2, Baines, 
+Mitchell 2, Sierra 2, DeLeon, Smith,L, Eichhorn, Redus 2, Sandberg, Clark, 
+Dunston, Leyritz, Mesa, Burns. BB-Mack, LaValliere, Randolph 2. WP-Mesa. 
+BALK-Williams. 
+GWRBI: LaValliere
+Temperature: 70, Field: wet, Sky: threatening, Wind: right to left at 23 MPH, 
+Rain Delays: 27 minutes.
+
+....................................................................................................
+5/28/1990, EFF90-NFG90, Wrigley Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 Shebazzle!        1  1  1  5  2  0  0  0  0    10 17  1    10  1
+1990 FrozenDeadGuys    2  0  1  1  0  0  0  0  0     4  9  0     4  1
+ 
+ 
+Shebazzle!           -----A------ -----B------ -----C------ -----D------ -----E------
+Mack              cf 1>HR         3>S            wp.2-3;1-2   Plesac       Williams  
+                                                 W            k            S         
+LaValliere        c    k            S.1-3        note 1       IW           bk.1-2    
+                                                                           3/g.2-3   
+Baines            rf   53           43.3-H;1-2   Burns        8            k         
+                                                 HR.2-H                              
+Mitchell          lf   43           S.2-3        k          6>k          8>4/L       
+Johnson           ss 2>63           note 2     5>S            S            D         
+Sierra            1b   HR         4>k            9            S.1-3        k         
+ Kittle           1b                                                                 
+Zeile             3b   6            S            S.1-2        5            53        
+Randolph          2b   W            W.1-2        S.2-3;1-2    8          9>S         
+DeLeon            p    k            note 3       note 4                              
+ Smith,L          ph                                        7>k                      
+ Eichhorn         p                                                        k         
+ 
+ 1: D.3-H;2-H;1-H  2: 9/dp.3xH(92)  3: 16/b/f.1-2;B-1  4: D.3-H;2-H;1-3 
+ 
+ 
+FrozenDeadGuys       -----A------ -----B------ -----C------ -----D------ -----E------
+Redus             cf 1>k            7          5>k                                   
+ Vaughn           ph                                          7                      
+ Eisenreich       cf                                                                 
+Calderon          lf   S          3>S            7          8>43                     
+Sandberg          2b   HR.1-H       k            63           S                      
+Clark             1b   9            SB2        6>43           643/gdp                
+                                    k                                                
+Braggs            rf   S            note 1       9          9>S                      
+Lansford          3b   e3.1-2;B-1 4>HR           S            143.1-2                
+Dunston           ss   k            6            8            8                      
+Leyritz           c  2>k            53         7>Eichhorn     7                      
+                                                 43                                  
+Mesa              p    k                                                             
+ Burns            p                 k                                                
+ Plesac           p                                                                  
+ Williams         p                              13                                  
+ 
+ 1: S.2-H;Bx2(754) 
+ 
+ 
+
+....................................................................................................
+Shebazzle!           -----F------ -----G------ -----H------ -----I------ -----J------
+Mack              cf   8                                                             
+                                                                                     
+LaValliere        c    k                                                             
+                                                                                     
+Baines            rf                                                                 
+                                                                                     
+Mitchell          lf                                                                 
+Johnson           ss                                                                 
+Sierra            1b                                                                 
+ Kittle           1b                                                                 
+Zeile             3b                                                                 
+Randolph          2b                                                                 
+DeLeon            p                                                                  
+ Smith,L          ph                                                                 
+ Eichhorn         p                                                                  
+ 
+ 
+FrozenDeadGuys       -----F------ -----G------ -----H------ -----I------ -----J------
+Redus             cf                                                                 
+ Vaughn           ph                                                                 
+ Eisenreich       cf                                                                 
+Calderon          lf                                                                 
+Sandberg          2b                                                                 
+Clark             1b                                                                 
+                                                                                     
+Braggs            rf                                                                 
+Lansford          3b                                                                 
+Dunston           ss                                                                 
+Leyritz           c                                                                  
+                                                                                     
+Mesa              p                                                                  
+ Burns            p                                                                  
+ Plesac           p                                                                  
+ Williams         p                                                                  
+ 
+ 
+Shebazzle!       IN OUT ER                  FrozenDeadGuys   IN OUT ER                  
+DeLeon           A1  C7  4 W 3-5            Mesa             A1  C2  7 L 3-1            
+Eichhorn         C8  D8  0 S 5              Burns            C3  C9  3                  
+                                            Plesac           D1  D9  0                  
+                                            Williams         E1  F2  0                  
+
+
+
+*** PLAYING TIME REPORT ***
+
+                               PT Report -- 1990 Butt Mountain Beavis                               
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+f Juan Gonzalez             126     74     88     27     68     95    0       
+f Hector Villanueva          47    113     77     66     54    120    0       
+f Wes Chamberlain            28    132     77     25     22     47    0       
+  Wally Backman              46     42     42     39    322    361    0       
+  Dan Pasqua                 50     36     37     34    335    369    0       
+  Mark McGwire               46     31     35    168    482    650    0       
+  Pat Tabler                 58     14     33    117    149    266    0       
+  Casey Candaele             49     18     33    140    158    298    0       
+  Matt Williams              32     33     32    224    440    664    0       
+  Lloyd Moseby               11     40     31    148    339    487    0       
+  Dave Anderson              35     19     28     57     47    104    0       
+  Jamie Quirk                14     28     24     35    109    144    0    69 
+  Ozzie Guillen               5     33     22    219    344    563    0       
+  Terry Steinbach            28     18     21    120    292    412    0   287 
+  Stan Javier                24     17     20    143    214    357    0       
+  Dave Martinez              16     16     16     92    329    421    0       
+  Turner Ward                 8     16     14     12     37     49    0       
+  Dale Murphy                33      4     14    212    417    629    0       
+f Juan Samuel                21      3     10    209    349    558    0       
+f Mark Salas                  0      0      0     38    149    187    0       
+f Skeeter Barnes              0      0      0      0      0      0    0       
+f Warren Cromartie            0      0      0      0      0      0    0       
+f Chris James                 0      0      0    181    388    569    0       
+f Paul Sorrento               0      0      0      5    130    135    0       
+f Mickey Morandini            0      0      0     16     71     87    0       
+  Total                                         2327   5245   7572            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Jose Melendez             154     28    0  4/23/1990                                          
+f Marvin Freeman             85    207    0   5/9/1990                                          
+f Steve Ontiveros            84     43    0  4/13/1990                                          
+f Al Osuna                   77     48    0   5/9/1990                                          
+  Ken Hill                   65    343    0  5/24/1990                             74s          
+  Chris Hammond              59     56    0  5/26/1990                  27r        26r       27 
+  Jeff Gray                  47    217    0  5/27/1990            9r               29r        9 
+f Dave Smith                 45    239    0  5/22/1990                                          
+  Roger Clemens              36    920    0  5/26/1990                  59s                  59 
+  Dennis Eckersley           36    262    0  5/27/1990           14r     8r    15r           37 
+  Jerry Don Gleaton          35    325    0  5/27/1990            4r               21r        4 
+  Greg Maddux                33   1011    0  5/27/1990          102s                        102 
+  Jim Neidlinger             30    301    0  5/25/1990                        102s          102 
+  John Smoltz                27    966    0  5/28/1990   124s                               124 
+  Willie Fraser               6    315    0  5/26/1990                  39r     1r           40 
+f Tom Bolton                  0    501    0                                                     
+f Rob MacDonald               0      8    0                                                     
+f Charlie Hough               0    950    0                                                     
+f Wayne Edwards               0    396    0                                                     
+f Scott Lewis                 0     60    0                                                     
+  Total                           7196                                                          
+
+
+
+                              PT Report -- 1990 Newfoundland Perfectos                              
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+f Chip Hale                   0    233    175      1      3      4    0       
+f Kevin Reimer               80    107    105      5    106    111    0       
+f Jim Lindeman               68    117     76     28      6     34    0       
+  Jose Offerman              23     86     60     26     37     63    0       
+  Danny Tartabull            60     48     53    129    223    352    0       
+  Jack Clark                 42     42     42    157    285    442    0       
+  Delino DeShields           38     38     38    223    349    572    0       
+  Ken Griffey                71     34     38     17    139    156    0       
+  Gary Sheffield             34     35     35    154    393    547    0       
+  Benito Santiago            13     45     35    127    255    382    0   259 
+  Ken Griffey Jr.            37     33     34    238    428    666    0       
+  Dickie Thon                30     27     28    216    379    595    0       
+  Orlando Merced             25     29     28      8     17     25    0       
+  Greg Olson                 36     18     27    171    161    332    0    78 
+  Mitch Webster              32      8     19    206    271    477    0       
+  Dwight Evans                2     10      7    176    346    522    0       
+  Jim Presley                12      4      7    201    376    577    0       
+  Jose Oquendo                2      0      1    190    363    553    0       
+f Geno Petralli               0      0      0     29    353    382    0       
+f Denny Walling               0      0      0      8    129    137    0       
+f Greg Myers                  0      0      0     27    250    277    0       
+f Randy Ready                 0      0      0    151    102    253    0       
+f Tracy Woodson               0      0      0      0      0      0    0       
+f Dean Palmer                 0      0      0      0      0      0    0       
+f Chet Lemon                  0      0      0    162    216    378    0       
+f Jeff Leonard                0      0      0    194    331    525    0       
+f Jerald Clark                0      0      0     55     52    107    0       
+f Scott Hemond                0      0      0      7      6     13    0       
+  Total                                         2906   5576   8482            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+  Ben McDonald               60    472    0  5/25/1990                        108s          108 
+  Jimmy Key                  43    636    0  5/27/1990           93s                         93 
+  Dennis Martinez            35    908    0  5/24/1990                             118s         
+  Erik Hanson                33    964    0  5/28/1990   118s                               118 
+  Chuck Finley               27    962    0  5/21/1990                                          
+  Steve Bedrosian            26    349    0  5/25/1990                         25r 18r       25 
+  Mike Schooler              24    229    0  5/28/1990    32r                  13r           45 
+  Tim Belcher                22    627    0  5/26/1990                 111s        21r      111 
+  Stan Belinda               22    245    0   5/7/1990                                          
+  Danny Darwin               20    646    0  5/28/1990    29r     9r     2r    10r           50 
+f Danny Cox                   0      0    0                                                     
+f Chuck Cary                  0    661    0                                                     
+f Rod Nichols                 0     79    0                                                     
+f Trevor Wilson               0    457    0                                                     
+f Cris Carpenter              0     32    0                                                     
+f Scott Service               0      0    0                                                     
+f Todd Worrell                0      0    0                                                     
+f Dave Otto                   0     13    0                                                     
+f Julio Valera                0     64    0                                                     
+f Shawn Boskie                0    415    0                                                     
+  Total                           7759                                                          
+
+
+
+                                  PT Report -- 1990 Tewksbury Bobs                                  
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+f Luis Gonzalez             200     86     91      1     22     23    0       
+  Kevin Romine              100     49     72     67     84    151    0       
+  Paul Molitor               59     36     42    121    337    458    0       
+  Eric Davis                 48     34     38    170    348    518    0       
+  Darryl Hamilton            73     34     36     11    157    168    0       
+  Omar Vizquel               18     44     36     88    197    285    0       
+  Lance Johnson              49     30     35    168    419    587    0       
+  Andres Galarraga           32     31     31    231    397    628    0       
+  Sandy Alomar               60     20     31    131    352    483    5   206 
+  Tim Raines                 10     39     28    207    331    538    0       
+  Jose Lind                   7     36     23    240    321    561    0       
+  Dave Valle                 13     26     22    121    243    364    0   113 
+  Jeff King                  18     27     21    252    150    402    0       
+  David Segui                 7     25     20     41     95    136    0       
+  Felix Fermin               39     10     19    146    312    458    7       
+  Mark McLemore               5      5      5     22     43     65    0       
+f Tommy Herr                  9      1      4    232    375    607    0       
+f Ron Hassey                  0      0      0     36    250    286    0       
+f Scott Cooper                0      0      0      0      1      1    0       
+f Eric Anthony                0      0      0     96    181    277    0       
+f Fred Manrique               0      0      0     63    174    237    0       
+f Rod Brewer                  0      0      0      4     21     25    0       
+f Derrick May                 0      0      0      6     57     63    0       
+f Mario Diaz                  0      0      0     11     12     23    0       
+  Total                                         2465   4879   7344            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+  Rick Reed                  64    238    0  5/28/1990    34r                  43r           77 
+  Xavier Hernandez           57    268    0  5/28/1990    19r           37r        22r       56 
+  Steve Avery                56    466    0  5/26/1990                  94s                  94 
+  Don Robinson               46    667    0  5/25/1990                         80s           80 
+  Kevin Gross                40    712    0  5/24/1990                             120s         
+  John Wetteland             39    190    0  5/25/1990                         44r 4r        44 
+  Doug Drabek                36    918    0  5/27/1990          115s                        115 
+  Jack Morris                30   1073    0  5/28/1990   104s                               104 
+  Bryan Harvey               25    267    0  5/26/1990                  26r                  26 
+  Bobby Ojeda                17    500    0  5/28/1990     1r    15r            4r           20 
+f Mike Witt                   0    498    0                                                     
+f Mark Dewey                  0     92    0                                                     
+f Frank Wills                 0    422    0                                                     
+f John Cerutti                0    609    0                                                     
+f Willie Blair                0    297    0                                                     
+f Jeff Robinson               0    372    0                                                     
+f Greg Cadaret                0    525    0                                                     
+f Jim Acker                   0    403    0                                                     
+  Total                           8517                                                          
+
+
+
+                               PT Report -- 1990 Grain Belt Premiums                                
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Travis Fryman              46     88     72     97    154    251    0       
+  Bill Doran                 42     55     50    179    309    488    0       
+  Bo Jackson                 54     38     44    161    295    456    0       
+  Ron Gant                   37     39     39    227    404    631    0       
+  Eddie Murray               38     35     36    234    411    645    0       
+  Bobby Bonilla              28     41     35    310    376    686    0       
+  Carlton Fisk               25     39     34    189    332    521    0   248 
+  Kirby Puckett              42     18     26    186    429    615    0       
+  Hal Morris                  7     22     18     85    251    336    2       
+  Mike Greenwell              7     20     16    224    458    682    0       
+  Jeff Blauser               32      7     16    155    274    429    0       
+  Pat Borders                19     11     15    202    166    368    0    94 
+  Junior Felix                5      1      3    172    345    517    0       
+  Lenny Harris               13      0      2     47    418    465    0       
+f Randy Bush                  0      0      0      6    204    210    0       
+f Ernest Riles                0      0      0     12    172    184    0       
+f Tom Pagnozzi                0      0      0     90    147    237    0       
+f Rex Hudler                  0      0      0    147     90    237    0       
+f Billy Ripken                0      0      0    160    296    456    0       
+f Brian Downing               0      0      0    148    242    390    0       
+f Kent Anderson               0      0      0     62     99    161    0       
+f Mark Whiten                 0      0      0     42     54     96    0       
+f Max Venable                 0      0      0     29    193    222    0       
+f Barry Lyons                 0      0      0     36     52     88    0       
+f Rob Ducey                   0      0      0      7     55     62    0       
+  Total                                         3207   6226   9433            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Kevin D. Brown            123     96    0  5/13/1990                                          
+  John Tudor                 54    575    0  5/25/1990                         91s           91 
+  Jose Rijo                  42    801    0  5/27/1990          103s                        103 
+  Mike Harkey                41    728    0  5/24/1990                             55s          
+  Ed Whitson                 35    918    0  5/26/1990                  85s                  85 
+  Charlie Leibrandt          33    680    0  5/28/1990   119s                               119 
+  Joe Klink                  31    165    0  5/24/1990                             32r          
+  Steve Farr                 25    515    0  5/27/1990           32r    17r    12r 11r       61 
+  Larry Andersen             22    387    0  5/27/1990           26r    26r                  52 
+  Bobby Thigpen              22    347    0  5/26/1990                  17r        32r       17 
+  Brad Arnsberg               8    277    0  5/19/1990                                          
+  Paul Assenmacher            5    426    0  5/26/1990                  22r        19r       22 
+f Mark Lee                    0     85    0                                                     
+f Oil Can Boyd                0    774    0                                                     
+f Barry Jones                 0    310    0                                                     
+f Andy McGaffigan             0    363    0                                                     
+f Edwin Nunez                 0    343    0                                                     
+f Brian Meyer                 0     84    0                                                     
+f Tim Crews                   0    440    0                                                     
+f Steve Frey                  0    236    0                                                     
+f Bill Landrum                0    292    0                                                     
+f Dave Pavlas                 0     93    0                                                     
+  Total                           8935                                                          
+
+
+
+                                 PT Report -- 1990 The Bronx 1918s                                  
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Willie Wilson              81     58     65    113    232    345    0       
+  Jeff Reed                 100     42     51     32    173    205    0    76 
+  Carlos Baerga              38     51     47    110    228    338    0       
+  Jose Canseco               61     35     42    140    423    563    0       
+  Lou Whitaker               66     29     37    116    436    552    0       
+  Jay Bell                   34     37     35    302    394    696    0       
+  Steve Buechele             61     12     28     95    194    289    0       
+  George Brett               28     27     27    205    402    607    0       
+  Cecil Fielder              37     18     24    215    458    673    0       
+  Mike Macfarlane            24     24     24    161    279    440    0   240 
+  Vince Coleman              28     17     22    204    335    539    0       
+f John Marzano               45      5     20     33     58     91    0       
+  Alex Cole                  30     11     16     63    193    256    0       
+  Dave Parker                10     13     12    195    474    669    0       
+  Pete Incaviglia             7      1      3    196    391    587    0       
+f Dan Gladden                 1      0      0    172    399    571    0       
+f Steve Balboni               0      0      0    194    113    307    0       
+f Mike Blowers                0      0      0     56    101    157    0       
+f Gerald Perry                0      0      0    143    369    512    0       
+f Chuck Carr                  0      0      0      1      1      2    0       
+f Don Mattingly               0      0      0    136    292    428    0       
+f John Orton                  0      0      0     26     66     92    0       
+f Tom Nieto                   0      0      0     27      7     34    0       
+f Mike Benjamin               0      0      0     27     32     59    0       
+f Hensley Meulens             0      0      0     33     62     95    0       
+f Greg Briley                 0      0      0     38    342    380    0       
+f Stan Jefferson              0      0      0     36     97    133    0       
+f Donell Nixon                0      0      0     14      7     21    0       
+  Total                                         3083   6558   9641            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+  Chris Nabholz              46    282    0  5/26/1990                  13r                  13 
+  Ron Robinson               41    764    0  5/28/1990   114s                               114 
+  Jeff Innis                 39    104    0  5/26/1990                  11r                  11 
+  Ramon Martinez             38    950    0  5/25/1990                        104s          104 
+  David Cone                 35    860    0  5/26/1990                  81s                  81 
+  Mike Scott                 33    871    0  5/27/1990          106s                        106 
+  Tom Henke                  31    297    0  5/27/1990            7r     8r    16r           31 
+  Bob Kipper                 30    260    0  5/28/1990    10r           19r                  29 
+  John Franco                27    287    0  5/27/1990           19r            6r           25 
+  Scott Sanderson            25    885    0  5/23/1990                                          
+f Terry Leach                23    344    0  4/30/1990                                          
+  Chris Bosio                14    557    0  5/26/1990                  27r                  27 
+f Steve Howe                  0      0    0                                                     
+f Al Leiter                   0     22    0                                                     
+f Jaime Navarro               0    654    0                                                     
+f Brian Barnes                0    115    0                                                     
+f Mike Dunne                  0    134    0                                                     
+f Drew Hall                   0    254    0                                                     
+f Don Aase                    0    163    0                                                     
+  Total                           7803                                                          
+
+
+
+                              PT Report -- 1990 Dun Laoghaire Messiahs                              
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Felix Jose                 65     37     43    113    345    458    0       
+  Edgar Martinez             38     37     37    188    384    572    0       
+  Paul O'Neill               35     36     36    159    405    564    0       
+  Terry Pendleton            31     34     33    166    318    484    0       
+  Julio Franco               36     31     33    211    459    670    0       
+  Andy Van Slyke             25     36     32    217    352    569    0       
+  Cal Ripken                 29     29     29    216    479    695    0       
+  Mickey Tettleton           29     29     29    154    405    559    0   276 
+  Mike Scioscia              26     21     22    133    365    498    0    77 
+  Luis Polonia               34     14     16     56    380    436    0       
+  Mike Devereaux             10     20     16    174    229    403    0       
+  Henry Cotto                11     19     15    210    180    390    0       
+  Bill Spiers                16     12     13     88    301    389    0       
+  Mike Gallego               10      9     10    145    302    447    0       
+f Brian Dorsett               0      0      0     17     20     37    0       
+f Dann Bilardello             0      0      0     21     22     43    0       
+f Greg Brock                  0      0      0     99    323    422    0       
+f Tom Prince                  0      0      0      7      4     11    0       
+  Total                                         2374   5273   7647            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f John Habyan                86     37    0  5/16/1990                                          
+f Mike Flanagan              82     94    0  5/15/1990                                          
+f Chuck McElroy              78     76    0  5/27/1990           26r     7r                  33 
+f Mike Maddux                77     88    0  4/27/1990                                          
+f Bill Wegman                75    132    0  5/13/1990                                          
+  Jim Poole                  57     46    0  5/26/1990                  15r    21r           36 
+  Donn Pall                  42    306    0  5/26/1990                   5r    30r           35 
+  Juan Berenguer             42    434    0  5/28/1990    16r    32r    11r                  59 
+  Jim Abbott                 35    925    0  5/27/1990          104s                        104 
+  Tom Candiotti              32    856    0  5/26/1990                   2r        105s       2 
+  Frank Tanana               30    763    0  5/20/1990                                          
+  Todd Stottlemyre           28    866    0  5/28/1990   117s                               117 
+  Tom Glavine                25    929    0  5/26/1990                 113s                 113 
+  Kent Mercker               24    211    0  5/28/1990    16r                                16 
+  Ken Patterson              15    283    0  5/25/1990                        106s          106 
+f Bill Krueger                0    566    0                                                     
+f Pat Combs                   0    800    0                                                     
+f Roger Mason                 0      0    0                                                     
+f Dwayne Henry                0    176    0                                                     
+  Alan Mills                  0    200    0                                                     
+f Ted Power                   0    218    0                                                     
+  Total                           8006                                                          
+
+
+
+                                PT Report -- 1990 Barcelona Brewers                                 
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+f Bernard Gilkey             64    108     88     33     39     72    0       
+  Brady Anderson             10     57     47     58    221    279    0       
+  Darren Daulton             53     30     36    135    405    540    0   276 
+  Robin Ventura              37     34     35    182    383    565    0       
+  John Olerud                85     21     35     91    330    421    0       
+  Gregg Jefferies            30     34     33    240    419    659    0       
+  Ozzie Smith                34     30     31    227    365    592    0       
+  Chili Davis                 7     42     31    145    331    476    0       
+  Daryl Boston               18     31     29     67    330    397    0       
+  Ron Karkovice              18     30     25     74    134    208    0    84 
+  Kent Hrbek                 15     26     23    153    425    578    0       
+  Jesse Barfield             35      9     18    198    372    570    0       
+  Carlos Quintana            38      5     17    200    372    572    0       
+f Mark Carreon               19      9     15    125     80    205    0       
+  Jack Daugherty              8     14     13     87    253    340    0       
+  Tony Phillips              15     10     11    234    453    687    0       
+f Mike Aldrete                0      0      0     12    188    200    0       
+f Brian Giles                 0      0      0     58     52    110    0       
+f Rene Gonzales               0      0      0     35     86    121    0       
+f Rick Wrona                  0      0      0     17     15     32    0       
+f Darren Lewis                0      0      0     11     35     46    0       
+f Dale Sveum                  0      0      0     62     71    133    0       
+f Terry Puhl                  0      0      0      3     46     49    0       
+  Total                                         2447   5405   7852            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Randy Hennis              135     34    0   4/7/1990                                          
+  Curt Schilling             87    191    0  5/27/1990           92s                         92 
+  Mark Williamson            49    343    0  5/27/1990           28r           18r 19r       46 
+  Eric King                  45    623    0  5/24/1990                             102s         
+  Rick Aguilera              39    268    0  5/27/1990           18r    24r                  42 
+  Lee Smith                  38    344    0  5/28/1990    28r                      20r       28 
+  David Wells                36    759    0  5/28/1990   107s                               107 
+  Jamie Moyer                36    447    0  5/25/1990                         15r 34r       15 
+  Bud Black                  33    857    0  5/25/1990                         66s           66 
+  Jeff Montgomery            32    400    0  5/27/1990           11r    21r    16r           48 
+  Keith Comstock             31    228    0  5/28/1990    17r                  12r           29 
+f Kirk McCaskill             18    738    0  5/26/1990                  49s                  49 
+  Bob Milacki                17    594    0  5/28/1990    12r           40r        17r       52 
+f Carl Willis                 0      0    0                                                     
+f Mark Gardner                0    642    0                                                     
+f Todd Frohwirth              0     12    0                                                     
+f Joe Bitker                  0     48    0                                                     
+f Gary Wayne                  0    166    0                                                     
+f Mark Knudson                0    719    0                                                     
+f Cecilio Guante              0    197    0                                                     
+  Total                           7610                                                          
+
+
+
+                                PT Report -- 1990 China Trust Whales                                
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Kirk Gibson                47     69     62    118    241    359    0       
+  Frank Thomas               56     55     55     93    147    240    0       
+  John Russell               46     35     43     97     43    140    0    38 
+  Matt Nokes                 60     37     38     15    367    382    0   257 
+  Larry Walker               36     36     36    127    351    478    0       
+  Sam Horn                   59     34     35     17    263    280    0       
+  Robby Thompson             27     40     35    204    345    549    0       
+  Milt Thompson               9     44     34    129    334    463    0       
+  Spike Owen                 24     32     29    230    303    533    0       
+  Keith Miller               32     15     26    163     99    262    0       
+  Wade Boggs                  8     34     25    253    460    713    0       
+  Mike Pagliarulo            48     10     20    120    326    446    0       
+  Dave Gallagher              7     63     19    112     30    142    0       
+  Luis Rivera                 6     24     18    127    258    385    0       
+  Dave Bergman                0     11     10     14    227    241    0       
+d Mel Hall                   10      7      8     59    312    371   14       
+f Phil Plantier               0      0      0      0     21     21    0       
+f Chad Kreuter                0      0      0     21     11     32    0       
+f Rance Mulliniks             0      0      0     11    109    120    0       
+f Randy Kutcher               0      0      0     31     59     90    0       
+f Scott Leius                 0      0      0     17     11     28    0       
+f Gary Varsho                 0      0      0      2     47     49    0       
+f Thomas Howard               0      0      0     17     28     45    0       
+f Rich Gedman                 0      0      0      9    134    143    0       
+f Carl Nichols                0      0      0     50     11     61    0       
+f Charlie O'Brien             0      0      0    129    120    249    0       
+  Total                                         2165   4657   6822            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Pete Smith                 81    327    0  5/23/1990                                          
+f Luis Aquino                80    287    0  5/14/1990                                          
+  Bill Swift                 58    533    0  5/25/1990                        115s          115 
+  Mike Fetters               57    291    0  5/27/1990            6r                          6 
+  Kevin Tapani               47    659    0  5/27/1990           86s                         86 
+  Terry Mulholland           39    746    0  5/28/1990   101s                               101 
+  Tony Castillo              29    337    0  5/28/1990    35r           11r                  46 
+  Derek Lilliquist           27    537    0  5/26/1990                  92s                  92 
+  Joe Hesketh                26    269    0  5/26/1990                  12r                  12 
+  Mike Henneman              24    399    0  5/27/1990           17r                         17 
+  Les Lancaster               6    479    0  5/27/1990           14r    12r                  26 
+f Wally Ritchie               0      0    0                                                     
+f Jose Bautista               0    112    0                                                     
+f Paul Kilgus                 0     74    0                                                     
+f Kevin Ritz                  0     52    0                                                     
+  Scott Radinsky              0    237    0                                                     
+f Mike Munoz                  0     24    0                                                     
+f Dennis Rasmussen            0    825    0                                                     
+f Tony Fossas                 0    146    0                                                     
+  Total                           6334                                                          
+
+
+
+                                 PT Report -- 1990 Cincinnati Reds                                  
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+f Moises Alou                83    167     95     18      3     21    0       
+f Geronimo Berroa             0    400     80      4      1      5    0       
+f Ray Lankford               43     99     79     49     90    139    0       
+f Eddie Williams             91     50     79     33     14     47    0       
+  Otis Nixon                 27     60     39    167     96    263    0       
+  Willie McGee               33     36     35    236    429    665    0       
+  Rafael Palmeiro            35     35     35    206    445    651    0       
+  Barry Larkin               32     35     34    228    453    681    0       
+  Lance Parrish              51     26     33    138    385    523    0   266 
+  Mackey Sasser              11     31     27     56    232    288    0    93 
+  Bip Roberts                25     29     27    240    389    629    0       
+  Ken Caminiti               13     35     26    260    336    596    0       
+  Jeff Treadway              31     21     23    131    380    511    0       
+  Ron Oester                 20     20     20     45    126    171    0       
+d Kal Daniels                14     19     17    180    346    526    5       
+  Mike Felder                27     10     16     92    180    272    0       
+  Carmelo Martinez            6     14     11    105    142    247    0       
+  Larry Sheets                0      5      4     18    372    390    0       
+  Tom Brunansky               0      2      1    201    396    597    0       
+f Johnny Ray                  0      0      0    125    304    429    0       
+f Al Newman                   0      0      0    141    292    433    0       
+f Hubie Brooks                0      0      0    238    380    618    0       
+f Steve Lake                  0      0      0     52     32     84    0       
+f Jose Uribe                  0      0      0    153    295    448    0       
+f Rey Palacios                0      0      0     18     43     61    0       
+f Bob Melvin                  0      0      0    161    157    318    0       
+  Total                                         3295   6318   9613            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Dave Burba                 80     35    0  4/17/1990                                          
+  Sid Fernandez              40    735    0  5/27/1990          105s                        105 
+  Randy Myers                35    353    0  5/25/1990                         23r 25r       23 
+  Mike Jackson               35    338    0  5/28/1990    39r            9r                  48 
+  Dave Righetti              34    235    0  5/27/1990           10r     8r        29r       18 
+  Mark Portugal              33    831    0  5/26/1990                 105s                 105 
+  Mark Guthrie               33    603    0  5/25/1990                        110s          110 
+  Alejandro Pena             33    320    0  5/27/1990           19r     8r     8r 5r        35 
+  Andy Benes                 30    811    0  5/24/1990                             102s         
+  Jeff Brantley              27    361    0  5/28/1990    43r     2r               25r       45 
+  Bob Welch                  22    979    0  5/28/1990    57s                                57 
+  Norm Charlton              21    650    0  5/28/1990    34r    15r     9r                  58 
+f Jason Grimsley             20    255    0  4/20/1990                                          
+f Rudy Seanez                11    127    0  4/22/1990                                          
+f Rob Murphy                  0    285    0                                                     
+f Scott Bankhead              0     63    0                                                     
+f Bill Sampen                 0    394    0                                                     
+f Randy Veres                 0    175    0                                                     
+f Juan Agosto                 0    404    0                                                     
+f Mike LaCoss                 0    337    0                                                     
+f Mark Thurmond               0    238    0                                                     
+  Total                           8529                                                          
+
+
+
+                                 PT Report -- 1990 Houston Streets                                  
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Mike Bell                  71     59     60      7     41     48    0       
+f Pete Coachman             100     37     55     14     35     49    0       
+f Mike Bordick               33     44     40      6      9     15    0       
+  Kevin McReynolds           32     42     38    232    369    601    0       
+  Roberto Alomar             38     38     38    229    417    646    0       
+  Donnie Hill                24     41     36    112    280    392    0       
+  B.J. Surhoff               47     32     36    120    410    530    0   265 
+  Fred McGriff               37     35     35    226    432    658    0       
+  Kelly Gruber               43     32     35    186    476    662    0       
+  Brett Butler               30     36     34    286    446    732    0       
+  Candy Maldonado            41     23     28    194    457    651    0       
+  Tommy Gregg                32     18     19     22    239    261    0       
+  Mark Parent                24     12     17     96    112    208    0    59 
+f Brian McRae                27      1     12     78    104    182    0       
+  Garry Templeton            13      6      8    199    342    541    0       
+  Greg Litton                 8      4      6    144     76    220    0       
+  Gene Larkin                 1      2      2    135    322    457    0       
+f Nelson Santovenia           0      0      0     72    104    176    0       
+f Russ Morman                 0      0      0     22     19     41    0       
+f Jimmy Kremers               0      0      0      4     75     79    0       
+  Total                                         2384   4765   7149            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Pascual Perez             150     52    0  4/12/1990                                          
+  Lance McCullers            77    186    0  5/25/1990                         34r 17r       34 
+  Scott Erickson             59    485    0  5/25/1990                         68s           68 
+  Chuck Crim                 42    367    0  5/26/1990                  20r        22r       20 
+  Jay Howell                 41    271    0  5/27/1990           37r     8r        9r        45 
+  Bruce Hurst                39    903    0  5/27/1990           83s               87s       83 
+  Bob Patterson              37    386    0  5/28/1990   107s                               107 
+  Dave Stewart               27   1088    0  5/23/1990                                          
+  Kenny Rogers               27    428    0  5/28/1990    31r                      22r       31 
+  Greg Harris                23    803    0  5/26/1990                  89s                  89 
+f Curt Young                 20    527    0  5/25/1990                         12r           12 
+  Tom Niedenfuer              3    276    0  5/27/1990           39r                         39 
+  John Candelaria             0    345    0                                                     
+f Calvin Schiraldi            0    468    0                                                     
+f Dave Eiland                 0    127    0                                                     
+f Darryl Irvine               0     75    0                                                     
+f Roy Smith                   0    671    0                                                     
+f Gary Mielke                 0    174    0                                                     
+  Total                           7632                                                          
+
+
+
+                               PT Report -- 1990 Ferdinand Magellans                                
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Junior Ortiz               15     97     71     59    128    187    0       
+  Francisco Cabrera          55     93     63    113     30    143    0   131 
+f Tim Naehring              100     22     51     34     59     93    0       
+  Chris Gwynn                33     49     47     18    133    151    0       
+  Randy Milligan             55     31     38    129    327    456    0       
+  Randy Velarde              77     21     36     70    183    253    0       
+  Bill Pecota                61     17     35    114    166    280    0       
+  Tim Wallach                34     36     35    228    450    678    0       
+f Steve Decker               38     28     32     24     32     56    0       
+  Glenallen Hill              3     66     32    153    125    278    0       
+  Kevin Seitzer              29     32     31    234    463    697    0       
+  Walt Weiss                  8     37     30    126    379    505    0       
+  Barry Bonds                24     32     29    277    344    621    0       
+  Craig Biggio                5     44     29    249    372    621    0       
+f Chris Hoiles                3     53     28     34     34     68    0       
+  Steve Finley                7     33     27    122    391    513    0       
+f John Cangelosi             21      7     14     47     43     90    0       
+  Dave Henderson             23      3      9    146    348    494    0       
+  Mike Fitzgerald             2     14      9    172    211    383    0   226 
+  Geronimo Pena              24      0      8     17     34     51    0       
+f Alex Trevino                0      0      0     71     29    100    0       
+f Jose Gonzalez               0      0      0     79     29    108    0       
+f Chico Walker                0      0      0      0      0      0    0       
+f Bobby Rose                  0      0      0     11      5     16    0       
+  Total                                         2527   4315   6842            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Steve Chitren              69     64    0  4/21/1990                                          
+f Wally Whitehurst           48    263    0  5/11/1990                                          
+f Eric Plunk                 48    310    0  5/19/1990                                          
+  Tommy Greene               46    227    0  5/27/1990           14r    26r                  40 
+  Mike Hartley               45    325    0  5/27/1990           41r    14r     8r 14r       63 
+  Duane Ward                 36    508    0  5/28/1990    25r                  19r 17r       44 
+  Bobby Witt                 35    954    0  5/27/1990           77s                         77 
+  Zane Smith                 33    860    0  5/26/1990                 106s                 106 
+  Melido Perez               32    833    0  5/28/1990    93s                      89s       93 
+  Kevin Appier               28    784    0  5/25/1990                        100s          100 
+  Dan Schatzeder             26    283    0  5/27/1990           14r    17r    20r           51 
+  Tom Gordon                 19    858    0  5/28/1990     1r    24r            4r           29 
+f John Dopson                 0     75    0                                                     
+f Vicente Palacios            0     50    0                                                     
+f Scott Chiamparino           0    160    0                                                     
+f Steve Wilson                0    597    0                                                     
+f Mike Perez                  0     55    0                                                     
+f Dave Leiper                 0      0    0                                                     
+f Jose Guzman                 0      0    0                                                     
+f Rich Monteleone             0     31    0                                                     
+f Anthony Telford             0    168    0                                                     
+  Total                           7405                                                          
+
+
+
+                                 PT Report -- 1990 Reykjavik 101ers                                 
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Domingo Ramos               9    109     64    118    141    259    0       
+  Joey Belle                120     20     60     10     15     25    0       
+  Dante Bichette             38     76     60    154    217    371    0       
+  Rick Schu                  64     53     59     88     81    169    0       
+  Wally Joyner               11     65     47    118    240    358    0       
+  Joel Skinner              100     20     47     49     97    146    0   132 
+  Devon White                41     42     42    148    355    503    0       
+  Sammy Sosa                 24     45     36    257    322    579    0       
+  Steve Sax                  34     33     34    201    479    680    0       
+f Ernie Whitt                11     29     27     18    186    204    0       
+  Terry Kennedy              16     21     20     37    302    339    0   249 
+  Kevin Elster                9     25     19    131    221    352    0       
+  Eric Yelding               22     10     16    256    303    559    0       
+f Kurt Stillwell              1     17     13    152    408    560    0       
+  Joe Carter                 22      5     11    225    472    697    0       
+  Dion James                 27     10     10     11    269    280    0       
+f Lance Blankenship           0      0      0     81     81    162    0       
+f Gary Gaetti                 0      0      0    180    445    625    0       
+f Kirt Manwaring              0      0      0      8      5     13    0       
+f Sean Berry                  0      0      0     14     11     25    0       
+f Andujar Cedeno              0      0      0      4      4      8    0       
+f Lenny Webster               0      0      0      2      5      7    0       
+f Tom Brookens                0      0      0    107     65    172    0       
+f Mookie Wilson               0      0      0    204    425    629    0       
+f Damon Berryhill             0      0      0     17     42     59    0       
+  Total                                         2590   5191   7781            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Shawn Hillegas            107     43    0  4/25/1990                                          
+  Alex Fernandez             85    378    0  5/27/1990           73s                         73 
+  Dale Mohorcic              60    226    0  5/27/1990            4r     1r        20r        5 
+  Danny Jackson              58    499    0  5/26/1990                  94s                  94 
+  Scott Terry                39    323    0  5/27/1990           13r           21r           34 
+  Scott Ruskin               36    336    0  5/27/1990           11r    36r                  47 
+  Mark Gubicza               35    409    0  5/24/1990                             123s         
+  Joe Price                  34    273    0  5/27/1990           24r            8r           32 
+  Pete Harnisch              33    821    0  5/28/1990   128s                               128 
+  Dave LaPoint               30    694    0  5/27/1990           21r    34r                  55 
+  Tim Leary                  28    881    0  5/25/1990                        129s          129 
+  Joe Boever                 28    388    0  5/27/1990            8r                          8 
+f Wilson Alvarez              0      0    0                                                     
+f Darrel Akerfelds            0    395    0                                                     
+f Storm Davis                 0    498    0                                                     
+f Jeff Ballard                0    578    0                                                     
+f Mark Grant                  0    411    0                                                     
+f Walt Terrell                0    710    0                                                     
+f Mike Bielecki               0    749    0                                                     
+f Kevin Blankenship           0     57    0                                                     
+f Andy Hawkins                0    692    0                                                     
+  Total                           9361                                                          
+
+
+
+                                PT Report -- 1990 Baraboo GoiterMen                                 
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+f Jeff Manto                 68    134    108     38     59     97    0       
+f Mike Simms                 57    167    108      7      6     13    0       
+  Mike Kingery              133     81     88     30    197    227    0       
+f Dave Hansen               100     83     86      1      6      7    0       
+  Carlos Martinez            23    110     65    146    137    283    0       
+  Nelson Liriano             56     52     53     78    322    400    0       
+  Rafael Ramirez             17     68     46    209    271    480    0       
+  Jay Buhner                 58     32     41     64    121    185    0       
+  Jerome Walton               7     55     37    168    282    450    0       
+  Bob Geren                   5     59     36    126    177    303    0   215 
+  Mike Stanley               27     59     36    163     63    226    0   103 
+  Tony Gwynn                 15     44     33    241    388    629    0       
+  Craig Worthington          15     30     25    155    346    501    0       
+  Phil Bradley                5     14     10    192    303    495    0       
+  Glenn Wilson                5     12      9    181    219    400    0       
+  Jeff Kunkel                 5      1      4    130     88    218    0       
+  Andres Thomas               0      4      2    108    182    290    0       
+  Todd Benzinger              1      3      2    181    227    408    0       
+f Rick Dempsey                0      0      0    113     38    151    0       
+f Orlando Mercado             0      0      0     77     31    108    0       
+f Frank White                 0      0      0    100    157    257    0       
+f Lee Stevens                 0      0      0     61    214    275    0       
+f Alvaro Espinoza             0      0      0    155    317    472    0       
+  Total                                         2724   4151   6875            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Larry Casian              107     90    0  5/25/1990                         18r           18 
+  Paul Abbott               106    162    0  5/28/1990    18r    13r    34r    12r           77 
+  Gene Harris               105    176    0  5/27/1990           59r     5r     9r           73 
+  Scott Bailes               92    173    0  5/27/1990           35r    14r                  49 
+f Orel Hershiser             75    106    0  4/28/1990                                          
+  Jeff Parrett               53    479    0  5/28/1990    71s                                71 
+  Bret Saberhagen            46    561    4  5/21/1990                                          
+  Mike Walker                45    350    0  5/23/1990                                          
+  David West                 41    646    0  5/26/1990                  53s                  53 
+  Bruce Ruffin               38    678    0  5/25/1990                        101s          101 
+  Dennis Lamp                27    453    0  5/28/1990    39r           52r                  91 
+  Mike Jeffcoat               3    466    0  5/27/1990           50s                         50 
+f Charles Nagy                0    208    0                                                     
+f Rick Reuschel               0    390    0                                                     
+f Jeff Pico                   0    421    0                                                     
+f Eric Show                   0    482    0                                                     
+f John Mitchell               0    509    0                                                     
+f Jeff M. Robinson            0    654    0                                                     
+f Dan Petry                   0    655    0                                                     
+f Scott Garrelts              0    786    0                                                     
+  Total                           8445                                                          
+
+
+
+                                  PT Report -- 1990 Century Atoms                                   
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Todd Hundley               58     76     70     24     50     74    0   194 
+  Jerry Goff                 58     48     49     12    129    141    0    81 
+  Rickey Henderson           40     32     34    160    434    594    0       
+  Dave Magadan               11     43     32    193    348    541    0       
+  Don Slaught                24     46     30    193     74    267    0    33 
+  Dave Winfield              32     28     30    178    359    537    0       
+  Franklin Stubbs            36     25     29    171    330    501    0       
+  Tony Fernandez             16     34     28    238    483    721    0       
+  Darryl Strawberry           9     39     28    237    384    621    0       
+  Roberto Kelly              36     24     27    198    489    687    0       
+  Jerry Browne               36     24     27    176    434    610    0       
+  Mike Sharperson            28     18     24    239    176    415    0       
+f Tim Teufel                  0     40     15    120     72    192    0       
+  Von Hayes                   5      9      8    208    360    568   13       
+  Dick Schofield             25      1      8    110    269    379    0       
+  Alvin Davis                 2      1      1    200    392    592    0       
+f Bob Boone                   0      0      0     46     90    136    0       
+f Bill Haselman               0      0      0     11      3     14    0       
+f Javier Ortiz                0      0      0     44     46     90    0       
+f Ron Jones                   0      0      0     10     57     67    0       
+f Carlos Garcia               0      0      0      2      2      4    0       
+f Bill Bathe                  0      0      0     35     21     56    0       
+f Bill Schroeder              0      0      0     20     39     59    0       
+f Scott Fletcher              0      0      0    200    373    573    0       
+f Matt Sinatro                0      0      0     35     22     57    0       
+f Leo Gomez                   0      0      0     20     28     48    0       
+f Carlos Hernandez            0      0      0     14      6     20    0       
+f Darnell Coles               0      0      0    136     99    235    0       
+  Total                                         3230   5569   8799            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Rich Garces                96     24    0  5/27/1990           19r                         19 
+f Rich DeLucia               88    144    0  5/24/1990                             26r          
+  Greg Minton                61     61    0  5/28/1990    12r                                12 
+  Jeff Reardon               41    210    0  5/27/1990           15r    23r    13r           51 
+  Jack Armstrong             38    704    0  5/27/1990           59s                         59 
+  Mike Boddicker             35    956    0  5/25/1990                        113s          113 
+  Gene Nelson                35    291    0  5/28/1990    26r    17r           11r           54 
+  Greg Hibbard               34    871    0  5/26/1990                  93s                  93 
+  Frank Viola                34   1016    0  5/24/1990                             88s          
+  John Smiley                34    632    0  5/28/1990   118s                      16r      118 
+  Gregg Olson                23    305    0  5/27/1990            6r           26r 15r       32 
+  Mel Rojas                   8    173    0  5/27/1990           36r                         36 
+f Scott Anderson              0     71    0                                                     
+f Ken Dayley                  0    307    0                                                     
+f Allan Anderson              0    797    0                                                     
+f Matt Young                  0    963    0                                                     
+f Darren Holmes               0     77    0                                                     
+f Jose DeJesus                0    544    0                                                     
+f Mike Norris                 0    113    0                                                     
+f Joe Grahe                   0    200    0                                                     
+  Total                           8459                                                          
+
+
+
+                               PT Report -- 1990 Evanston Endorphins                                
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Andre Dawson               34     43     40    198    383    581    0       
+  Tim Jones                  15     45     39     27    118    145    0       
+  Lenny Dykstra              27     41     36    232    459    691    0       
+  Brook Jacoby               31     38     36    177    447    624    0       
+  Alan Trammell              34     32     32    200    437    637    0       
+  Mark Grace                 28     34     32    209    453    662    0       
+d Mike Heath                  5     42     27    160    238    398    8     4 
+  Joe Orsulak                22     28     27     83    382    465    0       
+  Jody Reed                  23     26     25    213    478    691    0       
+  R.J. Reynolds              29     20     25    126    117    243    0       
+  Tony Pena                  26     19     21    167    373    540    0   257 
+  Billy Hatcher               4     25     16    225    320    545    1       
+  Jim Gantner                15     17     16    102    256    358    0       
+  Pedro Guerrero              9     11     10    185    369    554    0       
+f Mark Davidson               6      3      5    106     36    142    0       
+  Scott Bradley               0      2      2     32    225    257    0    61 
+f Jack Howell                 0      0      0     73    293    366    0       
+f Luis Salazar                0      0      0    163    271    434    0       
+f Kevin Bass                  0      0      0     97    136    233    0       
+f Gary Pettis                 0      0      0    180    318    498    0       
+f Tracy Jones                 0      0      0    121     99    220    0       
+f Manny Lee                   0      0      0    185    236    421    0       
+f Juan Bell                   0      0      0      0      2      2    0       
+f Gary Ward                   0      0      0    169    175    344    0       
+f Scott Coolbaugh             0      0      0     61    140    201    0       
+f Pete O'Brien                0      0      0    149    268    417    0       
+f Ricky Jordan                0      0      0    131    215    346    0       
+f Tom O'Malley                0      0      0     25    108    133    0       
+f Luis Sojo                   0      0      0     39     46     85    0       
+f Kelly Mann                  0      0      0     10     18     28    0       
+  Total                                         3845   7416  11261            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+d Reggie Harris              62    168    1  5/14/1990                                          
+  Bryn Smith                 55    605    0  5/28/1990    95s                                95 
+  Francisco Oliveras         49    231    0  5/25/1990                         11r           11 
+  Teddy Higuera              41    720    0  5/25/1990                        104s          104 
+  Dave Stieb                 39    861    0  5/24/1990                             105s         
+d Atlee Hammaker             39    363    9  5/22/1990                                          
+  John Burkett               38    857    0  5/26/1990                 117s                 117 
+  Rick Honeycutt             33    256    0  5/25/1990                          7r            7 
+  Lee Guetterman             23    376    0  5/28/1990    17r                  12r           29 
+  Craig Lefferts             19    327    0  5/25/1990                         15r           15 
+  Ray Searage                18    136    0  5/28/1990    32r                  21r           53 
+  Joe Magrane                12    855    0  4/26/1990                                          
+  Tom Browning                3    957    0  5/27/1990          105s                        105 
+f Steve Crawford              0    341    0                                                     
+f Mark Leiter                 0    119    0                                                     
+f Rick Mahler                 0    564    0                                                     
+  Total                           7736                                                          
+
+
+
+                             PT Report -- 1990 Nederland FrozenDeadGuys                             
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+f Karl Rhodes                23    119    107     13     88    101    0       
+  Glenn Braggs               28     73     51    178    184    362    0       
+  Carney Lansford            45     36     38    140    424    564    0       
+  Tino Martinez              26     39     36     19     59     78    0       
+  Ryne Sandberg              24     39     34    234    441    675    0       
+  Shawon Dunston             25     34     31    193    380    573    0       
+  Doug Dascenzo              25     38     31    149    122    271    8       
+  Will Clark                 19     36     29    277    401    678    0       
+  Jim Eisenreich             16     35     29    170    375    545    0       
+  Jim Leyritz                 9     39     29    121    218    339    0   295 
+  Joe Girardi                31     17     21    146    301    447    0    39 
+  Greg Vaughn                17     16     16    140    289    429    0       
+  Ivan Calderon              13     13     13    251    416    667    0       
+  Gary Redus                  1     84     11    236     32    268    0       
+  Dwight Smith               13      8      9     38    284    322    0       
+  Alfredo Griffin             4      7      6    184    318    502    0       
+f Lloyd McClendon             1     12      3     99     26    125    0       
+  Mark Lemke                  0      3      2    109    157    266    0       
+f Sid Bream                   0      0      0    107    341    448    0       
+f Brad Komminsk               0      0      0     74     51    125    0       
+f Herm Winningham             0      0      0     32    145    177    0       
+f Joey Cora                   0      0      0     30     76    106    0       
+f Dave Clark                  0      0      0      6    175    181    0       
+  Total                                         2946   5303   8249            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Russ Swan                 108    213    0  5/16/1990                                          
+  Jose Mesa                  76    202    0  5/28/1990    82s                                82 
+  Todd Burns                 65    337    0  5/28/1990    18r            8r    22r 4r        48 
+  Dan Plesac                 47    299    0  5/28/1990    37r                  20r           57 
+  Mitch Williams             45    310    0  5/28/1990    46r                                46 
+  Dana Kiecker               44    641    0  5/24/1990                             135s         
+  Bert Blyleven              42    578    0  5/25/1990                         83s           83 
+  Don Carman                 34    368    0  5/27/1990          125s           16r          141 
+  Randy Johnson              31    944    0  5/22/1990                                          
+d Mike Moore                 23    862    0   5/7/1990                                          
+  John Farrell               12    418    0  5/26/1990                 121s                 121 
+f Ed Vosberg                  0    104    0                                                     
+f Tim Layana                  0    344    0                                                     
+f Brian DuBois                0    255    0                                                     
+f Rick Sutcliffe              0     97    0                                                     
+f Jim Gott                    0    270    0                                                     
+f Dave Schmidt                0    213    0                                                     
+f Eric Gunderson              0     94    0                                                     
+f Rich Thompson               0      4    0                                                     
+f Mike Stanton                0     42    0                                                     
+  Total                           6595                                                          
+
+
+
+                                 PT Report -- 1990 Effin Shebazzle!                                 
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Shane Mack                 42     51     47    168    185    353    0       
+  Willie Randolph            76     31     44    127    319    446    0       
+  Todd Zeile                 43     36     39    196    374    570    0       
+  Kevin Mitchell             43     33     37    200    389    589    0       
+  Brian Harper               37     32     33    157    352    509    0   198 
+  Howard Johnson             31     32     31    253    415    668    0       
+  Craig Grebeck               6     97     30     99     36    135    0       
+  Ruben Sierra               36     25     29    233    433    666    0       
+  Lonnie Smith               31     25     27    220    317    537    0       
+  Harold Baines               7     32     27    106    383    489    0       
+  Mike LaValliere            65     16     26     68    262    330    0   137 
+  Mike Marshall               7     19     15    101    192    293    0       
+  Robin Yount                12     14     13    181    502    683    0       
+  Ron Kittle                 19      5     11    165    204    369    0       
+f Jeff Conine                 0      0      0     13      9     22    0       
+f Darrin Jackson              0      0      0     70     50    120    0       
+f Edgar Diaz                  0      0      0    105    140    245    0       
+f Pedro Munoz                 0      0      0     26     64     90    0       
+f Cory Snyder                 0      0      0    151    317    468    0       
+f Mike Brumley                0      0      0     35    127    162    0       
+f Deion Sanders               0      0      0     24    125    149    0       
+f Curtis Wilkerson            0      0      0     62    134    196    0       
+f Junior Noboa                0      0      0    133     40    173    0       
+  Total                                         2893   5369   8262            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+f Jeff Russell               83    111    0   5/4/1990                                          
+  Jesse Orosco               44    289    0  5/24/1990                             25r          
+  Roger McDowell             44    373    0  5/27/1990           25r               13r       25 
+  Mark Eichhorn              43    374    0  5/28/1990    37r     6r                         43 
+  Rob Dibble                 36    384    0  5/26/1990                  19r    23r           42 
+  Jack McDowell              35    866    0  5/26/1990                  84s                  84 
+f Jeff Shaw                  34    229    0   5/3/1990                                          
+  Rich Rodriguez             32    201    0  5/27/1990           22r                         22 
+  Jose DeLeon                28    793    0  5/28/1990   111s                               111 
+  Mike Morgan                26    891    0  5/24/1990                             105s         
+  Mark Langston              24    950    0  5/25/1990                        122s          122 
+  Greg Swindell              24    912    0  5/23/1990                                          
+  Nolan Ryan                 17    818    0  5/27/1990           74s                         74 
+f Jim Corsi                   0      0    0                                                     
+f Steve Olin                  0    394    0                                                     
+f Tom Edens                   0    387    0                                                     
+f Paul Gibson                 0    422    0                                                     
+f Fernando Valenzuela         0    900    0                                                     
+f Sergio Valdez               0    466    0                                                     
+f Dave Johnson                0    758    0                                                     
+f Marty Clary                 0    466    0                                                     
+f Ken Howell                  0    467    0                                                     
+f Tim Drummond                0    399    0                                                     
+  Total                          11850                                                          
+
+
+
+                                  PT Report -- 1990 Ferlin Huskies                                  
+                                 Regular season -- as of 5/28/1990                                  
+
+                         ----Percent Usage--- ----Real Life PA----  Inj Batte  
+S Name                   vs LHP vs RHP  Total vs LHP vs RHP  Total Days   Cum 
+  Gary Carter                14    106     57    146    126    272    0   265 
+  Kevin Maas                 14     65     52     78    222    300    0       
+  Dave Justice               44     44     44    149    355    504    0       
+  Mariano Duncan             28     49     40    202    269    471    0       
+  Chris Sabo                 26     39     34    246    390    636    0       
+  Ellis Burks                29     35     33    209    432    641    0       
+  Harold Reynolds            22     30     27    230    507    737    0       
+  Glenn Davis                37     15     24    148    233    381    0       
+  John Kruk                  10     28     23    132    383    515    0       
+  Marquis Grissom             3     56     22    204    116    320    0       
+  Dave Hollins               13     24     20     48     79    127    0       
+  Joe Oliver                 18     13     16    203    206    409    0    43 
+  Rob Deer                   28      5     13    168    343    511    0       
+  Jose Vizcaino               9      9      9     23     32     55    0       
+d Greg Gagne                  1      4      3    141    282    423    3       
+f George Bell                 1      1      1    168    440    608    0       
+f Tom Lampkin                 0      0      0      9     58     67    0       
+f Orestes Destrade            0      0      0      0      0      0    0       
+f Rick Cerone                 0      0      0     50     96    146    0       
+f Darrin Fletcher             0      0      0      4     20     24    0       
+f Charlie Hayes               0      0      0    204    393    597    0       
+f Brent Mayne                 0      0      0      0     16     16    0       
+f Oddibe McDowell             0      0      0     45    284    329    0       
+f Rick Leach                  0      0      0     16    180    196    0       
+f Tim Hulett                  0      0      0     63    106    169    0       
+f Luis Quinones               0      0      0     75     89    164    0       
+f Jeff Huson                  0      0      0     54    400    454    0       
+f Milt Cuyler                 0      0      0     15     44     59    0       
+  Total                                         3030   6101   9131            
+
+
+
+                                 Real   Inj            -------------Pitches Thrown------------- 
+S Name                    Usage     BF Days       Last   5/28   5/27   5/26   5/25 5/24     Cum 
+  Kelly Downs                54    265    0  5/25/1990                        111s          111 
+  Bob Tewksbury              45    595    0  5/28/1990    48s                                48 
+  Greg W. Harris             31    488    0  5/28/1990    10r                                10 
+d Dwight Gooden              30    983   11  5/23/1990                                          
+  Omar Olivares              27    201    0  5/25/1990                          9r            9 
+f Bill Gullickson            27    846    0  5/21/1990                                          
+  Tim Burke                  26    316    0  5/28/1990    13r    14r    19r     4r           50 
+  Neal Heaton                25    599    0  5/26/1990                 111s                 111 
+  Doug Jones                 25    331    0  5/25/1990                         11r           11 
+  Randy Tomlin               23    297    0  5/28/1990    12r                                12 
+  Dennis Cook                20    663    0  5/28/1990    21r    25r                         46 
+d Kevin Brown                19    757    5   5/2/1990                                          
+  Jim Deshaies               12    881    0  4/27/1990                                          
+  Brian Holman                3    804    0  5/27/1990           97s                         97 
+f Ron Darling                 0    554    0                                                     
+f Bob Walk                    0    549    0                                                     
+f Julio Machado               0    207    0                                                     
+f Clay Parker                 0    308    0                                                     
+  Total                           9644                                                          

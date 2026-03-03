@@ -1,0 +1,408 @@
+Frank Black League Championship Series
+Game 1
+
+-------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Perfectos         2  0  0  0  0  0  0  0  1  0  0  2     5  9  1    13  0
+1993 Whales            0  0  2  0  0  0  0  0  1  0  0  0     3 11  2    10  1
+Olson (W,1-0), Martinez (L,0-1), Johnston (S,1)
+HR - O'Neill (1), Thompson (1)
+Randy Johnson was dominant, striking out 10 in 7.0 innings, except for the 5 walks
+and 3 hit batters.  Rick Wilkins drives home the winning run.
+
+-------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------
+
+Needmore leads Chinatrust 1-0.
+
+-------------------------------------------------------------------------------------------
+CURRENT INJURIES                               (*** new'ish injury)  (<-- can be activated)
+-------------------------------------------------------------------------------------------
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/12/1993 CTW     Hansen           Hit by pitch        10/30/1993   18    7 
+
+-------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+-------------------------------------------------------------------------------------------
+
+10/22/1993, NEP93-CTW93, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Perfectos         2  0  0  0  0  0  0  0  1  0  0  2     5  9  1    13  0
+1993 Whales            0  0  2  0  0  0  0  0  1  0  0  0     3 11  2    10  1
+ 
+Perfectos            AB  R  H BI   AVG    Whales               AB  R  H BI   AVG
+DeShields         2b  4  0  2  0  .500    Clark             1b  6  1  2  0  .333       
+ Hale             ph  2  0  0  0  .000    O'Neill           rf  6  1  3  2  .500       
+Amaral            ss  4  1  1  0  .250    James             cf  5  0  1  0  .200       
+Voigt             3b  2  1  0  0  .000    Kreuter           c   5  0  1  0  .200       
+ Merced           ph  1  0  1  0 1.000    Raines            lf  4  0  0  0  .000       
+ Russell          p   0  0  0  0  .000    Pagliarulo        3b  4  0  2  0  .500       
+ Hemond           ph  1  0  0  0  .000     Poole            p   0  0  0  0  .000       
+ Olson            p   0  0  0  0  .000     Plantier         ph  1  0  0  0  .000       
+ Johnston         p   0  0  0  0  .000     Martinez         p   0  0  0  0  .000       
+Griffey           cf  5  1  1  1  .200    Thompson          2b  4  1  1  1  .250       
+Smith,L           rf  4  1  1  0  .250    Gagne             ss  5  0  1  0  .200       
+Olerud            1b  4  1  1  1  .250    Johnson           p   3  0  0  0  .000       
+Clark             c   3  0  1  1  .333     Ward,D           p   0  0  0  0  .000       
+ Wilkins          ph  3  0  1  1  .333     Gallego          3b  2  0  0  0  .000       
+Bell              lf  3  0  0  0  .000                         45  3 11  3             
+ Tartabull        ph  2  0  0  1  .000                                              
+Darwin            p   3  0  0  0  .000                                              
+ Bedrosian        p   0  0  0  0  .000                                              
+ Whitaker         ph  0  0  0  0  .000                                              
+ Sheffield        3b  2  0  0  0  .000                                              
+                     43  5  9  5                                                    
+ 
+Perfectos                        INN  H  R ER BB  K PCH STR   ERA
+Darwin                           7.0  8  2  2  1  3 112  77  2.57
+Bedrosian                        1.0  0  0  0  0  1  11   7  0.00
+Russell          BS 1            2.0  2  1  1  1  0  27  14  4.50
+Olson            W 1-0           1.0  1  0  0  0  1  12   9  0.00
+Johnston         S 1             1.0  0  0  0  0  0  14  11  0.00
+                                12.0 11  3  3  2  5 176 118 
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Johnson                          7.0  3  2  2  5 10 137  82  2.57
+Ward,D                           1.2  2  1  1  1  4  38  25  5.40
+Poole                            1.1  2  0  0  0  1  21  14  0.00
+Martinez         L 0-1           2.0  2  2  1  0  2  27  18  4.50
+                                12.0  9  5  4  6 17 223 139 
+ 
+NEP: Wilkins batted for Clark in the 8th
+     Tartabull batted for Bell in the 8th
+     Tartabull moved to lf in the 8th
+     Wilkins moved to c in the 8th
+     Whitaker batted for Bedrosian in the 9th
+     Hale batted for DeShields in the 9th
+     Merced batted for Voigt in the 9th
+     Sheffield inserted at 3b in the 9th
+     Hale moved to 2b in the 9th
+     Hemond batted for Russell in the 11th
+CTW: Gallego inserted at 3b in the 9th
+     Plantier batted for Poole in the 10th
+ 
+E-Bell, Clark, James. 2B-DeShields, O'Neill. HR-O'Neill(1), Thompson(1). 
+K-Amaral 2, Voigt, Griffey 3, Olerud, Bell 3, Darwin, Wilkins 2, Tartabull, 
+Hale 2, Hemond, Clark, Pagliarulo 2, Thompson, Gagne. BB-Amaral 2, Voigt 2, 
+Smith,L, Whitaker, Kreuter, Raines. SH-James, Thompson. SF-Tartabull. 
+HBP-Griffey, Smith,L, Olerud 2. HB-Johnson 3, Martinez. 
+GWRBI: Wilkins
+Temperature: 64, Sky: partly cloudy, Wind: left to right at 1 MPH.
+
+....................................................................................................
+10/22/1993, NEP93-CTW93, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Perfectos         2  0  0  0  0  0  0  0  1  0  0  2     5  9  1    13  0
+1993 Whales            0  0  2  0  0  0  0  0  1  0  0  0     3 11  2    10  1
+ 
+ 
+Perfectos            -----A------ -----B------ -----C------ -----D------ -----E------
+DeShields         2b 1>13           9            S            D                      
+ Hale             ph                                                       k         
+                                                                                     
+Amaral            ss   k            W.1-2        k            W            S.1-2     
+Voigt             3b   W            3          5>k            W.2-3;1-2              
+ Merced           ph                                                       note 1    
+                                                                           S.2-3     
+ Russell          p                                                                  
+ Hemond           ph                                                                 
+ Olson            p                                                                  
+ Johnston         p                                                                  
+Griffey           cf   HBP.1-2      k            k            k            Poole     
+                                                                           S.3-H;1-2 
+Smith,L           rf   W.2-3;1-2  3>HBP          4/L          43           3/g       
+Olerud            1b   note 2       463/gdp    6>63         8>Ward,D     0>S         
+                                                              k                      
+Clark             c    note 3       4/L          5/L                                 
+ Wilkins          ph                                          k            k         
+Bell              lf   k          4>k            k                                   
+ Tartabull        ph                                          k            7         
+Darwin            p  2>e3.B-1       8          7>k                                   
+ Bedrosian        p                                                                  
+ Whitaker         ph                                        9>W                      
+ Sheffield        3b                                                       63        
+ 
+ 1: OA.2x3(25);1-2  2: HBP.3-H;2-3;1-2  3: S.3-H;2-3;1-2 
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Clark             1b 1>3          3>S          5>S          7>5/fl         43        
+O'Neill           rf   8            HR.1-H       D.1-3        41         0>S         
+                                                                                     
+James             cf   S            43           23           3/g          14/SH.1-2 
+Kreuter           c    S.1-2        6            9          8>Bedrosian    IW        
+                                                              9                      
+Raines            lf   7            8            W            7            8         
+Pagliarulo        3b 2>S          4>S.B-2(e7)    k            k                      
+ Poole            p                                                                  
+ Plantier         ph                                                       63        
+ Martinez         p                                                                  
+Thompson          2b   13/SH.1-2    k(23)      6>7          9>Russell    1>Olson     
+                                                              HR           7         
+Gagne             ss   9            3            k            3/fl         S         
+Johnson           p    3/g          9            9                                   
+ Ward,D           p                                                                  
+ Gallego          3b                                          63           8         
+ 
+ 
+
+....................................................................................................
+Perfectos            -----F------ -----G------ -----H------ -----I------ -----J------
+DeShields         2b                                                                 
+ Hale             ph 1>Martinez                                                      
+                       k                                                             
+Amaral            ss   63                                                            
+Voigt             3b                                                                 
+ Merced           ph                                                                 
+                                                                                     
+ Russell          p                                                                  
+ Hemond           ph   k                                                             
+ Olson            p                                                                  
+ Johnston         p                                                                  
+Griffey           cf 2>9                                                             
+                                                                                     
+Smith,L           rf   S                                                             
+Olerud            1b   HBP.1-2                                                       
+                                                                                     
+Clark             c                                                                  
+ Wilkins          ph   note 1                                                        
+Bell              lf                                                                 
+ Tartabull        ph   7/SF.3-H                                                      
+Darwin            p                                                                  
+ Bedrosian        p                                                                  
+ Whitaker         ph                                                                 
+ Sheffield        3b   8                                                             
+ 
+ 1: S.2-H;1-3(e8/th);B-2 
+ 
+ 
+Whales               -----F------ -----G------ -----H------ -----I------ -----J------
+Clark             1b   k                                                             
+O'Neill           rf 2>Johnston                                                      
+                       3/g                                                           
+James             cf   8                                                             
+Kreuter           c    7                                                             
+                                                                                     
+Raines            lf                                                                 
+Pagliarulo        3b                                                                 
+ Poole            p                                                                  
+ Plantier         ph                                                                 
+ Martinez         p                                                                  
+Thompson          2b                                                                 
+                                                                                     
+Gagne             ss                                                                 
+Johnson           p                                                                  
+ Ward,D           p                                                                  
+ Gallego          3b                                                                 
+ 
+ 
+Perfectos        IN OUT ER                  Whales           IN OUT ER                  
+Darwin           A1  D3  2                  Johnson          A1  D5  2                  
+Bedrosian        D4  D6  0                  Ward,D           D6  E3  1                  
+Russell          D7  E6  1 BS 1             Poole            E4  E9  0                  
+Olson            E7  F1  0 W 1-0            Martinez         F1  F9  1 L 0-1            
+Johnston         F2  F4  0 S 1                                                          
+
+....................................................................................................
+10/22/1993, NEP93-CTW93, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9 10 11 12     R  H  E   LOB DP
+1993 Perfectos         2  0  0  0  0  0  0  0  1  0  0  2     5  9  1    13  0
+1993 Whales            0  0  2  0  0  0  0  0  1  0  0  0     3 11  2    10  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Perfectos batting
+ 0-0  0 --- 11  DeShields grounded out to the mound (BSX)
+ 0-0  1 --- 02  Amaral struck out (FCC)
+ 0-0  2 --- 32  Voigt walked (SBBFBFB)
+ 0-0  2 1-- 21  Griffey was hit by a pitch, Voigt to second (11BFBH)
+ 0-0  2 12- 32  Smith,L walked, Voigt to third, Griffey to second 
+                  (BBSCB>B)
+ 0-0  2 123 11  Olerud was hit by a pitch, Voigt scored, Griffey to 
+                  third, Smith,L to second (SBH)
+ 1-0  2 123 12  Clark reached on an infield single to first, Griffey 
+                  scored, Smith,L to third, Olerud to second (CCBX)
+ 2-0  2 123 12  Bell struck out (BCCC)
+ 
+**************  Bottom of the 1st inning, Whales batting
+ 2-0  0 --- 20  Clark popped out to first (BBX)
+ 2-0  1 --- 22  O'Neill flied out to center (BFCBFX)
+ 2-0  2 --- 10  James grounded a single between first and second (BX)
+ 2-0  2 1-- 12  Kreuter grounded a single between third and short, James 
+                  to second (BCCX)
+ 2-0  2 12- 12  Raines flied out to left (FFFBFX)
+ 
+**************  Top of the 2nd inning, Perfectos batting
+ 2-0  0 --- 01  Darwin to first on an error by the first baseman Clark 
+                  (CX)
+ 2-0  0 1-- 22  DeShields lined out to right (CBCFBX)
+ 2-0  1 1-- 31  Amaral walked, Darwin to second (BCBBB)
+ 2-0  1 12- 12  Voigt popped out to first (CCBX)
+ 2-0  2 12- 02  Griffey struck out (CFFC)
+ 
+**************  Bottom of the 2nd inning, Whales batting
+ 2-0  0 --- 01  Pagliarulo lined a single to left center (CX)
+ 2-0  0 1-- 00  Thompson sacrifice bunted to the mound, Pagliarulo to 
+                  second (Xb)
+ 2-0  1 -2- 11  Gagne flied out to right (CBX)
+ 2-0  2 -2- 00  Johnson grounded out to first (X)
+ 
+**************  Top of the 3rd inning, Perfectos batting
+ 2-0  0 --- 22  Smith,L was hit by a pitch (BCBFH)
+ 2-0  0 1-- 01  Olerud grounded into a double play, Thompson to Gagne to 
+                  Clark (CX)
+ 2-0  2 --- 20  Clark lined out to second (BBX)
+ 
+**************  Bottom of the 3rd inning, Whales batting
+ 2-0  0 --- 00  Clark lined a single to right center (X)
+ 2-0  0 1-- 21  O'Neill homered deep to right, Clark scored (BBCX)
+ 2-2  0 --- 01  James grounded out to second (FX)
+ 2-2  1 --- 31  Kreuter popped out to short (FBBBX)
+ 2-2  2 --- 10  Raines flied out to center (BX)
+ 
+**************  Top of the 4th inning, Perfectos batting
+ 2-2  0 --- 02  Bell struck out (CSS)
+ 2-2  1 --- 00  Darwin lined out to center (X)
+ 2-2  2 --- 12  DeShields grounded a single up the middle (BCSFX)
+ 2-2  2 1-- 22  Amaral struck out (BBFSC)
+ 
+**************  Bottom of the 4th inning, Whales batting
+ 2-2  0 --- 11  Pagliarulo lined a single to shallow left, Pagliarulo to 
+                  second on an error by the left fielder Bell (BCX)
+ 2-2  0 -2- 12  Thompson struck out, Clark to Olerud (SCBS)
+ 2-2  1 -2- 22  Gagne popped out to first (BBCCFFFX)
+ 2-2  2 -2- 02  Johnson flied out to right (FSX)
+ 
+**************  Top of the 5th inning, Perfectos batting
+ 2-2  0 --- 32  Voigt struck out (BBBCSFFS)
+ 2-2  1 --- 12  Griffey struck out (CBFS)
+ 2-2  2 --- 11  Smith,L lined out to second (BFX)
+ 
+**************  Bottom of the 5th inning, Whales batting
+ 2-2  0 --- 11  Clark grounded a single between third and short (FBX)
+ 2-2  0 1-- 11  O'Neill lined a double to right center, Clark to third 
+                  (BFX)
+ 2-2  0 -23 32  James grounded out to the catcher (CBBFBX)
+ 2-2  1 -23 11  Kreuter lined out to right (BCX)
+ 2-2  2 -23 32  Raines walked (CBBCBB)
+ 2-2  2 123 12  Pagliarulo struck out (CFFBFFS)
+ 
+**************  Top of the 6th inning, Perfectos batting
+ 2-2  0 --- 22  Olerud grounded out to short (FBBFFFFFX)
+ 2-2  1 --- 02  Clark lined out to third (CSX)
+ 2-2  2 --- 32  Bell struck out (FBSBBC)
+ 
+**************  Bottom of the 6th inning, Whales batting
+ 2-2  0 --- 01  Thompson flied out to left (FX)
+ 2-2  1 --- 12  Gagne struck out (FFFBS)
+ 2-2  2 --- 22  Johnson flied out to right (FBBFX)
+ 
+**************  Top of the 7th inning, Perfectos batting
+ 2-2  0 --- 22  Darwin struck out (SBCBC)
+ 2-2  1 --- 00  DeShields grounded a double down the first base line (X)
+ 2-2  1 -2- 31  Amaral walked (BSBBB)
+ 2-2  1 12- 31  Voigt walked, DeShields to third, Amaral to second (BBCBB)
+ 2-2  1 123 12  Griffey struck out (CFBC)
+ 2-2  2 123 31  Smith,L grounded out to second (CBBBX)
+ 
+**************  Bottom of the 7th inning, Whales batting
+ 2-2  0 --- 00  Clark popped out to third (X)
+ 2-2  1 --- 10  O'Neill grounded out to second (BX)
+ 2-2  2 --- 22  James grounded out to first (CBFFFFBFX)
+ 
+**************  Top of the 8th inning, Perfectos batting
+                Ward,D now pitching
+ 2-2  0 --- 12  Olerud struck out (BCFS)
+                Wilkins pinch hitting for Clark
+ 2-2  1 --- 02  Wilkins struck out (CCC)
+                Tartabull pinch hitting for Bell
+ 2-2  2 --- 12  Tartabull struck out (SBSFFC)
+ 
+**************  Bottom of the 8th inning, Whales batting
+                Bedrosian now pitching
+                Tartabull moved to left field
+                Wilkins moved to catcher
+ 2-2  0 --- 21  Kreuter flied out to right (FBBX)
+ 2-2  1 --- 11  Raines flied out to left (BSX)
+ 2-2  2 --- 12  Pagliarulo struck out (CBSS)
+ 
+**************  Top of the 9th inning, Perfectos batting
+                Whitaker pinch hitting for Bedrosian
+ 2-2  0 --- 32  Whitaker walked (BBBCFB)
+                Hale pinch hitting for DeShields
+ 2-2  0 1-- 32  Hale struck out (BFFFBBFFS)
+ 2-2  1 1-- 11  Amaral lined a single to shallow left, Whitaker to second 
+                  (CBX)
+                Merced pinch hitting for Voigt
+ 2-2  1 12- 00  Whitaker out at third, Amaral to second attempting to 
+                  advance (B)
+ 2-2  2 -2- 32  Merced reached on an infield single to short, Amaral to 
+                  third (B.BFBCFX)
+                Gallego now playing third base
+                Poole now pitching
+ 2-2  2 1-3 00  Griffey lined a single to shallow center, Amaral scored, 
+                  Merced to second (X)
+ 3-2  2 12- 32  Smith,L grounded out to first (FSFBFBB>X)
+ 
+**************  Bottom of the 9th inning, Whales batting
+                Sheffield now playing third base
+                Russell now pitching
+                Hale moved to second base
+ 3-2  0 --- 11  Thompson homered deep to left (BCX)
+ 3-3  0 --- 10  Gagne popped out to first (BX)
+ 3-3  1 --- 31  Gallego grounded out to short (BBBCX)
+ 3-3  2 --- 00  Clark grounded out to second (X)
+ 
+**************  Top of the 10th inning, Perfectos batting
+ 3-3  0 --- 01  Olerud lined a single to shallow center (CX)
+ 3-3  0 1-- 12  Wilkins struck out (CBSS)
+ 3-3  1 1-- 21  Tartabull popped out to left (BBFX)
+ 3-3  2 1-- 10  Sheffield grounded out to short (BX)
+ 
+**************  Bottom of the 10th inning, Whales batting
+ 3-3  0 --- 20  O'Neill grounded a single between first and second (BBX)
+ 3-3  0 1-- 00  James sacrifice bunted to the mound, O'Neill to second 
+                  (Xb)
+ 3-3  1 -2- 30  Kreuter was walked intentionally (IIII)
+ 3-3  1 12- 02  Raines lined out to center (CFX)
+                Plantier pinch hitting for Poole
+ 3-3  2 12- 22  Plantier grounded out to short (BSBFX)
+ 
+**************  Top of the 11th inning, Perfectos batting
+                Martinez now pitching
+ 3-3  0 --- 12  Hale struck out (BCSC)
+ 3-3  1 --- 00  Amaral grounded out to short (X)
+                Hemond pinch hitting for Russell
+ 3-3  2 --- 22  Hemond struck out (CBBCS)
+ 
+**************  Bottom of the 11th inning, Whales batting
+                Olson now pitching
+ 3-3  0 --- 01  Thompson popped out to left (FX)
+ 3-3  1 --- 21  Gagne lined a single to left (BCBX)
+ 3-3  1 1-- 01  Gallego flied out to center (CX)
+ 3-3  2 1-- 12  Clark struck out (BFSC)
+ 
+**************  Top of the 12th inning, Perfectos batting
+ 3-3  0 --- 12  Griffey flied out to right (FFBX)
+ 3-3  1 --- 21  Smith,L lined a single to right center (CBBX)
+ 3-3  1 1-- 00  Olerud was hit by a pitch, Smith,L to second (H)
+ 3-3  1 12- 02  Wilkins lined a single to center, Smith,L scored, Olerud 
+                  to third on an error by the center fielder James, 
+                  Wilkins to second (CSX)
+ 4-3  1 -23 10  Tartabull hit a sacrifice fly to left, Olerud scored (BX)
+ 5-3  2 -2- 11  Sheffield flied out to center (FBX)
+ 
+**************  Bottom of the 12th inning, Whales batting
+                Johnston now pitching
+ 5-3  0 --- 00  O'Neill grounded out to first (X)
+ 5-3  1 --- 32  James flied out to center (FFBBBFX)
+ 5-3  2 --- 02  Kreuter flied out to left (SCFFFX)

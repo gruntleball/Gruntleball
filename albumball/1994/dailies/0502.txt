@@ -1,0 +1,1852 @@
+Crooked Rain, Crooked Rain League Daily
+Monday, May 2, 1994
+SHORT SCHEDULE
+
+-------------------------------------------------------------------------------------------
+ROSTER NOTES
+-------------------------------------------------------------------------------------------
+
+None
+
+-------------------------------------------------------------------------------------------
+CURRENT INJURIES                               (*** new'ish injury)  (<-- can be activated)
+-------------------------------------------------------------------------------------------
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+4/27/1994  BAR     Phillips         General             5/4/1994      7    2 
+4/19/1994  DLM     Harris           General             5/4/1994     15    2 
+4/30/1994  BMB     Jackson          General             5/5/1994      5    3 
+4/6/1994   CIN     Berroa           General             5/5/1994     29    3 
+4/30/1994  CTW     Clark            General             5/5/1994      5    3 
+5/1/1994   SFA     Eisenreich       General             5/5/1994      4    3 
+4/28/1994  FHK     Davis            General             5/6/1994      8    4 
+4/21/1994  CTW     Sutcliffe        General             5/6/1994     15    4 
+4/22/1994  RVK     Frye             General             5/7/1994     15    5 
+5/1/1994   SCQ     Lieberthal       General             5/7/1994      6    5 ***
+4/23/1994  CTW     Mathews          General             5/8/1994     15    6 
+4/28/1994  FER     Gardiner         General             5/13/1994    15   11 
+4/22/1994  BBG     Stanley          Collision in field  5/16/1994    24   14 
+4/25/1994  HKC     Rodriguez        Hit by pitch        5/16/1994    21   14 ***
+4/21/1994  CTW     Thompson         General             5/19/1994    28   17 
+4/30/1994  HKC     Duncan           General             5/20/1994    20   18 ***
+4/22/1994  CEN     Brosius          Hit by pitch        5/24/1994    32   22 
+
+-------------------------------------------------------------------------------------------
+TRANSACTIONS
+-------------------------------------------------------------------------------------------
+
+GBP - Farm Armando Benitez (done)	
+SFA - Farm Garret Anderson (done)
+
+-------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Shebazzle!        0  1  0  1  2  0  0  0  0  0     4  8  1     7  0
+1994 Brewers           0  0  1  0  0  0  0  0  3  2     6 10  2     7  0
+Tabaka (W,1-1), Boever (L,0-1)
+HR - Anderson (2)
+The Shebazzle bullpen wastes what promises to be a rare good outing from
+Charlie Hough.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 Premiums          1  0  0  1  1  0  2  2  0     7 15  1     7  0
+1994 Árboles           1  0  0  0  1  0  2  1  0     5 10  3     7  0
+Leiter (W,2-3), Tapani (L,0-6), Ryan (S,4)
+HR - Bautista (9)
+Derek Bell goes 5 for 5 with two RBIs.  Will Kevin Tapani ever win a game?
+
+-------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA  Mgn  Mgc 
+GOLD SOUNDZ
+1994 Baraboo GoiterMen              19    8  .704       -    7-3   W3  wwwlwwwwll    159   86   73  129 
+1994 Tewksbury Bobs                 12   15  .444       7    6-4   W2  wwlwwwwlll    106  131  -25  143 
+1994 Grain Belt Premiums            12   15  .444       7    4-6   W1  wlwlllllww    112  130  -18  143 
+1994 Evanston Endorphins             8   18  .308  10 1/2    3-7   L6  llllllwwlw     87  133  -46  147 
+1994 Felldownhead Firsts             8   19  .296      11    2-8   L2  llwlllllwl     88  139  -51  147 
+                                                                                                        
+HAIR CUT
+1994 Butt Mountain Beavis           20    7  .741       -    7-3   L1  lwwwlwwlww    125   63   62  133 
+1994 Cincinnati Reds                16   10  .615   3 1/2    8-2   W8  wwwwwwwwll     99   90    9  140 
+1994 Tucker Tools Police            16   11  .593       4    5-5   W1  wllwwlllww    134   93   41  140 
+1994 Dún Laoghaire Messiahs         11   16  .407       9    3-7   L3  lllwwlllwl    101  114  -13  145 
+1994 GPCC Shebazzle!                 8   19  .296      12    3-7   L3  lllwllwlwl     90  144  -54  148 
+                                                                                                        
+RANGE LIFE
+1994 Reykjavík 101ers               17    9  .654       -    5-5   W1  wllwllwwwl    177  114   63  135 
+1994 Century Atoms                  16   11  .593   1 1/2    6-4   L1  lwwlllwwww    173  148   25  138 
+1994 Ferdinand Magellans            16   11  .593   1 1/2    5-5   L1  lwwwllwllw    156  121   35  138 
+1994 Needmore Perfectos             13   14  .481   4 1/2    4-6   W1  wllllwlwlw    121  132  -11  141 
+1994 San Francisco Árboles           9   18  .333   8 1/2    3-7   L1  lwllllwllw    134  172  -38  145 
+                                                                                                        
+SILENCE
+1994 Barcelona Brewers              21    6  .778       -    9-1   W7  wwwwwwwlww    145   98   47  129 
+1994 Hong Kong Cavaliers            14   13  .519       7    6-4   W1  wlwlwwllww    189  179   10  143 
+1994 Ferlin Huskies                 12   15  .444       9    5-5   L1  lwlwwlwllw    135  155  -20  145 
+1994 San Carlos Quentins            11   15  .423   9 1/2    5-5   W1  wllwwwlwll    110  154  -44  146 
+1994 Chinatrust Whales               9   18  .333      12    5-5   L1  lwwlwlwllw    126  171  -45  148 
+
+-------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+-------------------------------------------------------------------------------------------
+
+5/2/1994, GCS94-BAR94, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Shebazzle!        0  1  0  1  2  0  0  0  0  0     4  8  1     7  0
+1994 Brewers           0  0  1  0  0  0  0  0  3  2     6 10  2     7  0
+ 
+Shebazzle!           AB  R  H BI   AVG    Brewers              AB  R  H BI   AVG
+Henderson         cf  3  1  0  0  .250    Morandini         2b  5  0  1  1  .280       
+Johnson           lf  4  0  0  0  .154    Ventura           3b  5  1  1  0  .205       
+ Van Slyke        ph  1  0  1  0  .226    Vaughn            1b  3  0  0  0  .292       
+ Newson           lf  0  0  0  0  .167    Puckett           rf  5  1  3  1  .340       
+Baines            1b  4  0  1  1  .253    Anderson          lf  5  1  1  2  .260       
+ Martinez         1b  1  0  0  0  .217    White             cf  4  1  1  0  .267       
+Burnitz           rf  2  1  1  1  .276    Smith,O           ss  2  0  1  0  .228       
+Wilson            c   4  1  0  0  .244     Veres            p   0  0  0  0 1.000       
+Easley            2b  4  0  2  0  .184     Joyner           ph  1  1  1  0  .200       
+Spiers            3b  4  0  1  1  .424    Surhoff           c   4  1  1  1  .300       
+Stocker           ss  4  1  2  0  .259    Schilling         p   2  0  0  0  .154       
+Hough             p   3  0  0  0  .077     Arias            ss  1  0  0  0  .250       
+ Dettmer          p   1  0  0  0  .000     Browne           ph  1  0  0  1  .342       
+ Boever           p   0  0  0  0  .000     Tabaka           p   0  0  0  0 1.000       
+                     35  4  8  3                               38  6 10  6             
+ 
+Shebazzle!                       INN  H  R ER BB  K PCH STR   ERA
+Hough                            7.0  4  1  1  2  7 122  77  5.50
+Dettmer          H 1             1.0  3  3  2  0  1  29  18  8.34
+Boever           BS 2, L 0-1     1.1  3  2  2  0  1  20  12  4.91
+                                 9.1 10  6  5  2  9 171 107 
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Schilling                        6.0  5  4  3  4  5  99  62  3.61
+Veres                            3.0  2  0  0  1  1  38  23  2.20
+Tabaka           W 1-1           1.0  1  0  0  0  1  12   8  4.50
+                                10.0  8  4  3  5  7 149  93 
+ 
+GCS: Martinez inserted at 1b in the 9th
+     Van Slyke batted for Johnson in the 10th
+     Newson inserted at lf in the 10th
+BAR: Arias inserted at ss in the 7th
+     Joyner batted for Veres in the 9th
+     Browne batted for Arias in the 9th
+     Joyner moved to 3b in the 10th
+     Ventura moved to ss in the 10th
+ 
+E-Dettmer, Schilling, Tabaka. 2B-Puckett, White, Surhoff. HR-Anderson(2). 
+CS-Stocker, Morandini. K-Henderson, Johnson 3, Burnitz, Spiers, Hough, 
+Morandini, Ventura, Vaughn 3, Anderson 2, Surhoff, Schilling. BB-Henderson 2, 
+Burnitz 3, Vaughn, Smith,O. SH-Wilson. HBP-Vaughn. PB-Surhoff. HB-Hough. 
+WP-Schilling. 
+GWRBI: Anderson
+Temperature: 63, Sky: clear, Wind: out to center at 4 MPH.
+
+....................................................................................................
+5/2/1994, GCS94-BAR94, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Shebazzle!        0  1  0  1  2  0  0  0  0  0     4  8  1     7  0
+1994 Brewers           0  0  1  0  0  0  0  0  3  2     6 10  2     7  0
+ 
+ 
+Shebazzle!           -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson         cf 1>8            W            W.1-2        63           k         
+Johnson           lf   k            k            k            53         0>Tabaka    
+ Van Slyke        ph                                                       S         
+ Newson           lf                                                                 
+Baines            1b   4/L          6/f          S.2-H;1-3  8>63                     
+ Martinez         1b                                                       3/b       
+Burnitz           rf 2>W          4>W            S.3-H;1-2    W            note 1    
+                                                                           k         
+Wilson            c    14/SH.1-2    56/b/f.B-1   7            9            9         
+Easley            2b   S.2-3        wp.1-2     6>8            S.1-3                  
+                                    4                                                
+Spiers            3b   k            note 2       53           9                      
+Stocker           ss   note 3     5>S            43         9>S                      
+                       pb.2-3                                                        
+                       53                                                            
+Hough             p  3>k            2/fl       7>Veres                               
+                                                 43                                  
+ Dettmer          p                                           CS2(24)                
+                                                              63                     
+ Boever           p                                                                  
+ 
+ 1: POE1(e1).1-2  2: S.2-H;Bx2(854)  3: POE1(e1).3-H;1-2 
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Morandini         2b 1>k            3/L        5>63           3/g          S.3-H     
+Ventura           3b   9            S            k          8>Dettmer      CS2(26)   
+                                                              5            63        
+Vaughn            1b   W            HBP.1-2      k            k          0>k         
+Puckett           rf   43           S.2-H;1-3  6>2/fl         S            D         
+Anderson          lf 2>k            k            8            4            HR.2-H    
+White             cf   3/g        4>63           D          9>e1.B-1                 
+Smith,O           ss   W            S            31                                  
+ Veres            p                                                                  
+ Joyner           ph                                          S.1-3                  
+Surhoff           c    53           k          7>7            D.3-H;1-3              
+Schilling         p  3>43           k                                                
+ Arias            ss                             8                                   
+ Browne           ph                                          Boever                 
+                                                              53.3-H;2-3             
+ Tabaka           p                                                                  
+ 
+ 
+Shebazzle!       IN OUT ER                  Brewers          IN OUT ER                  
+Hough            A1  D1  1                  Schilling        A1  C8  3                  
+Dettmer          D2  D8  2 H 1              Veres            C9  E1  0                  
+Boever           D9  E5  2 BS 2, L 0-1      Tabaka           E2  E5  0 W 1-1            
+
+....................................................................................................
+5/2/1994, GCS94-BAR94, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Shebazzle!        0  1  0  1  2  0  0  0  0  0     4  8  1     7  0
+1994 Brewers           0  0  1  0  0  0  0  0  3  2     6 10  2     7  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Shebazzle! batting
+ 0-0  0 --- 11  Henderson flied out to center (BCX)
+ 0-0  1 --- 12  Johnson struck out (CFBFC)
+ 0-0  2 --- 21  Baines lined out to second (CBBX)
+ 
+**************  Bottom of the 1st inning, Brewers batting
+ 0-0  0 --- 22  Morandini struck out (BCBFFFS)
+ 0-0  1 --- 22  Ventura popped out to right (FBCFBFX)
+ 0-0  2 --- 30  Vaughn walked (BBBB)
+ 0-0  2 1-- 10  Puckett grounded out to second (BX)
+ 
+**************  Top of the 2nd inning, Shebazzle! batting
+ 0-0  0 --- 31  Burnitz walked (BFBBB)
+ 0-0  0 1-- 10  Wilson sacrifice bunted to the mound, Burnitz to second 
+                  (BXb)
+ 0-0  1 -2- 12  Easley lined a single to shallow left, Burnitz to third 
+                  (BCFX)
+ 0-0  1 1-3 02  Spiers struck out (FFFS)
+ 0-0  2 1-3 21  On pickoff throw to first, Burnitz scored, Easley to 
+                  second on an error by the pitcher Schilling (CBB1)
+ 1-0  2 -2- 21  Surhoff allowed a passed ball, Easley to third (CBB1.B)
+ 1-0  2 --3 32  Stocker grounded out to third (CBB1.B.FFX)
+ 
+**************  Bottom of the 2nd inning, Brewers batting
+ 1-0  0 --- 22  Anderson struck out (CSBBC)
+ 1-0  1 --- 10  White grounded out to first (BX)
+ 1-0  2 --- 32  Smith,O walked (CBFFBBB)
+ 1-0  2 1-- 21  Surhoff grounded out to third (1BCBX)
+ 
+**************  Top of the 3rd inning, Shebazzle! batting
+ 1-0  0 --- 12  Hough struck out (BCSFFC)
+ 1-0  1 --- 31  Henderson walked (BBCBB)
+ 1-0  1 1-- 12  Johnson struck out (1CCBC)
+ 1-0  2 1-- 11  Baines grounded to short, forcing Henderson at second 
+                  (BFX)
+ 
+**************  Bottom of the 3rd inning, Brewers batting
+ 1-0  0 --- 02  Schilling grounded out to second (CFX)
+ 1-0  1 --- 02  Morandini lined out to first (CFX)
+ 1-0  2 --- 11  Ventura grounded a single between first and second (CBX)
+ 1-0  2 1-- 10  Vaughn was hit by a pitch, Ventura to second (BH)
+ 1-0  2 12- 32  Puckett lined a single down the right field line, Ventura 
+                  scored, Vaughn to third (FSBFBFB>F>X)
+ 1-1  2 1-3 12  Anderson struck out (BFFF1C)
+ 
+**************  Top of the 4th inning, Shebazzle! batting
+ 1-1  0 --- 32  Burnitz walked (CSBBBB)
+ 1-1  0 1-- 00  Wilson bunted into an out to third, forcing Burnitz at 
+                  second, Wilson to first (Xb)
+ 1-1  1 1-- 10  Schilling threw a wild pitch, Wilson to second (1BB)
+ 1-1  1 -2- 20  Easley popped out to second (1BB.X)
+ 1-1  2 -2- 00  Spiers lined a single to shallow center, Wilson scored, 
+                  Spiers out at second (X)
+ 
+**************  Bottom of the 4th inning, Brewers batting
+ 2-1  0 --- 01  White grounded out to short (CX)
+ 2-1  1 --- 22  Smith,O lined a single between first and second (BFCBX)
+ 2-1  1 1-- 22  Surhoff struck out (BpFBCS)
+ 2-1  2 1-- 12  Schilling struck out (CCBFS)
+ 
+**************  Top of the 5th inning, Shebazzle! batting
+ 2-1  0 --- 11  Stocker reached on an infield single to short (SBX)
+ 2-1  0 1-- 22  Hough popped out to the catcher (BbCbFbBX)
+ 2-1  1 1-- 32  Henderson walked, Stocker to second (BFS+1BFBB)
+ 2-1  1 12- 12  Johnson struck out (CBFS)
+ 2-1  2 12- 01  Baines lined a single to shallow center, Stocker scored, 
+                  Henderson to third (FX)
+ 3-1  2 1-3 10  Burnitz lined a single to shallow right, Henderson 
+                  scored, Baines to second (BX)
+ 4-1  2 12- 01  Wilson flied out to left (FX)
+ 
+**************  Bottom of the 5th inning, Brewers batting
+ 4-1  0 --- 11  Morandini grounded out to short (BCX)
+ 4-1  1 --- 12  Ventura struck out (BFSS)
+ 4-1  2 --- 32  Vaughn struck out (BBBCCS)
+ 
+**************  Top of the 6th inning, Shebazzle! batting
+ 4-1  0 --- 12  Easley flied out to center (SCBFFX)
+ 4-1  1 --- 12  Spiers grounded out to third (CBCX)
+ 4-1  2 --- 00  Stocker grounded out to second (X)
+ 
+**************  Bottom of the 6th inning, Brewers batting
+ 4-1  0 --- 32  Puckett popped out to the catcher (BBFBCX)
+ 4-1  1 --- 11  Anderson flied out to center (BFX)
+ 4-1  2 --- 12  White lined a double to right center (CSBFX)
+ 4-1  2 -2- 10  Smith,O grounded out to first (BX)
+ 
+**************  Top of the 7th inning, Shebazzle! batting
+                Arias now playing shortstop
+                Veres now pitching
+ 4-1  0 --- 11  Hough grounded out to second (BCX)
+ 4-1  1 --- 01  Henderson grounded out to short (CX)
+ 4-1  2 --- 32  Johnson grounded out to third (BBSFBX)
+ 
+**************  Bottom of the 7th inning, Brewers batting
+ 4-1  0 --- 12  Surhoff lined out to left (CFBX)
+ 4-1  1 --- 01  Arias flied out to center (CX)
+ 4-1  2 --- 32  Morandini grounded out to first (BCSBFBX)
+ 
+**************  Top of the 8th inning, Shebazzle! batting
+ 4-1  0 --- 00  Baines grounded out to short (X)
+ 4-1  1 --- 31  Burnitz walked (BFBBB)
+ 4-1  1 1-- 11  Wilson flied out to right (1CBX)
+ 4-1  2 1-- 21  Easley singled down the right field line and shallow, 
+                  Burnitz to third (BFB1X)
+ 4-1  2 1-3 12  Spiers popped out to right (BFCX)
+ 
+**************  Bottom of the 8th inning, Brewers batting
+                Dettmer now pitching
+ 4-1  0 --- 11  Ventura popped out to third (CBX)
+ 4-1  1 --- 32  Vaughn struck out (FBSBBFS)
+ 4-1  2 --- 00  Puckett lined a single between third and short (X)
+ 4-1  2 1-- 32  Anderson popped out to second (BBBCF1>X)
+ 
+**************  Top of the 9th inning, Shebazzle! batting
+ 4-1  0 --- 00  Stocker lined a single to right (X)
+ 4-1  0 1-- 10  Stocker was caught stealing second (Bb>C)
+ 4-1  1 --- 11  Dettmer grounded out to short (Bb>C.X)
+ 4-1  2 --- 22  Henderson struck out (CFBFBS)
+ 
+**************  Bottom of the 9th inning, Brewers batting
+                Martinez now playing first base
+ 4-1  0 --- 02  White to first on an error by the pitcher Dettmer (SCX)
+                Joyner pinch hitting for Veres
+ 4-1  0 1-- 32  Joyner singled to right center, White to third (FFBBBFX)
+ 4-1  0 1-3 10  Surhoff doubled deep to right center, White scored, 
+                  Joyner to third (BX)
+                Browne pinch hitting for Arias
+                Boever now pitching
+ 4-2  0 -23 11  Browne grounded out to third, Joyner scored, Surhoff to 
+                  third (CBX)
+ 4-3  1 --3 00  Morandini grounded a single between first and second, 
+                  Surhoff scored (X)
+ 4-4  1 1-- 00  Morandini was caught stealing second (>C)
+ 4-4  2 --- 22  Ventura grounded out to short (>C.FBBX)
+ 
+**************  Top of the 10th inning, Shebazzle! batting
+                Tabaka now pitching
+                Joyner moved to third base
+                Ventura moved to shortstop
+                Van Slyke pinch hitting for Johnson
+ 4-4  0 --- 21  Van Slyke grounded a single between first and second 
+                  (CBBX)
+ 4-4  0 1-- 00  Martinez popped out on a bunt to first (11Xb)
+ 4-4  1 1-- 11  On pickoff throw to first, Van Slyke to second on an 
+                  error by the pitcher Tabaka (CB1)
+ 4-4  1 -2- 22  Burnitz struck out (CB1.CBS)
+ 4-4  2 -2- 01  Wilson flied out to right (CX)
+ 
+**************  Bottom of the 10th inning, Brewers batting
+                Newson now playing left field
+ 4-4  0 --- 12  Vaughn struck out (BCSS)
+ 4-4  1 --- 10  Puckett lined a double down the left field line (BX)
+ 4-4  1 -2- 31  Anderson homered, Puckett scored (SBBBX)
+
+___________________________________________________________________________________________
+
+5/2/1994, GBP94-SFA94, Joe Robbie Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 Premiums          1  0  0  1  1  0  2  2  0     7 15  1     7  0
+1994 Árboles           1  0  0  0  1  0  2  1  0     5 10  3     7  0
+ 
+Premiums             AB  R  H BI   AVG    Árboles              AB  R  H BI   AVG
+Edmonds           lf  4  1  1  0  .297    White,R           lf  5  1  1  0  .257       
+ Jackson          ph  1  0  1  2  .217    Vizquel           ss  4  1  3  1  .360       
+Blauser           ss  5  2  2  0  .295    Martinez,T        1b  4  0  0  0  .245       
+Salmon            rf  5  0  0  0  .193    Gaetti            3b  4  0  0  0  .288       
+Bell              cf  5  1  5  2  .348    Girardi           c   4  1  1  0  .247       
+Fryman            3b  4  0  1  1  .309    Shumpert          2b  4  1  2  1  .327       
+ Benitez          p   0  0  0  0  .000    Bautista          cf  4  1  2  3  .311       
+ Sorrento         ph  1  0  0  0  .182    Matheny           rf  3  0  0  0  .184       
+ Ryan             p   0  0  0  0  .000    Tapani            p   2  0  0  0  .111       
+Karros            1b  3  1  2  1  .250     Eckersley        p   0  0  0  0  .000       
+Ausmus            c   4  1  1  0  .260     Anderson,G       ph  1  0  1  0  .350       
+DiSarcina         2b  3  1  2  0  .254     Aguilera         p   0  0  0  0  .000       
+ Sojo             2b  0  0  0  0  .156     Shaw             p   0  0  0  0  .000       
+Leiter            p   2  0  0  0  .308     Snow             ph  1  0  0  0  .214       
+ Bonilla          3b  1  0  0  0  .176                         36  5 10  5             
+                     38  7 15  6                                                    
+ 
+Premiums                         INN  H  R ER BB  K PCH STR   ERA
+Leiter           W 2-3           6.2  7  4  4  0  4  96  67  4.14
+Benitez          H 3             1.1  3  1  1  1  0  26  18  3.79
+Ryan             S 4             1.0  0  0  0  1  1  17  10  4.26
+                                 9.0 10  5  5  2  5 139  95 
+ 
+Árboles                          INN  H  R ER BB  K PCH STR   ERA
+Tapani           L 0-6           6.2 10  5  2  0  6 109  68  6.69
+Eckersley                        0.1  1  0  0  0  1   8   7  1.88
+Aguilera                         1.0  3  2  2  0  1  12  10  4.50
+Shaw                             1.0  1  0  0  0  0  16  10  5.40
+                                 9.0 15  7  4  0  8 145  95 
+ 
+GBP: Bonilla inserted at 3b in the 7th
+     Jackson batted for Edmonds in the 8th
+     Sojo inserted at 2b in the 8th
+     Jackson moved to lf in the 8th
+     Sorrento batted for Benitez in the 9th
+SFA: Anderson,G batted for Eckersley in the 7th
+     Snow batted for Shaw in the 9th
+ 
+E-Fryman, Girardi, Shumpert 2. 2B-Bell 2, White,R. 3B-Bell, Shumpert. 
+HR-Bautista(9). SB-Edmonds(1). K-Edmonds, Salmon 2, Fryman 2, Ausmus 2, 
+Bonilla, White,R, Martinez,T, Gaetti, Matheny, Snow. BB-Vizquel, Martinez,T. 
+SH-DiSarcina, Leiter. SF-Karros. HBP-Matheny. HB-Leiter. BALK-Benitez. 
+GWRBI: Karros
+Temperature: 80, Field: wet, Sky: threatening, Wind: right to left at 16 MPH, 
+Rain Delays: 63 minutes.
+
+....................................................................................................
+5/2/1994, GBP94-SFA94, Joe Robbie Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 Premiums          1  0  0  1  1  0  2  2  0     7 15  1     7  0
+1994 Árboles           1  0  0  0  1  0  2  1  0     5 10  3     7  0
+ 
+ 
+Premiums             -----A------ -----B------ -----C------ -----D------ -----E------
+Edmonds           lf 1>k          3>31           S.2xH(82)    3/fl                   
+ Jackson          ph                                                       note 1    
+Blauser           ss   S            53           note 2       S.1-2      9>Shaw      
+                                                 e4.3-H;B-1                53        
+Salmon            rf   k            k            13           Eckersley    53        
+                                                              note 3                 
+Bell              cf   S.1-3      4>T          6>D            note 4       D         
+Fryman            3b   S.3-H;1-3    53           k/b          k                      
+ Benitez          p                                                                  
+ Sorrento         ph                                                       5/fl      
+ Ryan             p                                                                  
+Karros            1b   13           8/SF.3-H     S.2-3      8>Aguilera               
+                                                              S                      
+Ausmus            c  2>43           k            k            S.1-2                  
+DiSarcina         2b   8          5>S            PO3(25)      note 5                 
+                                               7>S                                   
+ Sojo             2b                                                                 
+Leiter            p    43           34/SH.1-2    1/b                                 
+ Bonilla          3b                                          k                      
+ 
+ 1: S.3-H;2-H;Bx2(854)  2: SB2.1-3(e2/th)  3: e4.2-3;1-2;B-1  4: S.3-H;2-H;1-3 
+ 5: 13/SH.2-3;1-2 
+ 
+ 
+Árboles              -----A------ -----B------ -----C------ -----D------ -----E------
+White,R           lf 1>D            e5/fl        9            Benitez      53        
+                                    k                         8                      
+Vizquel           ss   S.2-H      4>63           S          8>S            W         
+Martinez,T        1b   PO1(23)      3            k            bk.1-2       64/f      
+                       7                                      W                      
+Gaetti            3b   k            7          7>5            4                      
+Girardi           c  2>7          5>6/L          S            5/fl                   
+Shumpert          2b   53           8            T.1-H        S.2-3;1-2              
+Bautista          cf   63           HR           3/g.3-H      note 1                 
+Matheny           rf 3>4/fl         k            HBP          54/f                   
+Tapani            p    9          6>63                                               
+ Eckersley        p                                                                  
+ Anderson,G       ph                             S.1-2                               
+ Aguilera         p                                                                  
+ Shaw             p                                         9>Ryan                   
+ Snow             ph                                          k                      
+ 
+ 1: S.3-H;2-3;1-2 
+ 
+ 
+Premiums         IN OUT ER                  Árboles          IN OUT ER                  
+Leiter           A1  C9  4 W 2-3            Tapani           A1  D2  2 L 0-6            
+Benitez          D1  D8  1 H 3              Eckersley        D3  D5  0                  
+Ryan             D9  E3  0 S 4              Aguilera         D6  E1  2                  
+                                            Shaw             E2  E5  0                  
+
+....................................................................................................
+5/2/1994, GBP94-SFA94, Joe Robbie Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 Premiums          1  0  0  1  1  0  2  2  0     7 15  1     7  0
+1994 Árboles           1  0  0  0  1  0  2  1  0     5 10  3     7  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Premiums batting
+ 0-0  0 --- 22  Edmonds struck out (BSSFBS)
+ 0-0  1 --- 10  Blauser grounded a single up the middle (BX)
+ 0-0  1 1-- 12  Salmon struck out (C1BFS)
+ 0-0  2 1-- 32  Bell lined a single between first and second, Blauser to 
+                  third (BBSF11F1B>X)
+ 0-0  2 1-3 10  Fryman grounded a single to left, Blauser scored, Bell to 
+                  third (BX)
+ 1-0  2 1-3 10  Karros grounded out to the mound (B1X)
+ 
+**************  Bottom of the 1st inning, Árboles batting
+ 1-0  0 --- 00  White,R lined a double to right center (X)
+ 1-0  0 -2- 00  Vizquel lined a single to right center, White,R scored (X)
+ 1-1  0 1-- 02  Vizquel was picked off first by Ausmus (C11FF1B+1)
+ 1-1  1 --- 12  Martinez,T flied out to left (C11FF1B+1.X)
+ 1-1  2 --- 02  Gaetti struck out (CCS)
+ 
+**************  Top of the 2nd inning, Premiums batting
+ 1-1  0 --- 00  Ausmus grounded out to second (X)
+ 1-1  1 --- 20  DiSarcina flied out to center (BBX)
+ 1-1  2 --- 11  Leiter grounded out to second (FBX)
+ 
+**************  Bottom of the 2nd inning, Árboles batting
+ 1-1  0 --- 00  Girardi lined out to left (X)
+ 1-1  1 --- 32  Shumpert grounded out to third (BCBCBX)
+ 1-1  2 --- 01  Bautista grounded out to short (CX)
+ 
+**************  Top of the 3rd inning, Premiums batting
+ 1-1  0 --- 21  Edmonds grounded out to first (BBFX)
+ 1-1  1 --- 32  Blauser grounded out to third (BBBCCX)
+ 1-1  2 --- 22  Salmon struck out (BCCBFFS)
+ 
+**************  Bottom of the 3rd inning, Árboles batting
+ 1-1  0 --- 00  Matheny popped out to second (X)
+ 1-1  1 --- 22  Tapani flied out to right (SCBBX)
+ 1-1  2 --- 01  White,R continues to bat after the third baseman Fryman 
+                  dropped a foul popup for an error (FXF)
+ 1-1  2 --- 02  White,R struck out (FXF.C)
+ 
+**************  Top of the 4th inning, Premiums batting
+ 1-1  0 --- 00  Bell lined a triple to right center (X)
+ 1-1  0 --3 00  Fryman grounded out to third (X)
+ 1-1  1 --3 32  Karros hit a sacrifice fly to center, Bell scored 
+                  (CFBFBBX)
+ 2-1  2 --- 02  Ausmus struck out (SFS)
+ 
+**************  Bottom of the 4th inning, Árboles batting
+ 2-1  0 --- 02  Vizquel grounded out to short (FSX)
+                Game delayed by rain for 63 minutes
+ 2-1  1 --- 32  Martinez,T popped out to first (CBSBBFFX)
+ 2-1  2 --- 21  Gaetti popped out to left (BSBX)
+ 
+**************  Top of the 5th inning, Premiums batting
+ 2-1  0 --- 02  DiSarcina lined a single up the middle (CSFX)
+ 2-1  0 1-- 00  Leiter sacrifice bunted to first, DiSarcina to second (Xb)
+ 2-1  1 -2- 10  Edmonds lined a single to shallow center, DiSarcina out 
+                  at home (BX)
+ 2-1  2 1-- 00  Edmonds stole second, Edmonds to third on an error by the 
+                  catcher Girardi (>B)
+ 2-1  2 --3 22  Edmonds scored, Blauser to first on an error by the 
+                  second baseman Shumpert (>B.FBFX)
+ 3-1  2 1-- 00  Salmon grounded out to the mound (X)
+ 
+**************  Bottom of the 5th inning, Árboles batting
+ 3-1  0 --- 00  Girardi lined out to short (X)
+ 3-1  1 --- 10  Shumpert flied out to center (BX)
+ 3-1  2 --- 10  Bautista homered deep down the left-field line (BX)
+ 3-2  2 --- 22  Matheny struck out (CSBBFS)
+ 
+**************  Top of the 6th inning, Premiums batting
+ 3-2  0 --- 22  Bell grounded a double down the first base line (BCFBX)
+ 3-2  0 -2- 22  Fryman struck out on a fouled bunt (FbBBCFb)
+ 3-2  1 -2- 00  Karros reached on an infield single to third, Bell to 
+                  third (X)
+ 3-2  1 1-3 32  Ausmus struck out (BSBSFBS)
+ 3-2  2 1-3 01  Bell was picked off third by Girardi (CB+3)
+ 
+**************  Bottom of the 6th inning, Árboles batting
+ 3-2  0 --- 12  Tapani grounded out to short (BCSX)
+ 3-2  1 --- 21  White,R flied out to right (CBBX)
+ 3-2  2 --- 12  Vizquel grounded a single up the middle (BCFX)
+ 3-2  2 1-- 22  Martinez,T struck out (F11FFBB1S)
+ 
+**************  Top of the 7th inning, Premiums batting
+ 3-2  0 --- 12  DiSarcina grounded a single up the middle (CBFX)
+ 3-2  0 1-- 31  Leiter popped out on a bunt to the mound (BbFbBBbXb)
+ 3-2  1 1-- 20  Edmonds popped out to first (BBX)
+ 3-2  2 1-- 22  Blauser lined a single to shallow left, DiSarcina to 
+                  second (1SFBB1X)
+                Eckersley now pitching
+ 3-2  2 12- 00  DiSarcina to third, Blauser to second, Salmon to first on 
+                  an error by the second baseman Shumpert (X)
+ 3-2  2 123 12  Bell lined a single between first and second, DiSarcina 
+                  scored, Blauser scored, Salmon to third (CFBX)
+ 5-2  2 1-3 02  Fryman struck out (SCS)
+ 
+**************  Bottom of the 7th inning, Árboles batting
+ 5-2  0 --- 12  Gaetti popped out to third (CBFX)
+ 5-2  1 --- 21  Girardi lined a single between third and short (CBBX)
+ 5-2  1 1-- 01  Shumpert lined a triple to left center, Girardi scored 
+                  (SX)
+ 5-3  1 --3 22  Bautista grounded out to first, Shumpert scored (BCFBX)
+ 5-4  2 --- 10  Matheny was hit by a pitch (BH)
+                Anderson,G pinch hitting for Eckersley
+ 5-4  2 1-- 12  Anderson,G grounded a single between first and second, 
+                  Matheny to second (CCBFFX)
+                Bonilla now playing third base
+                Benitez now pitching
+ 5-4  2 12- 00  White,R flied out to center (X)
+ 
+**************  Top of the 8th inning, Premiums batting
+                Aguilera now pitching
+ 5-4  0 --- 00  Karros lined a single to right center (X)
+ 5-4  0 1-- 00  Ausmus lined a single to shallow center, Karros to second 
+                  (X)
+ 5-4  0 12- 00  DiSarcina sacrifice bunted to the mound, Karros to third, 
+                  Ausmus to second (Xb)
+ 5-4  1 -23 02  Bonilla struck out (CFC)
+                Jackson pinch hitting for Edmonds
+ 5-4  2 -23 22  Jackson lined a single to center, Karros scored, Ausmus 
+                  scored, Jackson out at second (BSFFBX)
+ 
+**************  Bottom of the 8th inning, Árboles batting
+                Sojo now playing second base
+                Jackson moved to left field
+ 7-4  0 --- 10  Vizquel lined a single to right center (BX)
+ 7-4  0 1-- 22  Benitez balked, Vizquel to second (CBSBFB)
+ 7-4  0 -2- 32  Martinez,T walked (CBSBFB.FB)
+ 7-4  0 12- 00  Gaetti popped out to second (>X)
+ 7-4  1 12- 01  Girardi popped out to third (CX)
+ 7-4  2 12- 01  Shumpert grounded a single between first and second, 
+                  Vizquel to third, Martinez,T to second (CX)
+ 7-4  2 123 12  Bautista grounded a single up the middle, Vizquel scored, 
+                  Martinez,T to third, Shumpert to second (CFBFFX)
+ 7-5  2 123 21  Matheny grounded to third, forcing Bautista at second 
+                  (BBCX)
+ 
+**************  Top of the 9th inning, Premiums batting
+                Shaw now pitching
+ 7-5  0 --- 12  Blauser grounded out to third (FCBX)
+ 7-5  1 --- 21  Salmon grounded out to third (BBCX)
+ 7-5  2 --- 12  Bell grounded a double down the third base line (FFBX)
+                Sorrento pinch hitting for Benitez
+ 7-5  2 -2- 21  Sorrento popped out to third (B2CBX)
+ 
+**************  Bottom of the 9th inning, Árboles batting
+                Ryan now pitching
+                Snow pinch hitting for Shaw
+ 7-5  0 --- 22  Snow struck out (BBSFS)
+ 7-5  1 --- 00  White,R grounded out to third (X)
+ 7-5  2 --- 32  Vizquel walked (BFBFFBFB)
+ 7-5  2 1-- 11  Martinez,T grounded to short, forcing Vizquel at second 
+                  (CBX)
+
+-------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+-------------------------------------------------------------------------------------------
+
+                           CRCR Team Status -- 1994 Butt Mountain Beavis                            
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Rico Brogna                22     55     49    0    27   111       
+  Matt Nokes                 82     38     44    0    11    74    49 
+  Roberto Mejia               7     52     42    0    30   102       
+  Al Martin                  14     34     31    0    56   257       
+  John Valentin              36     26     28    0    87   268       
+  Mike Benjamin               4     38     28    0    23    52       
+  Mark Whiten                 5     31     24    0   107   267       
+  Matt Williams              25     23     23    0   118   365       
+  Juan Gonzalez              22     23     23    0   110   353       
+  Spike Owen                 26     18     21    0   102   219       
+  Terry Steinbach            14     19     17    0   155   248   277 
+  Mark McGwire                0     33     17    0    84    88       
+  Kevin Bass                 33      5     14    0    80   155       
+  Troy Neel                  28      4     11    0    93   227       
+  Darrin Jackson             17      5      9    4   133   270       
+f John Kruk                   1      2      2    0    84   217       
+f Harvey Pulliam              0      0      0    0     0     0       
+f Tim Hulett                  0      0      0    0    39    67       
+f Juan Bell                   0      0      0    0    18    96       
+f Joe Hall                    0      0      0    0    22     9       
+f Gerald Young                0      0      0    0    18    26       
+f Tim Spehr                   0      0      0    0    16    25       
+f Mike Maksudian              0      0      0    0     4    32       
+f Dann Howitt                 0      0      0    0     1    14       
+f Jerry Willard               0      0      0    0     0     6       
+f Mike Mordecai               0      0      0    0     1     4       
+  Total                                             1419  3552       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Steve Ontiveros            29    0    135    463  4/28/1994                        113s   113 
+  John Smoltz                25    0    144    568  4/27/1994                                   
+  Ken Hill                   25    0    163    647   5/1/1994    93s                         93 
+  Roger Clemens              25    0    170    692  4/30/1994           46s                  46 
+  Greg Maddux                22    0    174    774  4/29/1994                 105s          105 
+  Luis Aquino                21    0     45    214   5/1/1994    12r    12r                  24 
+  Mel Rojas                  17    0     58    341   5/1/1994     8r                  19r    27 
+  Tim Scott                  13    0     29    223   5/1/1994    22r     9r                  31 
+  Pedro A. Martinez          11    0     33    308  4/30/1994           51r    12r           63 
+  Mark Wohlers                9    0     22    236  4/30/1994           39r                  39 
+f Barry Manuel                0    0      0      0                                              
+f Vince Horsman               0    0      0    127                                              
+f Cris Carpenter              0    0      0    263                                              
+f Randy Veres                 0    0      0     43                                              
+f Greg Gohr                   0    0      0    159                                              
+f John Briscoe                0    0      0    210                                              
+f Rich Robertson              0    0      0     76                                              
+f Gene Harris                 0    0      0    117                                              
+f Brad Pennington             0    0      0     35                                              
+  Total                                 973   5496                                              
+
+
+
+                            CRCR Team Status -- 1994 Needmore Perfectos                             
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Billy Ashley              133      0    133    0     6     0       
+f John Mabry                 67    123    116    0     3    22       
+f Keith Lockhart            183    102    112    0     6    44       
+  Craig Paquette             56     75     68    0    18    32       
+  Dave McCarty               17     42     31    0    65    78       
+  Gary Sheffield             16     30     26    0   117   267       
+  Ken Griffey                15     29     24    0   175   318       
+  Joey Cora                   9     27     23    0    76   292       
+  Jose Valentin              16     24     23    0    64   267       
+  Rick Wilkins               20     23     22    0    61   297   174 
+  John Olerud                 6     24     18    0   139   314       
+  Delino DeShields           15     18     17    0   118   258       
+  Danny Tartabull            11     14     13    0   157   313       
+  Pat Borders                14     13     13    0    79   232   154 
+  Orlando Merced              9     11     10    0   108   324       
+  Mark Lemke                 16      3      7    0   114   280       
+  Todd Haney                  0      7      5    0    14    29       
+  Norberto Martin             0      7      3    0    86    59       
+f Curtis Pride                0      0      0    0     0     0       
+f Jack Voigt                  0      0      0    0    46   117       
+f Chip Hale                   0      0      0    0     7   131       
+f Phil Clark                  0      0      0    0    84    76       
+f Junior Noboa                0      0      0    0    22    22       
+f Billy Ripken                0      0      0    0    32    53       
+f Lonnie Smith                0      0      0    0    52    20       
+f Darnell Coles               0      0      0    0    62    94       
+f Steve Pegues                0      0      0    0    21    17       
+  Total                                             1732  3956       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Gregg Olson                69    0     53     77  4/29/1994                  25r           25 
+  Sterling Hitchcock         64    0    140    218  4/29/1994                  89s           89 
+  Erik Hanson                29    0    153    519  4/28/1994                        105s   105 
+  Ben McDonald               28    0    184    655   5/1/1994   121s                        121 
+  Tim Van Egmond             27    0     46    173  4/30/1994           15r           11r    26 
+  Stan Belinda               24    0     52    220  4/30/1994           15r    20r           35 
+  Chuck Finley               22    0    170    774  4/30/1994          106s                 106 
+  Robb Nen                   20    0     45    228   5/1/1994     9r            1r           10 
+  Jimmy Key                  19    0    136    710  4/27/1994                                   
+  Doug Linton                18    0     43    241  4/29/1994                  20r           20 
+f Danny Darwin                0    0      0    350                                              
+f Steve Bedrosian             0    0      0    196                                              
+f Jeff Russell                0    0      0    179                                              
+f Angel Miranda               0    0      0    196                                              
+f Hector Fajardo              0    0      0    370                                              
+f Matt Whiteside              0    0      0    272                                              
+f John Johnstone              0    0      0    105                                              
+  Total                                1022   5483                                              
+
+
+
+                              CRCR Team Status -- 1994 Tewksbury Bobs                               
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Alex Gonzalez              90     82     85    0    20    39       
+  Mike Kelly                 59     88     68    0    56    24       
+  Andres Galarraga           40     22     25    0    96   353       
+  Reggie Sanders             37     22     25    0   101   346       
+  Chuck Knoblauch            34     22     25    0   115   384       
+  Jeff King                  35     15     20    0    96   282       
+  Jim Leyritz                25     10     17    0   140   153   159 
+  Javy Lopez                  0     26     17    0   101   202    31 
+  Luis Gonzalez               2     23     17    0   118   332       
+  Greg Vaughn                 4     18     16    0    77   346       
+  James Mouton               32      5     14    0   121   224       
+  Manuel Lee                 20      9     11    0    82   281       
+  Scott Cooper                0     13      9    0   120   286       
+  Pat Meares                  0      9      6    0    69   185       
+  Sandy Alomar                0      7      5    0    83   237   131 
+f Orestes Destrade            2      0      1    0    50   102       
+f Darryl Hamilton             0      1      1    0    35   124       
+f Bill Pecota                 0      0      0    0    43    87       
+f Mark Smith                  0      0      0    0     0     7       
+f Darren Bragg                0      0      0    0     3    18       
+f Freddie Benavides           0      0      0    0    24    66       
+f Melvin Nieves               0      0      0    0    13     9       
+f Todd Benzinger              0      0      0    0   106   246       
+f Jerry Goff                  0      0      0    0     4    22       
+  Total                                             1673  4355       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+f Rick Reed                  77    0     58     75  4/24/1994                                   
+  Scott Bankhead             42    0     66    156  4/29/1994                  43r    11r    54 
+  Tom Candiotti              29    0    186    652   5/1/1994   104s                        104 
+  Darren Dreifort            28    0     41    148  4/22/1994                                   
+  Steve Avery                26    0    165    628  4/30/1994          121s                 121 
+  Chris Bosio                25    0    138    546  4/27/1994                                   
+  Kevin Gross                22    0    149    665  4/28/1994                         83s    83 
+  Roger Mason                19    0     49    256   5/1/1994    28r                         28 
+  John Wetteland             16    0     43    261  4/30/1994           10r            9r    19 
+  Willie Banks               16    0     95    598  4/29/1994                 110s          110 
+  Tom Edens                  10    0     24    231  4/22/1994                                   
+  Mark Williamson             2    0      7    291  4/29/1994                  20r           20 
+f Mark Dewey                  0    0      0    226                                              
+f Anthony Telford             0    0      0      0                                              
+f Xavier Hernandez            0    0      0    187                                              
+f Ryan Bowen                  0    0      0    208                                              
+f Carlos Reyes                0    0      0    344                                              
+f Eric Hillman                0    0      0    156                                              
+f Jim Gott                    0    0      0    172                                              
+f Ben Rivera                  0    0      0    176                                              
+f Joe Grahe                   0    0      0    218                                              
+  Total                                1021   6194                                              
+
+
+
+                            CRCR Team Status -- 1994 Grain Belt Premiums                            
+                                  Regular season -- as of 5/2/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Joe Oliver                 60     63     62    0     5    16     3 
+  Jeff Blauser               15     34     28    0   131   303       
+  Tim Salmon                 21     30     28    0   106   329       
+  Jim Edmonds                11     30     25    0    81   241       
+  Derek Bell                 15     28     25    0   130   336       
+  Eric Karros                14     27     23    0   118   330       
+  Brad Ausmus                10     28     23    0    99   267   312 
+  Bo Jackson                  9     35     23    0   108   116       
+  Travis Fryman              13     21     20    0   106   422       
+  Gary DiSarcina             10     21     18    0   124   297       
+  Luis Sojo                   6     16     14    0    47   180       
+  Bobby Bonilla               4      4      4    0   133   327       
+  Paul Sorrento               1      4      3    0    83   277       
+  Lee Tinsley                 2      1      1    0    66   102       
+f Matt Stairs                 0      0      0    0     0     0       
+f Ron Gant                    0      0      0    0     0     0       
+f Brian Johnson               0      0      0    0    30    71       
+f J.R. Phillips               0      0      0    0     4    36       
+f Rafael Bournigal            0      0      0    0    48    84       
+f Danny Sheaffer              0      0      0    0    26    94       
+f Rich Renteria               0      0      0    0    27    25       
+  Total                                             1472  3853       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/2    5/1   4/30   4/29   Cum 
+f Armando Benitez           181    0     76     42   5/2/1994    26r    42r                  68 
+  Paul Quantrill             68    0    160    236  4/28/1994                                   
+  Mike Magnante              66    0    140    211  4/30/1994                  93s           93 
+  Mark Guthrie               55    0    129    234  4/29/1994                        101s   101 
+  Doug Brocail               54    0     42     78  4/20/1994                                   
+  Mark Leiter                38    0    162    425   5/2/1994    96s                         96 
+  Mike Trombley              32    0     70    219  4/30/1994                  38r           38 
+  Ken Ryan                   29    0     59    202   5/2/1994    17r    17r                  34 
+  Scott Kamieniecki          28    0    141    509   5/1/1994           49s                  49 
+  Mike Hampton               23    0     41    181   5/1/1994           37r                  37 
+  John Habyan                14    0     28    204  4/20/1994                                   
+f Todd Jones                  0    0      0    288                                              
+f Kent Bottenfield            0    0      0    121                                              
+f Julian Tavarez              0    0      0     14                                              
+f Joe Slusarski               0    0      0      0                                              
+f Donovan Osborne             0    0      0      0                                              
+f Tom Urbani                  0    0      0    354                                              
+f Randy Tomlin                0    0      0     89                                              
+f Brian Williams              0    0      0    384                                              
+f Bill Gullickson             0    0      0    521                                              
+f Jim Deshaies                0    0      0    596                                              
+f Bob Milacki                 0    0      0    254                                              
+f Bryan Harvey                0    0      0     47                                              
+f Carl Willis                 0    0      0    282                                              
+  Total                                1048   5491                                              
+
+
+
+                            CRCR Team Status -- 1994 Tucker Tools Police                            
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Lenny Dykstra              32     33     32    0   116   270       
+  Wade Boggs                 34     28     30    0   128   306       
+  Shane Mack                 41     24     29    0    90   257       
+  Kirk Gibson                52     23     26    0    42   340       
+  Paul Molitor               31     23     25    0   131   385       
+  Jay Bell                   33     20     23    0   118   369       
+  Mike LaValliere            12     24     22    0    33   139   143 
+  Mike Macfarlane            28     17     21    0   120   250   128 
+  Willie McGee               49      9     20    0    47   129       
+  Carlos Baerga              17     19     18    0   171   298       
+  Pat Listach                14     11     12    0    21    36       
+  Steve Buechele             13      9     10    0   100   287       
+  Deion Sanders               1     11      8    0   118   296       
+  Kelly Stinnett              0      1      1    0    90    77    67 
+f Carlos Hernandez            0      0      0    0    30    35       
+f David Howard                0      0      0    0    20    80       
+f Felix Jose                  0      0      0    0   113   290       
+f Chris Gwynn                 0      0      0    0     5    73       
+f Rene Gonzales               0      0      0    0    11    19       
+f Dave Winfield               0      0      0    0    83   245       
+f Luis Polonia                0      0      0    0    62   332       
+f Andre Dawson                0      0      0    0    85   221       
+f Dan Pasqua                  0      0      0    0     0    23       
+f Willie Wilson               0      0      0    0    14     9       
+f Mark Leonard                0      0      0    0     2    12       
+  Total                                             1750  4778       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Joey Hamilton              36    0    160    447  4/28/1994                        110s   110 
+  John Hudek                 29    0     46    159   5/1/1994    10r    18r                  28 
+  Doug Drabek                26    0    169    657  4/30/1994          102s                 102 
+  David Cone                 23    0    159    690   5/1/1994   119s                        119 
+  Ramon Martinez             22    0    157    718  4/29/1994                  93s           93 
+  Jose Rijo                  20    0    150    733  4/27/1994                                   
+  Chris Howard               19    0     32    166  4/28/1994                         14r    14 
+  John Franco                15    0     33    216  4/27/1994                                   
+  Shawn Boskie               14    0     54    394  4/26/1994                                   
+  Pedro Astacio               7    0     43    625   5/1/1994     6r    28r                  34 
+  Alejandro Pena              3    0      4    118  4/14/1994                                   
+d Jim Bullinger               2    0      7    412   4/9/1994                                   
+f Rob Murphy                  0    0      0    174                                              
+f Larry Andersen              0    0      0    147                                              
+f Eric Gunderson              0    0      0     31                                              
+f Jack Armstrong              0    0      0     41                                              
+f Erik Plantenberg            0    0      0     31                                              
+f Kurt Miller                 0    0      0     92                                              
+f Brad Woodall                0    0      0     24                                              
+f Ross Powell                 0    0      0     32                                              
+f John Farrell                0    0      0     61                                              
+f Dave Righetti               0    0      0    102                                              
+f Bob Wells                   0    0      0     38                                              
+  Total                                1014   6108                                              
+
+
+
+                          CRCR Team Status -- 1994 Dún Laoghaire Messiahs                           
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  John Vander Wal           450     28     42    0     4   123       
+  Chris Turner               55     15     38    0    92    71   181 
+  Edgar Martinez             42     24     29    0   104   283       
+  Rusty Greer                44     20     26    0    81   250       
+  Brian Dorsett               5     37     26    0    85   156   150 
+  Cliff Floyd                73     17     25    0    52   314       
+  Eddie Murray               29     22     24    0   161   306       
+  Jay Buhner                 29     22     24    0   132   304       
+  Candy Maldonado            14     76     23    0    94    17       
+  Cal Ripken                 37     19     23    0   118   366       
+  Harold Reynolds            18     22     21    0    22   213       
+  Matias Carrillo            31     14     16    0    16   130       
+  Brian Turang               23      9     15    0    56    67       
+  Jody Reed                  48      6     15    0   101   364       
+f Cory Snyder                 1      2      1    0   110    61       
+f Tom Lampkin                 0      0      0    0     0     0       
+f Bob Melvin                  0      0      0    0    23    12       
+f Jose Lind                   0      0      0    0    81   234       
+f Junior Ortiz                0      0      0    0    24    62       
+f Milt Cuyler                 0      0      0    0    34   100       
+f Alex Diaz                   0      0      0    0    47   156       
+f Luis Rivera                 0      0      0    0    24    25       
+f Chuck Carr                  0      0      0    0   148   320       
+f Erik Pappas                 0      0      0    0    12    46       
+f Vince Coleman               0      0      0    0   134   343       
+f Nelson Liriano              0      0      0    0    54   249       
+f Joe Orsulak                 0      0      0    0    46   272       
+  Total                                             1855  4844       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Albie Lopez                80    0     61     76  4/28/1994                          7r     7 
+  Steve Karsay               75    0     86    115   5/1/1994    19r                  18r    37 
+  Rudy Seanez                65    0     68    104   5/1/1994    15r           10r           25 
+  Mark Gubicza               28    0    157    561  4/27/1994                                   
+  Al Leiter                  28    0    142    516  4/28/1994                        116s   116 
+  Jaime Navarro              27    0    112    411  4/29/1994                 119s          119 
+  Tom Glavine                23    0    167    731  4/30/1994          128s                 128 
+  Jim Abbott                 19    0    134    692   5/1/1994   100s                        100 
+  Salomon Torres             15    0     58    378  4/24/1994                                   
+  Mike Williams              15    0     34    222  4/20/1994                                   
+d Greg Harris                13    3     31    240  4/19/1994                                   
+  A.J. Sager                 11    0     23    217  4/21/1994                                   
+f Paul Shuey                  0    0      0     62                                              
+f Scott Brow                  0    0      0    141                                              
+f Mike Fetters                0    0      0    202                                              
+f Chad Ogea                   0    0      0     80                                              
+f Craig Lefferts              0    0      0    158                                              
+f Milt Hill                   0    0      0    167                                              
+f Jeff Mutis                  0    0      0    177                                              
+  Total                                1073   5250                                              
+
+
+
+                             CRCR Team Status -- 1994 Barcelona Brewers                             
+                                  Regular season -- as of 5/2/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  B.J. Surhoff               49     68     63    0    41   113   290 
+  Devon White                21     28     26    0   131   304       
+  Mo Vaughn                  19     29     26    0   145   318       
+  Kirby Puckett              22     25     24    0   114   368       
+  Ozzie Smith                18     26     23    0   142   291       
+  Robin Ventura               2     27     20    0   136   338       
+  Tony Phillips              14     21     19    2   140   398       
+  Mickey Morandini           33     12     16    0    61   255       
+  Brady Anderson              8     19     16    0   149   376       
+  Jerry Browne               23      7     12    0   121   267       
+  Tony Eusebio                6      6      6    0    66   108    22 
+  Alex Arias                  3      3      3    0    35    90       
+  Wally Joyner                1      4      3    0   141   276       
+  Randy Knorr                 2      2      2    0    47    89    11 
+f Rob Ducey                   0      0      0    0     0    31       
+f John Wehner                 0      0      0    0     4     0       
+f Andy Stankiewicz            0      0      0    0    24    45       
+f Jayhawk Owens               0      0      0    0     3    12       
+f Dave Henderson              0      0      0    0    94   124       
+f Jesus Tavarez               0      0      0    0    21    20       
+f Jesse Levis                 0      0      0    0     0     1       
+f Chris Jones                 0      0      0    0    27    15       
+f Matt Merullo                0      0      0    0     2    11       
+  Total                                             1644  3850       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/2    5/1   4/30   4/29   Cum 
+  Curt Schilling             52    0    186    360   5/2/1994    99s                         99 
+  Pat Gomez                  41    0     55    133  4/29/1994                         22r    22 
+  Dave Veres                 39    0     66    168   5/2/1994    38r                         38 
+  Jeff Tabaka                38    0     69    182   5/2/1994    12r           12r    11r    35 
+  Bill Swift                 35    0    161    457  4/29/1994                         72s    72 
+  Pedro Martinez             32    0    188    584  4/30/1994                 118s          118 
+  Dennis Martinez            29    0    212    730   5/1/1994          102s                 102 
+  Danny Cox                  21    0     15     72  4/19/1994                                   
+  Lee Smith                  21    0     33    160  4/26/1994                                   
+  Hector Carrasco            10    0     23    237  4/26/1994                                   
+  Mike Timlin                 9    0     16    179  4/14/1994                                   
+f Dave Burba                  0    0      0    322                                              
+f Ken Patterson               0    0      0      2                                              
+f Cory Bailey                 0    0      0     24                                              
+f Paul Spoljaric              0    0      0     21                                              
+f Erik Schullstrom            0    0      0     57                                              
+f Brad Brink                  0    0      0     32                                              
+f Tim Mauser                  0    0      0    210                                              
+f Jerry Spradlin              0    0      0     38                                              
+f Mark Acre                   0    0      0    147                                              
+f Mike Campbell               0    0      0     43                                              
+f Rich Scheid                 0    0      0    142                                              
+  Total                                1024   4300                                              
+
+
+
+                             CRCR Team Status -- 1994 Chinatrust Whales                             
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Dave Hansen               250     47     63    0     4    45       
+  Ron Tingley               115     26     55    0    20    42    71 
+  Darryl Strawberry          59     44     49    0    34    79       
+d Robby Thompson             62     41     47   18    47   103       
+  Chad Kreuter               28     42     39    0    43   161   285 
+  Mike Blowers               28     46     37    0   140   160       
+f Tim Bogar                  14     81     32    0    43    16       
+  Mark Carreon               27     31     30    0    44    67       
+  Kurt Abbott                29     26     27    0   115   256       
+  Brian McRae                31     22     25    0   143   362       
+  Ruben Amaro                57     11     24    0     7    18       
+  Will Clark                 27     19     22    4   135   334       
+  Paul O'Neill               17     18     18    0   132   311       
+  Tim Raines                 10     19     17    0   111   342       
+  Shawn Green                 0      9     15    0     0    34       
+  Mike Gallego               14     11     11    0    93   264       
+f Wes Chamberlain            18      5     10    0    92   156       
+d Jerome Walton               3     11      7    0    37    36       
+f Chipper Jones               0      0      0    0     0     0       
+f Todd Pratt                  0      0      0    0    38    76       
+f Scott Hemond                0      0      0    0    93   123       
+f Russ Davis                  0      0      0    0    10     4       
+f Randy Ready                 0      0      0    0    35    15       
+f Dave Staton                 0      0      0    0    30    46       
+  Total                                             1446  3050       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Omar Olivares              49    0    163    333   5/1/1994   112s                        112 
+  Mike Henneman              41    0     69    167  4/30/1994           17r           14r    31 
+  Scott Service              40    0     14     35   5/1/1994    27r                  35r    62 
+  Roger Pavlik               39    0     96    244  4/27/1994                                   
+  Mark Thompson              33    0     16     49  4/28/1994                         64s    64 
+d Terry Mathews              32    7     57    179  4/23/1994                                   
+  Randy Johnson              26    0    181    694  4/30/1994          111s                 111 
+  Cal Eldred                 26    0    199    769  4/29/1994                 113s          113 
+d Rick Sutcliffe             23    5     73    319  4/21/1994                                   
+  Richie Lewis               23    0     59    261   5/1/1994     9r                          9 
+  Jeff Montgomery            22    0     42    193  4/28/1994                         46r    46 
+  Jose Bautista              17    0     49    293  4/30/1994           12r     4r    18r    34 
+  Bob Welch                  16    0     53    325  4/28/1994                          4r     4 
+f Jim Poole                   0    0      0    100                                              
+f Mike Butcher                0    0      0    140                                              
+f Jerry DiPoto                0    0      0     79                                              
+f John Dopson                 0    0      0    264                                              
+f Roger Salkeld               0    0      0    291                                              
+  Total                                1071   4735                                              
+
+
+
+                              CRCR Team Status -- 1994 Cincinnati Reds                              
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Pedro Munoz                28     29     29    0   100   168       
+  Eddie Williams             18     24     22    0    57   139       
+  Mickey Tettleton           24     20     21    0   101   343   242 
+  Barry Larkin               17     21     20    0   124   377       
+  Ken Caminiti               15     22     20    0   142   312       
+  Rafael Palmeiro            14     21     18    0   165   333       
+  Otis Nixon                  2     23     18    0   121   340       
+  Lou Whitaker                4     19     17    0    46   326       
+  Ray Lankford                1     22     16    0   126   356       
+  Bip Roberts                16     12     13    0   144   305       
+  Matt Mieske                30      6     13    0    76   210       
+  Eddie Taubensee            12     12     12    0    17   188    74 
+  Pat Kelly                  22      4     10    0   107   222       
+  Felix Fermin                9      3      5    0   113   298       
+d Geronimo Berroa             2      3      3    4   158   233       
+f Lance Parrish               0      0      0    0    35   112       
+f Tony Womack                 0      0      0    0     3    11       
+f Tom Goodwin                 0      0      0    0     0     2       
+f Lenny Harris                0      0      0    0    12    94       
+f Scott Stahoviak             0      0      0    0     0     0       
+f Tony Tarasco                0      0      0    0    20   124       
+f Bob Natal                   0      0      0    0    11    23       
+f Charles Johnson             0      0      0    0     2    11       
+f Carlos Rodriguez            0      0      0    0    46   146       
+f Ricky Jordan                0      0      0    0    81   147       
+f Sid Bream                   0      0      0    0     8    62       
+f Oddibe McDowell             0      0      0    0    36   184       
+  Total                                             1851  5066       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+f Mike Mohler               107    0     15     14  4/14/1994                                   
+  Paul Assenmacher           33    0     44    134   5/1/1994    29r    12r                  41 
+  Sid Fernandez              32    0    157    494   5/1/1994    96s                         96 
+  Shane Reynolds             29    0    150    517  4/30/1994           90s                  90 
+  David Wells                28    0    129    464  4/29/1994                  88s           88 
+  Jeff Brantley              24    0     64    262  4/30/1994           15r           23r    38 
+  Orel Hershiser             21    0    119    575  4/28/1994                        130s   130 
+  Andy Benes                 20    0    146    717  4/27/1994                                   
+  Eric Plunk                 20    0     61    306   5/1/1994     8r                          8 
+  Todd Worrell               20    0     34    173  4/23/1994                                   
+  Yorkis Perez               14    0     24    167  4/23/1994                                   
+f Johnny Ruffin               0    0      0    287                                              
+f Kevin Foster                0    0      0    337                                              
+f Joe Hesketh                 0    0      0    495                                              
+f Bobby Munoz                 0    0      0    447                                              
+f Anthony Young               0    0      0    474                                              
+f Dave Mlicki                 0    0      0      0                                              
+f Pedro Borbon                0    0      0      0                                              
+f Norm Charlton               0    0      0      0                                              
+f Tom Browning                0    0      0    169                                              
+  Tony Fossas                 0    0      0    151                                              
+f Jeremy Hernandez            0    0      0     97                                              
+f Gary Buckels                0    0      0     51                                              
+  Total                                 943   6331                                              
+
+
+
+                            CRCR Team Status -- 1994 San Carlos Quentins                            
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Jarvis Brown               80    100     88    0    10     6       
+  Jeff Branson               52     77     72    0    21    95       
+  Rich Becker                68     52     54    0    19    93       
+  Troy O'Leary              200     44     47    0     1    72       
+  Mike Lieberthal            81     25     36    6    16    68    76 
+  Henry Rodriguez           180     25     32    0    15   315       
+  Damon Berryhill            15     31     27    0    71   205   298 
+  David Hulse                17     29     27    0    72   269       
+  Roberto Alomar             23     26     25    0   128   327       
+  Ed Sprague                 20     23     22    0   132   313       
+  Fred McGriff               14     25     21    0   174   304       
+  Archi Cianfrocco           11     15     13    0    54   103       
+  Ryan Thompson              15      9     10    0    99   280       
+  Chris Gomez                15      4      7    0    99   237       
+  Kevin McReynolds           12      5      7    0    52   149       
+f Tom Prince                  0      0      0    0     4     3       
+f Mark Parent                 0      0      0    0    74    42       
+f Leo Gomez                   0      0      0    0    81   253       
+f Eric Anthony                0      0      0    0    54   234       
+f Jerald Clark                0      0      0    0     0     0       
+f Mitch Webster               0      0      0    0    66    27       
+f Jeff Tackett                0      0      0    0    12    48       
+f Russ Morman                 0      0      0    0     9    27       
+f Ernie Young                 0      0      0    0    17    14       
+f Ricky Gutierrez             0      0      0    0   105   209       
+f Dave Valle                  0      0      0    0    42    92       
+  Total                                             1427  3785       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Toby Borland               50    0     72    144  4/30/1994           18r           18r    36 
+  Pete Harnisch              32    0    135    419  4/30/1994          117s                 117 
+  Gil Heredia                30    0     98    325   5/1/1994     4r           52r           56 
+  Jason Grimsley             29    0    107    368  4/29/1994                  58s           58 
+  Lance Painter              27    0     90    336   5/1/1994    10r           43r    19r    72 
+  Mike Bielecki              26    0     30    115   5/1/1994    10r    32r                  42 
+  Darren Oliver              24    0     54    226   5/1/1994    15r           37r           52 
+  Tim Belcher                23    0    170    750   5/1/1994    86s                         86 
+  Scott Erickson             22    0    143    654  4/27/1994                                   
+  Bob Patterson              19    0     33    170   5/1/1994    16r    15r    16r           47 
+  Juan Guzman                16    0    110    671  4/28/1994                        118s   118 
+f Tim Pugh                    0    0      0    227                                              
+f Chris Haney                 0    0      0    127                                              
+f Mark Petkovsek              0    0      0      0                                              
+f Tim Wakefield               0    0      0      0                                              
+f Rich Rodriguez              0    0      0    260                                              
+f Larry Luebbers              0    0      0      0                                              
+f Mike Oquist                 0    0      0    278                                              
+f Bryan Hickerson             0    0      0    436                                              
+f Rene Arocha                 0    0      0    360                                              
+  Total                                1042   5866                                              
+
+
+
+                            CRCR Team Status -- 1994 Ferdinand Magellans                            
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Barry Bonds                17     31     27    0   140   334       
+  Glenallen Hill              4     43     27    0   123   176       
+  John Cangelosi              0     47     27    0    59    76       
+  Chris Hoiles               23     27     26    0    88   318   306 
+  Craig Biggio               15     30     26    0   139   372       
+  Rex Hudler                 23     24     24    0    81    55     3 
+  Steve Finley                4     29     22    0   125   292       
+  Dave Nilsson               13     24     21    0    96   344    33 
+  Kevin Seitzer               4     22     18    0    76   272       
+  Craig Grebeck               0     33     18    0    53    60       
+  Walt Weiss                 20     15     16    0   110   376       
+  Tim Naehring               17     16     16    0   109   230       
+  Randy Velarde              13     18     16    0   137   173       
+  John Jaha                  26      2      7    0    72   266       
+  Geronimo Pena               3      8      6    0    87   161       
+f Gerald Williams             0      0      0    0    70    21       
+f Randy Milligan              0      0      0    0    58    40       
+f Jose Oquendo                0      0      0    0    39   113       
+f Jose Oliva                  0      0      0    0    28    38       
+f Dale Sveum                  0      0      0    0     2    27       
+f Junior Felix                0      0      0    0    88   251       
+f Dwight Smith                0      0      0    0    12   198       
+f Brian Harper                0      0      0    0    53   214       
+f Hal Morris                  0      0      0    0   125   358       
+  Total                                             1970  4765       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+d Mike Gardiner              59   12    150    254  4/28/1994                         74s    74 
+  Kevin Appier               30    0    197    653  4/30/1994          100s                 100 
+  Melido Perez               28    0    179    632   5/1/1994    92s                         92 
+  Bob Wickman                28    0     81    286   5/1/1994    22r                  39r    61 
+  Graeme Lloyd               26    0     52    203  4/27/1994                                   
+  Heathcliff Slocumb         25    0     81    322   5/1/1994    20r           23r     7r    50 
+  Tom Gordon                 21    0    143    675  4/27/1994                                   
+  Bruce Ruffin               21    0     53    252  4/28/1994                         20r    20 
+  Zane Smith                 11    0     73    645  4/28/1994                         20r    20 
+  Hipolito Pichardo          10    0     30    303  4/29/1994                 108s          108 
+  Billy Taylor               10    0     19    195  4/20/1994                                   
+f Rich Batchelor              0    0      0      0                                              
+f Greg McMichael              0    0      0    259                                              
+f Huck Flener                 0    0      0      0                                              
+f Jim Corsi                   0    0      0      0                                              
+f Shawn Barton                0    0      0      0                                              
+f Ricky Bottalico             0    0      0     13                                              
+f Mark Kiefer                 0    0      0     52                                              
+f Jeff Juden                  0    0      0    121                                              
+f Bryce Florie                0    0      0     37                                              
+f Jeff Darwin                 0    0      0     22                                              
+  Total                                1058   4924                                              
+
+
+
+                             CRCR Team Status -- 1994 Reykjavík 101ers                              
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+d Jeff Frye                  34     33     33    6    56   187       
+  Sean Berry                 30     28     29    0    88   271       
+  Moises Alou                27     24     25    0   115   356       
+  Jose Offerman               9     30     25    0    76   213       
+  Sammy Sosa                 22     25     24    0   124   334       
+  Albert Belle               20     26     24    0   151   329       
+  Mike Piazza                30     20     23    0   104   337   261 
+  Dante Bichette             28     21     22    0   109   400       
+  Lenny Webster               3     23     13    0    86    80   101 
+  Andujar Cedeno             14      7      9    0   119   261       
+  Bret Barberie               4     11      9    0   128   278       
+  Carlos Delgado              0      8      6    0    36   123       
+  Eric Young                  0      6      4    0    80   195       
+  Esteban Beltre              0      6      4    0    49   104       
+  Luis Lopez                 12      1      4    1    51   206       
+  Thomas Howard               0      4      3    0    30   162       
+f Cecil Fielder               0      0      0    0    93   388       
+f Phil Plantier               0      0      0    0   106   279       
+f Mark Dalesandro             0      0      0    0    15    12       
+f Greg Pirkl                  0      0      0    0    39    17       
+f Brent Gates                 0      0      0    0    74   190       
+f Alex Cole                   0      0      0    0    56   342       
+f Dick Schofield              0      0      0    0    99   274       
+f Tom Brunansky               0      0      0    0    71   162       
+f Rob Butler                  0      0      0    0    15    73       
+f Kevin Roberson              0      0      0    0    13    46       
+  Total                                             1983  5619       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Darren Hall                30    0     39    131  4/26/1994                                   
+  Mike Mussina               28    0    198    712   5/1/1994   131s                        131 
+  Andy Ashby                 24    0    166    682  4/27/1994                                   
+  Wilson Alvarez             22    0    153    682  4/28/1994                        119s   119 
+  Randy Myers                22    0     39    174  4/27/1994                                   
+  Alex Fernandez             20    0    144    712  4/29/1994                 109s          109 
+  Danny Jackson              19    0    147    755  4/30/1994          112s                 112 
+  Marvin Freeman             17    0     78    465  4/30/1994           43r           16r    59 
+  Kent Mercker                7    0     30    461  4/30/1994            4r    18r    22r    44 
+  Denny Neagle                2    0      9    587  4/29/1994                  30r           30 
+f Jose Mercedes               0    0      0    120                                              
+f Mike Munoz                  0    0      0    200                                              
+f Vince Palacios              0    0      0    484                                              
+f Chuck McElroy               0    0      0    230                                              
+f Tim Davis                   0    0      0    225                                              
+f Jay Howell                  0    0      0    189                                              
+f John Roper                  0    0      0    390                                              
+f Jason Jacome                0    0      0    222                                              
+f Tim Fortugno                0    0      0    132                                              
+f Andy Carter                 0    0      0    149                                              
+  Total                                1003   7702                                              
+
+
+
+                             CRCR Team Status -- 1994 Baraboo GoiterMen                             
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Craig Shipley              27     33     31    0   103   155       
+  Tony Gwynn                 22     30     27    0   155   320       
+  Jeff Bagwell               25     27     26    0   125   354       
+  Tim Wallach                24     26     25    0   123   343       
+  Kenny Lofton               15     29     24    0   194   329       
+  Juan Samuel                 3     36     23    0    59    92       
+  Kevin Mitchell             27     21     22    0    93   287       
+  Darren Daulton              8     29     22    0    98   194   263 
+  Jeff Kent                  25     16     18    0   122   330       
+d Mike Stanley               13     15     14   15   130   203       
+  Gerald Perry                0     15     14    0     6    86       
+  Mike Kingery               17     11     12    0    42   304       
+  Rey Sanchez                 0     14     10    0    81   242       
+  Jacob Brumfield             4      8      6    0    55    86       
+  Chris James                 9      1      5    0    76    83       
+  Kirt Manwaring              5      1      2    0    93   258    77 
+f Mike Simms                  0      0      0    0     3     9       
+f Jeff Manto                  0      0      0    0     0     0       
+f Bob Hamelin                 0      0      0    0    57   318       
+f Mike Huff                   0      0      0    0    86   151       
+f Eddie Zambrano              0      0      0    0    81    52       
+f Terry Pendleton             0      0      0    0    99   225       
+f Rich Amaral                 0      0      0    0   117   145       
+f Scott Fletcher              0      0      0    0    72   134       
+f Dave Gallagher              0      0      0    0   115    62       
+  Total                                             2185  4762       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Mike Jackson               42    0     66    158   5/1/1994    38r     4r    15r           57 
+  Dave Leiper                37    0     28     75   5/1/1994    17r    13r    12r           42 
+  Bobby Ayala                27    0     63    236   5/1/1994    11r           37r     7r    55 
+  Bret Saberhagen            25    0    176    696  4/29/1994                  64s           64 
+  Charles Nagy               25    0    180    717  4/30/1994           89s                  89 
+  Butch Henry                25    0    108    433  4/28/1994                         86s    86 
+  Bobby Jones                22    0    151    685  4/27/1994                                   
+  Ricky Bones                22    0    154    708   5/1/1994    64s                         64 
+  Trevor Hoffman             18    0     40    225  4/29/1994                  58r           58 
+  Steve Howe                 17    0     26    152   5/1/1994    18r     9r    11r           38 
+f Mark Eichhorn               0    0      0    290                                              
+f Storm Davis                 0    0      0    212                                              
+f Bill Risley                 0    0      0    203                                              
+f Kevin Campbell              0    0      0     97                                              
+f Jose DeLeon                 0    0      0    288                                              
+f Mike Birkbeck               0    0      0      0                                              
+f Billy Brewer                0    0      0    157                                              
+f Josias Manzanillo           0    0      0    186                                              
+f Paul Abbott                 0    0      0      0                                              
+f William Van Landingham      0    0      0    363                                              
+f Phil Leftwich               0    0      0    499                                              
+f Bill Wegman                 0    0      0    500                                              
+  Total                                 992   6880                                              
+
+
+
+                               CRCR Team Status -- 1994 Century Atoms                               
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Ryan Klesko                32     33     33    0    25   251       
+  Manny Ramirez              22     32     28    0   141   195       
+  Orlando Miller              0     36     27    0    11    33       
+  Brett Butler               19     29     26    0   154   342       
+  Todd Hundley               11     29     26    0    56   267   270 
+  Bernie Williams            19     28     25    0   163   312       
+  Tony Fernandez             11     29     24    0   112   310       
+  Charlie O'Brien            58     14     24    0    40   132   103 
+  Jeff Reboulet              43     15     24    0    67   143       
+  Carlos Garcia              29     19     22    0   108   326       
+  Dave Magadan               10     25     20    0    73   181       
+  Reggie Jefferson           20     19     19    0    10   171       
+d Scott Brosius              14     19     18   23   133   227       
+  Mark Lewis                  5     19     12    0    39    37       
+  Julio Franco               20      5      9    0   127   378       
+  Stan Javier                 6      3      4    0   172   308       
+f Bill Haselman               0      0      0    0    37    51       
+f Eric Davis                  0      0      0    0    31   107       
+f Roberto Kelly               0      0      0    0   119   357       
+f Tony Longmire               0      0      0    0    29   124       
+f Kevin Elster                0      0      0    0    11    11       
+f Tony Pena                   0      0      0    0    60    66       
+f Chris Donnels               0      0      0    0    11    88       
+f Mario Diaz                  0      0      0    0    30    55       
+  Total                                             1759  4472       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Tim Worrell               129    0     76     59  4/30/1994            4r    15r           19 
+  Jeff Nelson                44    0     82    185   5/1/1994    24r     9r    16r           49 
+  Woody Williams             28    0     70    253   5/1/1994    10r           16r    26r    52 
+f Pat Rapp                   27    0    160    584  4/28/1994                         95s    95 
+  Jack McDowell              27    0    206    755  4/29/1994                  88s           88 
+  Pat Hentgen                27    0    195    728  4/30/1994          137s                 137 
+  Ismael Valdes              25    0     29    115  4/27/1994                                   
+  Kenny Rogers               22    0    155    714   5/1/1994    57s                         57 
+  Kevin Ritz                 20    0     66    335   5/1/1994    53r                  16r    69 
+  Steve Reed                 15    0     46    297   5/1/1994    20r                  22r    42 
+f Jason Bere                  0    0      0    608                                              
+f Rick Honeycutt              0    0      0    122                                              
+f Rich DeLucia                0    0      0     47                                              
+  David West                  0    0      0    429                                              
+f Turk Wendell                0    0      0     76                                              
+f Dennis Cook                 0    0      0    143                                              
+f Rusty Meacham               0    0      0    213                                              
+f Ron Darling                 0    0      0    682                                              
+  Total                                1085   6345                                              
+
+
+
+                            CRCR Team Status -- 1994 Evanston Endorphins                            
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Fernando Vina              71     36     38    0     7   143       
+  Dave Hollins               34     39     38    0    64   128       
+  Jeff Cirillo                2     46     33    0    42    97       
+  Brian Jordan               27     34     31    0    67   130       
+  Bernard Gilkey             22     27     25    0   124   307       
+  Mike Greenwell             12     31     25    0   112   262       
+  Scott Servais              19     27     24    0    75   200   302 
+  Mark Grace                 24     23     24    0   134   320       
+  Raul Mondesi               17     18     18    0   126   328       
+  Jose Vizcaino              21     15     17    0   117   339       
+  Ozzie Guillen              17     12     14    0   126   264       
+  Alan Trammell               2     18     13    0    98   213       
+  Don Slaught                17     10     12    0    70   209    62 
+  Billy Hatcher              12     10     11    0   116   211       
+f Robert Perez                0      0      0    0     6     2       
+f Lou Frazier                 0      0      0    0    16   144       
+f John Flaherty               0      0      0    0    29    15       
+f Alvaro Espinoza             0      0      0    0    89   155       
+f Mike Aldrete                0      0      0    0    19   182       
+  Total                                             1437  3649       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+f John Frascatore           172    0     31     18  4/28/1994                         15r    15 
+f Mark Hutton               163    0     26     16   4/8/1994                                   
+  Fernando Valenzuela        42    0     77    182  4/29/1994                  28r    34r    62 
+  Dwight Gooden              37    0     68    182  4/30/1994           13r    28r           41 
+  Willie Blair               32    0    118    365  4/30/1994           89s                  89 
+  Tom Henke                  29    0     46    156   5/1/1994    16r            5r           21 
+  Jesse Orosco               29    0     50    174   5/1/1994    17r           27r           44 
+  Darren Holmes              27    0     38    142  4/29/1994                  26r    15r    41 
+  Scott Sanders              25    0    123    485  4/29/1994                  91s           91 
+  Jeff Fassero               25    0    143    569  4/27/1994                                   
+  Steve Cooke                25    0    147    590   5/1/1994   103s                        103 
+  Terry Mulholland           22    0    120    542  4/28/1994                         84s    84 
+  Roberto Hernandez          18    0     37    206  4/29/1994                  15r           15 
+f Frank Viola                 0    0      0    136                                              
+f Tommy Greene                0    0      0    164                                              
+f Greg Hibbard                0    0      0    392                                              
+f Dave Otto                   0    0      0    200                                              
+f Kirk McCaskill              0    0      0    228                                              
+f Ravelo Manzanillo           0    0      0    236                                              
+f Steve Dreyer                0    0      0     80                                              
+f Gar Finnvold                0    0      0    167                                              
+f Jim Converse                0    0      0    253                                              
+f Paul Gibson                 0    0      0    130                                              
+  Total                                1024   5613                                              
+
+
+
+                            CRCR Team Status -- 1994 Hong Kong Cavaliers                            
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Ryne Sandberg              19     49     40    0    75   172       
+  Denny Hocking               0     52     35    0    10    21       
+  Shawon Dunston             37     32     33    0    97   259       
+  Brent Mayne                94     21     29    0    17   141   253 
+  Dean Palmer                37     26     28    0    83   288       
+  Lance Johnson              25     29     28    0   142   301       
+  Larry Walker               28     28     28    0   134   318       
+  Frank Thomas               28     22     24    0   131   386       
+  Ivan Rodriguez             30     18     20   15    80   325   127 
+  Turner Ward                10     23     20    0   105   322       
+  Mariano Duncan             24      7     12   19   119   255       
+  Ruben Sierra               17      5      9    0   174   286       
+  Vinny Castilla              8      9      9    0    40   101       
+  Jose Hernandez             12      2      4    0    33   113       
+f Charlie Hayes               0      0      0    0    96   367       
+f Joe Carter                  0      0      0    0   127   356       
+f Don Mattingly               0      0      0    0   157   279       
+f Terry McGriff               0      0      0    0    44    87       
+f Garey Ingram                0      0      0    0    26    60       
+f Torey Lovullo               0      0      0    0    13    68       
+f Keith Mitchell              0      0      0    0    75    74       
+f Greg O'Halloran             0      0      0    0     0    12       
+  Total                                             1778  4591       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Curt Leskanic             114    0    112     98  4/29/1994                 107s          107 
+  Ed Vosberg                111    0     62     56  4/30/1994           31r            6r    37 
+  Danny Miceli               64    0     78    121  4/30/1994           51r            1r    52 
+  Bill Krueger               52    0    143    276  4/27/1994                                   
+  Pete Schourek              39    0    139    354  4/30/1994           54s                  54 
+  Tony Castillo              31    0     91    291   5/1/1994    11r           17r     8r    36 
+  Dan Plesac                 31    0     72    235   5/1/1994    10r    30r           11r    51 
+  Jose Mesa                  30    0     94    315   5/1/1994    37r           30r     8r    75 
+  Mike Moore                 26    0    179    679   5/1/1994    60s                         60 
+  Darryl Kile                21    0    142    664  4/28/1994                        108s   108 
+  Dave Stewart                2    0     15    602  4/28/1994                         36r    36 
+f Chan Ho Park                0    0      0     23                                              
+f Bob Scanlan                 0    0      0    441                                              
+f Jack Morris                 0    0      0    636                                              
+f John Cummings               0    0      0    285                                              
+f Bryan Eversgerd             0    0      0    283                                              
+f Rich Monteleone             0    0      0    189                                              
+f Carlos Pulido               0    0      0    366                                              
+f John Doherty                0    0      0    454                                              
+f Mike Harkey                 0    0      0    415                                              
+f Dave Stevens                0    0      0    208                                              
+f Chris Nabholz               0    0      0    254                                              
+  Total                                1127   7245                                              
+
+
+
+                              CRCR Team Status -- 1994 GPCC Shebazzle!                              
+                                  Regular season -- as of 5/2/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Jeromy Burnitz             46     59     56    0    41   127       
+  Rickey Henderson           22     39     33    0   136   240       
+  Howard Johnson              8     37     32    0    40   229       
+  Chris Sabo                 35     31     32    0    84   204       
+  Dan Wilson                 40     26     30    0    78   225   276 
+  Damion Easley              23     32     29    0   119   236       
+  Kevin Stocker              35     25     27    0    81   249       
+  Harold Baines               8     26     23    0    53   304       
+  Bill Spiers                 3     18     15    0    39   198       
+  Pete Incaviglia            25      7     14    0   113   150       
+  Derek Parks                 2     23     14    0    43    53    66 
+  Warren Newson               0     12     12    0     5   113       
+  Dave Martinez              27      7     10    0    30   230       
+  Andy Van Slyke             25      3      9    0   120   311       
+  Trent Hubbard              17      0      7    0    12    16       
+f Tom Pagnozzi                0      0      0    0    65   201       
+f Domingo Cedeno              0      0      0    0    34    80       
+f Roberto Petagine            0      0      0    0     0     8       
+f Mike Brumley                0      0      0    0     5    21       
+f Steve Sax                   0      0      0    0    11    13       
+f Fausto Cruz                 0      0      0    0    17    15       
+f Jeff Gardner                0      0      0    0     2    33       
+  Total                                             1128  3256       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/2    5/1   4/30   4/29   Cum 
+  Armando Reynoso            54    0    123    226  4/30/1994                 121s          121 
+  Mauro Gozzo                50    0    163    323  4/28/1994                                   
+  John Dettmer               45    0    112    250   5/2/1994    29r    23r    13r           65 
+  Scott Sanderson            45    0    174    389  4/29/1994                        102s   102 
+  Mark Langston              38    0    195    517   5/1/1994          103s                 103 
+  Charlie Hough              32    0    165    515   5/2/1994   122s                        122 
+  Jose DeJesus               31    0     35    112  4/16/1994                                   
+  Joe Boever                 25    0     88    349   5/2/1994    20r           11r           31 
+  Donn Pall                  14    0     24    176  4/30/1994                  47r           47 
+  Miguel Jimenez              6    0     11    173   4/9/1994                                   
+f Omar Daal                   0    0      0     55                                              
+f Wally Whitehurst            0    0      0    294                                              
+f Alan Mills                  0    0      0    199                                              
+f Rich Garces                 0    0      0      0                                              
+f Mike Perez                  0    0      0    155                                              
+f Marcus Moore                0    0      0    158                                              
+f Bruce Hurst                 0    0      0    176                                              
+f Donnie Elliott              0    0      0    148                                              
+f Steve Frey                  0    0      0    137                                              
+  Total                                1090   4352                                              
+
+
+
+                              CRCR Team Status -- 1994 Ferlin Huskies                               
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Rick Wrona                 67    178    150    0     3     9    26 
+  Gregg Jefferies            18     34     29    0   137   310       
+  Dave Justice               17     34     28    0   149   275       
+  Ellis Burks                53     20     28    0    38   127       
+  Darrin Fletcher            16     28     27    0    37   288   179 
+  Jim Thome                   4     32     25    0    94   275       
+  Mike Lansing               26     24     25    0    96   339       
+  Chili Davis                13     27     23    5   140   328       
+  Wil Cordero                15     25     23    0   116   351       
+  Marquis Grissom             6     17     15    0   124   397       
+  Matt Walbeck               27      4      8    0    62   297   165 
+  Todd Zeile                 17      5      8    0   126   351       
+  Greg Gagne                  7      4      5    0    99   310       
+  Scott Leius                 3      1      2    0   102   289       
+f Rich Rowland                0      0      0    0    53    76       
+f Brian L. Hunter             0      0      0    0     3    23       
+f Kent Hrbek                  0      0      0    0    45   272       
+f Jim Lindeman                0      0      0    0    69    76       
+f Wayne Kirby                 0      0      0    0    34   173       
+f John Patterson              0      0      0    0    40   234       
+f Dave Clark                  0      0      0    0    31   218       
+f Jorge Fabregas              0      0      0    0    19   116       
+f Doug Strange                0      0      0    0    36   214       
+f Eric Fox                    0      0      0    0    15    32       
+  Total                                             1668  5380       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Derek Lilliquist           69    0     87    127   5/1/1994    22r     1r     1r     7r    31 
+  Rod Beck                   37    0     77    207  4/30/1994           13r    11r    12r    36 
+  Mark Clark                 34    0    184    540  4/30/1994          108s                 108 
+  Paul Wagner                31    0    166    534  4/28/1994                        128s   128 
+  Steve Trachsel             26    0    161    612   5/1/1994   107s                        107 
+  Mark Portugal              23    0    134    580  4/29/1994                   4r            4 
+  Kevin Brown                19    0    147    760  4/29/1994                  99s           99 
+  Kirk Rueter                13    0     52    397  4/29/1994                  34r           34 
+  Mike Morgan                12    0     47    380  4/29/1994                  32r           32 
+  Bob Tewksbury               4    0     27    667  4/27/1994                                   
+  Mike Walker                 0    0      2      0  4/28/1994                          3r     3 
+f Mark Gardner                0    0      0    391                                              
+f Rheal Cormier               0    0      0    169                                              
+f Mike Maddux                 0    0      0    186                                              
+f Bobby Witt                  0    0      0    618                                              
+f Mike Ignasiak               0    0      0    201                                              
+f Blas Minor                  0    0      0     90                                              
+f Pete Smith                  0    0      0    565                                              
+f Goose Gossage               0    0      0    197                                              
+f Bud Black                   0    0      0    227                                              
+f Chuck Crim                  0    0      0    283                                              
+  Total                                1084   7731                                              
+
+
+
+                           CRCR Team Status -- 1994 San Francisco Árboles                           
+                                  Regular season -- as of 5/2/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Garret Anderson           600    125    162    0     1    12       
+f Carl Everett              129    170    154    0    21    33       
+  Herb Perry                 27    467    121    0    11     3       
+  Rondell White              80    140    117    0    41    68       
+  Danny Bautista             83    121    106    0    41    61       
+  Mike Matheny               57     74     68    0    21    38    50 
+  Omar Vizquel               22     48     37    0   131   191       
+  Gary Gaetti                36     32     33    0   104   248       
+  Terry Shumpert             29     31     31    0    65   137       
+  Tino Martinez              38     28     31    0    89   277       
+  Joe Girardi                39     25     28    0    80   281   287 
+  Royce Clayton              21     13     14    0    95   328       
+  J.T. Snow                   5      9      8    0    94   154       
+  Jim Eisenreich              8      3      4    3    59   270       
+f Luis Alicea                 0      0      0    0    46   196       
+f Jose Canseco                0      0      0    0   115   390       
+f Ron Karkovice               0      0      0    0    98   150       
+f Darren Lewis                0      0      0    0   128   385       
+f Derrick May                 0      0      0    0    68   310       
+f Steve Scarsone              0      0      0    0    62    56       
+f Karl Rhodes                 0      0      0    0    44   264       
+f Jeff Treadway               0      0      0    0    16    62       
+f Milt Thompson               0      0      0    0    39   231       
+f Tom Foley                   0      0      0    0    16   121       
+f Brian Hunter                0      0      0    0    90   188       
+f Gary Redus                  0      0      0    0    19    18       
+  Total                                             1594  4472       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/2    5/1   4/30   4/29   Cum 
+f Aaron Small               169    0     22     13  4/10/1994                                   
+  Gabe White                 90    0     95    106  4/29/1994                         19r    19 
+  Dennis Eckersley           32    0     62    193   5/2/1994     8r    26r                  34 
+  Brian Anderson             32    0    140    441  4/30/1994                  95s           95 
+  Jon Lieber                 29    0    135    460  4/29/1994                        102s   102 
+  John Smiley                26    0    173    672   5/1/1994           83s                  83 
+  Doug Jones                 24    0     54    226  4/30/1994                  11r    18r    29 
+  Kevin Tapani               24    0    160    672   5/2/1994   109s                        109 
+  Jeff Shaw                  21    0     61    287   5/2/1994    16r    13r            1r    30 
+  Rick Aguilera              20    0     41    201   5/2/1994    12r    23r                  35 
+  Todd Stottlemyre           19    0    112    605  4/28/1994                                   
+f Brian Shouse                0    0      0      0                                              
+  Greg Swindell               0    0      0    623                                              
+  Rick Helling                0    0      0    228                                              
+f Rick White                  0    0      0    317                                              
+f Pat Mahomes                 0    0      0    517                                              
+f Joe Magrane                 0    0      0    357                                              
+f David Nied                  0    0      0    538                                              
+f Allen Watson                0    0      0    523                                              
+f Joey Eischen                0    0      0      7                                              
+f Greg Cadaret                0    0      0    191                                              
+f Teddy Higuera               0    0      0    280                                              
+  Total                                1055   7457                                              
+
+
+
+                            CRCR Team Status -- 1994 Felldownhead Firsts                            
+                                  Regular season -- as of 5/1/1994                                  
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+f Damon Buford                0    150    150    0     0     2       
+f Olmedo Saenz               23    700    113    0    13     2       
+f Alex Rodriguez             89    120    110    0    18    41       
+f Willie Greene             163     94    107    0     8    36       
+  Greg Myers                 20     49     44    0    25   117   167 
+  David Segui                31     30     31    0   109   266       
+  Mark McLemore              47     25     29    0    68   332       
+  Bret Boone                 31     22     25    0    99   325       
+  Jeff Conine                22     25     24    0   152   344       
+  Chad Curtis                26     20     22    0   153   353       
+  Scott Livingstone         142     13     20    0    12   199       
+  Benito Santiago            30      6     13    0   110   259   160 
+  Midre Cummings              5     15     13    0    20    72       
+  Mike Bordick               12     10     10    0   154   286       
+  Jeffrey Hammonds            7      7      7    0    73   201       
+  Kim Batiste                 2      5      4    0    63   151       
+f Greg Colbrunn               0      0      0    0    54   114       
+  Kevin Young                 0      0      0    0    37    97       
+f Jeff Reed                   0      0      0    0    16    98       
+  Mike Devereaux              0      0      0    0    88   242       
+f Eduardo Perez               0      0      0    0    48    95       
+f Rafael Belliard             0      0      0    0    33    94       
+  Total                                             1353  3726       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last    5/1   4/30   4/29   4/28   Cum 
+  Arthur Rhodes              58    0    139    238  4/28/1994                        123s   123 
+  Doug Henry                 34    0     48    143   5/1/1994    18r                   8r    26 
+  Jamie Moyer                31    0    197    631  4/30/1994          114s                 114 
+  Brian Bohanon              26    0     44    169  4/20/1994                                   
+  John Burkett               26    0    176    676   5/1/1994   104s                        104 
+  Aaron Sele                 23    0    144    615  4/27/1994                                   
+  Larry Casian               22    0     51    231  4/27/1994                                   
+  Mike Remlinger             21    0     52    252  4/27/1994                                   
+  David Weathers             15    0     96    621  4/29/1994                  79s           79 
+  Mike Stanton               14    0     28    197  4/29/1994                  12r    29r    41 
+  Todd Van Poppel            11    0     60    532  4/29/1994                  39r           39 
+f Miguel Batista              0    0      0      0                                              
+f Frank Castillo              0    0      0     96                                              
+f Scott Radinsky              0    0      0      0                                              
+f Eddie Guardado              0    0      0     81                                              
+f Buddy Groom                 0    0      0    139                                              
+f Sean Bergman                0    0      0     82                                              
+f Jose Lima                   0    0      0     34                                              
+f Russ Springer               0    0      0    198                                              
+f Chris Hammond               0    0      0    312                                              
+f Dave Fleming                0    0      0    561                                              
+f Greg W. Harris              0    0      0    588                                              
+f Roger McDowell              0    0      0    193                                              
+  Total                                1035   6589                                              
+

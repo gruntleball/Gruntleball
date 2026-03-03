@@ -1,0 +1,386 @@
+  1.01 RMO Haverty    - Bartolo Colon, sp
+  1.02 GAR Bernstein  - Miguel Odalis Tejada, ss
+  1.03 BBG Canter     - Magglio Ordonez, of
+  1.04 FDH English    - Todd Lynn Helton, rf
+  1.05 WIN Carroll    - Jose Angel Vidro, 2b
+  1.06 DLM Potter     - Kevin Austin Millwood, p
+  1.07 TAR Lingo      - Matthew Christian Morris, rsp
+  1.08 TEW Bailey     - Derek Christopher Lowe, rsp
+  1.09 ZZY Poole      - David Americo Ortiz, 1b
+  1.10 SCQ Manuel     - Christopher John Carpenter, rsp
+  1.11 OKO Smith      - Kelvim Jose Escobar, rsp
+  1.12 TEW Bailey     - Keith Charles Foulke, rrp
+  1.13 FER Olkin      - Jason Andrew Varitek, c
+  1.14 RMO Haverty    - Torii Kedar Hunter, cf
+  1.15 CIN MillerC    - Aaron John Boone, 3b
+  1.16 CIN MillerC    - Benjamin Grieve, of
+  1.17 CIN MillerC    - Brett Daniel Tomko, rsp
+  1.18 EVN Henninger  - Dave Scott Veres, rrp
+  1.19 FHK Chernow    - Orlando Luis Cabrera, ss
+  1.20 RMO Haverty    - Derrek Leon Lee, 1b
+  2.01 GAR Bernstein  - Richard Jose Hidalgo, cf
+  2.02 RMO Haverty    - Mark James Grudzielanek, ss
+  2.03 EVN Henninger  - Steve Larry Woodard, rsp
+  2.04 WIN Carroll    - Antonio Alfonseca, rrp
+  2.05 FDH English    - Steve James Kline, lrp
+  2.06 CEN Stearns    - John Carl Thomson, rsp
+  2.07 OKO Smith      - Delino Lamont DeShields, 2b
+  2.08 TEW Bailey     - Cory Fulton Lidle, rmr
+  2.09 ZZY Poole      - Richmond Lockwood Sexson, 1b
+  2.10 SCQ Manuel     - Mark Steven Kotsay, cf
+  2.11 OKO Smith      - Ricardo Rincon, lmr
+  2.12 FER Olkin      - Kerry Dale Ligtenberg, rmr
+  2.13 CEN Stearns    - Gabriel Allen White, lsp
+  2.14 CIN MillerC    - Scott Daniel Servais, c
+  2.15 NEP Sasman     - Darrin Glen Fletcher, c
+  2.16 CTW MillerR    - Shigetoshi Hasegawa, rmr
+  2.17 TAR Lingo      - Jack Thomas Snow, 1b
+  2.18 NEP Sasman     - Sean Robert Berry, 3b
+  2.19 FHK Chernow    - Jose Luis Cruz Jr, lf
+  2.20 BBG Canter     - Fernando Tatis, 3b
+  3.01 GAR Bernstein  - Michael Robert Sirotka, lsp
+  3.02 NEP Sasman     - Juan Carlos Acevedo, rmr
+  3.03 FFR Scott      - Kevin Douglas Stocker, ss
+  3.04 WIN Carroll    - David Michael Dellucci, rf
+  3.05 FDH English    - Stanley Julian Antonio Javier, rf
+  3.06 DLM Potter     - Darryl Quinn Hamilton, cf
+  3.07 TAR Lingo      - David Michael Hollins, 3b
+  3.08 TEW Bailey     - Kevin Leonard Orie, 3b
+  3.09 CTW MillerR    - Michael Robert Morandini, 2b
+  3.10 SCQ Manuel     - Paul Henry Konerko, 3b
+  3.11 OKO Smith      - Wallace Keith Joyner, 1b
+  3.12 NEP Sasman     - Ruben Rivera, cf
+  3.13 FFR Scott      - William Allen Blair, rsp
+  3.14 RMO Haverty    - Jose Manuel Guillen, rf
+  3.15 DLM Potter     - Brian Wesley McRae, cf
+  3.16 BBG Canter     - Kevin Ray Tapani, rsp
+  3.17 BAR Marshall   - Frank John Catalanotto, 2b
+  3.18 EVN Henninger  - Hideki Irabu, rsp
+  3.19 FHK Chernow    - Jose Mercedes, rsp
+  3.20 FFR Scott      - Dave Clark, lf
+  4.01 GAR Bernstein  - Glendon Rusch, lsp
+  4.02 RMO Haverty    - Dennys Reyes, lmr
+  4.03 FFR Scott      - Mark Bellhorn, 3b
+  4.04 WIN Carroll    - Dante Bichette, lf
+  4.05 WIN Carroll    - Brad Fullmer, 1b
+  4.06 CEN Stearns    - Charlie O'Brien, c
+  4.07 TAR Lingo      - Alex S. Gonzalez, ss
+  4.08 TEW Bailey     - Chili Davis, dh
+  4.09 ZZY Poole      - Todd Ritchie, rmr
+  4.10 SCQ Manuel     - Tim Worrell, rmr
+  4.11 DLM Potter     - Darren Holmes, rmr
+  4.12 FER Olkin      - Jaret Wright, rsp
+  4.13 CEN Stearns    - Sean Casey, 1b
+  4.14 BAR Marshall   - Jerry DiPoto, rmr
+  4.15 NEP Sasman     - Osvaldo Fernandez, rsp
+  4.16 CTW MillerR    - Devon White, cf
+  4.17 EVN Henninger  - Walt Weiss, ss
+  4.18 BAR Marshall   - Russ Davis, 3b
+  4.19 FHK Chernow    - Damian Miller, c
+  4.20 BBG Canter     - Geremi Gonzalez, rsp
+  5.01 GAR Bernstein  - Bobby Witt, rsp
+  5.02 CIN MillerC    - Joey Hamilton, rsp
+  5.03 BBG Canter     - John Wasdin, rmr
+  5.04 WIN Carroll    - Hector Carrasco, rmr
+  5.05 FDH English    - Kurt Abbott, 2b
+  5.06 NEP Sasman     - Deivi Cruz, ss
+  5.07 TAR Lingo      - Jay Powell, rmr
+  5.08 NEP Sasman     - Bubba Trammell, rf
+  5.09 ZZY Poole      - Darrell May, lmr
+  5.10 SCQ Manuel     - Mike Matheny, c
+  5.11 OKO Smith      - Mike Morgan, rsp
+  5.12 CEN Stearns    - Mike Blowers, 1b
+  5.13 FER Olkin      - Paul Sorrento, 1b
+  5.14 CIN MillerC    - Domingo Cedeno, 2b
+  5.15 NEP Sasman     - Lenny Webster, c
+  5.16 CEN Stearns    - Damian Jackson, ss
+  5.17 BAR Marshall   - Mike DeJean, rmr
+  5.18 NEP Sasman     - Juan Encarnacion, rf
+  5.19 FHK Chernow    - Mike Cather, rmr
+  5.20 RMO Haverty    - Jason Johnson, rmr
+  6.01 GAR Bernstein  - Ed Sprague, 3b
+  6.02 RMO Haverty    - Tony Saunders, lsp
+  6.03 BBG Canter     - Rob Ducey, lf
+  6.04 RMO Haverty    - Chad Fox, rmr
+  6.05 FDH English    - Bip Roberts, 2b
+  6.06 DLM Potter     - Sean Bergman, rmr
+  6.07 TAR Lingo      - Gerald Williams, cf
+  6.08 TEW Bailey     - Ryne Sandberg, 2b
+  6.09 ZZY Poole      - Todd Hollandsworth, lf
+  6.10 SCQ Manuel     - Jeff Brantley, rmr (Need new list)
+  6.11 OKO Smith      - Donovan Osborne, lsp
+  6.12 FER Olkin      - Bryce Florie, rmr
+  6.13 CEN Stearns    - Kelly Stinnett, c
+  6.14 CIN MillerC    - Giovanni Carrara, rsp
+  6.15 NEP Sasman     - Miguel Cairo, 2b
+  6.16 CTW MillerR    - Marvin Benard, rf
+  6.17 RMO Haverty    - Armando Reynoso, rsp
+  6.18 BAR Marshall   - Kevin Polcovich, ss
+  6.19 NEP Sasman     - Greg Colbrunn, 1b
+  6.20 FFR Scott      - Salomon Torres, rmr
+  7.01 GAR Bernstein  - Sterling Hitchcock, lsp
+  7.02 RMO Haverty    - Tom Martin, lmr
+  7.03 BBG Canter     - Brian Johnson, c
+  7.04 WIN Carroll    - Pokey Reese, ss
+  7.05 FDH English    - George Williams, c
+  7.06 DLM Potter     - Carlos Garcia, 2b
+  7.07 TAR Lingo      - Aaron Small, rmr
+  7.08 TEW Bailey     - Mike Thurman, rsp
+  7.09 ZZY Poole      - Jeff Conine, 1b
+  7.10 SCQ Manuel     - Pat Rapp, rsp
+  7.11 OKO Smith      - Dan Miceli, rmr
+  7.12 CEN Stearns    - Homer Bush, 2b
+  7.13 CIN MillerC    - Doug Glanville, lf
+  7.14 RMO Haverty    - Wayne Gomes, rmr
+  7.15 NEP Sasman     - Shane Andrews, 3b
+  7.16 CTW MillerR    - Bobby Ayala, rmr
+  7.17 TEW Bailey     - Bruce Aven, lf
+  7.18 EVN Henninger  - Darren Bragg, cf
+  7.19 FHK Chernow    - Luis Sojo, 2b
+  7.20 FFR Scott      - Marc Wilkins, rmr
+  8.01 GAR Bernstein  - <Pick shifted to Round 28>
+  8.02 RMO Haverty    - Jose Santiago, rmr
+  8.03 BBG Canter     - Jeff Juden, rsp
+  8.04 WIN Carroll    - Eli Marrero, c
+  8.05 FDH English    - <Pick shifted to Round 28>
+  8.06 DLM Potter     - Jaime Navarro, rsp
+  8.07 TAR Lingo      - Tony Castillo, lmr
+  8.08 TEW Bailey     - Marc Pisciotta, rmr
+  8.09 ZZY Poole      - Mark Gardner, rsp
+  8.10 SCQ Manuel     - Wil Cordero, lf
+  8.11 OKO Smith      - Rigo Beltran, lmr
+  8.12 FER Olkin      - Joe Crawford, lmr
+  8.13 CEN Stearns    - Kevin Elster
+  8.14 RMO Haverty    - Jamie Walker, lmr
+  8.15 NEP Sasman     - Freddy Garcia, 3b
+  8.16 CTW MillerR    - Pat Meares, ss
+  8.17 EVN Henninger  - Mike Macfarlane, c
+  8.18 BAR Marshall   - Jose Cabrera, rmr
+  8.19 BAR Marshall   - Shane Mack, cf
+  8.20 CIN MillerC    - Yorkis Perez, lmr
+  9.01 GAR Bernstein  - Dennis Hocking, ss
+  9.02 RMO Haverty    - Sean Lowe, rsp
+  9.03 BBG Canter     - Mike Munoz, lmr
+  9.04 WIN Carroll    - Steve Cooke, lsp
+  9.05 FDH English    - Mike Bielecki, rmr
+  9.06 DLM Potter     - Raul Casanova, c
+  9.07 TAR Lingo      - Mike DiFelice, c
+  9.08 TEW Bailey     - John Marzano, c
+  9.09 ZZY Poole      - Pep Harris, rmr
+  9.10 SCQ Manuel     - Shane Halter, cf
+  9.11 CTW MillerR    - Matt Karchner, rcl
+  9.12 CEN Stearns    - Russ Johnson, 3b
+  9.13 FER Olkin      - Jed Hansen, 2b
+  9.14 CIN MillerC    - Enrique Wilson, ss
+  9.15 NEP Sasman     - Benji Gil, ss
+  9.16 CTW MillerR    - Darren Hall, rmr
+  9.17 BAR Marshall   - Jesse Levis, c
+  9.18 EVN Henninger  - Jeff Tabaka, lmr
+  9.19 FHK Chernow    - Pat Mahomes, rmr
+  9.20 TEW Bailey     - Micah Franklin, rf
+ 10.01 GAR Bernstein  - Alex Ochoa, rf
+ 10.02 RMO Haverty    - Jay Witasick, rmr
+ 10.03 BBG Canter     - Brett Butler, cf
+ 10.04 WIN Carroll    - Lenny Harris, 2b
+ 10.05 FDH English    - Mel Rojas, rcl
+ 10.06 DLM Potter     - Chris Gomez, ss
+ 10.07 TAR Lingo      - Rey Ordonez, ss
+ 10.08 TEW Bailey     - Tripp Cromer, 2b
+ 10.09 ZZY Poole      - Mark Lewis, 3b
+ 10.10 SCQ Manuel     - Danny Sheaffer, 3b
+ 10.11 OKO Smith      - Quinton McCracken, cf
+ 10.12 FER Olkin      - Buddy Groom, lmr
+ 10.13 SCQ Manuel     - Keith Osik, c
+ 10.14 CIN MillerC    - Joey Eischen, lmr
+ 10.15 NEP Sasman     - Mark Leiter, rsp
+ 10.16 CTW MillerR    - James Mouton, cf
+ 10.17 NEP Sasman     - Xavier Hernandez, rmr
+ 10.18 FFR Scott      - Jose Paniagua, rmr
+ 10.19 FHK Chernow    - Doug Mirabelli, c
+ 10.20 FFR Scott      - Javier Valentin, c
+ 11.01 GAR Bernstein  - Bryan Rekar, rsp
+ 11.02 CEN Stearns    - Damon Berryhill, c
+ 11.03 BBG Canter     - Bob Hamelin, dh
+ 11.04 WIN Carroll    - Brian Lesher, lf
+ 11.05 FDH English    - Rey Sanchez, 2b
+ 11.06 DLM Potter     - Craig Paquette, 3b
+ 11.07 TAR Lingo      - Keith Lockhart, 2b
+ 11.08 TEW Bailey     - Ken Cloude, rsp
+ 11.09 ZZY Poole      - Clint Sodowsky, rmr
+ 11.10 SCQ Manuel     - Robert Eenhoorn, ss
+ 11.11 OKO Smith      - Ron Karkovice, c
+ 11.12 CEN Stearns    - Pete Incaviglia, dh
+ 11.13 FER Olkin      - Matt Whisenant, lmr
+ 11.14 CIN MillerC    - Brian Hunter, cf
+ 11.15 NEP Sasman     - Scott Sheldon, ss
+ 11.16 CTW MillerR    - John Mabry, rf
+ 11.17 BAR Marshall   - Jason McDonald, cf
+ 11.18 EVN Henninger  - Izzy Molina, c
+ 11.19 FHK Chernow    - Jeff Wallace, lmr
+ 11.20 FFR Scott      - Rod Myers, lf
+ 12.01 GAR Bernstein  - Danny Darwin, rsp
+ 12.02 CEN Stearns    - Tony Barron, rf
+ 12.03 BBG Canter     - Kevin Foster, rsp
+ 12.04 WIN Carroll    - Jermaine Allensworth, cf
+ 12.05 FDH English    - Terry Pendleton, 3b
+ 12.06 DLM Potter     - Jim Bullinger, rsp
+ 12.07 TAR Lingo      - Manuel Aybar, rsp
+ 12.08 ZZY Poole      - Rick Wilkins, c
+ 12.09 SCQ Manuel     - Pete Smith, rmr
+ 12.10 OKO Smith      - Chris Haney, lmr
+ 12.11 FER Olkin      - Lance Painter, lmr
+ 12.12 CEN Stearns    - Todd Dunwoody, cf
+ 12.13 RMO Haverty    - Bob Wells, rmr
+ 12.14 EVN Henninger  - Tyler Green, rsp
+ 12.15 RMO Haverty    - Alan Levine, rmr
+ 12.16 EVN Henninger  - Matt Franco, 3b
+ 12.17 BAR Marshall   - Carlos Baerga, 2b
+ 12.18 FHK Chernow    - Tony Pena, c
+ 12.19 FFR Scott      - Kirt Ojala, lsp
+ 13.01 GAR Bernstein  - Jeff Reboulet, 2b
+ 13.02 RMO Haverty    - Scott Eyre, lsp
+ 13.03 BBG Canter     - David Howard, 2b
+ 13.04 WIN Carroll    - Billy Ashley, lf
+ 13.05 DLM Potter     - Marcus Jensen, c
+ 13.06 TAR Lingo      - Midre Cummings, lf
+ 13.07 ZZY Poole      - Curtis King, rmr
+ 13.08 SCQ Manuel     - Greg Gagne, ss
+ 13.09 OKO Smith      - Amaury Telemaco, rsp
+ 13.10 CEN Stearns    - Rich Delucia, rmr
+ 13.11 NEP Sasman     - Jeff Abbott, lf
+ 13.12 CIN MillerC    - Scott Bailes, lmr
+ 13.13 NEP Sasman     - Mike Myers, lmr
+ 13.14 CTW MillerR    - Steve Montgomery, rmr
+ 13.15 BAR Marshall   - Matt Mieske, rf
+ 13.16 EVN Henninger  - Tom Pagnozzi, c
+ 13.17 FHK Chernow    - Deion Sanders, cf
+ 13.18 FFR Scott      - Mark Sweeney, rf
+ 14.01 GAR Bernstein  - Rich Robertson, lsp
+ 14.02 CIN MillerC    - Melvin Nieves, rf
+ 14.03 BBG Canter     - Pat Kelly, 2b
+ 14.04 WIN Carroll    - Don Wengert, rmr
+ 14.05 DLM Potter     - Ozzie Guillen, ss
+ 14.06 TAR Lingo      - Will Cunnane, rmr
+ 14.07 ZZY Poole      - Pete Schourek, lsp
+ 14.08 SCQ Manuel     - Otis Nixon, cf
+ 14.09 OKO Smith      - Jason Bates, ss
+ 14.10 FER Olkin      - Rafael Bournigal, ss
+ 14.11 CEN Stearns    - Randall Simon, 1b
+ 14.12 CIN MillerC    - Sid Fernandez, lsp
+ 14.13 CIN MillerC    - Tom Goodwin, cf
+ 14.14 CTW MillerR    - Mike Maddux, rmr
+ 14.15 EVN Henninger  - Ryan McGuire, 1b
+ 14.16 BAR Marshall   - Willie Banks, rmr
+ 14.17 FHK Chernow    - Angelo Encarnacion, c
+ 14.18 FFR Scott      - Mark Langston, lsp
+ 15.01 GAR Bernstein  - Archi Cianfrocco, 3b
+ 15.02 BBG Canter     - William Van Landingham, rsp
+ 15.03 WIN Carroll    - Rico Brogna, 1b
+ 15.04 DLM Potter     - Kevin Seitzer, 3b
+ 15.05 TAR Lingo      - Felipe Crespo, 3b
+ 15.06 ZZY Poole      - Jason Hardke, 2b
+ 15.07 SCQ Manuel     - Felipe Lira, rsp
+ 15.08 OKO Smith      - Robinson Checo, rsp
+ 15.09 CEN Stearns    - Felix Martinez, ss
+ 15.10 FER Olkin      - Rob Butler, cf
+ 15.11 CIN MillerC    - Eric Plunk, rmr
+ 15.12 CTW MillerR    - Dan Serafini, lsp
+ 15.13 BAR Marshall   - Cecil Fielder, dh
+ 15.14 EVN Henninger  - Phil Plantier, rf
+ 15.15 FHK Chernow    - Luis Lopez, ss
+ 15.16 FFR Scott      - Desi Relaford, ss
+ 16.01 GAR Bernstein  - Alberto Castillo, c
+ 16.02 BBG Canter     - Jim Eisenreich, lf
+ 16.03 DLM Potter     - Jim Pittsley, rsp
+ 16.04 TAR Lingo      - Marty Janzen, rmr
+ 16.05 ZZY Poole      - Billy Ripken, ss
+ 16.06 SCQ Manuel     - PASSES
+ 16.07 OKO Smith      - Brent Brede, rf
+ 16.08 CEN Stearns    - Ray Montgomery, rf
+ 16.09 CIN MillerC    - Julio Franco, dh
+ 16.10 CTW MillerR    - Mike Perez, rmr
+ 16.11 EVN Henninger  - Mike Hubbard, c (corrected pick)
+ 16.12 BAR Marshall   - Billy Brewer, lmr
+ 16.13 FHK Chernow    - Chris Turner, c
+ 16.14 FFR Scott      - Rich Amaral, lf
+ 17.01 GAR Bernstein  - Kevin Ritz, rsp
+ 17.02 BBG Canter     - Josh Booty, 3b
+ 17.03 DLM Potter     - Henry Mercedes, c
+ 17.04 TAR Lingo      - Mandy Romero, c
+ 17.05 ZZY Poole      - Joe Hudson, rmr
+ 17.06 SCQ Manuel     - PASSES
+ 17.07 OKO Smith      - PASSES
+ 17.08 CEN Stearns    - Hensley Meulens, lf
+ 17.09 CIN MillerC    - Todd Worrell, rcl
+ 17.10 CTW MillerR    - Dante Powell, cf
+ 17.11 BAR Marshall   - Erik Plantenberg, lmr
+ 17.12 EVN Henninger  - Kevin L. Brown, c
+ 17.13 FHK Chernow    - Henry Blanco, 1b
+ 17.14 FFR Scott      - Chuck Carr, cf
+ 18.01 GAR Bernstein  - Thomas Howard, cf
+ 18.02 GAR Bernstein  - Darrin Jackson, lf
+ 18.03 DLM Potter     - Julio Santana, rmr
+ 18.04 TAR Lingo      - Ricky Otero, cf
+ 18.05 ZZY Poole      - Orlando Miller, ss
+ 18.06 SCQ Manuel     - PASSES
+ 18.07 OKO Smith      - PASSES
+ 18.08 CEN Stearns    - Billy McMillon, lf
+ 18.09 CIN MillerC    - Yamil Benitez, lf
+ 18.10 CTW MillerR    - Roberto Petagine, 1b
+ 18.11 EVN Henninger  - Carlos Reyes, rmr
+ 18.12 FHK Chernow    - Larry Sutton, 1b
+ 18.13 FFR Scott      - Adrian Brown, cf
+ 19.01 GAR Bernstein  - Mike Mohler, lmr
+ 19.02 GAR Bernstein  - Raul Chavez, c
+ 19.03 DLM Potter     - Don Slaught, c
+ 19.04 TAR Lingo      - Scott Stahoviak, 1b
+ 19.05 ZZY Poole      - Tilson Brito, 2b
+ 19.06 OKO Smith      - PASSES
+ 19.07 CEN Stearns    - Mike Benjamin, 3b
+ 19.08 CIN MillerC    - Anthony Chavez, rmr
+ 19.09 CIN MillerC    - Abraham Nunez, ss
+ 19.10 FHK Chernow    - Tom Evans, 3b
+ 19.11 FFR Scott      - PASSES
+ 20.01 GAR Bernstein  - Ernie Young, cf
+ 20.02 GAR Bernstein  - Dave Telgheder, rsp
+ 20.03 DLM Potter     - Bob Wolcott, rsp
+ 20.04 TAR Lingo      - Reggie Harris, rmr
+ 20.05 ZZY Poole      - PASSES
+ 20.06 OKO Smith      - PASSES
+ 20.07 CEN Stearns    - Jeff Branson, 2b
+ 20.08 EVN Henninger  - Lou Collier, ss
+ 20.09 EVN Henninger  - Nelson Cruz, rmr
+ 20.10 FHK Chernow    - Casey Candaele, 2b
+ 20.11 FFR Scott      - Steve Avery, lsp
+ 21.01 GAR Bernstein  - Tim Laker, c
+ 21.02 GAR Bernstein  - Pete Rose Jr., 3b
+ 21.03 DLM Potter     - Robert Machado, c
+ 21.04 ZZY Poole      - PASSES
+ 21.05 OKO Smith      - PASSES
+ 21.06 CEN Stearns    - Mark Lemke, 2b
+ 21.07 BAR Marshall   - Darnell Coles, 3b
+ 21.08 BAR Marshall   - Shayne Bennett, rmr
+ 21.09 FHK Chernow    - Joe Vitiello, rf
+ 21.10 FFR Scott      - Mike Johnson, rmr
+ 22.01 BAR Marshall   - John Ericks, rcl
+ 22.02 DLM Potter     - Brad Rigby, rsp
+ 22.03 ZZY Poole      - PASSES
+ 22.04 OKO Smith      - PASSES
+ 22.05 CEN Stearns    - Scott Aldred, lsp
+ 22.06 BAR Marshall   - Bob Natal, c
+ 23.01 BAR Marshall   - Hanley Frias, ss
+ 23.02 ZZY Poole      - PASSES
+ 23.03 OKO Smith      - PASSES
+ 23.04 CEN Stearns    - Tony Tarasco, rf
+ 24.01 BAR Marshall   - Rafael Carmona rmr
+ 24.02 ZZY Poole      - PASSES
+ 24.03 OKO Smith      - PASSES
+ 25.01 BAR Marshall   - Kenny Robinson, rmr
+ 25.02 ZZY Poole      - PASSES
+ 25.03 OKO Smith      - PASSES
+ 26.01 BAR Marshall   - Carlos Almanzar, rmr
+ 26.02 ZZY Poole      - PASSES
+ 26.03 OKO Smith      - PASSES
+ 27.01 ZZY Poole      - PASSES
+ 28.01 BAR Marshall   - Randy Knorr, c
+ 28.02 FDH English    - Andy Stewart, c

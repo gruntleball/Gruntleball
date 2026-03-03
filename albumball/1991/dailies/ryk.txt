@@ -1,0 +1,222 @@
+                   Manager Profile for 1991 Reykjavik 101ers
+ 
+Pitching Chart
+ 
+Usage mode:    Skip
+Rotation size: 5
+Next starter:  3
+ 
+Starting Rotation   Witt              DeJesus           Gubicza           Sutcliffe         Fernandez         
+Spot Starters                                                                                                 
+Spot Pct                                                                                                      
+ 
+Mopup situations    Young             Sampen                                                                  
+Long relievers      Sampen            Young                                                                   
+Setup vs LHB        Hartley           Myers                                                                   
+Setup vs RHB        Myers             Hartley                                                                 
+Closers vs LHB      Power             Boever                                                                  
+Closers vs RHB      Power             Boever                                                                  
+
+....................................................................................................
+                   Manager Profile for 1991 Reykjavik 101ers
+ 
+Depth Chart for 1991 Reykjavik 101ers -- vs LHP
+ 
+ 
+Usage: Game by game        Versus: Left        DH: No
+ 
+Starting Lineup
+ 
+1: Skinner          c
+2: Guillen          ss
+3: Hayes,V          rf
+4: Jordan           1b
+5: Wilson           lf
+6: Yount            cf
+7: Howard           2b
+8: Hayes,C          3b
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Skinner              Jordan               Howard               Hayes,C         
+Plat                       Joyner                                                    
+Def                                                                                  
+Util1                                                                                
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Guillen              Wilson               Yount                Hayes,V         
+Plat                                                                                 
+Def                                                                                  
+Util1                                                                                
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Elster               Joyner          
+Util2                      Joyner               Cedeno          
+Util3                      Jacoby               Elster          
+Util4                      Cedeno               Jacoby          
+Util5                      Bradley              Bradley         
+
+....................................................................................................
+                   Manager Profile for 1991 Reykjavik 101ers
+ 
+Depth Chart for 1991 Reykjavik 101ers -- vs RHP
+ 
+ 
+Usage: Game by game        Versus: Right        DH: No
+ 
+Starting Lineup
+ 
+1: Bradley          c
+2: Joyner           1b
+3: Hayes,V          rf
+4: Wilson           lf
+5: Yount            cf
+6: Hayes,C          3b
+7: Howard           2b
+8: Guillen          ss
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Bradley              Joyner               Howard               Hayes,C         
+Plat  Skinner              Jordan                                                    
+Def                                                                                  
+Util1                                                                                
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Guillen              Wilson               Yount                Hayes,V         
+Plat                                                                                 
+Def                                                                                  
+Util1                                                                                
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Elster               Cedeno          
+Util2                      Jordan               Jordan          
+Util3                      Jacoby               Elster          
+Util4                      Cedeno               Jacoby          
+Util5                      Skinner              Skinner         
+
+....................................................................................................
+                   Manager Profile for 1991 Reykjavik 101ers
+ 
+Manager Tendencies
+ 
+Bunting for a hit:        Less frequent
+Sacrifice bunting:        Least frequent
+Squeeze bunting:          Less frequent
+Hit and run:              Neutral
+Stealing:                 Most frequent
+Running:                  More frequent
+Taking pitches:           More frequent
+ 
+PH for a pitcher:         Neutral
+PH for a non-pitcher:     Neutral
+PH for platoon player:    More frequent
+PH in a blowout:          Neutral
+ 
+Pitching around:          Less frequent
+Intentional walk:         Least frequent
+Pickoff throws:           More frequent
+Pitching out:             Least frequent
+Using relievers:          Neutral
+Using closers:            Neutral
+ 
+Holding runners:          Less frequent
+Infield in:               Less frequent
+Guard lines:              Less frequent
+ 
+ 
+Player-specific tendencies
+(++ most, + more, = neutral, - less, -- least, N never)
+ 
+Player          BHt BSc BSq H&R Stl Run Tak PHL PHR PHP Blw Ard IBB Pck Out Rel Cls 
+
+....................................................................................................
+                   Manager Profile for 1991 Reykjavik 101ers
+ 
+Playing Time Limits
+ 
+                  Maximum Atbats
+Player            vsLHP    vsRHP    Starts    Relief App
+Alou                 0        0          0            0
+Alvarez              0        0          9            1
+Ashby                0        0          8            0
+Belle              132      329          0            0
+Berry               30       30          0            0
+Bichette           154      291          0            0
+Blankenship         63      122          0            0
+Boever               0        0          0           68
+Bordick             58      177          0            0
+Bradley             11      161          0            0
+Cedeno              80      171          0            0
+Clark                0        0          2            5
+DeJesus              0        0         29            2
+Elster             159      189          0            0
+Fernandez            0        0         32            2
+Gubicza              0        0         26            0
+Guillen            161      363          0            0
+Hartley              0        0          0           58
+Hayes,C            190      270          0            0
+Hayes,V             90      194          0            0
+Hillegas             0        0          3           48
+Howard              80      156          0            0
+Jackson              0        0         14            3
+Jacoby             116      303          0            0
+James                0        0          0            0
+Jones                0        0         22            4
+Jordan             126      175          0            0
+Joyner             189      362          0            0
+Kennedy             10      161          0            0
+Kilgus               0        0          0           38
+Leary                0        0         18           10
+Manwaring           65      113          0            0
+Mussina              0        0         12            0
+Myers                0        0         12           46
+Neagle               0        0          3            4
+Power                0        0          0           68
+Ruskin               0        0          0           64
+Sampen               0        0          8           35
+Skinner             88      196          0            0
+Sosa               128      188          0            0
+Sutcliffe            0        0         18            1
+Webster             10       24          0            0
+Wilkerson           49      142          0            0
+Wilson              43      198          0            0
+Witt                 0        0         16            1
+Young                0        0         16            3
+Yount              129      374          0            0

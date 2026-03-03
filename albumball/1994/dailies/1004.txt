@@ -1,0 +1,682 @@
+Crooked Rain, Crooked Rain League Daily
+Postseason, Round 1, Game 3
+
+-------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Cavaliers         1  1  0  0  0  3  6  1  0  0    12 12  1     9  2
+1994 Tools Police      2  0  0  0  2  0  3  2  3  1    13 18  4    13  0
+Hudek (W,1-0), Leskanic (L,0-1)
+HR - Thomas (2), Rodriguez (1), Sierra (2), Hernandez (1)
+Hong Kong goes into full meltdown, squandering a nine-run lead.  Wade Boggs
+goes 5 for 5 with four runs scored.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 101ers            0  1  0  0  0  2  0  4  0     7 10  0     3  2
+1994 Reds              0  0  0  0  0  0  0  2  0     2  7  0     7  2
+Mussina (W,1-0), Reynolds (L,0-1)
+HR - Belle (1), Fielder 2(2)
+SB - Frye (1)
+Mike Mussina is a little wild, walking five.  
+
+-------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------
+
+Tucker leads Hong Kong three games to none.
+Reykjavik leads Cincinnati three games to none.
+
+-------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+-------------------------------------------------------------------------------------------
+
+10/4/1994, HKC94-TTP94, Kauffman Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Cavaliers         1  1  0  0  0  3  6  1  0  0    12 12  1     9  2
+1994 Tools Police      2  0  0  0  2  0  3  2  3  1    13 18  4    13  0
+ 
+Cavaliers            AB  R  H BI   AVG    Tools Police         AB  R  H BI   AVG
+Sandberg          2b  5  1  1  0  .231    Molitor           1b  7  0  1  2  .250       
+Cooper            3b  4  0  1  0  .167    Boggs             3b  5  4  5  1  .417       
+Walker            rf  5  1  0  0  .077    Mack              cf  5  3  3  2  .429       
+Thomas            1b  6  2  2  1  .333    Winfield          rf  2  1  2  1 1.000       
+Rodriguez         c   6  1  2  1  .357     Dykstra          ph  1  1  1  1  .167       
+Carter            lf  4  2  1  0  .182     Astacio          p   0  0  0  0  .000       
+ Mattingly        ph  1  0  0  0  .333     Sanders          ph  1  0  0  1  .333       
+ Mitchell         lf  0  0  0  0  .000     Rijo             p   0  0  0  0  .000       
+Castilla          ss  4  2  2  1  .300     LaValliere       ph  1  0  0  0  .250       
+Sierra            cf  4  2  2  1  .375     Hudek            p   0  0  0  0  .000       
+Schourek          p   2  0  0  0  .000    Bell              ss  4  0  1  1  .364       
+ Castillo         p   0  0  0  1  .000     Gonzales         ph  2  0  0  0  .333       
+ Hernandez        ph  1  1  1  4 1.000    Gibson            lf  3  2  2  3  .364       
+ Monteleone       p   0  0  0  0  .000    Baerga            2b  4  1  2  0  .583       
+ Plesac           p   0  0  0  0  .000    Macfarlane        c   4  0  0  0  .000       
+ Mesa             p   1  0  0  0  .000    Martinez          p   3  0  0  0  .000       
+ Leskanic         p   0  0  0  0  .000     Howard           p   0  0  0  0  .000       
+                     43 12 12  9           Jose             ph  2  1  1  1  .667       
+                                                               44 13 18 13             
+ 
+Cavaliers                        INN  H  R ER BB  K PCH STR   ERA
+Schourek                         4.2  9  4  4  2  3  83  49  7.71
+Castillo                         1.1  0  0  0  0  1  21  14  0.00
+Monteleone       H 2             0.2  2  3  2  2  0  29  14 10.13
+Plesac           H 1             0.2  0  1  1  1  0  18  10 13.50
+Mesa                             1.1  5  4  4  0  0  23  16 16.20
+Leskanic         L 0-1           1.0  2  1  1  3  1  30  14  9.00
+                                 9.2 18 13 12  8  5 204 117 
+ 
+Tools Police                     INN  H  R ER BB  K PCH STR   ERA
+Martinez                         6.1  9  7  6  2  3 115  76  8.53
+Howard                           0.2  1  4  4  4  0  32  11 27.00
+Astacio                          1.0  2  1  1  0  1  17  10  9.00
+Rijo                             1.0  0  0  0  1  1  15   8  0.00
+Hudek            W 1-0           1.0  0  0  0  0  0   7   4  0.00
+                                10.0 12 12 11  7  5 186 109 
+ 
+HKC: Hernandez batted for Castillo in the 7th
+     Mattingly batted for Carter in the 10th
+     Mitchell inserted at lf in the 10th
+TTP: Dykstra batted for Winfield in the 7th
+     Jose batted for Howard in the 7th
+     Jose moved to rf in the 8th
+     Sanders batted for Astacio in the 8th
+     Gonzales batted for Bell in the 8th
+     Gonzales moved to ss in the 9th
+     LaValliere batted for Rijo in the 9th
+ 
+E-Sierra, Winfield, Macfarlane 2, Martinez. 2B-Sierra, Bell, Gibson, Baerga. 
+3B-Carter, Mack 2. HR-Thomas(2), Rodriguez(1), Sierra(2), Hernandez(1). 
+K-Cooper, Walker, Thomas, Carter, Castilla, Mack, Bell, Macfarlane, Martinez, 
+Gonzales. BB-Sandberg, Cooper 2, Walker, Carter, Castilla, Sierra, Boggs, 
+Mack, Winfield, Gibson 2, Baerga 2, Jose. SF-Castillo, Gibson. 
+HBP-Macfarlane 2. PB-Macfarlane. HB-Schourek, Monteleone. WP-Howard. 
+GWRBI: Molitor
+Temperature: 67, Sky: clear, Wind: right to left at 2 MPH.
+
+....................................................................................................
+10/4/1994, HKC94-TTP94, Kauffman Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Cavaliers         1  1  0  0  0  3  6  1  0  0    12 12  1     9  2
+1994 Tools Police      2  0  0  0  2  0  3  2  3  1    13 18  4    13  0
+ 
+ 
+Cavaliers            -----A------ -----B------ -----C------ -----D------ -----E------
+Sandberg          2b 1>S            9            6            8            W         
+Cooper            3b   S.1-2      3>W            k+pb.B-1   7>8            e2.1-2;B-1
+Walker            rf   6            36/f.B-1     8            W            8         
+Thomas            1b   8            note 1     6>k            note 2     8>Astacio   
+                                    8                                      HR        
+Rodriguez         c    note 3       9            HR           Howard       63        
+                                                              7                      
+Carter            lf   3          4>4/L          T            IW           k         
+ Mattingly        ph                                                                 
+ Mitchell         lf                                                                 
+Castilla          ss 2>9            k            S.3-H        W.2-3;1-2    S         
+Sierra            cf   HR           43           D.1-3        note 4       9         
+                                                              IW                     
+Schourek          p    43         5>9                                                
+ Castillo         p                              note 5                              
+ Hernandez        ph                                          note 6                 
+ Monteleone       p                                                                  
+ Plesac           p                                                                  
+ Mesa             p                                                      9>Rijo      
+                                                                           31        
+ Leskanic         p                                                                  
+ 
+ 1: POE1(e1).1-2  2: S.1-H(e9/th);B-2  3: S.2-H(7e2);1-2  4: wp.3-H;2-3;1-2 
+ 5: 8/SF.3-H;2-3  6: HR.3-H;2-H;1-H 
+ 
+ 
+Tools Police         -----A------ -----B------ -----C------ -----D------ -----E------
+Molitor           1b 1>8            8            4            43         8>9         
+Boggs             3b   S            S.1-2      5>S          7>Monteleone   W         
+                                                              S                      
+Mack              cf   T.1-H        k(23)        8            W.1-2        Mesa      
+                                                                           T.1-H     
+Winfield          rf   S.3-H      3>S            W.1-2                               
+ Dykstra          ph                                          note 1                 
+ Astacio          p                                                                  
+ Sanders          ph                                                       43.3-H    
+ Rijo             p                                                                  
+ LaValliere       ph                                                                 
+ Hudek            p                                                                  
+Bell              ss   D.1-3        463/gdp      k            43.3-H;2-3             
+ Gonzales         ph                                                       43        
+Gibson            lf   W            8            D.2-H;1-H    7/SF.3-H   9>S         
+Baerga            2b   123/gdp    4>S            Castillo     W            D.1-3     
+                                                 7                                   
+Macfarlane        c  2>HBP          43.1-2     6>k            HBP.1-2      9         
+Martinez          p    26/b/f.B-1   k            13                                  
+ Howard           p                                                                  
+ Jose             ph                                          Plesac       S.3-H;2-3 
+                                                              8                      
+ 
+ 1: S.2-H;1-3(e8/th);B-2 
+ 
+ 
+
+....................................................................................................
+Cavaliers            -----F------ -----G------ -----H------ -----I------ -----J------
+Sandberg          2b   53                                                            
+Cooper            3b   W                                                             
+Walker            rf   k                                                             
+Thomas            1b 0>Hudek                                                         
+                       9                                                             
+Rodriguez         c    9                                                             
+                                                                                     
+Carter            lf                                                                 
+ Mattingly        ph   8                                                             
+ Mitchell         lf                                                                 
+Castilla          ss                                                                 
+Sierra            cf                                                                 
+                                                                                     
+Schourek          p                                                                  
+ Castillo         p                                                                  
+ Hernandez        ph                                                                 
+ Monteleone       p                                                                  
+ Plesac           p                                                                  
+ Mesa             p                                                                  
+                                                                                     
+ Leskanic         p                                                                  
+ 
+ 
+Tools Police         -----F------ -----G------ -----H------ -----I------ -----J------
+Molitor           1b   53.3-H;1-2   note 1                                           
+Boggs             3b   S.2-H                                                         
+                                                                                     
+Mack              cf   Leskanic                                                      
+                       S.1-2                                                         
+Winfield          rf                                                                 
+ Dykstra          ph                                                                 
+ Astacio          p                                                                  
+ Sanders          ph                                                                 
+ Rijo             p                                                                  
+ LaValliere       ph   6                                                             
+ Hudek            p                                                                  
+Bell              ss                                                                 
+ Gonzales         ph 0>k                                                             
+Gibson            lf   W                                                             
+Baerga            2b   W.1-2                                                         
+                                                                                     
+Macfarlane        c    8                                                             
+Martinez          p                                                                  
+ Howard           p                                                                  
+ Jose             ph   W.2-3;1-2                                                     
+                                                                                     
+ 
+ 1: S.3-H;2-3;1-2 
+ 
+ 
+Cavaliers        IN OUT ER                  Tools Police     IN OUT ER                  
+Schourek         A1  C6  4                  Martinez         A1  D4  6                  
+Castillo         C7  D1  0                  Howard           D5  E3  4                  
+Monteleone       D2  D8  2 H 2              Astacio          E4  E8  1                  
+Plesac           D9  E2  1 H 1              Rijo             E9  F3  0                  
+Mesa             E3  F2  4                  Hudek            F4  F6  0 W 1-0            
+Leskanic         F3  G1  1 L 0-1                                                        
+
+....................................................................................................
+10/4/1994, HKC94-TTP94, Kauffman Stadium
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1994 Cavaliers         1  1  0  0  0  3  6  1  0  0    12 12  1     9  2
+1994 Tools Police      2  0  0  0  2  0  3  2  3  1    13 18  4    13  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Cavaliers batting
+ 0-0  0 --- 00  Sandberg lined a single down the right field line (X)
+ 0-0  0 1-- 21  Cooper grounded a single up the middle, Sandberg to 
+                  second (1BBCX)
+ 0-0  0 12- 21  Walker popped out to short (CBBX)
+ 0-0  1 12- 12  Thomas lined out to center (BSCX)
+ 0-0  2 12- 12  Rodriguez lined a single to shallow left, Sandberg scored 
+                  on an error by the catcher Macfarlane, Cooper to second 
+                  (CSBX)
+ 1-0  2 12- 02  Carter popped out to first (CCX)
+ 
+**************  Bottom of the 1st inning, Tools Police batting
+ 1-0  0 --- 22  Molitor flied out to center (CBBSFX)
+ 1-0  1 --- 10  Boggs lined a single between third and short (BX)
+ 1-0  1 1-- 02  Mack grounded a triple down the first base line, Boggs 
+                  scored (CFX)
+ 1-1  1 --3 32  Winfield lined a single to right center, Mack scored 
+                  (CFBBBX)
+ 1-2  1 1-- 11  Bell lined a double down the third base line, Winfield to 
+                  third (CBX)
+ 1-2  1 -23 32  Gibson walked (BCCBBFB)
+ 1-2  1 123 12  Baerga grounded into a double play, Schourek to Rodriguez 
+                  to Thomas (BCFFX)
+ 
+**************  Top of the 2nd inning, Cavaliers batting
+ 1-2  0 --- 00  Castilla flied out to right (X)
+ 1-2  1 --- 00  Sierra homered deep to center (X)
+ 2-2  1 --- 00  Schourek grounded out to second (X)
+ 2-2  2 --- 22  Sandberg flied out to right (FBCBX)
+ 
+**************  Bottom of the 2nd inning, Tools Police batting
+ 2-2  0 --- 22  Macfarlane was hit by a pitch (BSBSH)
+ 2-2  0 1-- 11  Martinez bunted into an out to the catcher, forcing 
+                  Macfarlane at second, Martinez to first (Fb1BbXb)
+ 2-2  1 1-- 12  Molitor flied out to center (CBFX)
+ 2-2  2 1-- 00  Boggs lined a single to shallow center, Martinez to 
+                  second (X)
+ 2-2  2 12- 12  Mack struck out, Rodriguez to Thomas (BCCS)
+ 
+**************  Top of the 3rd inning, Cavaliers batting
+ 2-2  0 --- 32  Cooper walked (BBCBFB)
+ 2-2  0 1-- 02  Walker grounded to first, forcing Cooper at second, 
+                  Walker to first (CCX)
+ 2-2  1 1-- 00  On pickoff throw to first, Walker to second on an error 
+                  by the pitcher Martinez (11)
+ 2-2  1 -2- 10  Thomas flied out to center (11.BX)
+ 2-2  2 -2- 11  Rodriguez lined out to right (FBX)
+ 
+**************  Bottom of the 3rd inning, Tools Police batting
+ 2-2  0 --- 21  Winfield lined a single to right (BBCX)
+ 2-2  0 1-- 10  Bell grounded into a double play, Sandberg to Castilla to 
+                  Thomas (BX)
+ 2-2  2 --- 10  Gibson flied out to center (BX)
+ 
+**************  Top of the 4th inning, Cavaliers batting
+ 2-2  0 --- 22  Carter lined out to second (BFBCX)
+ 2-2  1 --- 22  Castilla struck out (CBBCS)
+ 2-2  2 --- 02  Sierra grounded out to second (CFX)
+ 
+**************  Bottom of the 4th inning, Tools Police batting
+ 2-2  0 --- 10  Baerga lined a single to center (BX)
+ 2-2  0 1-- 20  Macfarlane grounded out to second, Baerga to second (BpBX)
+ 2-2  1 -2- 02  Martinez struck out (CS+2S)
+ 2-2  2 -2- 01  Molitor popped out to second (CX)
+ 
+**************  Top of the 5th inning, Cavaliers batting
+ 2-2  0 --- 12  Schourek flied out to right (CBSFFX)
+ 2-2  1 --- 10  Sandberg popped out to short (BX)
+ 2-2  2 --- 12  Cooper struck out, strike three was a passed ball charged 
+                  to Macfarlane, Cooper to first (BCCS)
+ 2-2  2 1-- 11  Walker lined out to center (CBX)
+ 
+**************  Bottom of the 5th inning, Tools Police batting
+ 2-2  0 --- 20  Boggs grounded a single between first and second (BBX)
+ 2-2  0 1-- 00  Mack flied out to center (>X)
+ 2-2  1 1-- 30  Winfield walked, Boggs to second (BBBB)
+ 2-2  1 12- 32  Bell struck out (BBBCCS)
+ 2-2  2 12- 01  Gibson doubled deep to center, Boggs scored, Winfield 
+                  scored (SX)
+                Castillo now pitching
+ 2-4  2 -2- 12  Baerga flied out to left (BCFX)
+ 
+**************  Top of the 6th inning, Cavaliers batting
+ 2-4  0 --- 22  Thomas struck out (FBFBS)
+ 2-4  1 --- 22  Rodriguez homered deep to left (CBCFBX)
+ 3-4  1 --- 11  Carter tripled deep to center (BSX)
+ 3-4  1 --3 21  Castilla grounded a single between third and short, 
+                  Carter scored (CBBX)
+ 4-4  1 1-- 02  Sierra grounded a double down the third base line, 
+                  Castilla to third (CSFFX)
+ 4-4  1 -23 32  Castillo lined out to center, Castilla scored, Sierra to 
+                  third (CBSBBFX)
+ 5-4  2 --3 22  Sandberg flied out to center (CBBCX)
+ 
+**************  Bottom of the 6th inning, Tools Police batting
+ 5-4  0 --- 22  Macfarlane struck out (CFBBS)
+ 5-4  1 --- 11  Martinez grounded out to the mound (BCX)
+ 5-4  2 --- 32  Molitor grounded out to second (BFCBFBFFX)
+ 
+**************  Top of the 7th inning, Cavaliers batting
+ 5-4  0 --- 12  Cooper flied out to center (BFFX)
+ 5-4  1 --- 31  Walker walked (CBBBB)
+ 5-4  1 1-- 00  Thomas lined a single to right, Walker scored on an error 
+                  by the right fielder Winfield, Thomas to second (X)
+                Howard now pitching
+ 6-4  1 -2- 10  Rodriguez flied out to left (BX)
+ 6-4  2 -2- 30  Carter was walked intentionally (IIII)
+ 6-4  2 12- 31  Castilla walked, Thomas to third, Carter to second (BSBBB)
+ 6-4  2 123 00  Howard threw a wild pitch, Thomas scored, Carter to 
+                  third, Castilla to second (B)
+ 7-4  2 -23 30  Sierra was walked intentionally (B.III)
+                Hernandez pinch hitting for Castillo
+ 7-4  2 123 10  Hernandez homered deep to left center, Carter scored, 
+                  Castilla scored, Sierra scored (BX)
+11-4  2 --- 32  Sandberg walked (BBFBFFB)
+11-4  2 1-- 12  Sandberg to second, Cooper to first on an error by the 
+                  catcher Macfarlane (CBCX)
+11-4  2 12- 21  Walker popped out to center (BBFX)
+ 
+**************  Bottom of the 7th inning, Tools Police batting
+                Monteleone now pitching
+11-4  0 --- 22  Boggs grounded a single between third and short (CFBBX)
+11-4  0 1-- 31  Mack walked, Boggs to second (BBBCB)
+                Dykstra pinch hitting for Winfield
+11-4  0 12- 10  Dykstra grounded a single up the middle, Boggs scored, 
+                  Mack to third on an error by the center fielder Sierra, 
+                  Dykstra to second (BX)
+11-5  0 -23 21  Bell grounded out to second, Mack scored, Dykstra to 
+                  third (BBCX)
+11-6  1 --3 00  Gibson hit a sacrifice fly to left, Dykstra scored (X)
+11-7  2 --- 32  Baerga walked (CBBCBFFFB)
+11-7  2 1-- 11  Macfarlane was hit by a pitch, Baerga to second (CBH)
+                Jose pinch hitting for Howard
+                Plesac now pitching
+11-7  2 12- 22  Jose flied out to center (CCBBX)
+ 
+**************  Top of the 8th inning, Cavaliers batting
+                Astacio now pitching
+                Jose moved to right field
+11-7  0 --- 21  Thomas homered deep to left (SBBX)
+12-7  0 --- 11  Rodriguez grounded out to short (FBX)
+12-7  1 --- 22  Carter struck out (BBFSC)
+12-7  2 --- 10  Castilla lined a single down the left field line (BX)
+12-7  2 1-- 11  Sierra flied out to right (CBX)
+ 
+**************  Bottom of the 8th inning, Tools Police batting
+12-7  0 --- 22  Molitor flied out to right (FFBBX)
+12-7  1 --- 32  Boggs walked (CBFFBFBB)
+                Mesa now pitching
+12-7  1 1-- 31  Mack lined a triple to left center, Boggs scored (CBBBX)
+                Sanders pinch hitting for Astacio
+12-8  1 --3 00  Sanders grounded out to second, Mack scored (X)
+                Gonzales pinch hitting for Bell
+12-9  2 --- 01  Gonzales grounded out to second (CX)
+ 
+**************  Top of the 9th inning, Cavaliers batting
+                Rijo now pitching
+                Gonzales moved to shortstop
+12-9  0 --- 00  Mesa grounded out to first (X)
+12-9  1 --- 22  Sandberg grounded out to third (BCCBX)
+12-9  2 --- 31  Cooper walked (BBFBB)
+12-9  2 1-- 12  Walker struck out (SSBS)
+ 
+**************  Bottom of the 9th inning, Tools Police batting
+12-9  0 --- 00  Gibson lined a single between first and second (X)
+12-9  0 1-- 00  Baerga grounded a double down the third base line, Gibson 
+                  to third (X)
+12-9  0 -23 00  Macfarlane flied out to right (X)
+12-9  1 -23 22  Jose reached on an infield single to first, Gibson 
+                  scored, Baerga to third (BCBFX)
+12-10 1 1-3 02  Molitor grounded out to third, Baerga scored, Jose to 
+                  second (CFX)
+12-11 2 -2- 21  Boggs grounded a single up the middle, Jose scored (BBFX)
+                Leskanic now pitching
+12-12 2 1-- 00  Mack lined a single to shallow left, Boggs to second (X)
+                LaValliere pinch hitting for Rijo
+12-12 2 12- 02  LaValliere popped out to short (CSX)
+ 
+**************  Top of the 10th inning, Cavaliers batting
+                Hudek now pitching
+12-12 0 --- 11  Thomas flied out to right (CBX)
+12-12 1 --- 20  Rodriguez flied out to right (BBX)
+                Mattingly pinch hitting for Carter
+12-12 2 --- 00  Mattingly flied out to center (X)
+ 
+**************  Bottom of the 10th inning, Tools Police batting
+                Mitchell now playing left field
+12-12 0 --- 32  Gonzales struck out (BBFBCC)
+12-12 1 --- 30  Gibson walked (BBBB)
+12-12 1 1-- 32  Baerga walked, Gibson to second (BCBBFB)
+12-12 1 12- 11  Macfarlane flied out to center (CBX)
+12-12 2 12- 31  Jose walked, Gibson to third, Baerga to second (SBB+2BB)
+12-12 2 123 01  Molitor lined a single , Gibson scored, Baerga to third, 
+                  Jose to second (FX)
+
+___________________________________________________________________________________________
+
+10/4/1994, RVK94-CIN94, Riverfront Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 101ers            0  1  0  0  0  2  0  4  0     7 10  0     3  2
+1994 Reds              0  0  0  0  0  0  0  2  0     2  7  0     7  2
+ 
+101ers               AB  R  H BI   AVG    Reds                 AB  R  H BI   AVG
+Frye              2b  3  2  0  0  .333    Nixon             cf  3  0  0  0  .100       
+Piazza            c   4  0  0  0  .167    Whitaker          2b  4  1  2  0  .556       
+ Young            lf  0  0  0  0  .000    Larkin            ss  4  1  1  0  .231       
+Belle             lf  4  2  2  3  .500    Lankford          lf  3  0  1  0  .125       
+ Webster          c   0  0  0  0 1.000    Gomez             3b  2  0  0  0  .300       
+Alou              rf  4  0  1  0  .333     Munoz            p   0  0  0  0  .000       
+Sosa              cf  4  1  2  0  .417     Tettleton        ph  1  0  1  2  .250       
+Fielder           1b  4  2  2  4  .364     McCaskill        p   0  0  0  0  .000       
+Berry             3b  4  0  2  0  .333    Taubensee         c   4  0  1  0  .375       
+ Freeman          p   0  0  0  0  .000    Berroa            rf  3  0  0  0  .300       
+Cedeno            ss  3  0  1  0  .364    Palmeiro          1b  3  0  1  0  .182       
+Mussina           p   3  0  0  0  .000    Reynolds          p   1  0  0  0  .000       
+ Lopez            3b  1  0  0  0  .000     Williams         3b  2  0  0  0  .000       
+                     34  7 10  7                               30  2  7  2             
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Mussina          W 1-0           7.0  3  0  0  5  5 115  65  0.00
+Freeman                          2.0  4  2  2  0  2  34  22  9.00
+                                 9.0  7  2  2  5  7 149  87 
+ 
+Reds                             INN  H  R ER BB  K PCH STR   ERA
+Reynolds         L 0-1           6.0  5  3  3  2  1  81  49  4.50
+Munoz                            2.0  5  4  4  1  0  40  28 18.00
+McCaskill                        1.0  0  0  0  0  2  12  10  0.00
+                                 9.0 10  7  7  3  3 133  87 
+ 
+RVK: Lopez inserted at 3b in the 8th
+     Young inserted at lf in the 9th
+     Webster inserted at c in the 9th
+CIN: Williams inserted at 3b in the 7th
+     Tettleton batted for Munoz in the 8th
+ 
+HR-Belle(1), Fielder 2(2). SB-Frye(1). CS-Alou, Nixon. K-Piazza, Cedeno, 
+Lopez, Nixon, Lankford, Gomez, Berroa 2, Williams 2. BB-Frye 2, Cedeno, 
+Nixon, Lankford, Gomez, Berroa, Palmeiro. SH-Reynolds. WP-Reynolds. 
+GWRBI: Fielder
+Shane Reynolds was removed after a rain delay
+Temperature: 72, Field: wet, Sky: threatening, Wind: in from right at 14 MPH, 
+Rain Delays: 76 minutes.
+
+....................................................................................................
+10/4/1994, RVK94-CIN94, Riverfront Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 101ers            0  1  0  0  0  2  0  4  0     7 10  0     3  2
+1994 Reds              0  0  0  0  0  0  0  2  0     2  7  0     7  2
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+Frye              2b 1>63           63           W          8>W            4/L       
+Piazza            c    8          4>53           k            SB2                    
+                                                              7.2-3                  
+ Young            lf                                                                 
+Belle             lf   53           53           wp.1-2       S.3-H                  
+                                                 HR.2-H                              
+ Webster          c                                                                  
+Alou              rf 2>43           S            8            9                      
+Sosa              cf   3            CS2(24)    7>Munoz        S.1-3                  
+                                  5>S            63                                  
+Fielder           1b   HR           43/gdp       7            HR.3-H;1-H             
+Berry             3b   9            S            S            8                      
+ Freeman          p                                                                  
+Cedeno            ss 3>W            7            S.1-2      9>McCaskill              
+                                                              k                      
+Mussina           p    643/gdp    6>8            7                                   
+ Lopez            3b                                          k                      
+ 
+ 
+Reds                 -----A------ -----B------ -----C------ -----D------ -----E------
+Nixon             cf 1>W            k            note 1       7                      
+Whitaker          2b   CS2(26)      64/f         9            S                      
+                       S                                                             
+Larkin            ss   463/gdp    4>13         6>63           S.1-2                  
+Lankford          lf 2>W            63           k            S.2-3;1-2              
+Gomez             3b   k            W            6                                   
+ Munoz            p                                                                  
+ Tettleton        ph                                          note 2                 
+ McCaskill        p                                                                  
+Taubensee         c    16/f.B-1     13         7>S            64/f                   
+Berroa            rf   k          5>W            k          9>43                     
+Palmeiro          1b 3>S            W.1-2        463/gdp      7                      
+Reynolds          p    16/b/f.B-1   note 3                                           
+ Williams         3b                           8>Freeman      k                      
+                                                 k                                   
+ 
+ 1: 32.3xH;2-3;B-1  2: S.3-H;2-H;1-2  3: 13/SH.2-3;1-2 
+ 
+ 
+101ers           IN OUT ER                  Reds             IN OUT ER                  
+Mussina          A1  C8  0 W 1-0            Reynolds         A1  C4  3 L 0-1            
+Freeman          C9  D9  2                  Munoz            C5  D7  4                  
+                                            McCaskill        D8  E1  0                  
+
+....................................................................................................
+10/4/1994, RVK94-CIN94, Riverfront Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1994 101ers            0  1  0  0  0  2  0  4  0     7 10  0     3  2
+1994 Reds              0  0  0  0  0  0  0  2  0     2  7  0     7  2
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, 101ers batting
+ 0-0  0 --- 10  Frye grounded out to short (BX)
+ 0-0  1 --- 00  Piazza flied out to center (X)
+ 0-0  2 --- 01  Belle grounded out to third (SX)
+ 
+**************  Bottom of the 1st inning, Reds batting
+ 0-0  0 --- 32  Nixon walked (BCFBFBFFFFFB)
+ 0-0  0 1-- 00  Nixon was caught stealing second (>B)
+ 0-0  1 --- 20  Whitaker lined a single to left center (>B.BX)
+ 0-0  1 1-- 21  Larkin grounded into a double play, Frye to Cedeno to 
+                  Fielder (BBSX)
+ 
+**************  Top of the 2nd inning, 101ers batting
+ 0-0  0 --- 21  Alou grounded out to second (BBFX)
+ 0-0  1 --- 22  Sosa popped out to first (BCFBX)
+ 0-0  2 --- 12  Fielder homered deep to left (CBCX)
+ 1-0  2 --- 11  Berry lined out to right (FBX)
+ 
+**************  Bottom of the 2nd inning, Reds batting
+ 1-0  0 --- 32  Lankford walked (BFBBFFB)
+ 1-0  0 1-- 32  Gomez struck out (BSCBB1S)
+ 1-0  1 1-- 01  Taubensee grounded to the mound, forcing Lankford at 
+                  second, Taubensee to first (FX)
+ 1-0  2 1-- 22  Berroa struck out (BBCCS)
+ 
+**************  Top of the 3rd inning, 101ers batting
+ 1-0  0 --- 32  Cedeno walked (CFBBFBFFB)
+ 1-0  0 1-- 00  Mussina grounded into a double play, Larkin to Whitaker 
+                  to Palmeiro (X)
+ 1-0  2 --- 10  Frye grounded out to short (BX)
+ 
+**************  Bottom of the 3rd inning, Reds batting
+ 1-0  0 --- 21  Palmeiro lined a single to shallow left (CBBX)
+ 1-0  0 1-- 10  Reynolds bunted into an out to the mound, forcing 
+                  Palmeiro at second, Reynolds to first (BbXb)
+ 1-0  1 1-- 22  Nixon struck out (BBCFFS)
+ 1-0  2 1-- 20  Whitaker grounded to short, forcing Reynolds at second 
+                  (BBX)
+ 
+**************  Top of the 4th inning, 101ers batting
+ 1-0  0 --- 22  Piazza grounded out to third (FBBFX)
+ 1-0  1 --- 32  Belle grounded out to third (BBSSBX)
+ 1-0  2 --- 21  Alou lined a single to right center (BSBX)
+ 1-0  2 1-- 00  Alou was caught stealing second (>C)
+ 
+**************  Bottom of the 4th inning, Reds batting
+ 1-0  0 --- 01  Larkin grounded out to the mound (FX)
+ 1-0  1 --- 12  Lankford grounded out to short (SCBX)
+ 1-0  2 --- 31  Gomez walked (BBFBB)
+ 1-0  2 1-- 10  Taubensee grounded out to the mound (BX)
+ 
+**************  Top of the 5th inning, 101ers batting
+ 1-0  0 --- 00  Sosa reached on an infield single to the pitcher (X)
+ 1-0  0 1-- 12  Fielder grounded into a double play, Whitaker to Palmeiro 
+                  (C1CBX)
+ 1-0  2 --- 00  Berry reached on an infield single to the pitcher (X)
+ 1-0  2 1-- 12  Cedeno flied out to left (BFSX)
+ 
+**************  Bottom of the 5th inning, Reds batting
+ 1-0  0 --- 32  Berroa walked (BFBFBB)
+ 1-0  0 1-- 31  Palmeiro walked, Berroa to second (BBCBB)
+ 1-0  0 12- 00  Reynolds sacrifice bunted to the mound, Berroa to third, 
+                  Palmeiro to second (Xb)
+ 1-0  1 -23 32  Nixon out to first, Berroa out at home, Palmeiro to 
+                  third, Nixon to first (BBFCFBX)
+ 1-0  2 1-3 00  Whitaker lined out to right (X)
+ 
+**************  Top of the 6th inning, 101ers batting
+ 1-0  0 --- 12  Mussina popped out to center (FCBFFX)
+ 1-0  1 --- 31  Frye walked (BBBCB)
+ 1-0  1 1-- 22  Piazza struck out (1BCSBC)
+ 1-0  2 1-- 10  Reynolds threw a wild pitch, Frye to second (BB)
+ 1-0  2 -2- 20  Belle homered deep down the left-field line, Frye scored 
+                  (BB.X)
+ 3-0  2 --- 20  Alou flied out to center (BBX)
+                Game delayed by rain for 76 minutes
+                Reynolds left the game after a rain delay
+ 
+**************  Bottom of the 6th inning, Reds batting
+ 3-0  0 --- 01  Larkin grounded out to short (CX)
+ 3-0  1 --- 32  Lankford struck out (CBBFFBFC)
+ 3-0  2 --- 01  Gomez popped out to short (SX)
+ 
+**************  Top of the 7th inning, 101ers batting
+                Williams now playing third base
+                Munoz now pitching
+ 3-0  0 --- 12  Sosa grounded out to short (BSFX)
+ 3-0  1 --- 10  Fielder popped out to left (BX)
+ 3-0  2 --- 00  Berry lined a single down the left field line (X)
+ 3-0  2 1-- 01  Cedeno lined a single between third and short, Berry to 
+                  second (CX)
+ 3-0  2 12- 12  Mussina flied out to left (B+2CCX)
+ 
+**************  Bottom of the 7th inning, Reds batting
+ 3-0  0 --- 22  Taubensee lined a single to shallow center (BCFBFX)
+ 3-0  0 1-- 32  Berroa struck out (FBCBBFFC)
+ 3-0  1 1-- 10  Palmeiro grounded into a double play, Frye to Cedeno to 
+                  Fielder (BX)
+ 
+**************  Top of the 8th inning, 101ers batting
+ 3-0  0 --- 32  Frye walked (BBSFBB)
+ 3-0  0 1-- 00  Frye stole second (1>C)
+ 3-0  0 -2- 22  Piazza flied out to left, Frye to third (1>C.BSBX)
+ 3-0  1 --3 00  Belle grounded a single up the middle, Frye scored (X)
+ 4-0  1 1-- 22  Alou flied out to right (CFBBFX)
+ 4-0  2 1-- 12  Sosa lined a single to right center, Belle to third (FBFX)
+ 4-0  2 1-3 02  Fielder homered deep down the right field line, Belle 
+                  scored, Sosa scored (FFX)
+ 7-0  2 --- 01  Berry flied out to center (FX)
+ 
+**************  Bottom of the 8th inning, Reds batting
+                Lopez now playing third base
+                Freeman now pitching
+ 7-0  0 --- 22  Williams struck out (FCBBS)
+ 7-0  1 --- 00  Nixon flied out to left (X)
+ 7-0  2 --- 00  Whitaker lined a single to shallow right (X)
+ 7-0  2 1-- 00  Larkin grounded a single between first and second, 
+                  Whitaker to second (X)
+ 7-0  2 12- 20  Lankford grounded a single between third and short, 
+                  Whitaker to third, Larkin to second (BBX)
+                Tettleton pinch hitting for Munoz
+ 7-0  2 123 12  Tettleton singled to shallow center, Whitaker scored, 
+                  Larkin scored, Lankford to second (BFCX)
+ 7-2  2 12- 00  Taubensee grounded to short, forcing Tettleton at second 
+                  (X)
+ 
+**************  Top of the 9th inning, 101ers batting
+                McCaskill now pitching
+ 7-2  0 --- 12  Cedeno struck out (FFBC)
+ 7-2  1 --- 12  Lopez struck out (SSFBFFS)
+ 7-2  2 --- 00  Frye lined out to second (X)
+ 
+**************  Bottom of the 9th inning, Reds batting
+                Young now playing left field
+                Webster now playing catcher
+ 7-2  0 --- 22  Berroa grounded out to second (CBCBFX)
+ 7-2  1 --- 32  Palmeiro flied out to left (BCFBBX)
+ 7-2  2 --- 22  Williams struck out (BCBFFS)
+
+-------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+-------------------------------------------------------------------------------------------
+

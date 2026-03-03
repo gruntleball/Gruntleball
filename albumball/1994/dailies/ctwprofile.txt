@@ -1,0 +1,171 @@
+                   Manager Profile for 1994 Chinatrust Whales
+ 
+Pitching Chart
+ 
+Usage mode:    Skip
+Rotation size: 5
+Next starter:  5
+ 
+Starting Rotation   Hammond           Salkeld           Olivares          Sutcliffe         Dopson            
+Spot Starters                                                                                                 
+Spot Pct                                                                                                      
+ 
+Mopup situations    Bautista          Poole             Salkeld           Butcher                             
+Long relievers      Dopson            Lewis             Pavlik            Welch             Butcher           
+Setup vs LHB        Lewis             Welch             Dopson            Butcher           Salkeld           
+Setup vs RHB        Pavlik            Dopson            Poole             Lewis             Welch             
+Closers vs LHB      Welch                                                                                     
+Closers vs RHB      Dopson                                                                                    
+
+....................................................................................................
+                   Manager Profile for 1994 Chinatrust Whales
+ 
+Depth Chart for 1994 Chinatrust Whales -- vs LHP
+ 
+ 
+Usage: Game by game        Versus: Left        DH: No
+ 
+Starting Lineup
+ 
+1: Alomar           c
+2: Lemke            2b
+3: O'Neill          rf
+4: Bonilla          3b
+5: Walton           lf
+6: Clark            1b
+7: McRae            cf
+8: Bogar            ss
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Alomar               Clark                Lemke                Bonilla         
+Plat  Alomar               Alomar                                                    
+Def   Alomar                                                                         
+Util1                                           Abbott            0  Davis            50  
+Util2                                           Bogar             0  Blowers          25  
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Bogar                Walton               McRae                O'Neill         
+Plat                                                                                 
+Def                                                                                  
+Util1 Abbott            0  Blowers          10  Walton           10  Blowers          10  
+Util2                      McRae             0  Amaro             0  Walton            0  
+Util3                      Raines            0                       McRae             0  
+Util4                      Amaro             0                       Carreon           0  
+Util5                      Carreon           0                       Raines            0  
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Blowers              Carreon         
+Util2                      Abbott               Raines          
+Util3                      Raines               Blowers         
+Util4                      Carreon              Abbott          
+Util5                      Davis                Pratt           
+
+....................................................................................................
+                   Manager Profile for 1994 Chinatrust Whales
+ 
+Depth Chart for 1994 Chinatrust Whales -- vs RHP
+ 
+ 
+Usage: Game by game        Versus: Right        DH: No
+ 
+Starting Lineup
+ 
+1: Alomar           1b
+2: Lemke            2b
+3: O'Neill          rf
+4: Bonilla          3b
+5: Pratt            c
+6: Raines           lf
+7: McRae            cf
+8: Abbott           ss
+9:                    
+ 
+ 
+ 
+      ----- Catcher -----  --- First Base ----  --- Second Base ---  --- Third Base ----
+ 
+Start Pratt                Alomar               Lemke                Bonilla         
+Plat  Alomar               Alomar                                                    
+Def   Alomar                                                                         
+Util1 Alomar            0                                            Blowers          10  
+Util2                                                                                
+Util3                                                                                
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+      ---- Shortstop ----  --- Left Field ----  -- Center Field ---  --- Right Field ---
+ 
+Start Abbott               Raines               McRae                O'Neill         
+Plat                                                                                 
+Def                                                                                  
+Util1                      Carreon           0  McRae            75  Blowers          10  
+Util2 Abbott            0  Blowers          10  Amaro             0  Carreon           0  
+Util3 Bogar             0                                                            
+Util4                                                                                
+Util5                                                                                
+ 
+ 
+       Designated Hitter   ---- PH vs LHP ----  ---- PH vs RHP ----
+ 
+Start                                      
+Plat                                       
+Def                                        
+Util1                      Walton               Clark           
+Util2                      Blowers              Carreon         
+Util3                      Pratt                Blowers         
+Util4                      Bogar                Walton          
+Util5                      Carreon              Bogar           
+
+....................................................................................................
+                   Manager Profile for 1994 Chinatrust Whales
+ 
+Manager Tendencies
+ 
+Bunting for a hit:        Neutral
+Sacrifice bunting:        Least frequent
+Squeeze bunting:          Neutral
+Hit and run:              Less frequent
+Stealing:                 Less frequent
+Running:                  Neutral
+Taking pitches:           More frequent
+ 
+PH for a pitcher:         Least frequent
+PH for a non-pitcher:     Least frequent
+PH for platoon player:    Least frequent
+PH in a blowout:          Least frequent
+ 
+Pitching around:          Less frequent
+Intentional walk:         Least frequent
+Pickoff throws:           Neutral
+Pitching out:             Less frequent
+Using relievers:          Least frequent
+Using closers:            Least frequent
+ 
+Holding runners:          Less frequent
+Infield in:               Least frequent
+Guard lines:              Least frequent
+ 
+ 
+Player-specific tendencies
+(++ most, + more, = neutral, - less, -- least, N never)
+ 
+Player          BHt BSc BSq H&R Stl Run Tak PHL PHR PHP Blw Ard IBB Pck Out Rel Cls 
+Amaro                                       ++      ++                              
+Davis                                           ++  ++                              
+Hansen                                      ++      ++                              
+Tingley                                     ++      ++                              

@@ -1,0 +1,33 @@
+Introducing Linear Weights Ratio
+Or yet another hitter measure
+
+I'm not going to discuss or talk about the whys 
+here. You can find a good post on that on fanhome. 
+This is just to put into "stone" the formula for 
+people to reference. 
+
+
+     plus
+     = 1.0 * 1b 
+     + 1.6 * 2b 
+     + 2.2 * 3b 
+     + 3.0 * HR 
+     + 0.7 * nibb 
+     + 0.7 * hbp 
+     + 0.4 * ibb 
+     + 0.4 * sb 
+     - 0.4 * cs 
+
+     minus
+     = AB-H + SF + CS 
+
+     LWR = plus/minus 
+
+
+To convert to runs, you can use these estimators: 
+     RC/out = .47 * LWR  - .10 
+     RC     = .47 * plus - .10 * minus
+
+     LWTS   = (.47 * LWR - .27) * minus
+            = .47 * plus - .27  * minus
+

@@ -1,0 +1,714 @@
+TLM Playoffs - Round 2 - Game 1
+
+-----------------------------------------------------------------------
+RESULTS
+-----------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Beavis            0  0  0  0  1  0  1  0  0     2  6  1     4  0
+1991 Messiahs          0  0  0  1  0  2  0  0  x     3  3  0     4  0
+Candiotti (W,1-0), Clemens (L,1-1)
+HR - None
+Both starters go the distance and Rocket strikes out nine.  (I sense a
+possible reprofiling coming on.)
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Magellans         2  0  0  0  0  0  0  1  0     3  6  0     6  1
+1991 Whales            0  0  0  0  0  0  1  0  3     4  9  1     7  0
+Radinsky (W,1-0), Gordon (L,0-2)
+HR - O'Neill (1), Nokes (1)
+Matt Nokes is the big hero, with a two-run blast in the 9th off of Tom
+Gordon to tie the game.  Greg Gagne follows with a double and scores on 
+Phil Plantier's single.
+
+-----------------------------------------------------------------------
+STANDINGS
+-----------------------------------------------------------------------
+
+Dun Laoghaire leads Butt Mountain 1 game to none.
+Chinatrust leads Ferdinand 1 game to none.
+
+-----------------------------------------------------------------------
+INJURIES
+-----------------------------------------------------------------------
+
+None
+
+-----------------------------------------------------------------------
+BOXSCORES AND SCORESHEETS 
+-----------------------------------------------------------------------
+
+10/12/1991, BMB91-DLM91, Arlington Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Beavis            0  0  0  0  1  0  1  0  0     2  6  1     4  0
+1991 Messiahs          0  0  0  1  0  2  0  0  x     3  3  0     4  0
+ 
+Beavis               AB  R  H BI   AVG    Messiahs             AB  R  H BI   AVG
+Pasqua            lf  4  0  0  0  .100    Henderson,R       lf  4  0  0  0  .000       
+Downing           1b  4  0  0  0  .111     Jose             rf  0  0  0  0  .000       
+Martinez,Da       rf  4  0  1  0  .278    Van Slyke         cf  3  1  0  0  .000       
+Williams          3b  4  0  0  0  .111    Franco            2b  4  1  1  0  .250       
+Gonzalez          cf  4  0  0  0  .167    Pendleton         3b  3  1  1  1  .333       
+Sandberg          2b  3  2  2  0  .294    Ripken,C          ss  2  0  1  2  .500       
+Reed              ss  3  0  1  0  .231    Tettleton         c   3  0  0  0  .000       
+Steinbach         c   3  0  0  0  .222    Martinez,E        1b  3  0  0  0  .000       
+Clemens           p   3  0  2  2  .333    Strawberry        rf  2  0  0  0  .000       
+                     32  2  6  2           Ortiz            lf  0  0  0  0  .000       
+                                          Candiotti         p   2  0  0  0  .000       
+                                                               26  3  3  3             
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Clemens          L 1-1           8.0  3  3  3  3  9 111  71  2.65
+                                 8.0  3  3  3  3  9 111  71 
+ 
+Messiahs                         INN  H  R ER BB  K PCH STR   ERA
+Candiotti        W 1-0           9.0  6  2  2  1  5  99  59  2.00
+                                 9.0  6  2  2  1  5  99  59 
+ 
+DLM: Ortiz inserted at lf in the 8th
+     Jose inserted at rf in the 8th
+ 
+E-Downing. 2B-Sandberg, Clemens. 3B-Pendleton. SB-Franco(1). K-Downing, 
+Williams 2, Gonzalez 2, Henderson,R 2, Van Slyke 2, Franco, Martinez,E, 
+Strawberry, Candiotti 2. BB-Sandberg, Van Slyke, Pendleton, Strawberry. 
+SH-Candiotti. SF-Ripken,C. 
+GWRBI: Pendleton
+Temperature: 93, Sky: clear, Wind: left to right at 13 MPH.
+
+....................................................................................................
+10/12/1991, BMB91-DLM91, Arlington Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Beavis            0  0  0  0  1  0  1  0  0     2  6  1     4  0
+1991 Messiahs          0  0  0  1  0  2  0  0  x     3  3  0     4  0
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Pasqua            lf 1>8            9            9            OA.3xH(21)             
+                                                            8>53                     
+Downing           1b   k          4>5/fl       6>7            63                     
+Martinez,Da       rf   53           S            43           8                      
+Williams          3b 2>k            9            63         9>k                      
+Gonzalez          cf   7            k          7>k            8                      
+Sandberg          2b   W          5>D            S            1/L                    
+Reed              ss   13           8            S.1-2                               
+Steinbach         c  3>43           63           8                                   
+Clemens           p    43           D.2-H        S.2-H;1-3                           
+ 
+ 
+Messiahs             -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson,R       lf 1>k            4            k            63                     
+ Jose             rf                                                                 
+Van Slyke         cf   e3.B-1       k          6>W          8>k                      
+Franco            2b   k          4>S            63.1-2       13                     
+Pendleton         3b   W.1-2        SB2          T.2-H        8                      
+                                    3                                                
+Ripken,C          ss   64/f         S.2-H        7/SF.3-H                            
+Tettleton         c  2>63           8            63                                  
+Martinez,E        1b   63           k          7>63                                  
+Strawberry        rf   63         5>k            W                                   
+ Ortiz            lf                                                                 
+Candiotti         p  3>k            k            14/SH.1-2                           
+ 
+ 
+Beavis           IN OUT ER                  Messiahs         IN OUT ER                  
+Clemens          A1  D4  3 L 1-1            Candiotti        A1  D6  2 W 1-0            
+
+....................................................................................................
+10/12/1991, BMB91-DLM91, Arlington Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Beavis            0  0  0  0  1  0  1  0  0     2  6  1     4  0
+1991 Messiahs          0  0  0  1  0  2  0  0  x     3  3  0     4  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Beavis batting
+ 0-0  0 --- 22  Pasqua flied out to center (BBSFX)
+ 0-0  1 --- 22  Downing struck out (CBBSS)
+ 0-0  2 --- 02  Martinez,Da grounded out to third (FFX)
+ 
+**************  Bottom of the 1st inning, Messiahs batting
+ 0-0  0 --- 22  Henderson,R struck out (BCBSC)
+ 0-0  1 --- 00  Van Slyke to first on an error by the first baseman 
+                  Downing (X)
+ 0-0  1 1-- 22  Franco struck out (CCBBFFS)
+ 0-0  2 1-- 32  Pendleton walked, Van Slyke to second (CBFBB>B)
+ 0-0  2 12- 00  Ripken,C grounded to short, forcing Pendleton at second 
+                  (X)
+ 
+**************  Top of the 2nd inning, Beavis batting
+ 0-0  0 --- 02  Williams struck out (FSC)
+ 0-0  1 --- 21  Gonzalez flied out to left (CBBX)
+ 0-0  2 --- 32  Sandberg walked (CBBBFB)
+ 0-0  2 1-- 11  Reed grounded out to the mound (1FBX)
+ 
+**************  Bottom of the 2nd inning, Messiahs batting
+ 0-0  0 --- 11  Tettleton grounded out to short (CBX)
+ 0-0  1 --- 10  Martinez,E grounded out to short (BX)
+ 0-0  2 --- 10  Strawberry grounded out to short (BX)
+ 
+**************  Top of the 3rd inning, Beavis batting
+ 0-0  0 --- 10  Steinbach grounded out to second (BX)
+ 0-0  1 --- 01  Clemens grounded out to second (CX)
+ 0-0  2 --- 21  Pasqua flied out to right (BBCX)
+ 
+**************  Bottom of the 3rd inning, Messiahs batting
+ 0-0  0 --- 02  Candiotti struck out (CSC)
+ 0-0  1 --- 12  Henderson,R popped out to second (CBCX)
+ 0-0  2 --- 12  Van Slyke struck out (CSBFS)
+ 
+**************  Top of the 4th inning, Beavis batting
+ 0-0  0 --- 20  Downing popped out to third (BBX)
+ 0-0  1 --- 10  Martinez,Da lined a single to left center (BX)
+ 0-0  1 1-- 00  Williams flied out to right (X)
+ 0-0  2 1-- 02  Gonzalez struck out (CFC)
+ 
+**************  Bottom of the 4th inning, Messiahs batting
+ 0-0  0 --- 02  Franco lined a single to left (CFX)
+ 0-0  0 1-- 00  Franco stole second (11111111>S)
+ 0-0  0 -2- 01  Pendleton popped out to first (11111111>S.X)
+ 0-0  1 -2- 01  Ripken,C lined a single to left center, Franco scored (CX)
+ 0-1  1 1-- 21  Tettleton flied out to center (FBBX)
+ 0-1  2 1-- 22  Martinez,E struck out (1CBFBS)
+ 
+**************  Top of the 5th inning, Beavis batting
+ 0-1  0 --- 21  Sandberg doubled down the right field line and shallow 
+                  (BSBX)
+ 0-1  0 -2- 20  Reed lined out to center (BBX)
+ 0-1  1 -2- 22  Steinbach grounded out to short (BBFSX)
+ 0-1  2 -2- 00  Clemens lined a double to right center, Sandberg scored 
+                  (X)
+ 1-1  2 -2- 10  Pasqua flied out to right (BX)
+ 
+**************  Bottom of the 5th inning, Messiahs batting
+ 1-1  0 --- 32  Strawberry struck out (BBBCCS)
+ 1-1  1 --- 12  Candiotti struck out (CCBFS)
+ 1-1  2 --- 22  Henderson,R struck out (CFBBFS)
+ 
+**************  Top of the 6th inning, Beavis batting
+ 1-1  0 --- 00  Downing flied out to left (X)
+ 1-1  1 --- 00  Martinez,Da grounded out to second (X)
+ 1-1  2 --- 00  Williams grounded out to short (X)
+ 
+**************  Bottom of the 6th inning, Messiahs batting
+ 1-1  0 --- 31  Van Slyke walked (CBBBB)
+ 1-1  0 1-- 00  Franco grounded out to short, Van Slyke to second (X)
+ 1-1  1 -2- 10  Pendleton lined a triple down the first base line, Van 
+                  Slyke scored (BX)
+ 1-2  1 --3 01  Ripken,C hit a sacrifice fly to left, Pendleton scored 
+                  (CX)
+ 1-3  2 --- 21  Tettleton grounded out to short (BBSX)
+ 
+**************  Top of the 7th inning, Beavis batting
+ 1-3  0 --- 32  Gonzalez struck out (BCBSBS)
+ 1-3  1 --- 00  Sandberg reached on an infield single to the pitcher (X)
+ 1-3  1 1-- 00  Reed lined a single between first and second, Sandberg to 
+                  second (X)
+ 1-3  1 12- 10  Steinbach flied out to center (BX)
+ 1-3  2 12- 01  Clemens lined a single to right, Sandberg scored, Reed to 
+                  third (CX)
+ 2-3  2 1-3 10  Reed out at home attempting to advance (BB)
+ 
+**************  Bottom of the 7th inning, Messiahs batting
+ 2-3  0 --- 00  Martinez,E grounded out to short (X)
+ 2-3  1 --- 31  Strawberry walked (BBBCB)
+ 2-3  1 1-- 00  Candiotti sacrifice bunted to the mound, Strawberry to 
+                  second (Xb)
+ 2-3  2 -2- 32  Henderson,R grounded out to short (BFBCFBFX)
+ 
+**************  Top of the 8th inning, Beavis batting
+                Ortiz now playing left field
+                Jose now playing right field
+ 2-3  0 --- 20  Pasqua grounded out to third (BBX)
+ 2-3  1 --- 01  Downing grounded out to short (CX)
+ 2-3  2 --- 21  Martinez,Da flied out to center (BBCX)
+ 
+**************  Bottom of the 8th inning, Messiahs batting
+ 2-3  0 --- 32  Van Slyke struck out (BBCFBS)
+ 2-3  1 --- 01  Franco grounded out to the mound (FX)
+ 2-3  2 --- 01  Pendleton flied out to center (SX)
+ 
+**************  Top of the 9th inning, Beavis batting
+ 2-3  0 --- 32  Williams struck out (BCSBBC)
+ 2-3  1 --- 21  Gonzalez flied out to center (BBCX)
+ 2-3  2 --- 10  Sandberg lined out to the mound (BX)
+
+-----------------------------------------------------------------------
+
+10/12/1991, FER91-CTW91, Oakland Coliseum
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Magellans         2  0  0  0  0  0  0  1  0     3  6  0     6  1
+1991 Whales            0  0  0  0  0  0  1  0  3     4  9  1     7  0
+ 
+Magellans            AB  R  H BI   AVG    Whales               AB  R  H BI   AVG
+Biggio            c   3  2  1  0  .387    Thompson          cf  4  0  0  0  .000       
+Milligan          lf  3  1  1  0  .400    Walker            rf  3  0  1  0  .333       
+Bonds             cf  4  0  1  0  .133    O'Neill           lf  3  1  1  1  .333       
+Murray            1b  4  0  0  0  .280    Thomas            1b  4  0  0  0  .000       
+Mulliniks         3b  4  0  1  0  .217    Boggs             3b  4  1  3  0  .750       
+Backman           2b  3  0  1  2  .278    Nokes             c   3  1  1  2  .333       
+ Pena             ph  1  0  0  0  .111    Gagne             ss  4  1  1  0  .250       
+Finley            rf  3  0  1  0  .174    Thompson          2b  4  0  0  0  .000       
+Pecota            ss  4  0  0  0  .172    Tapani            p   2  0  0  0  .000       
+Greene            p   3  0  0  0  .286     Barberie         ph  1  0  1  0 1.000       
+ Perez            p   0  0  0  0  .000     Radinsky         p   0  0  0  0  .000       
+ Ward,D           p   1  0  0  0  .000     Plantier         ph  1  0  1  1 1.000       
+ Gordon           p   0  0  0  0  .000                         33  4  9  4             
+                     33  3  6  2                                                    
+ 
+Magellans                        INN  H  R ER BB  K PCH STR   ERA
+Greene                           6.0  2  1  1  2  4  79  53  3.63
+Perez            H 3             1.1  2  0  0  0  2  17  12  5.14
+Ward,D           H 2             0.2  2  1  1  1  2  24  14  6.35
+Gordon           BS 1, L 0-2     0.1  3  2  2  0  0  13   9  9.00
+                                 8.1  9  4  4  3  8 133  88 
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Tapani                           8.0  6  3  3  2  3 110  72  3.38
+Radinsky         W 1-0           1.0  0  0  0  1  0  20  14  0.00
+                                 9.0  6  3  3  3  3 130  86 
+ 
+FER: Pena batted for Backman in the 9th
+     Pena moved to 2b in the 9th
+CTW: Barberie batted for Tapani in the 8th
+     Plantier batted for Radinsky in the 9th
+ 
+E-Walker. 2B-Walker, Gagne. HR-O'Neill(1), Nokes(1). K-Biggio, Mulliniks, 
+Pecota, Thompson 2, Thomas 2, Boggs, Nokes, Gagne 2. BB-Biggio, Milligan, 
+Finley, Walker, O'Neill, Nokes. 
+GWRBI: Plantier
+Temperature: 72, Sky: clear, Wind: out to right at 3 MPH.
+
+....................................................................................................
+10/12/1991, FER91-CTW91, Oakland Coliseum
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Magellans         2  0  0  0  0  0  0  1  0     3  6  0     6  1
+1991 Whales            0  0  0  0  0  0  1  0  3     4  9  1     7  0
+ 
+ 
+Magellans            -----A------ -----B------ -----C------ -----D------ -----E------
+Biggio            c  1>S            k            3/fl       8>W                      
+Milligan          lf   W.1-2      3>53         6>S            5                      
+Bonds             cf   8            43           8            note 1                 
+Murray            1b   5            3/g          4            31.2-3                 
+Mulliniks         3b   S.2-3;1-2  4>k            46/f         8                      
+Backman           2b   note 2       63         7>8          9>Radinsky               
+ Pena             ph                                          43                     
+Finley            rf   53           43           S/b          W                      
+Pecota            ss 2>63         5>k            43.1-2       7                      
+Greene            p    53           63           43                                  
+ Perez            p                                                                  
+ Ward,D           p                                           64/f                   
+ Gordon           p                                                                  
+ 
+ 1: S.1-H(e9/th);B-2  2: S.3-H;2-H;1-3 
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Thompson          cf 1>k            13           63           Ward,D                 
+                                                              k                      
+Walker            rf   W          4>7            53           D.1-3                  
+O'Neill           lf   363/gdp      8          7>HR           W                      
+Thomas            1b 2>43           9            Perez        k                      
+                                                 k                                   
+Boggs             3b   k          5>S            S          9>S                      
+Nokes             c    W            9            k            Gordon                 
+                                                              HR.1-H                 
+Gagne             ss   k            k            54/f         D                      
+Thompson          2b 3>13           8          8>53           3/g.2-3                
+Tapani            p    31         6>9                                                
+ Barberie         ph                             S                                   
+ Radinsky         p                                                                  
+ Plantier         ph                                          S.3-H                  
+ 
+ 
+Magellans        IN OUT ER                  Whales           IN OUT ER                  
+Greene           A1  C3  1                  Tapani           A1  D5  3                  
+Perez            C4  C9  0 H 3              Radinsky         D6  D9  0 W 1-0            
+Ward,D           D1  D5  1 H 2                                                          
+Gordon           D6  D9  2 BS 1, L 0-2                                                  
+
+....................................................................................................
+10/12/1991, FER91-CTW91, Oakland Coliseum
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1991 Magellans         2  0  0  0  0  0  0  1  0     3  6  0     6  1
+1991 Whales            0  0  0  0  0  0  1  0  3     4  9  1     7  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Magellans batting
+ 0-0  0 --- 12  Biggio grounded a single up the middle (BCSX)
+ 0-0  0 1-- 31  Milligan walked, Biggio to second (BBBCB)
+ 0-0  0 12- 22  Bonds flied out to center (BBFCX)
+ 0-0  1 12- 22  Murray popped out to third (BFCBX)
+ 0-0  2 12- 02  Mulliniks lined a single to left, Biggio to third, 
+                  Milligan to second (CSX)
+ 0-0  2 123 01  Backman singled down the left field line, Biggio scored, 
+                  Milligan scored, Mulliniks to third (CX)
+ 2-0  2 1-3 11  Finley grounded out to third (CBX)
+ 
+**************  Bottom of the 1st inning, Whales batting
+ 2-0  0 --- 32  Thompson struck out (BFCBFFBC)
+ 2-0  1 --- 32  Walker walked (SSFFFFBBBFB)
+ 2-0  1 1-- 22  O'Neill grounded into a double play, Murray to Pecota to 
+                  Murray (1FCBBFFX)
+ 
+**************  Top of the 2nd inning, Magellans batting
+ 2-0  0 --- 12  Pecota grounded out to short (FFBFX)
+ 2-0  1 --- 00  Greene grounded out to third (X)
+ 2-0  2 --- 12  Biggio struck out (CBSS)
+ 
+**************  Bottom of the 2nd inning, Whales batting
+ 2-0  0 --- 11  Thomas grounded out to second (BFX)
+ 2-0  1 --- 12  Boggs struck out (BFFS)
+ 2-0  2 --- 30  Nokes walked (BBBB)
+ 2-0  2 1-- 02  Gagne struck out (CCC)
+ 
+**************  Top of the 3rd inning, Magellans batting
+ 2-0  0 --- 12  Milligan grounded out to third (CBCX)
+ 2-0  1 --- 22  Bonds grounded out to second (BFBFX)
+ 2-0  2 --- 10  Murray grounded out to first (BX)
+ 
+**************  Bottom of the 3rd inning, Whales batting
+ 2-0  0 --- 01  Thompson grounded out to the mound (CX)
+ 2-0  1 --- 22  Tapani grounded out to first (BCSBFFX)
+ 2-0  2 --- 00  Thompson grounded out to the mound (X)
+ 
+**************  Top of the 4th inning, Magellans batting
+ 2-0  0 --- 32  Mulliniks struck out (BBBCFS)
+ 2-0  1 --- 22  Backman grounded out to short (FFFBBX)
+ 2-0  2 --- 01  Finley grounded out to second (SX)
+ 
+**************  Bottom of the 4th inning, Whales batting
+ 2-0  0 --- 20  Walker flied out to left (BBX)
+ 2-0  1 --- 10  O'Neill flied out to center (BX)
+ 2-0  2 --- 11  Thomas flied out to right (CBX)
+ 
+**************  Top of the 5th inning, Magellans batting
+ 2-0  0 --- 12  Pecota struck out (SCBS)
+ 2-0  1 --- 01  Greene grounded out to short (FX)
+ 2-0  2 --- 12  Biggio popped out to first (CBCX)
+ 
+**************  Bottom of the 5th inning, Whales batting
+ 2-0  0 --- 12  Boggs reached on an infield single to second (CBCFX)
+ 2-0  0 1-- 00  Nokes flied out to right (X)
+ 2-0  1 1-- 02  Gagne struck out (CSS)
+ 2-0  2 1-- 10  Thompson flied out to center (BX)
+ 
+**************  Top of the 6th inning, Magellans batting
+ 2-0  0 --- 21  Milligan lined a single to right center (BCBX)
+ 2-0  0 1-- 01  Bonds flied out to center (FbX)
+ 2-0  1 1-- 00  Murray popped out to second (X)
+ 2-0  2 1-- 00  Mulliniks grounded to second, forcing Milligan at second 
+                  (X)
+ 
+**************  Bottom of the 6th inning, Whales batting
+ 2-0  0 --- 01  Tapani flied out to right (CX)
+ 2-0  1 --- 00  Thompson grounded out to short (X)
+ 2-0  2 --- 31  Walker grounded out to third (BBBCX)
+ 
+**************  Top of the 7th inning, Magellans batting
+ 2-0  0 --- 11  Backman lined out to center (FBX)
+ 2-0  1 --- 00  Finley bunted for a single (Xb)
+ 2-0  1 1-- 20  Pecota grounded out to second, Finley to second (BBX)
+ 2-0  2 -2- 12  Greene grounded out to second (CBFX)
+ 
+**************  Bottom of the 7th inning, Whales batting
+ 2-0  0 --- 01  O'Neill homered deep to right center (CX)
+                Perez now pitching
+ 2-1  0 --- 12  Thomas struck out (BCCC)
+ 2-1  1 --- 00  Boggs grounded a single between first and second (X)
+ 2-1  1 1-- 22  Nokes struck out (BBCSS)
+ 2-1  2 1-- 01  Gagne grounded to third, forcing Boggs at second (CX)
+ 
+**************  Top of the 8th inning, Magellans batting
+ 2-1  0 --- 30  Biggio walked (BBBB)
+ 2-1  0 1-- 01  Milligan popped out to third (FX)
+ 2-1  1 1-- 11  Bonds grounded a single between first and second, Biggio 
+                  scored on an error by the right fielder Walker, Bonds 
+                  to second (CBX)
+ 3-1  1 -2- 12  Murray grounded out to first, Bonds to third (CBCX)
+ 3-1  2 --3 32  Mulliniks flied out to center (BBFBSX)
+ 
+**************  Bottom of the 8th inning, Whales batting
+ 3-1  0 --- 21  Thompson grounded out to third (BBCX)
+                Barberie pinch hitting for Tapani
+ 3-1  1 --- 00  Barberie grounded a single up the middle (X)
+                Ward,D now pitching
+ 3-1  1 1-- 12  Thompson struck out (FBSC)
+ 3-1  2 1-- 12  Walker doubled deep to right center, Barberie to third 
+                  (CFBX)
+ 3-1  2 -23 31  O'Neill walked (BBBCB)
+ 3-1  2 123 22  Thomas struck out (CFBBS)
+ 
+**************  Top of the 9th inning, Magellans batting
+                Radinsky now pitching
+                Pena pinch hitting for Backman
+ 3-1  0 --- 01  Pena grounded out to second (CX)
+ 3-1  1 --- 32  Finley walked (CBSBFFBFFB)
+ 3-1  1 1-- 10  Pecota flied out to left (11BX)
+ 3-1  2 1-- 12  Ward,D grounded to short, forcing Finley at second 
+                  (CBSFFX)
+ 
+**************  Bottom of the 9th inning, Whales batting
+                Pena moved to second base
+ 3-1  0 --- 22  Boggs lined a single to right (BCSFBX)
+                Gordon now pitching
+ 3-1  0 1-- 01  Nokes homered deep to center, Boggs scored (SX)
+ 3-3  0 --- 21  Gagne grounded a double down the first base line (BBCX)
+ 3-3  0 -2- 11  Thompson grounded out to first, Gagne to third (BSbX)
+                Plantier pinch hitting for Radinsky
+ 3-3  1 --3 12  Plantier singled , Gagne scored (SBFX)
+
+
+-----------------------------------------------------------------------
+PLAYING TIME REPORT
+-----------------------------------------------------------------------
+
+NOTE: Due to the way the playoff scheduler works in DMB, both of these
+first two series are Division series.  Hence, BMB's and FER's playing 
+time reports will be based on the combined series.  The 10 percent limit
+per series still applies, but unfortunately, there's no automatic way to 
+track it, so I'll be subtracting the last game of the first series playing
+time from these reports for both of those teams.  The Championship series
+will not have the same problem.
+
+                            TLM Team Status -- 1991 Butt Mountain Beavis                            
+                               Divisional playoff -- as of 10/12/1991                               
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Warren Cromartie            6      5      5    0    17   131       
+  Dave Martinez               3      5      4    0   105   322       
+  Brian Downing               2      6      4    0   167   309       
+  Hector Villanueva           3      5      4    0   117    97    36 
+  Juan Gonzalez               2      3      3    0   164   431       
+  Matt Williams               2      4      3    0   178   457       
+  Ryne Sandberg               2      3      3    0   250   434       
+  Jody Reed                   2      3      2    0   184   512       
+  Dan Pasqua                  3      2      2    0    58   426       
+  Terry Steinbach             2      2      2    0   149   345    69 
+  Skeeter Barnes              0      1      1    0    92    79       
+  Wes Chamberlain             1      0      0    0   158   259       
+  Andre Dawson                1      0      0    0   235   361       
+f Mark McGwire                0      0      0    0   155   430       
+f Rene Gonzales               0      0      0    0    42    99       
+f Darnell Coles               0      0      0    0     7     7       
+f Gil Reyes                   0      0      0    0   105   124       
+f Kurt Stillwell              0      0      0    0   118   310       
+f Alonzo Powell               0      0      0    0    77    48       
+  Gary Varsho                 0      0      0    0     7   203       
+  Dave Anderson               0      0      0    0    88   152       
+f Harvey Pulliam              0      0      0    0    34     3       
+f Mark Salas                  0      0      0    0     4    56       
+f Dann Bilardello             0      0      0    0     7    22       
+f Danny Heep                  0      0      0    0     0    13       
+  Total                                             2518  5630       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last  10/12  10/11  10/10   10/9   Cum 
+  Mo Sanford                 25    0     30    118  10/6/1991                                   
+  Roger Clemens               6    0     68   1077 10/12/1991   111s                        111 
+  Mike Schooler               5    0      7    138  10/6/1991                                   
+  Jeff Gray                   4    0      9    231  10/6/1991                                   
+  Greg Maddux                 3    0     34   1070  10/3/1991                                   
+  John Smoltz                 3    0     26    947  10/5/1991                                   
+  Chris Hammond               2    0      7    425  10/6/1991                                   
+  Marvin Freeman              2    0      3    190  10/5/1991                                   
+f Steve Ontiveros             0    0      0      0                                              
+f Dave Fleming                0    0      0     73  6/10/1991                                   
+f Ken Hill                    0    0      0    743  9/25/1991                                   
+  Rob MacDonald               0    0      0    231  9/24/1991                                   
+f Terry Leach                 0    0      0    292  9/25/1991                                   
+f Sergio Valdez               0    0      0     70  9/14/1991                                   
+f Jim Austin                  0    0      0     46  9/29/1991                                   
+f Jose Melendez               0    0      0    381  9/29/1991                                   
+  Dennis Eckersley            0    0      0    299   9/5/1991                                   
+f Al Osuna                    0    0      0    353  9/24/1991                                   
+f Barry Manuel                0    0      0     58  6/13/1991                                   
+f Brian Drahman               0    0      0    125  9/25/1991                                   
+f Mike Munoz                  0    0      0     46  9/29/1991                                   
+f Cliff Brantley              0    0      0    140   9/5/1991                                   
+f Mike Ignasiak               0    0      0     51  6/27/1991                                   
+  Total                                 184   7104                                              
+
+
+                           TLM Team Status -- 1991 Dun Laoghaire Messiahs                           
+                               Divisional playoff -- as of 10/12/1991                               
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Andy Van Slyke              0      1      1    0   216   361       
+  Rickey Henderson            0      1      1    0   137   441       
+  Terry Pendleton             0      1      1    0   196   448       
+  Julio Franco                0      1      1    0   172   487       
+  Darryl Strawberry           0      1      1    0   265   323       
+  Mickey Tettleton            0      1      0    0   129   479    33 
+  Edgar Martinez              0      1      0    0   182   460       
+  Cal Ripken                  0      1      0    0   185   532       
+  Mike Scioscia               0      0      0    0   126   278       
+f Geno Petralli               0      0      0    0    11   217       
+  Mike Devereaux              0      0      0    0   184   484       
+  Mike Gallego                0      0      0    0   144   423       
+  Henry Cotto                 0      0      0    0   103    89       
+f Rick Dempsey                0      0      0    0   115    59       
+f Tom Prince                  0      0      0    0    20    22       
+  Bill Spiers                 0      0      0    0   133   331       
+f Luis Polonia                0      0      0    0   181   481       
+  Felix Jose                  0      0      0    0   285   340       
+f Casey Candaele              0      0      0    0   173   332       
+  Javier Ortiz                0      0      0    0    58    39       
+f Deion Sanders               0      0      0    0    19   103       
+  Total                                             3034  6729       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last  10/12  10/11  10/10   10/9   Cum 
+  Tom Candiotti               3    0     33    981 10/12/1991    99s                         99 
+  John Habyan                 0    0      0    349  9/16/1991                                   
+f Scott Terry                 0    0      0    339  9/28/1991                                   
+  Tom Glavine                 0    0      0    989  9/13/1991                                   
+  Jim Abbott                  0    0      0   1002  9/15/1991                                   
+f Frank Tanana                0    0      0    920  9/29/1991                                   
+  Juan Berenguer              0    0      0    255  9/13/1991                                   
+f Roger Mason                 0    0      0    114  9/28/1991                                   
+  Mike Maddux                 0    0      0    388  9/22/1991                                   
+  Donn Pall                   0    0      0    282   9/7/1991                                   
+  Mike Flanagan               0    0      0    391  9/16/1991                                   
+  Bill Wegman                 0    0      0    785  8/30/1991                                   
+f Kent Mercker                0    0      0    306  9/12/1991                                   
+f Ken Patterson               0    0      0    265  9/30/1991                                   
+  Jim Poole                   0    0      0    166  8/12/1991                                   
+f Dwayne Henry                0    0      0    282  9/30/1991                                   
+f Chuck McElroy               0    0      0    419  9/28/1991                                   
+f Jeff Reardon                0    0      0    248  9/30/1991                                   
+f Alan Mills                  0    0      0     72  9/27/1991                                   
+f Goose Gossage               0    0      0    167  9/28/1991                                   
+f Todd Stottlemyre            0    0      0    921  9/26/1991                                   
+f Tom Edens                   0    0      0    143  9/29/1991                                   
+  Total                                  33   9784                                              
+
+
+
+                             TLM Team Status -- 1991 Chinatrust Whales                              
+                               Divisional playoff -- as of 10/12/1991                               
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Milt Thompson               0      1      1    0    77   284       
+  Greg Gagne                  0      1      1    0   133   314       
+  Matt Nokes                  0      1      1    0   122   371    36 
+  Larry Walker                0      1      1    0   176   363       
+  Robby Thompson              0      1      1    0   158   415       
+  Paul O'Neill                0      1      1    0   181   426       
+  Wade Boggs                  0      1      1    0   183   458       
+  Bret Barberie               0      1      1    0    45   117       
+  Phil Plantier               0      1      1    0    30   145       
+  Frank Thomas                0      1      1    0   212   489       
+f Dave Gallagher              0      0      0    0   124   182       
+  Jesse Barfield              0      0      0    0   125   196       
+f Chad Kreuter                0      0      0    0     2     2       
+  Lloyd McClendon             0      0      0    0   133    50       
+  Keith Miller                0      0      0    7   158   146       
+f Ed Sprague                  0      0      0    0   101    82       
+  Scott Leius                 0      0      0    0   161    74       
+f Pedro Munoz                 0      0      0    0    49   102       
+f Scott Servais               0      0      0    0     8    34       
+  Sam Horn                    0      0      0    0    19   343       
+f Luis Rivera                 0      0      0    0   122   346       
+f Thomas Howard               0      0      0    0    34   275       
+f Eric Wedge                  0      0      0    0     0     1       
+  Carlos Quintana             0      0      0    0   180   370       
+  Total                                             2533  5585       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last  10/12  10/11  10/10   10/9   Cum 
+  Kevin Tapani                3    0     32    974 10/12/1991   110s                        110 
+  Scott Radinsky              1    0      4    289 10/12/1991    20r                         20 
+  Bill Swift                  0    0      0    359  9/26/1991                                   
+  Jack Morris                 0    0      0   1032  9/24/1991                                   
+f Wally Ritchie               0    0      0    213  9/29/1991                                   
+  Luis Aquino                 0    0      0    661  9/27/1991                                   
+  Rob Dibble                  0    0      0    334  9/30/1991                                   
+f Joe Hesketh                 0    0      0    631  4/26/1991                                   
+  Greg W. Harris              0    0      0    537  7/13/1991                                   
+  Jim Gott                    0    0      0    322  9/28/1991                                   
+f Jose Bautista               0    0      0     34  9/29/1991                                   
+f Mike Henneman               0    0      0    358  9/29/1991                                   
+f Charlie Hough               0    0      0    858  4/27/1991                                   
+f Greg Cadaret                0    0      0    517                                              
+f Mike Moore                  0    0      0    887  9/26/1991                                   
+  Calvin Jones                0    0      0    194   7/1/1991                                   
+f Tony Fossas                 0    0      0    244  8/28/1991                                   
+f Les Lancaster               0    0      0    653   9/7/1991                                   
+f Tim Scott                   0    0      0      5  9/14/1991                                   
+f Terry Mathews               0    0      0    236  9/29/1991                                   
+f Mitch Williams              0    0      0    386  9/30/1991                                   
+  Total                                  36   9724                                              
+
+
+                            TLM Team Status -- 1991 Ferdinand Magellans                             
+                               Divisional playoff -- as of 10/12/1991                               
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Bobby Rose                 14      7     12    0    42    27       
+  Wally Backman               4     11     10    0    28   192       
+  Rance Mulliniks             0      9      9    0    12   274       
+  Bill Pecota                 5      7      7    0   149   299       
+  Craig Biggio                3      7      6    0   210   399   214 
+  Barry Bonds                 4      6      5    0   239   395       
+  Randy Milligan              1      6      5    0   167   404       
+  Eddie Murray                0      8      4    0   279   360       
+  Geronimo Pena               7      2      4    0   107   105       
+  Keith Mitchell              0      7      4    0    33    41       
+  Glenallen Hill              6      3      4    0   108   140       
+  Steve Finley                1      5      4    0   205   451       
+  Chris Gwynn                 0      2      2    0    12   142       
+  Chris Hoiles                4      0      2    0   125   247    12 
+  Dave Henderson              4      0      1    0   161   476       
+  Randy Velarde               0      2      1    0    87   123       
+  Steve Sax                   0      0      0    0   238   469       
+f John Cangelosi              0      0      0    0     0     0       
+f Rex Hudler                  0      0      0    0   165    56       
+f Mike Fitzgerald             0      0      0    0    97   127       
+f Bill Doran                  0      0      0    0    94   316       
+f Kevin Seitzer               0      0      0    0    77   190       
+f Chito Martinez              0      0      0    0    31   197       
+f Walt Weiss                  0      0      0    0    32   116       
+f Tim Naehring                0      0      0    0    19    46       
+f Junior Ortiz                0      0      0    0    47   104       
+f Francisco Cabrera           0      0      0    0    57    45       
+  Total                                             2821  5741       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last  10/12  10/11  10/10   10/9   Cum 
+  Tommy Greene                9    0     74    857 10/12/1991    79s                         79 
+  Kevin Appier                8    0     70    881 10/10/1991                  74s           74 
+  Jose Guzman                 7    0     53    730  10/9/1991                         81s    81 
+  Duane Ward                  7    0     29    428 10/12/1991    24r            9r    29r    62 
+  Melido Perez                6    0     34    553 10/12/1991    17r           29r    30r    76 
+  Tom Gordon                  5    0     37    684 10/12/1991    13r           36r           49 
+  Bruce Ruffin                2    0      8    508  10/9/1991                          4r     4 
+  Zane Smith                  1    0      5    916 10/10/1991                  18r           18 
+f Heathcliff Slocumb          0    0      0    274  9/28/1991                                   
+f Vince Palacios              0    0      0    347  9/27/1991                                   
+f Wally Whitehurst            0    0      0    556  9/28/1991                                   
+f Mike Perez                  0    0      0     75  9/28/1991                                   
+f Rich Monteleone             0    0      0    201  9/28/1991                                   
+f Craig Lefferts              0    0      0    290  9/27/1991                                   
+  Total                                 310   7300                                              

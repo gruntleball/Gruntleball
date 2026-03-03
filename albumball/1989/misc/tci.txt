@@ -1,0 +1,27 @@
+Team Chemistry Index
+
+pythag win diff + (win%*25) +  (win pct last 10 - win pct)*5 + streak factor + random 
+
+where streak factor = (W)*1 or L*-1/ PI  (in a row)
+
+Team	TCI
+Tewksbury Bobs                	24.11
+Butt Mountain Beavis          	21.04
+Cape Canaveral Challengers    	17.66
+Baraboo GoiterMen              	16.47
+Sunnydale Slayers              	16.36
+Ferlin Huskies                	14.91
+Cary Chewdini                  	14.66
+Evanston Endorphins            	14.24
+Grain Belt Premiums            	14.09
+China Trust Whales            	12.54
+Gateway City Perfectos        	12.35
+Ferdinand Magellans            	11.98
+Barcelona Brewers              	11.14
+Area 51 Majestics              	11.05
+Century Atoms                  	6.92
+Cincinnati Reds                	5.26
+Needmore Shebazzle!            	2.27
+Reykjavik 101ers              	-1.59
+
+Need to get a baseline value... which should be 12.5, or 13.0 if you want to use the random.

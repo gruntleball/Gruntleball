@@ -1,0 +1,78 @@
+ALL-STAR Teams
+
+RAMONA and FU MANCHU 
+Rnk Team Player            OPS   RC  RC27
+c)  GCS  Darren Daulton    989  60.7  9.2
+c)  TEW  Jim Leyritz      1162  56.0 14.5
+
+1)  NEP  John Olerud      1061  93.5 11.2
+1)  HOU  Fred McGriff      923  75.0  8.3
+
+2)  CTW  Robby Thompson    998  62.6  9.5
+2)  SFA  Luis Alicea       762  46.5  5.8
+
+3)  RVK  Sean Berry        921  49.7  7.3
+3)  CTW  Wade Boggs        781  42.4  6.1
+
+s)  DLM  Cal Ripken        784  45.1  5.1
+s)  FER  Walt Weiss        786  41.7  6.5
+
+l)  GCS  Rickey Henderson 1032  96.1 11.7
+l)  RVK  Albert Belle      966  72.6  7.5
+
+c)  NEP  Ken Griffey      1018  85.3  8.7
+c)  GCS  Brett Butler      754  51.6  5.5
+
+r)  FER  Barry Bonds      1170 114.2 12.8
+r)  TEW  Greg Vaughn       956  65.3  7.6
+
+                               RCERA  CERA
+    NEP  Danny Darwin           2.22  1.73
+    NEP  Jimmy Key              2.52  2.33
+    NEP  Ben McDonald           2.55  2.41
+    FER  Kevin Appier           2.86  2.56
+    GCS  Jason Bere             3.22  3.10
+
+    CTW  Jim Gott               1.69  1.72
+    NEP  Steve Bedrosian        2.37  1.81
+    SFA  Rick Aguilera          2.16  2.05
+    FER  Greg McMichael         2.78  3.02
+
+
+CZAR and BRACKISH
+Rnk Team Player            OPS    RC RC27
+c)  WTP  Mike Macfarlane   968  47.4  8.2
+c)  HKC  Ivan Rodriguez    774  45.4  4.9
+
+1)  HKC  Frank Thomas     1031 100.9 10.6
+1)  BMB  John Kruk         972  78.9  9.6
+
+2)  WTP  Carlos Baerga     927  75.1  8.3
+2)  BAR  Tony Phillips     811  60.8  6.1
+
+3)  HKC  Dean Palmer      1009  77.1  8.7
+3)  BMB  Matt Williams     799  53.9  5.1
+
+s)  GBP  Jeff Blauser      746  52.8  5.3
+s)  FHK  Wil Cordero       742  43.5  4.8
+
+l)  BMB  Juan Gonzalez    1033  90.0  9.5
+l)  FHK  Ellis Burks       786  52.0  5.1
+
+c)  EVN  Lenny Dykstra     883  71.3  8.4
+c)  GBP  Tim Salmon        901  62.8  6.5
+
+r)  BBG  Tony Gwynn        934  69.7  8.9
+r)  FHK  Dave Justice      855  63.8  6.4
+
+                               RCERA  CERA
+    FDH  Jamie Moyer            3.02  2.97
+    BMB  Greg Maddux            3.22  3.10
+    WTP  David Cone             3.31  3.17
+    CIN  Andy Benes             3.50  3.26
+    FDH  John Burkett           3.45  3.32
+
+    EVN  Roberto Hernandez      2.08  2.05
+    BBG  Mike Jackson           2.35  1.89
+    WTP  Tom Henke              2.39  2.46
+    BAR  Bill Wertz             2.81  2.75

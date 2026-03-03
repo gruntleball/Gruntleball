@@ -1,0 +1,226 @@
+TPL World Series - Game 2
+
+10/23/1990, BRX90-BMB90, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  0  0  0  2  2  0  2  0     6 10  1     6  1
+1990 Beavis            0  0  0  0  0  2  0  2  0     4  4  0     5  1
+
+Baserunning gaffes by Canseco and managerial gaffes by Beavis manager.
+
+Series tied at one game each.
+ 
+
+
+1918s                AB  R  H BI   AVG    Beavis               AB  R  H BI   AVG
+Cole              cf  5  0  1  2  .200    Moseby            cf  2  1  0  0  .200       
+Brett             lf  5  0  0  0  .222    Eisenreich        lf  3  1  1  0  .286       
+ Wilson           lf  0  0  0  0  .250    Sandberg          2b  4  1  0  0  .125       
+Parker            1b  5  1  2  0  .286    McGwire           1b  4  1  2  1  .429       
+Canseco,J         rf  1  1  1  0  .200    Pasqua            rf  2  0  1  2  .167       
+Jacoby            3b  2  1  2  0  .500    Williams          3b  4  0  0  0  .125       
+Whitaker          2b  4  2  1  0  .286    Salas             c   4  0  0  0  .000       
+Bell              ss  4  0  1  1  .167    Guillen           ss  4  0  0  0  .000       
+Macfarlane        c   4  1  2  2  .333    Maddux            p   2  0  0  0  .000       
+Martinez          p   3  0  0  0  .000     Gonzalez         ph  1  0  0  0  .000       
+ Kiecker          p   0  0  0  0  .000     Smith            p   0  0  0  0  .000       
+ Henke            p   0  0  0  0  .000     Gleaton          p   0  0  0  0  .000       
+                     33  6 10  5           Backman          ph  1  0  0  0  .000       
+                                                               31  4  4  3             
+ 
+1918s                            INN  H  R ER BB  K PCH STR   ERA
+Martinez         W 1-0           7.1  3  4  3  5  7 126  76  3.68
+Kiecker                          0.0  1  0  0  0  0   2   1  0.00
+Henke            S 1             1.2  0  0  0  0  3  20  14  0.00
+                                 9.0  4  4  3  5 10 148  91 
+ 
+Beavis                           INN  H  R ER BB  K PCH STR   ERA
+Maddux           L 0-1           7.0  7  4  4  3  2 113  73  5.14
+Smith                            0.0  2  2  2  1  0   8   4 99.00
+Gleaton                          2.0  1  0  0  0  2  31  21  0.00
+                                 9.0 10  6  6  4  4 152  98 
+ 
+BRX: Wilson inserted at lf in the 9th
+BMB: Gonzalez batted for Maddux in the 7th
+     Backman batted for Gleaton in the 9th
+ 
+E-Jacoby. 2B-McGwire 2, Pasqua. CS-Canseco,J 2. K-Parker, Martinez 3, Moseby, 
+Eisenreich, Sandberg 2, McGwire, Pasqua, Williams 2, Salas 2. BB-Canseco,J 3, 
+Jacoby, Moseby 2, Eisenreich, Pasqua 2. SH-Martinez. HBP-Jacoby. HB-Maddux. 
+WP-Martinez. BALK-Martinez. 
+GWRBI: Cole
+Temperature: 57, Sky: partly cloudy, Wind: out to center at 7 MPH.
+
+....................................................................................................
+10/23/1990, BRX90-BMB90, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1990 1918s             0  0  0  0  2  2  0  2  0     6 10  1     6  1
+1990 Beavis            0  0  0  0  0  2  0  2  0     4  4  0     5  1
+ 
+ 
+1918s                -----A------ -----B------ -----C------ -----D------ -----E------
+Cole              cf 1>53           53           note 1       63         9>43        
+Brett             lf   63         4>9            7            8            43        
+ Wilson           lf                                                                 
+Parker            1b   63           3/g        6>S          8>Smith        k         
+                                                              S                      
+Canseco,J         rf 2>S            W            W.1-2        W.1-2                  
+Jacoby            3b   CS2(24)      HBP.1-2      S.2-3;1-2    note 2                 
+                       W                                                             
+Whitaker          2b   46/f.B-1     note 3       note 4       Gleaton                
+                                  5>S                         note 5                 
+Bell              ss   64/f         7            S.3-H        note 6                 
+Macfarlane        c  3>43           S.1-2        8            note 7                 
+Martinez          p    k            note 8     7>k            k                      
+ Kiecker          p                                                                  
+ Henke            p                                                                  
+ 
+ 1: S.3-H;2-H;B-2  2: S/b.2-3;1-2  3: CS3(25).1-2  4: 643/gdp.3-H;2-3 
+ 5: 32/f.2-3;1-2;B-1  6: 12/f.2-3;1-2;B-1  7: S.3-H;2-H;1-2  8: 24/SH.2-3;1-2 
+ 
+ 
+Beavis               -----A------ -----B------ -----C------ -----D------ -----E------
+Moseby            cf 1>43         4>W          6>k          8>W                      
+Eisenreich        lf   63           W.1-2        S            k                      
+Sandberg          2b   5            k            k            bk.1-2                 
+                                                              e5.2-H;B-2             
+McGwire           1b 2>8            note 1       D.1-3        Kiecker                
+                                                              D.2-H                  
+Pasqua            rf   W            IW           D.3-H;2-H    Henke                  
+                                                              k                      
+Williams          3b   543/gdp      k            8            k                      
+Salas             c  3>5/fl       5>k(23)      7>9          9>k                      
+Guillen           ss   8            63           43           5/fl                   
+Maddux            p    7            63                                               
+ Gonzalez         ph                             7                                   
+ Smith            p                                                                  
+ Gleaton          p                                                                  
+ Backman          ph                                          43                     
+ 
+ 1: k+wp.2-3;1-2 
+ 
+ 
+1918s            IN OUT ER                  Beavis           IN OUT ER                  
+Martinez         A1  D3  3 W 1-0            Maddux           A1  D2  4 L 0-1            
+Kiecker          D4  D4  0                  Smith            D3  D5  2                  
+Henke            D5  D9  0 S 1              Gleaton          D6  E3  0                  
+
+
+*** PLAYING TIME REPORT ***
+
+                           Postseason Status -- 1990 Butt Mountain Beavis                           
+                              League championship -- as of 10/23/1990                               
+
+                         vs LHP vs RHP  Total  Inj --------Batters Faced as Catcher-------- 
+S Name                    Usage  Usage  Usage Days 10/2 10/2 10/2 10/2 10/1 10/1 10/1   Cum 
+  Dan Pasqua                  0      2      2    0                                          
+  Mark Salas                  0      3      2    0   39                                  39 
+  Jamie Quirk                 0      3      2    0        34                             34 
+  Lloyd Moseby                0      2      2    0                                          
+  Jim Eisenreich              0      2      1    0                                          
+  Ozzie Guillen               0      2      1    0                                          
+  Mark McGwire                0      2      1    0                                          
+  Matt Williams               0      2      1    0                                          
+  Ryne Sandberg               0      2      1    0                                          
+  Juan Gonzalez               0      1      1    0                                          
+  Wally Backman               0      0      0    0                                          
+f Pat Tabler                  0      0      0    0                                          
+f Terry Steinbach             0      0      0    0                                          
+f Skeeter Barnes              0      0      0    0                                          
+  Stan Javier                 0      0      0    0                                          
+f Hector Villanueva           0      0      0    0                                          
+d Juan Samuel                 0      0      0   12                                          
+  Dale Murphy                 0      0      0    0                                          
+f Warren Cromartie            0      0      0    0                                          
+f Chris James                 0      0      0    0                                          
+  Casey Candaele              0      0      0    0                                          
+f Wes Chamberlain             0      0      0    0                                          
+f Dave Anderson               0      0      0    0                                          
+  Turner Ward                 0      0      0    0                                          
+
+
+
+                                 Inj            ----------Pitches Thrown--------- 
+S Name                    Usage Days       Last  10/23  10/22  10/21  10/20   Cum 
+  Tom Bolton                  0    0                                              
+  Roger Clemens               4    0 10/22/1990          119s                 119 
+  Dennis Eckersley            0    0                                              
+  Wayne Edwards               0    0                                              
+  Willie Fraser               0    0                                              
+f Marvin Freeman              0    0                                              
+  Jerry Don Gleaton           2    0 10/23/1990    31r                         31 
+  Jeff Gray                   0    0                                              
+f Chris Hammond               0    0                                              
+f Ken Hill                    0    0                                              
+f Tim Layana                  0    0                                              
+f Scott Lewis                 0    0                                              
+f Rob MacDonald               0    0                                              
+  Greg Maddux                 3    0 10/23/1990   113s                        113 
+f Jose Melendez               0    0                                              
+f Jim Neidlinger              0    0                                              
+f Steve Ontiveros             0    0                                              
+f Al Osuna                    0    0                                              
+  Dave Smith                  1    0 10/23/1990     8r                          8 
+
+
+
+                             Postseason Status -- 1990 The Bronx 1918s                              
+                              League championship -- as of 10/23/1990                               
+
+                         vs LHP vs RHP  Total  Inj --------Batters Faced as Catcher-------- 
+S Name                    Usage  Usage  Usage Days 10/2 10/2 10/2 10/2 10/1 10/1 10/1   Cum 
+  Alex Cole                   2      2      2    0                                          
+  George Brett                0      2      1    0                                          
+  Lou Whitaker                1      2      1    0                                          
+  Jose Canseco                0      2      1    0                                          
+  Mike Macfarlane             1      2      1    0   36   24                             60 
+  Willie Wilson               0      2      1    0                                          
+  Brook Jacoby                0      2      1    0                                          
+  Dave Parker                 1      1      1    0                                          
+  Jay Bell                    0      1      1    0                                          
+  Cecil Fielder               0      1      1    0                                          
+  R.J. Reynolds               0      1      0    0                                          
+  Carlos Baerga               0      0      0    5                                          
+  Jeff Reed                   0      0      0    0         9                              9 
+f Steve Balboni               0      0      0    0                                          
+  Steve Buechele              0      0      0    0                                          
+f Pete Incaviglia             0      0      0    0                                          
+f Gerald Perry                0      0      0    0                                          
+f Vince Coleman               0      0      0    0                                          
+f Chuck Carr                  0      0      0    0                                          
+f Don Mattingly               0      0      0    0                                          
+f Dan Gladden                 0      0      0    0                                          
+f John Marzano                0      0      0    0                                          
+f John Orton                  0      0      0    0                                          
+f Tom Nieto                   0      0      0    0                                          
+f Mike Benjamin               0      0      0    0                                          
+f Hensley Meulens             0      0      0    0                                          
+f Greg Briley                 0      0      0    0                                          
+f Stan Jefferson              0      0      0    0                                          
+f Donell Nixon                0      0      0    0                                          
+f Tom Foley                   0      0      0    0                                          
+
+
+
+                                 Inj            ----------Pitches Thrown--------- 
+S Name                    Usage Days       Last  10/23  10/22  10/21  10/20   Cum 
+f Don Aase                    0    0                                              
+f Brian Barnes                0    0                                              
+  David Cone                  4    0 10/22/1990          125s                 125 
+  Doug Drabek                 0    0                                              
+f Mike Dunne                  0    0                                              
+  John Franco                 0    0                                              
+f Drew Hall                   0    0                                              
+  Tom Henke                   2    0 10/23/1990    20r                         20 
+f Steve Howe                  0    0                                              
+f Jeff Innis                  0    0                                              
+  Dana Kiecker                0    0 10/23/1990     2r                          2 
+  Bob Kipper                  0    0                                              
+  Terry Leach                 0    0                                              
+f Al Leiter                   0    0                                              
+  Ramon Martinez              3    0 10/23/1990   126s                        126 
+  Chris Nabholz               0    0                                              
+  Ron Robinson                0    0                                              
+f Scott Sanderson             0    0                                              
+  Mike Scott                  0    0                                              

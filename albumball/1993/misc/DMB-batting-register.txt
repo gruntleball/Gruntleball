@@ -1,0 +1,564 @@
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Kurt Abbott              CTW     ss  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Aldrete*                    1b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Luis Alicea#             SFA     2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Roberto Alomar#          HOU     2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Sandy Alomar             TEW     c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Moises Alou              RVK     lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rich Amaral                      2b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ruben Amaro#             CTW     dh  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brady Anderson*          BAR     lf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Garret Anderson*                 lf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eric Anthony*            HOU     lf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Alex Arias               BAR     ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Billy Ashley                     lf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brad Ausmus              GBP     c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Carlos Baerga#           TTP     2b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Bagwell             BBG     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Harold Baines*           GCS     dh  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bret Barberie#           RVK     2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Skeeter Barnes                   lf  37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Bass#                      rf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kim Batiste                      3b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Danny Bautista           SFA     cf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Billy Bean*                      1b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rich Becker#             HOU     cf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Derek Bell                       cf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jay Bell                 TTP     ss  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Juan Bell#                       2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Albert Belle             RVK     lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rafael Belliard                  ss  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Esteban Beltre                   ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Freddie Benavides                2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Benjamin                    ss  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Todd Benzinger#                  1b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Geronimo Berroa          CIN     dh  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Sean Berry               RVK     3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Damon Berryhill#         HOU     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dante Bichette           RVK     rf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Craig Biggio             FER     2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Blauser             GBP     ss  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg Blosser*                    rf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Blowers                     3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Bogar                        1b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Wade Boggs*              CTW     3b  36  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Barry Bonds*             FER     lf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bobby Bonilla#           GBP     3b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bret Boone               FDH     2b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Pat Borders                      c   31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Bordick             FDH     ss  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Daryl Boston*                    dh  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rafael Bournigal                 ss  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jim Bowie*                       1b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darren Bragg*                    dh  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Branson*            HOU     2b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Sid Bream*                       1b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rico Brogna*             BMB     1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Hubie Brooks                     dh  37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Brosius            CEN     3b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jarvis Brown             HOU     cf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jerry Browne#            BAR     3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jacob Brumfield                  cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Brumley#                    2b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Brunansky                    rf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Steve Buechele           TTP     3b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Damon Buford             FDH     lf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jay Buhner               BBG     rf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ellis Burks              FHK     cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeromy Burnitz*          DLM     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brett Butler*            GCS     cf  37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rob Butler*                      cf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ken Caminiti#            CIN     3b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Cangelosi#          FER     lf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Canseco             SFA     dh  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Chuck Carr#                      cf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Carreon             CTW     rf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Matias Carrillo*                 rf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Joe Carter                       rf  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Vinny Castilla           HKC     ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Andujar Cedeno           RVK     ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Domingo Cedeno#                  2b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Wes Chamberlain          CTW     rf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Archi Cianfrocco         HOU     3b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Cirillo                     3b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Clark*                      rf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jerald Clark             HOU     of  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Phil Clark               NEP     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Will Clark*              CTW     1b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Royce Clayton                    ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg Colbrunn            FDH     1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Alex Cole*                       cf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Vince Coleman#                   lf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darnell Coles                    lf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Conine              FDH     lf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Coolbaugh                  1b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Cooper*            TEW     3b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Joey Cora#                       2b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Wil Cordero              FHK     ss  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rod Correia                      2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tripp Cromer                     ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Fausto Cruz                      ss  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Midre Cummings*          FDH     lf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chad Curtis              FDH     cf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Milt Cuyler#             DLM     cf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Dalesandro                  3b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darren Daulton*          GCS     c   32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Butch Davis                      rf  36  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chili Davis#                     dh  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eric Davis               CEN     cf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Russ Davis                       3b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Andre Dawson                     dh  39  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Carlos Delgado*          RVK     lf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Delino DeShields*        NEP     2b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Orestes Destrade#                1b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Devereaux                   cf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Alex Diaz#                       cf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mario Diaz                       3b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gary DiSarcina           GBP     ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Donnels*                   3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brian Dorsett                    c   33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rob Ducey*               BAR     rf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mariano Duncan           HKC     2b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Steve Dunn*                      1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Shawon Dunston           HKC     ss  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lenny Dykstra*           EVN     cf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Damion Easley            GCS     3b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jim Edmonds*             GBP     lf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Robert Eenhoorn                  ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jim Eisenreich*          SFA     rf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Elster             CEN     ss  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Alvaro Espinoza                  ss  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Eusebio             BAR     c   27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Carl Everett#            SFA     rf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jorge Fabregas*                  c   24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rikkert Faneyte                  cf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Felder#                     rf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Junior Felix#                    rf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Felix Fermin                     ss  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Fernandez#          CEN     3b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Cecil Fielder                    1b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Steve Finley*            FER     cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Flaherty            EVN     c   26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darrin Fletcher*         FHK     c   27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Fletcher                   2b  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Cliff Floyd*             DLM     1b  21  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Foley*                       2b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Eric Fox#                        cf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Julio Franco                     dh  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lou Frazier#                     lf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Frye                RVK     2b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Travis Fryman            GBP     3b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gary Gaetti              SFA     3b  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg Gagne                       ss  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Andres Galarraga         TEW     1b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Gallagher                   lf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Gallego             CTW     ss  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ron Gant                 GBP     of  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Carlos Garcia            CEN     2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Gardner*                    3b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brent Gates#                     2b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kirk Gibson*             CTW     dh  37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bernard Gilkey           EVN     lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Joe Girardi              SFA     c   29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jerry Goff*                      c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Gomez              HOU     ss  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Leo Gomez                HOU     3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rene Gonzales                    3b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Alex Gonzalez                    ss  21  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Juan Gonzalez            BMB     lf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Luis Gonzalez*           TEW     lf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Goodwin*             CIN     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Grace*              EVN     1b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Craig Grebeck                    2b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Shawn Green*             CTW     lf  21  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Willie Greene*           FDH     3b  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Greenwell*          EVN     lf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rusty Greer*                     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ken Griffey*             NEP     cf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Marquis Grissom          FHK     cf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ozzie Guillen*                   ss  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ricky Gutierrez                  ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Gwynn*                     lf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Gwynn*              BBG     rf  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chip Hale*               NEP     3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Joe Hall                         lf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bob Hamelin*             BBG     dh  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darryl Hamilton*         TEW     cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeffrey Hammonds         FDH     rf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Todd Haney               NEP     2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Hansen*             CTW     3b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Shawn Hare*                      lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brian Harper                     dh  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lenny Harris*            CIN     3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bill Haselman            CEN     c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Billy Hatcher                    rf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Charlie Hayes                    3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eric Helfand*                    c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Hemond                     c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Henderson                   rf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rickey Henderson         GCS     lf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Carlos Hernandez         TTP     c   27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Hernandez           HKC     ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Glenallen Hill           FER     cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Denny Hocking#           HKC     ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Hoiles             FER     c   29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ray Holbert                      ss  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Hollins#                    3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Howard                     c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+David Howard#            TTP     3b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Thomas Howard#           RVK     lf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dann Howitt*                     rf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kent Hrbek*                      1b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Trent Hubbard                    cf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rex Hudler               FER     2b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Huff                BBG     lf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Hulett               BMB     2b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+David Hulse*             HOU     cf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Todd Hundley#            CEN     c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Brian Hunter                     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brian L. Hunter                  cf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Hyers*                       1b  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Pete Incaviglia                  lf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Garey Ingram                     2b  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Riccardo Ingram                  lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bo Jackson               GBP     lf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chuck Jackson                    3b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darrin Jackson           FDH     rf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Jaha                FER     1b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris James              BBG     rf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Stan Javier#             CEN     cf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gregg Jefferies#         FHK     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Reggie Jefferson#        CEN     dh  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brian Johnson                    c   26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Charles Johnson                  c   22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Erik Johnson                     2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Howard Johnson#          GCS     lf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lance Johnson*           HKC     cf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chipper Jones#           CTW     3b  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Jones                      cf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brian Jordan             EVN     rf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ricky Jordan                     1b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Felix Jose#                      rf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Wally Joyner*                    1b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Justice*            FHK     rf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ron Karkovice            SFA     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eric Karros              GBP     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Kelly                       lf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Pat Kelly                TEW     2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Roberto Kelly            CEN     cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Kent                BBG     2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff King                        3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Kingery*            BBG     cf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Wayne Kirby*                     rf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ryan Klesko*             CEN     lf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chuck Knoblauch          TEW     2b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Randy Knorr              BAR     c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Koslofski*                 rf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chad Kreuter#            CTW     c   29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Kruk*               BMB     1b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Lampkin*             DLM     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ray Lankford*            CIN     cf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Lansing             FHK     2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Barry Larkin             CIN     ss  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike LaValliere*         TTP     c   33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Manuel Lee#                      ss  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Leius              FHK     3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Lemke#                      2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Leonard*                    lf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jesse Levis*                     c   26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darren Lewis             SFA     cf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Lewis               CEN     ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jim Leyritz              TEW     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Lieberthal                  c   22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Lind                DLM     2b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jim Lindeman                     lf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Nelson Liriano#                  2b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Pat Listach#                     ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg Litton                      2b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Livingstone*               3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Keith Lockhart*                  3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kenny Lofton*            BBG     cf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Longmire*           CEN     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Javy Lopez               TEW     c   23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Luis Lopez#                      ss  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Torey Lovullo#                   2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Mabry*                      rf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Macfarlane          TTP     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Quinn Mack*                      lf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Shane Mack               TTP     lf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Magadan*            CEN     3b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Mike Maksudian*                  1b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Candy Maldonado                  dh  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kirt Manwaring                   c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Marsh                        rf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Al Martin*               BMB     lf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Norberto Martin          NEP     2b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Martinez*           CEN     rf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Edgar Martinez           DLM     3b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tino Martinez*           SFA     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Matheny                     c   23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Francisco Matos                  2b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Don Mattingly*                   1b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Derrick May*                     lf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brent Mayne*             HKC     c   26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave McCarty                     1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lloyd McClendon                  lf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ray McDavid*                     lf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Oddibe McDowell*                 rf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Willie McGee#            TTP     rf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Fred McGriff*            HOU     1b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Terry McGriff                    c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark McGwire             BMB     1b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff McKnight#                   1b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark McLemore#           FDH     2b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brian McRae#                     cf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin McReynolds                 lf  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Pat Meares                       ss  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Roberto Mejia            FDH     2b  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bob Melvin               DLM     c   32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Orlando Merced*          NEP     rf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Matt Merullo*                    c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Matt Mieske              CIN     rf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Keith Miller                     lf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Orlando Miller                   ss  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Randy Milligan           FER     1b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Keith Mitchell                   lf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Mitchell           GCS     lf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Paul Molitor             TTP     dh  37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Raul Mondesi             EVN     rf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mickey Morandini*                2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Mordecai#                   ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Russ Morman              HOU     1b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Hal Morris*                      1b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+James Mouton                     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Pedro Munoz                      lf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eddie Murray#                    dh  38  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg Myers*                      c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Naehring             FER     2b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bob Natal                CIN     c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Troy Neel*                       1b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Marc Newfield                    dh  21  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Warren Newson*           GCS     rf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Melvin Nieves#                   lf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Nilsson*            FER     c   24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Otis Nixon#              CIN     cf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Junior Noboa                     2b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Matt Nokes*              CTW     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Charlie O'Brien          CEN     c   34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg O'Halloran*                 c   26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Troy O'Leary*            HOU     rf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Paul O'Neill*            CTW     rf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Offerman#           CIN     ss  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Olerud*             NEP     1b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Oliva                       3b  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Joe Oliver               GBP     c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Oquendo#            FER     ss  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Joe Orsulak*                     rf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Junior Ortiz             DLM     c   34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Luis Ortiz                       dh  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Spike Owen#                      3b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jayhawk Owens                    c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Pagnozzi                     c   31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Rafael Palmeiro*         CIN     1b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dean Palmer              HKC     3b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Erik Pappas                      c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Craig Paquette                   3b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Parent              HOU     c   32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rick Parker                      rf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Derek Parks                      c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lance Parrish            CIN     c   38  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dan Pasqua*                      rf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Patterson#                  2b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bill Pecota                      3b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Steve Pegues                     lf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Geronimo Pena#           FER     2b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Pena                        c   37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Terry Pendleton#                 3b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Will Pennyfeather                lf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eduardo Perez            FDH     1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Robert Perez                     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gerald Perry*            BBG     1b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Herb Perry                       1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Roberto Petagine*                1b  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+J.R. Phillips*                   1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Phillips#           BAR     lf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Piazza              RVK     c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg Pirkl               RVK     1b  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Phil Plantier*                   lf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Luis Polonia*                    lf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Todd Pratt                       c   27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Curtis Pride*            NEP     of  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Prince               HOU     c   29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kirby Puckett            BAR     rf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Harvey Pulliam           BMB     of  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eddie Pye                        ss  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tom Quinlan                      3b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Raines#              CTW     lf  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Manny Ramirez            CEN     rf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Randy Ready              CTW     2b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Reboulet            CEN     ss  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gary Redus                       cf  37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Reed*               FDH     c   31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jody Reed                        2b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rich Renteria                    3b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Harold Reynolds#                 2b  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Karl Rhodes*                     cf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Billy Ripken                     3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Cal Ripken               DLM     ss  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Luis Rivera              DLM     ss  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Roberson#                  rf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bip Roberts#             CIN     2b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Alex Rodriguez                   ss  18  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Carlos Rodriguez#                ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Henry Rodriguez*                 lf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ivan Rodriguez           HKC     c   22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rich Rowland                     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Stan Royer                       3b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Sabo               GCS     3b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Olmedo Saenz                     3b  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Salmon               GBP     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Juan Samuel              BBG     cf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rey Sanchez              BBG     2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ryne Sandberg            BMB     2b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Deion Sanders*           TTP     cf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Reggie Sanders           TEW     rf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Benito Santiago          FDH     c   29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mackey Sasser*                   lf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Steve Sax                        2b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Steve Scarsone           SFA     2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Schaefer                    3b  34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dick Schofield                   ss  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+David Segui#             FDH     1b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Seitzer            FER     3b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Servais            EVN     c   27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Danny Sheaffer                   c   32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gary Sheffield           NEP     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Craig Shipley            BBG     3b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Terry Shumpert           SFA     2b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ruben Sierra#            HKC     rf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Silvestri                   2b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Simms               BBG     rf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Duane Singleton*                 cf  21  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Don Slaught              EVN     c   35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dwight Smith*                    lf  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lonnie Smith             NEP     dh  38  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Smith                       rf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ozzie Smith#             BAR     ss  39  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+J.T. Snow#               SFA     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Cory Snyder              HOU     lf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Luis Sojo                GBP     2b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Paul Sorrento*                   1b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Sammy Sosa               RVK     rf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Spehr                        c   27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bill Spiers*             CEN     3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ed Sprague                       3b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Scott Stahoviak*         CIN     1b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Matt Stairs*             GBP     of  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Andy Stankiewicz                 ss  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mike Stanley             BBG     c   31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Staton                      1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Terry Steinbach          BMB     c   32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kelly Stinnett                   c   24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Stocker#           GCS     ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Doug Strange#                    2b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darryl Strawberry*               rf  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+B.J. Surhoff*            BAR     3b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dale Sveum#              FER     dh  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Tackett             HOU     c   28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Tarasco*            CIN     lf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Danny Tartabull          NEP     dh  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eddie Taubensee*         CIN     c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jesus Tavarez#                   rf  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mickey Tettleton#        CIN     c   33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Frank Thomas             HKC     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jim Thome*               FHK     3b  23  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Milt Thompson*                   lf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Robby Thompson           CTW     2b  32  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ryan Thompson                    cf  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ron Tingley                      c   35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lee Tinsley#                     lf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Andy Tomberlin*          GCS     rf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Alan Trammell            EVN     ss  36  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jeff Treadway*           GCS     2b  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Brian Turang                     lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Chris Turner                     c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Valentin            BMB     ss  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Valentin#           NEP     ss  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Valle                       c   33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ty Van Burkleo*                  1b  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Andy Van Slyke*          GCS     cf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Vander Wal*                 1b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gary Varsho*                     lf  33  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Greg Vaughn              TEW     lf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mo Vaughn*               BAR     1b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Randy Velarde            FER     ss  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Robin Ventura*           BAR     3b  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Fernando Vina*           EVN     3b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jose Vizcaino#                   ss  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Omar Vizquel#            SFA     ss  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jack Voigt               NEP     rf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Matt Walbeck#            FHK     c   24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Larry Walker*            HKC     rf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tim Wallach              BBG     3b  36  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jerome Walton            CTW     1b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Turner Ward#             HKC     cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lenny Webster            RVK     c   29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+                          DMB batting register -- All players in database                           
+                                           Regular season                                           
+
+Name                     Team     P Age   AVG   OBP   SPC  AB   H  2B  3B  HR   R RBI HBP  BB   K  SB  CS 
+Mitch Webster#           HOU     lf  35  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eric Wedge                       dh  26  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+John Wehner              BAR     3b  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Walt Weiss#              FER     ss  30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Lou Whitaker*            NEP     2b  37  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Devon White#             BAR     cf  31  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rondell White            SFA     lf  22  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Mark Whiten#             BMB     rf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Darrell Whitmore*                lf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rick Wilkins*            NEP     c   27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Jerry Willard*                   c   34  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bernie Williams#         CEN     cf  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eddie Williams           CIN     1b  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gerald Williams          FER     lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Matt Williams            BMB     3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dan Wilson               CEN     c   25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Willie Wilson#                   cf  38  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Dave Winfield                    dh  42  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Tony Womack*             CIN     2b  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Rick Wrona               FHK     c   30  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eric Young               RVK     lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Ernie Young                      lf  24  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Gerald Young#                    cf  29  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Kevin Young              FDH     3b  25  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Eddie Zambrano           BBG     rf  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Todd Zeile               FHK     3b  28  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+Bob Zupcic                       lf  27  .000  .000  .000   0   0   0   0   0   0   0   0   0   0   0   0 
+

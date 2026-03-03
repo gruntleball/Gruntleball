@@ -1,0 +1,843 @@
+queens of the stone age, daily
+ROUND ONE OF PLAYOFFS
+Game 1 - 09/28/98
+
+http://chinatrust.googlepages.com/
+
+-------------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+-------------------------------------------------------------------------------------------------------
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+9/15/1998  TEW     Buford           General             10/15/1998   30   17 
+
+-------------------------------------------------------------------------------------------------------
+TRANSACTIONS
+-------------------------------------------------------------------------------------------------------
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/28/1998  CEN     Arrojo              Demoted to reserve roster                          Before   
+9/28/1998  CEN     Bartee              Demoted to reserve roster                          Before   
+9/28/1998  CEN     Blowers             Demoted to reserve roster                          Before   
+9/28/1998  CEN     Bush                Promoted to active roster                          Before   
+9/28/1998  CEN     Christiansen        Promoted to active roster                          Before   
+9/28/1998  CEN     Cora,A              Demoted to reserve roster                          Before   
+9/28/1998  CEN     DeLucia             Demoted to reserve roster                          Before   
+9/28/1998  CEN     Fernandez           Promoted to active roster                          Before   
+9/28/1998  CEN     Howell              Demoted to reserve roster                          Before   
+9/28/1998  CEN     Howry               Promoted to active roster                          Before   
+9/28/1998  CEN     Kreuter             Demoted to reserve roster                          Before   
+9/28/1998  CEN     Magadan             Promoted to active roster                          Before   
+9/28/1998  CEN     Myers,G             Promoted to active roster                          Before   
+9/28/1998  CEN     Osuna               Demoted to reserve roster                          Before   
+9/28/1998  CEN     Phillips            Demoted to reserve roster                          Before   
+9/28/1998  CEN     Radke               Promoted to active roster                          Before   
+9/28/1998  CEN     Simon               Demoted to reserve roster                          Before   
+9/28/1998  CEN     Stanley             Demoted to reserve roster                          Before   
+9/28/1998  CEN     Thomson             Demoted to reserve roster                          Before   
+9/28/1998  CEN     Vizcaino            Demoted to reserve roster                          Before   
+9/28/1998  CEN     Wetteland           Promoted to active roster                          Before   
+9/28/1998  CEN     White,Ri            Promoted to active roster                          Before   
+9/28/1998  CEN     Williams,B          Promoted to active roster                          Before   
+9/28/1998  DLM     Amaral              Demoted to reserve roster                          Before   
+9/28/1998  DLM     Bergman             Demoted to reserve roster                          Before   
+9/28/1998  DLM     Cone                Promoted to active roster                          Before   
+9/28/1998  DLM     Febles              Demoted to reserve roster                          Before   
+9/28/1998  DLM     Guillen,O           Demoted to reserve roster                          Before   
+9/28/1998  DLM     Harnisch            Promoted to active roster                          Before   
+9/28/1998  DLM     Hasegawa            Demoted to reserve roster                          Before   
+9/28/1998  DLM     Jackson             Promoted to active roster                          Before   
+9/28/1998  DLM     Lopez               Demoted to reserve roster                          Before   
+9/28/1998  DLM     Magee               Demoted to reserve roster                          Before   
+9/28/1998  DLM     Martinez,S          Demoted to reserve roster                          Before   
+9/28/1998  DLM     McElroy             Demoted to reserve roster                          Before   
+9/28/1998  DLM     Mills               Demoted to reserve roster                          Before   
+9/28/1998  DLM     Offerman            Promoted to active roster                          Before   
+9/28/1998  DLM     Perez,Edd           Promoted to active roster                          Before   
+9/28/1998  DLM     Petagine            Promoted to active roster                          Before   
+9/28/1998  DLM     Reboulet            Demoted to reserve roster                          Before   
+9/28/1998  DLM     Reed                Promoted to active roster                          Before   
+9/28/1998  DLM     Rivera              Demoted to reserve roster                          Before   
+9/28/1998  DLM     Santana             Demoted to reserve roster                          Before   
+9/28/1998  DLM     Simms               Promoted to active roster                          Before   
+9/28/1998  DLM     Stinnett            Demoted to reserve roster                          Before   
+9/28/1998  DLM     Strawberry          Promoted to active roster                          Before   
+9/28/1998  DLM     Williams,Mi         Promoted to active roster                          Before   
+9/28/1998  DLM     Williams,R          Demoted to reserve roster                          Before   
+9/28/1998  DLM     Wilson,C            Promoted to active roster                          Before   
+9/28/1998  DLM     Wilson,D            Demoted to reserve roster                          Before   
+9/28/1998  EVN     Arias               Promoted to active roster                          Before   
+9/28/1998  EVN     Baughman            Demoted to reserve roster                          Before   
+9/28/1998  EVN     Brogna              Demoted to reserve roster                          Before   
+9/28/1998  EVN     Collier             Demoted to reserve roster                          Before   
+9/28/1998  EVN     Crabtree            Demoted to reserve roster                          Before   
+9/28/1998  EVN     Daal                Promoted to active roster                          Before   
+9/28/1998  EVN     Hermanson           Demoted to reserve roster                          Before   
+9/28/1998  EVN     Hernandez,R         Promoted to active roster                          Before   
+9/28/1998  EVN     Hudek               Demoted to reserve roster                          Before   
+9/28/1998  EVN     Irabu               Demoted to reserve roster                          Before   
+9/28/1998  EVN     Jordan              Promoted to active roster                          Before   
+9/28/1998  EVN     Macfarlane          Demoted to reserve roster                          Before   
+9/28/1998  EVN     Mulholland          Promoted to active roster                          Before   
+9/28/1998  EVN     Perez,C             Demoted to reserve roster                          Before   
+9/28/1998  EVN     Randa               Demoted to reserve roster                          Before   
+9/28/1998  EVN     Veres               Promoted to active roster                          Before   
+9/28/1998  EVN     Woodard             Demoted to reserve roster                          Before   
+9/28/1998  TAR     Allensworth         Demoted to reserve roster                          Before   
+9/28/1998  TAR     Alou                Promoted to active roster                          Before   
+9/28/1998  TAR     Anderson,B          Demoted to reserve roster                          Before   
+9/28/1998  TAR     Aybar               Demoted to reserve roster                          Before   
+9/28/1998  TAR     Boggs               Demoted to reserve roster                          Before   
+9/28/1998  TAR     Bohanon             Promoted to active roster                          Before   
+9/28/1998  TAR     Bones               Promoted to active roster                          Before   
+9/28/1998  TAR     Carter              Demoted to reserve roster                          Before   
+9/28/1998  TAR     Crow                Demoted to reserve roster                          Before   
+9/28/1998  TAR     Darensbourg         Promoted to active roster                          Before   
+9/28/1998  TAR     DeShields           Promoted to active roster                          Before   
+9/28/1998  TAR     Eckersley           Demoted to reserve roster                          Before   
+9/28/1998  TAR     Edmondson           Demoted to reserve roster                          Before   
+9/28/1998  TAR     Embree              Demoted to reserve roster                          Before   
+9/28/1998  TAR     Franco,J            Demoted to reserve roster                          Before   
+9/28/1998  TAR     Franco,M            Demoted to reserve roster                          Before   
+9/28/1998  TAR     Hamelin             Demoted to reserve roster                          Before   
+9/28/1998  TAR     Hampton             Demoted to reserve roster                          Before   
+9/28/1998  TAR     Haselman            Promoted to active roster                          Before   
+9/28/1998  TAR     Hill                Demoted to reserve roster                          Before   
+9/28/1998  TAR     Loaiza              Demoted to reserve roster                          Before   
+9/28/1998  TAR     Luke                Demoted to reserve roster                          Before   
+9/28/1998  TAR     Marzano             Promoted to active roster                          Before   
+9/28/1998  TAR     Matheny             Demoted to reserve roster                          Before   
+9/28/1998  TAR     Pisciotta           Demoted to reserve roster                          Before   
+9/28/1998  TAR     Polcovich           Demoted to reserve roster                          Before   
+9/28/1998  TAR     Pride               Demoted to reserve roster                          Before   
+9/28/1998  TAR     Shaw                Promoted to active roster                          Before   
+9/28/1998  TAR     Simas               Promoted to active roster                          Before   
+9/28/1998  TAR     Steinbach           Demoted to reserve roster                          Before   
+9/28/1998  TAR     Suzuki              Demoted to reserve roster                          Before   
+9/28/1998  TAR     Telemaco            Demoted to reserve roster                          Before   
+9/28/1998  TAR     White,Ro            Promoted to active roster                          Before   
+
+-------------------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------------------
+
+STORY - David Wells pitches pretty well, but two of the three hits he surrendered
+        left the premises.
+
+9/28/1998, CEN98-DLM98, The Ballpark in Arlington
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1998 Atoms             0  1  0  0  0  0  1  0  0     2 10  0     8  0
+1998 Messiahs          1  0  1  0  0  0  0  2  x     4  6  1     2  2
+ 
+Atoms                AB  R  H BI   AVG    Messiahs             AB  R  H BI   AVG
+Bush              2b  5  0  1  0  .200    Offerman          2b  4  0  0  0  .000
+Belle             lf  3  0  1  1  .333    Brosius           3b  4  1  2  1  .500
+Williams,B        cf  4  0  3  0  .750    Martinez,E        1b  4  0  0  0  .000
+Galarraga         1b  4  0  0  0  .000     Jackson          p   0  0  0  0  .000
+Ramirez,M         rf  4  0  0  0  .000    Simms             rf  3  0  0  0  .000
+Gomez             ss  3  1  1  0  .333    Vaughn,G          cf  3  0  0  0  .000
+ Klesko           ph  1  0  0  0  .000    Gant              lf  3  0  0  0  .000
+ Benjamin         2b  0  0  0  0  .000    Reed              c   3  1  1  0  .333
+Myers,G           c   4  1  2  1  .500    Greene,W          ss  2  1  1  1  .500
+Magadan           3b  4  0  1  0  .250     Wilson,C         ph  1  1  1  0 1.000
+Wells,D           p   2  0  1  0  .500    Maddux,G          p   2  0  0  0  .000
+ Whiten           ph  1  0  0  0  .000     Perez,Edd        ph  1  0  1  2 1.000
+ Christiansen     p   0  0  0  0  .000     Petagine         1b  0  0  0  0  .000
+ Clark,T          ph  0  0  0  0  .000                         30  4  6  4
+                     35  2 10  2
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Wells,D                          6.0  3  2  2  0  6  67  47  3.00
+Christiansen     L 0-1           2.0  3  2  2  0  4  36  22  9.00
+                                 8.0  6  4  4  0 10 103  69 
+ 
+Messiahs                         INN  H  R ER BB  K PCH STR   ERA
+Maddux,G         W 1-0           8.0 10  2  2  0  4 115  78  2.25
+Jackson          S 1             1.0  0  0  0  1  0   9   4  0.00
+                                 9.0 10  2  2  1  4 124  82 
+ 
+CEN: Whiten batted for Wells,D in the 7th
+     Klesko batted for Gomez in the 8th
+     Benjamin inserted at 2b in the 8th
+     Bush moved to ss in the 8th
+     Clark,T batted for Christiansen in the 9th
+DLM: Wilson,C batted for Greene,W in the 8th
+     Perez,Edd batted for Maddux,G in the 8th
+     Petagine inserted at 1b in the 9th
+     Wilson,C moved to ss in the 9th
+ 
+E-Gant. 2B-Williams,B, Gomez, Wilson,C, Perez,Edd. HR-Brosius(1), 
+Greene,W(1). K-Bush, Galarraga, Wells,D, Whiten, Offerman, Brosius 2, 
+Martinez,E 2, Vaughn,G, Gant 2, Reed, Greene,W. BB-Clark,T. SF-Belle. 
+GWRBI: Perez,Edd
+Temperature: 79, Sky: clear, Wind: in from right at 15 MPH.
+
+....................................................................................................
+9/28/1998, CEN98-DLM98, The Ballpark in Arlington
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1998 Atoms             0  1  0  0  0  0  1  0  0     2 10  0     8  0
+1998 Messiahs          1  0  1  0  0  0  0  2  x     4  6  1     2  2
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Bush              2b 1>k            53           54/f.B-1     S.2-3;1-2    363/gdp   
+Belle             lf   63           S            64/f         7/SF.3-H               
+Williams,B        cf   S            S.1-3      6>D            note 1                 
+Galarraga         1b   8            9            k            3/g                    
+Ramirez,M         rf 2>9          4>7            7.2-3      8>8                      
+Gomez             ss   D            3/g          8                                   
+ Klesko           ph                                          13                     
+ Benjamin         2b                                                                 
+Myers,G           c    S.2-H        9          7>S            7                      
+Magadan           3b   463/gdp    5>7            S.1-2      9>Jackson                
+                                                              63                     
+Wells,D           p  3>k            S                                                
+ Whiten           ph                             k                                   
+ Christiansen     p                                                                  
+ Clark,T          ph                                          W                      
+ 
+ 1: e7.2-3;1-2;B-1 
+ 
+ 
+Messiahs             -----A------ -----B------ -----C------ -----D------ -----E------
+Offerman          2b 1>43           k            3/g          8                      
+Brosius           3b   HR           k            S            k                      
+Martinez,E        1b   3/fl       4>k            13           k                      
+ Jackson          p                                                                  
+Simms             rf   5            4          7>note 1                              
+                                                 5                                   
+Vaughn,G          cf 2>63           5/L          k                                   
+Gant              lf   8          5>k            k(23)                               
+Reed              c    53           k          8>S                                   
+Greene,W          ss 3>HR           k                                                
+ Wilson,C         ph                             D.1-3                               
+Maddux,G          p    53         6>7                                                
+ Perez,Edd        ph                             D.3-H;2-H                           
+ Petagine         1b                                                                 
+ 
+ 1: Christiansen 
+ 
+ 
+Atoms            IN OUT ER                  Messiahs         IN OUT ER                  
+Wells,D          A1  C3  2                  Maddux,G         A1  D7  2 W 1-0            
+Christiansen     C4  D3  2 L 0-1            Jackson          D8  E1  0 S 1              
+
+....................................................................................................
+9/28/1998, CEN98-DLM98, The Ballpark in Arlington
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1998 Atoms             0  1  0  0  0  0  1  0  0     2 10  0     8  0
+1998 Messiahs          1  0  1  0  0  0  0  2  x     4  6  1     2  2
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Atoms batting
+ 0-0  0 --- 12  Bush struck out (CCBS)
+ 0-0  1 --- 11  Belle grounded out to short (BCX)
+ 0-0  2 --- 20  Williams,B grounded a single up the middle (BBX)
+ 0-0  2 1-- 01  Galarraga flied out to center (CX)
+ 
+**************  Bottom of the 1st inning, Messiahs batting
+ 0-0  0 --- 22  Offerman grounded out to second (BBCFX)
+ 0-0  1 --- 00  Brosius homered deep down the left-field line (X)
+ 0-1  1 --- 22  Martinez,E popped out to first (BCBFX)
+ 0-1  2 --- 31  Simms popped out to third (BBCBX)
+ 
+**************  Top of the 2nd inning, Atoms batting
+ 0-1  0 --- 10  Ramirez,M flied out to right (BX)
+ 0-1  1 --- 21  Gomez lined a double down the left field line (BFBX)
+ 0-1  1 -2- 22  Myers,G grounded a single between third and short, Gomez 
+                  scored (SBBCX)
+ 1-1  1 1-- 10  Magadan grounded into a double play, Offerman to Greene,W 
+                  to Martinez,E (B1X)
+ 
+**************  Bottom of the 2nd inning, Messiahs batting
+ 1-1  0 --- 20  Vaughn,G grounded out to short (BBX)
+ 1-1  1 --- 00  Gant lined out to center (X)
+ 1-1  2 --- 11  Reed grounded out to third (CBX)
+ 
+**************  Top of the 3rd inning, Atoms batting
+ 1-1  0 --- 02  Wells,D struck out (CSC)
+ 1-1  1 --- 12  Bush grounded out to third (FFBX)
+ 1-1  2 --- 12  Belle lined a single to shallow left (CSBX)
+ 1-1  2 1-- 10  Williams,B singled down the right field line, Belle to 
+                  third (BX)
+ 1-1  2 1-3 10  Galarraga lined out to right (BX)
+ 
+**************  Bottom of the 3rd inning, Messiahs batting
+ 1-1  0 --- 00  Greene,W homered deep down the right field line (X)
+ 1-2  0 --- 00  Maddux,G grounded out to third (X)
+ 1-2  1 --- 32  Offerman struck out (BCCBBS)
+ 1-2  2 --- 02  Brosius struck out (CCFS)
+ 
+**************  Top of the 4th inning, Atoms batting
+ 1-2  0 --- 10  Ramirez,M flied out to left (BX)
+ 1-2  1 --- 00  Gomez grounded out to first (X)
+ 1-2  2 --- 00  Myers,G flied out to right (X)
+ 
+**************  Bottom of the 4th inning, Messiahs batting
+ 1-2  0 --- 02  Martinez,E struck out (CSS)
+ 1-2  1 --- 12  Simms popped out to second (BSFX)
+ 1-2  2 --- 11  Vaughn,G lined out to third (BSX)
+ 
+**************  Top of the 5th inning, Atoms batting
+ 1-2  0 --- 22  Magadan flied out to left (CBBFX)
+ 1-2  1 --- 02  Wells,D lined a single to right center (SFFFX)
+ 1-2  1 1-- 11  Bush grounded to third, forcing Wells,D at second, Bush 
+                  to first (CBX)
+ 1-2  2 1-- 01  Belle grounded to short, forcing Bush at second (CX)
+ 
+**************  Bottom of the 5th inning, Messiahs batting
+ 1-2  0 --- 12  Gant struck out (FBSS)
+ 1-2  1 --- 02  Reed struck out (CCFFS)
+ 1-2  2 --- 12  Greene,W struck out (CCBS)
+ 
+**************  Top of the 6th inning, Atoms batting
+ 1-2  0 --- 02  Williams,B doubled deep to right (FFX)
+ 1-2  0 -2- 12  Galarraga struck out (BCCS)
+ 1-2  1 -2- 12  Ramirez,M flied out to left, Williams,B to third (CCBX)
+ 1-2  2 --3 32  Gomez flied out to center (BFBSBX)
+ 
+**************  Bottom of the 6th inning, Messiahs batting
+ 1-2  0 --- 00  Maddux,G flied out to left (X)
+ 1-2  1 --- 00  Offerman grounded out to first (X)
+ 1-2  2 --- 11  Brosius grounded a single up the middle (BSX)
+ 1-2  2 1-- 21  Martinez,E grounded out to the mound (BFBX)
+ 
+**************  Top of the 7th inning, Atoms batting
+ 1-2  0 --- 31  Myers,G lined a single to shallow center (FBBBX)
+ 1-2  0 1-- 22  Magadan lined a single to shallow center, Myers,G to 
+                  second (CFBFFFFBX)
+                Whiten pinch hitting for Wells,D
+ 1-2  0 12- 12  Whiten struck out (BCSS)
+ 1-2  1 12- 22  Bush lined a single to shallow left, Myers,G to third, 
+                  Magadan to second (BBCSX)
+ 1-2  1 123 10  Belle hit a sacrifice fly to left, Myers,G scored (BX)
+ 2-2  2 12- 00  Magadan to third, Bush to second, Williams,B to first on 
+                  an error by the left fielder Gant (X)
+ 2-2  2 123 01  Galarraga grounded out to first (CX)
+ 
+**************  Bottom of the 7th inning, Messiahs batting
+                Christiansen now pitching
+ 2-2  0 --- 01  Simms popped out to third (CX)
+ 2-2  1 --- 12  Vaughn,G struck out (CBFC)
+ 2-2  2 --- 32  Gant struck out, Myers,G to Galarraga (CBBBFS)
+ 
+**************  Top of the 8th inning, Atoms batting
+ 2-2  0 --- 10  Ramirez,M lined out to center (BX)
+                Klesko pinch hitting for Gomez
+ 2-2  1 --- 22  Klesko grounded out to the mound (BSSBX)
+ 2-2  2 --- 21  Myers,G flied out to left (CBBX)
+ 
+**************  Bottom of the 8th inning, Messiahs batting
+                Benjamin now playing second base
+                Bush moved to shortstop
+ 2-2  0 --- 01  Reed reached on an infield single to first (CX)
+                Wilson,C pinch hitting for Greene,W
+ 2-2  0 1-- 01  Wilson,C doubled deep to right center, Reed to third (SbX)
+                Perez,Edd pinch hitting for Maddux,G
+ 2-2  0 -23 11  Perez,Edd grounded a double down the first base line, 
+                  Reed scored, Wilson,C scored (FBX)
+ 2-4  0 -2- 31  Offerman flied out to center (BSBBX)
+ 2-4  1 -2- 32  Brosius struck out (BBCBFS)
+ 2-4  2 -2- 32  Martinez,E struck out (BCBBFC)
+ 
+**************  Top of the 9th inning, Atoms batting
+                Petagine now playing first base
+                Jackson now pitching
+                Wilson,C moved to shortstop
+ 2-4  0 --- 12  Magadan grounded out to short (CBFX)
+                Clark,T pinch hitting for Christiansen
+ 2-4  1 --- 30  Clark,T walked (BBBB)
+ 2-4  1 1-- 00  Bush grounded into a double play, Petagine to Wilson,C to 
+                  Petagine (X)
+
+
+
+STORY - Juan Gonzalez ties the game with a blast in the 9th.  Fernando Vina singles
+        home BJ Surhoff in the bottom of the inning with his second run of the game.
+
+9/28/1998, TAR98-EVN98, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1998 Goobers           0  0  1  0  0  0  0  0  1     2  5  1     4  2
+1998 Endorphins        0  0  0  1  0  0  1  0  1     3 10  1     9  1
+ 
+Goobers              AB  R  H BI   AVG    Endorphins           AB  R  H BI   AVG
+Alicea            2b  4  0  0  1  .000    Vina              2b  4  0  1  1  .250
+Jeter             ss  3  0  1  0  .333    Weiss             ss  4  0  2  0  .500
+Alou              lf  4  0  0  0  .000     Veres            p   0  0  0  0  .000
+Gonzalez,Ju       rf  4  1  1  1  .250     Hernandez,R      p   0  0  0  0  .000
+White,Ro          cf  4  0  0  0  .000    Grace             1b  3  1  0  0  .000
+Clark,W           1b  4  0  0  0  .000    Jordan            cf  4  0  2  0  .500
+Haselman          c   3  1  2  0  .667    Mondesi           rf  4  0  0  0  .000
+Fryman            3b  3  0  1  0  .333    Kendall           c   4  0  1  1  .250
+Morris            p   1  0  0  0  .000    Surhoff           lf  3  2  1  0  .333
+ Martinez,T       ph  1  0  0  0  .000    Cirillo           3b  3  0  1  0  .333
+ Miceli           p   0  0  0  0  .000    Daal              p   2  0  1  0  .500
+ Darensbourg      p   0  0  0  0  .000     Easley           ph  1  0  1  1 1.000
+                     31  2  5  2           Clayton          ss  0  0  0  0  .000
+                                           Bragg            ph  1  0  0  0  .000
+                                                               33  3 10  3
+ 
+Goobers                          INN  H  R ER BB  K PCH STR   ERA
+Morris                           7.0  6  2  1  4  3 102  61  1.29
+Miceli           L 0-1           1.0  3  1  1  0  2  12  11  9.00
+Darensbourg                      0.1  1  0  0  0  1  12   9  0.00
+                                 8.1 10  3  2  4  6 126  81 
+ 
+Endorphins                       INN  H  R ER BB  K PCH STR   ERA
+Daal                             7.0  4  1  1  1  3  97  65  1.29
+Veres            H 1             1.0  0  0  0  0  0  13   8  0.00
+Hernandez,R      BS 1, W 1-0     1.0  1  1  1  0  1  15   9  9.00
+                                 9.0  5  2  2  1  4 125  82 
+ 
+TAR: Martinez,T batted for Morris in the 8th
+EVN: Easley batted for Daal in the 7th
+     Clayton inserted at ss in the 8th
+     Bragg batted for Clayton in the 9th
+ 
+E-Jeter, Grace. 2B-Daal. HR-Gonzalez,Ju(1). K-Gonzalez,Ju 2, White,Ro, 
+Morris, Weiss, Mondesi 2, Kendall, Daal, Bragg. BB-Jeter, Vina, Grace, 
+Surhoff, Cirillo. SH-Morris. 
+GWRBI: Vina
+Temperature: 64, Sky: partly cloudy, Wind: right to left at 13 MPH.
+
+....................................................................................................
+9/28/1998, TAR98-EVN98, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1998 Goobers           0  0  1  0  0  0  0  0  1     2  5  1     4  2
+1998 Endorphins        0  0  0  1  0  0  1  0  1     3 10  1     9  1
+ 
+ 
+Goobers              -----A------ -----B------ -----C------ -----D------ -----E------
+Alicea            2b 1>43           63.3-H     6>9            63                     
+Jeter             ss   S            2/fl         W            63                     
+Alou              lf   143/gdp    4>53           8          9>note 1                 
+                                                              63                     
+Gonzalez,Ju       rf 2>43           k            k            HR                     
+White,Ro          cf   53           4/L        7>63           k                      
+Clark,W           1b   53         5>31           8            43                     
+Haselman          c  3>S            e3.B-1       S                                   
+Fryman            3b   S.1-2        9            9                                   
+Morris            p    note 2       k          8>Veres                               
+ Martinez,T       ph                             43                                  
+ Miceli           p                                                                  
+ Darensbourg      p                                                                  
+ 
+ 1: Hernandez,R  2: 3/SH.2-3;1-2 
+ 
+ 
+Endorphins           -----A------ -----B------ -----C------ -----D------ -----E------
+Vina              2b 1>5            W          5>8            46/f.B-1     S.3-H;1-2 
+Weiss             ss   S            54/f         k            S.1-3                  
+ Veres            p                                                                  
+ Hernandez,R      p                                                                  
+Grace             1b   543/gdp    4>W            4            54/f                   
+Jordan            cf 2>8            S.1-2      6>7          8>Miceli                 
+                                                              S.Bx2(84)              
+Mondesi           rf   13           note 1       k            k                      
+Kendall           c    53           S.3-H        63           k                      
+Surhoff           lf 3>9            W.1-2      7>e6.B-2     9>S                      
+Cirillo           3b   63           W.2-3;1-2    8.2-3        S.1-3                  
+Daal              p    D            k                                                
+ Easley           ph                             S.3-H                               
+ Clayton          ss                                                                 
+ Bragg            ph                                          note 2                 
+                                                              k                      
+ 
+ 1: 463/gdp.2-3  2: Darensbourg 
+ 
+ 
+Goobers          IN OUT ER                  Endorphins       IN OUT ER                  
+Morris           A1  D3  1                  Daal             A1  C8  1                  
+Miceli           D4  D8  1 L 0-1            Veres            C9  D2  0 H 1              
+Darensbourg      D9  E1  0                  Hernandez,R      D3  D6  1 BS 1, W 1-0      
+
+....................................................................................................
+9/28/1998, TAR98-EVN98, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1998 Goobers           0  0  1  0  0  0  0  0  1     2  5  1     4  2
+1998 Endorphins        0  0  0  1  0  0  1  0  1     3 10  1     9  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Goobers batting
+ 0-0  0 --- 22  Alicea grounded out to second (CBCBX)
+ 0-0  1 --- 11  Jeter lined a single to right center (BFX)
+ 0-0  1 1-- 01  Alou grounded into a double play, Daal to Vina to Grace 
+                  (FX)
+ 
+**************  Bottom of the 1st inning, Endorphins batting
+ 0-0  0 --- 10  Vina popped out to third (BX)
+ 0-0  1 --- 00  Weiss lined a single to shallow center (X)
+ 0-0  1 1-- 10  Grace grounded into a double play, Fryman to Alicea to 
+                  Clark,W (B+1X)
+ 
+**************  Top of the 2nd inning, Goobers batting
+ 0-0  0 --- 10  Gonzalez,Ju grounded out to second (BX)
+ 0-0  1 --- 22  White,Ro grounded out to third (CBBSFX)
+ 0-0  2 --- 22  Clark,W grounded out to third (BCBSX)
+ 
+**************  Bottom of the 2nd inning, Endorphins batting
+ 0-0  0 --- 21  Jordan flied out to center (BFBX)
+ 0-0  1 --- 11  Mondesi grounded out to the mound (BSX)
+ 0-0  2 --- 02  Kendall grounded out to third (CFX)
+ 
+**************  Top of the 3rd inning, Goobers batting
+ 0-0  0 --- 00  Haselman lined a single to shallow center (X)
+ 0-0  0 1-- 11  Fryman lined a single to left, Haselman to second (BSX)
+ 0-0  0 12- 00  Morris sacrifice bunted to first, Haselman to third, 
+                  Fryman to second (Xb)
+ 0-0  1 -23 22  Alicea grounded out to short, Haselman scored (BCFBFFX)
+ 1-0  2 -2- 10  Jeter popped out to the catcher (BX)
+ 
+**************  Bottom of the 3rd inning, Endorphins batting
+ 1-0  0 --- 01  Surhoff flied out to right (CX)
+ 1-0  1 --- 22  Cirillo grounded out to short (BFSBFFX)
+ 1-0  2 --- 21  Daal grounded a double down the third base line (CBBX)
+ 1-0  2 -2- 31  Vina walked (BFBBB)
+ 1-0  2 12- 01  Weiss grounded to third, forcing Vina at second (FX)
+ 
+**************  Top of the 4th inning, Goobers batting
+ 1-0  0 --- 32  Alou grounded out to third (FBBFBX)
+ 1-0  1 --- 32  Gonzalez,Ju struck out (FBBCFFFFBS)
+ 1-0  2 --- 12  White,Ro lined out to second (CBFX)
+ 
+**************  Bottom of the 4th inning, Endorphins batting
+ 1-0  0 --- 30  Grace walked (BBBB)
+ 1-0  0 1-- 11  Jordan singled to shallow right, Grace to second (FBX)
+ 1-0  0 12- 10  Mondesi grounded into a double play, Alicea to Jeter to 
+                  Clark,W, Grace to third (BX)
+ 1-0  2 --3 32  Kendall grounded a single between third and short, Grace 
+                  scored (BCCFFBBX)
+ 1-1  2 1-- 30  Surhoff walked, Kendall to second (1B1BBB)
+ 1-1  2 12- 31  Cirillo walked, Kendall to third, Surhoff to second 
+                  (BBFBB)
+ 1-1  2 123 12  Daal struck out (BFSC)
+ 
+**************  Top of the 5th inning, Goobers batting
+ 1-1  0 --- 10  Clark,W grounded out to first (BX)
+ 1-1  1 --- 22  Haselman to first on an error by the first baseman Grace 
+                  (SBSFBFFFX)
+ 1-1  1 1-- 01  Fryman flied out to right (SX)
+ 1-1  2 1-- 12  Morris struck out (CSBC)
+ 
+**************  Bottom of the 5th inning, Endorphins batting
+ 1-1  0 --- 10  Vina flied out to center (BX)
+ 1-1  1 --- 12  Weiss struck out (BCFS)
+ 1-1  2 --- 32  Grace popped out to second (BFBFBX)
+ 
+**************  Top of the 6th inning, Goobers batting
+ 1-1  0 --- 00  Alicea flied out to right (X)
+ 1-1  1 --- 32  Jeter walked (BBBCCB)
+ 1-1  1 1-- 11  Alou flied out to center (1FBX)
+ 1-1  2 1-- 12  Gonzalez,Ju struck out (CSBS)
+ 
+**************  Bottom of the 6th inning, Endorphins batting
+ 1-1  0 --- 01  Jordan flied out to left (CX)
+ 1-1  1 --- 02  Mondesi struck out (CFS)
+ 1-1  2 --- 02  Kendall grounded out to short (CFX)
+ 
+**************  Top of the 7th inning, Goobers batting
+ 1-1  0 --- 01  White,Ro grounded out to short (FX)
+ 1-1  1 --- 20  Clark,W flied out to center (BBX)
+ 1-1  2 --- 01  Haselman grounded a single up the middle (CX)
+ 1-1  2 1-- 10  Fryman flied out to right (BX)
+ 
+**************  Bottom of the 7th inning, Endorphins batting
+ 1-1  0 --- 11  Surhoff to second on an error by the shortstop Jeter (BCX)
+ 1-1  0 -2- 00  Cirillo flied out to center, Surhoff to third (X)
+                Easley pinch hitting for Daal
+ 1-1  1 --3 01  Easley lined a single to shallow right, Surhoff scored 
+                  (FX)
+ 1-2  1 1-- 21  Vina grounded to second, forcing Easley at second, Vina 
+                  to first (C1BBX)
+ 1-2  2 1-- 11  Weiss lined a single down the right field line, Vina to 
+                  third (CBX)
+ 1-2  2 1-3 12  Grace grounded to third, forcing Weiss at second (SFBX)
+ 
+**************  Top of the 8th inning, Goobers batting
+                Clayton now playing shortstop
+                Veres now pitching
+                Martinez,T pinch hitting for Morris
+ 1-2  0 --- 21  Martinez,T grounded out to second (BBFX)
+ 1-2  1 --- 12  Alicea grounded out to short (FFFBX)
+ 1-2  2 --- 21  Jeter grounded out to short (BCBX)
+ 
+**************  Bottom of the 8th inning, Endorphins batting
+                Miceli now pitching
+ 1-2  0 --- 00  Jordan lined a single to left center, Jordan out at 
+                  second (X)
+ 1-2  1 --- 02  Mondesi struck out (FFS)
+ 1-2  2 --- 12  Kendall struck out (BCCS)
+ 
+**************  Top of the 9th inning, Goobers batting
+                Hernandez,R now pitching
+ 1-2  0 --- 11  Alou grounded out to short (BCX)
+ 1-2  1 --- 32  Gonzalez,Ju homered deep to left (BCBBFX)
+ 2-2  1 --- 22  White,Ro struck out (BBCSS)
+ 2-2  2 --- 00  Clark,W grounded out to second (X)
+ 
+**************  Bottom of the 9th inning, Endorphins batting
+ 2-2  0 --- 01  Surhoff grounded a single between first and second (FX)
+ 2-2  0 1-- 01  Cirillo grounded a single to left, Surhoff to third (SX)
+                Bragg pinch hitting for Clayton
+                Darensbourg now pitching
+ 2-2  0 1-3 12  Bragg struck out (BFCS)
+ 2-2  1 1-3 22  Vina grounded a single between third and short, Surhoff 
+                  scored, Cirillo to second (SCFBFFBX)
+
+-------------------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------------------
+
+CEN 0 - DLM 1
+TAR 0 - EVN 1
+
+-------------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+-------------------------------------------------------------------------------------------------------
+
+                        Division Team Status -- 1998 Dún Laoghaire Messiahs                         
+                               Divisional playoff -- as of 9/28/1998                                
+
+S Name                    Usage     PA     PA Days 
+  Craig Wilson                2      1     53    0 
+  Mike Simms                  1      3    215    0 
+  Jeff Reed                   1      3    303    0 
+  Ron Gant                    1      3    438    0 
+  Scott Brosius               1      4    603    0 
+  Eddie Perez                 1      1    167    0 
+  Edgar Martinez              1      4    672    0 
+  Jose Offerman               1      4    709    0 
+  Greg Vaughn                 0      3    661    0 
+  Willie Greene               0      2    470    0 
+  Quilvio Veras               0      0    612    0 
+f Kelly Stinnett              0      0    318    0 
+f Carlos Febles               0      0     29    0 
+f Lyle Mouton                 0      0     43    0 
+  Darryl Strawberry           0      0    345    0 
+f Sandy Martinez              0      0    102    0 
+  Brian McRae                 0      0    645    0 
+  Paul O'Neill                0      0    672    0 
+f Wendell Magee               0      0     82    0 
+f Dan Wilson                  0      0    368    0 
+f Ozzie Guillen               0      0    313    0 
+f Rich Amaral                 0      0    149    0 
+f Jeff Reboulet               0      0    155    0 
+  Roberto Petagine            0      0     79    0 
+f Ruben Rivera                0      0    204    0 
+f Reggie Williams             0      0     45    0 
+  Total                             28   8452      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/28   9/27   9/26   9/25   9/24 
+  Greg Maddux                 3    1   34    0  9/28/1998   115s                             
+  Mike Jackson                1    1   69    0  9/28/1998     9r                             
+  Doug Brocail                0    0   60    0  9/26/1998                  29r               
+f Shigetshi Hasegawa          0    0   61    0  9/25/1998                         57r        
+  Tom Glavine                 0    0   33    0  9/26/1998                 122s               
+f Greg Hansell                0    0    0    0                                               
+  Mike Williams               0    0   37    0  7/22/1998                                    
+f Albie Lopez                 0    0   54    0  9/25/1998                         56s        
+f Chuck McElroy               0    0   78    0  9/22/1998                                    
+  Andy Ashby                  0    0   33    0  9/24/1998                               121s 
+  Pete Harnisch               0    0   32    0  9/18/1998                                    
+  David Cone                  0    0   31    0  9/22/1998                                    
+  Darren Holmes               0    0   34    0  9/25/1998                         28r        
+f Sean Bergman                0    0   31    0  9/23/1998                                    
+f Alan Mills                  0    0   72    0  9/24/1998                                13r 
+  Carlos Reyes                0    0   46    0  9/25/1998                         24r    34r 
+f Julio Santana               0    0   35    0                                               
+  Total                            1  210                                                    
+
+
+                             Division Team Status -- 1998 Century Atoms                             
+                               Divisional playoff -- as of 9/28/1998                                
+
+S Name                    Usage     PA     PA Days 
+  Homer Bush                  6      5     78    0 
+  Dave Magadan                3      4    123    0 
+  Greg Myers                  2      4    189    0 
+  Bernie Williams             1      4    578    0 
+  Andres Galarraga            1      4    648    0 
+  Manny Ramirez               1      4    663    0 
+  Chris Gomez                 1      3    516    0 
+  Albert Belle                1      4    706    0 
+  Mark Whiten                 0      1    259    0 
+  Ryan Klesko                 0      1    491    0 
+  Tony Clark                  0      1    673    0 
+f Todd Hundley                0      0    142    0 
+  Tony Fernandez              0      0    551    0 
+f Jeff Frye                   0      0      0    0 
+  Matt Williams               0      0    557    0 
+d Sean Casey                  0      0    351    0 
+f Mike Blowers                0      0    455    0 
+f Damian Jackson              0      0     45    0 
+f Ron Belliard                0      0      5    0 
+  Mike Benjamin               0      0    385    0 
+f Mitch Meluskey              0      0      9    0 
+f Chad Kreuter                0      0    294    0 
+f Todd Dunwoody               0      0    462    0 
+f Randall Simon               0      0     17    0 
+f Tony Phillips               0      0    289    0 
+  Matt Walbeck                0      0    380    0 
+f Jose Vizcaino               0      0    267    0 
+f Jack Howell                 0      0     42    0 
+f Marlon Anderson             0      0     45    0 
+f Alex Cora                   0      0     38    0 
+f Mike Stanley                0      0    593    0 
+f Kimera Bartee               0      0    105    0 
+  Total                             35   9956      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/28   9/27   9/26   9/25   9/24 
+  David Wells                 3    1   30    0  9/28/1998    67s                             
+  Jason Christiansen          2    1   60    0  9/28/1998    36r                             
+f Pat Hentgen                 0    0   29    0                                               
+  Bob Howry                   0    0   44    0  8/26/1998                                    
+  Steve Reed                  0    0   70    0  9/25/1998                         50r        
+  Brad Radke                  0    0   32    0  9/23/1998                                    
+  Juan Guzman                 0    0   33    0  9/26/1998                 118s     2r        
+f John Thomson                0    0   26    0  9/25/1998                         43r        
+  Gabe White                  0    0   69    0  9/26/1998                  20r               
+  Francisco Cordova           0    0   33    0  9/25/1998                         60s        
+f Antonio Osuna               0    0   54    0  9/25/1998                         18r        
+f Rolando Arrojo              0    0   32    0  9/24/1998                               115s 
+f Bob Wells                   0    0   30    0  5/25/1998                                    
+  Rick White                  0    0   38    0  9/11/1998                                    
+f Rich DeLucia                0    0   61    0  9/25/1998                         15r    11r 
+  John Wetteland              0    0   63    0  8/31/1998                                    
+  Total                            1  221                                                    
+
+
+                          Division Team Status -- 1998 Evanston Endorphins                          
+                               Divisional playoff -- as of 9/28/1998                                
+
+S Name                    Usage     PA     PA Days 
+  Walt Weiss                  1      4    424    0 
+  Fernando Vina               1      5    722    0 
+  Raul Mondesi                1      4    617    0 
+  Brian Jordan                1      4    617    0 
+  Jason Kendall               1      4    627    0 
+  B.J. Surhoff                1      4    634    0 
+  Jeff Cirillo                1      4    694    0 
+  Mark Grace                  1      4    698    0 
+  Darren Bragg                0      1    465    0 
+  Damion Easley               0      1    651    0 
+  Darren Lewis                0      0    672    0 
+f Joe Randa                   0      0    514    0 
+f Bruce Aven                  0      0      0    0 
+f Geoff Jenkins               0      0    285    0 
+  Alex Arias                  0      0    149    0 
+f Mike Macfarlane             0      0    239    0 
+  Royce Clayton               0      0    608    0 
+f Kirt Manwaring              0      0    335    0 
+f Justin Baughman             0      0    211    0 
+  Kevin Brown                 0      0    128    0 
+f Lou Collier                 0      0    379    0 
+f Charlie O'Brien             0      0    193    0 
+f Rico Brogna                 0      0    624    0 
+  Total                             35  10486      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/28   9/27   9/26   9/25   9/24 
+  Omar Daal                   3    1   33    0  9/28/1998    97s                             
+  Dave Veres                  2    1   63    0  9/28/1998    13r                             
+  Roberto Hernandez           1    1   67    0  9/28/1998    15r                             
+f Carlos Perez                0    0   34    0  9/26/1998                 101s               
+  Jeff Fassero                0    0   32    0  9/22/1998                                    
+  Dennis Cook                 0    0   73    0  9/11/1998                                    
+f Steve Woodard               0    0   34    0  9/23/1998                                    
+  Dwight Gooden               0    0   23    0  9/24/1998                               118s 
+f Hideki Irabu                0    0   29    0  9/25/1998                         15r    13r 
+f Dustin Hermanson            0    0   32    0  9/25/1998                        111s        
+  Terry Mulholland            0    0   70    0  8/31/1998                                    
+f Tony Saunders               0    0   31    0  5/10/1998                                    
+  Turk Wendell                0    0   66    0  9/22/1998                                    
+f Tim Crabtree                0    0   64    0  9/26/1998                  42r     4r        
+  Jeff Tabaka                 0    0   37    0  9/25/1998                          6r        
+f Scott Elarton               0    0   28    0  5/24/1998                                    
+f Mark Guthrie                0    0   53    0                                               
+  Jerry Spradlin              0    0   69    0  9/23/1998                                    
+f John Hudek                  0    0   58    0  9/23/1998                                    
+f Scott Karl                  0    0   33    0                                               
+  Matt Anderson               0    0   42    0  9/23/1998                                    
+  Total                            1  268                                                    
+
+
+                            Division Team Status -- 1998 Tarboro Goobers                            
+                               Divisional playoff -- as of 9/28/1998                                
+
+S Name                    Usage     PA     PA Days 
+  Bill Haselman               3      3    110    0 
+  Luis Alicea                 1      4    308    0 
+  Rondell White               1      4    397    0 
+  Will Clark                  1      4    636    0 
+  Juan Gonzalez               1      4    669    0 
+  Moises Alou                 1      4    679    0 
+  Derek Jeter                 1      4    694    0 
+  Travis Fryman               0      3    608    0 
+  Tino Martinez               0      1    608    0 
+  Delino DeShields            0      0    484    0 
+f Terry Steinbach             0      0    465    0 
+  Darryl Hamilton             0      0    661    0 
+  John Marzano                0      0    153    0 
+f Wade Boggs                  0      0    483    0 
+  Aaron Ledesma               0      0    315    0 
+f Jermaine Allensworth        0      0    409    0 
+f Joe Carter                  0      0    418    0 
+f Matt Franco                 0      0    187    0 
+f Mike Matheny                0      0    341    0 
+  Stan Javier                 0      0    490    0 
+f Hal Morris                  0      0    516    0 
+f Bob Hamelin                 0      0    167    0 
+f Matt Luke                   0      0    259    0 
+f Curtis Pride                0      0    121    0 
+f Kevin Polcovich             0      0    238    0 
+  Total                             31  10416      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/28   9/27   9/26   9/25   9/24 
+  Matt Morris                 6    1   17    0  9/28/1998   102s                             
+  Vic Darensbourg             2    1   59    0  9/28/1998    12r                             
+  Dan Miceli                  1    1   67    0  9/28/1998    12r                             
+f Mac Suzuki                  0    0    6    0  9/25/1998                        107s        
+f Dennis Eckersley            0    0   50    0  9/25/1998                         15r        
+  Todd Stottlemyre            0    0   33    0  9/19/1998                                    
+  Jon Lieber                  0    0   29    0  9/21/1998                                    
+  Ricky Bones                 0    0   32    0   9/7/1998                                    
+  Jeff Shaw                   0    0   73    0   9/7/1998                                    
+f John Franco                 0    0   61    0  9/22/1998                                    
+f Esteban Loaiza              0    0   35    0  9/23/1998                                    
+f Mike Hampton                0    0   32    0  9/22/1998                                    
+f Amaury Telemaco             0    0   41    0  9/24/1998                               114s 
+  Brett Tomko                 0    0   34    0  9/20/1998                                    
+  Brian Bohanon               0    0   39    0  8/23/1998                                    
+f Brian Anderson              0    0   32    0  9/25/1998                         11r        
+  Jay Powell                  0    0   62    0  9/23/1998                                    
+f Manny Aybar                 0    0   20    0  9/26/1998                  40r     5r        
+f Alan Embree                 0    0   55    0  9/23/1998                                    
+f Marc Pisciotta              0    0   43    0  9/24/1998                                35r 
+f Ken Hill                    0    0   19    0  9/26/1998                  79s               
+f Dean Crow                   0    0   32    0  9/26/1998                  14r     8r        
+f Brian Edmondson             0    0   53    0  9/26/1998                  23r     8r        
+  Bill Simas                  0    0   60    0  8/25/1998                                    
+  Total                            1  277                                                    
+

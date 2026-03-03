@@ -1,0 +1,32 @@
+Here's a pitching version of BsR: 
+
+A= H+BB-HR 
+B= (H+HR+.1BB) *X 
+C= IP 
+D= HR 
+
+The X multiplier is around .41 
+
+This gives runs. If you want it in ERA form, divide by IP and multiply by 8.2 
+
+BsR is (A*Bx)/(Bx+C) +D
+
+       ABx
+Runs = ---- +D
+       Bx+C
+
+    C(R-D)
+x = --------
+    B(A-R+D)
+
+415-460-0108
+
+A represents baserunners, B is advancement, C is outs, and D is Home Runs. B/(B+C) is the estimated percentage of baserunners who score. Smyth gives these equations for the factors: 
+A = H + W + HB – CS -HR 
+B = (2.5*TB – H – 5*HR + 2*SB + .05*(W+HB))*X 
+C = AB – H + SF 
+Where X is set so that Base Runs equals Runs for whatever unit is being tested(team, league, etc.), and is historically around .535. A version that I have rigged up is useful in that it looks at just the basic stats(AB, H, TB, W): 
+A = H+W-HR 
+B = (2*TB – H – 4.5*HR + .05*W)*X 
+C = AB-H 
+X is historically around .81. 

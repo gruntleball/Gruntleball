@@ -1,0 +1,116 @@
+                         Playoff Team Status -- 1996 Newfoundland Perfectos                         
+                               Divisional playoff -- as of 9/30/1996                                
+
+S Name                    Usage     PA     PA Days 
+f Jack Howell                11     15    136    0 
+f Mark Parent                10     14    144    0 
+  Mariano Duncan              6     24    417    0 
+  John Olerud                 6     26    469    0 
+  Bobby Higginson             4     21    515    0 
+  Ken Griffey                 4     26    638    0 
+  Gary Sheffield              4     26    677    0 
+  Jose Valentin               3     21    628    0 
+  Brant Brown                 3      2     73    0 
+  Chris Snopek                3      3    113    0 
+  Ron Coomer                  2      5    253    0 
+  Joe Randa                   2      7    370    0 
+  Benito Santiago             2     10    533    0 
+  Matt Mieske                 1      4    409    0 
+  John Mabry                  0      2    591    0 
+  Danny Tartabull             0      1    541    0 
+f Curtis Pride                0      0    301    0 
+f Craig Paquette              0      0    462    0 
+f Tilson Brito                0      0     95    0 
+f Rick Wilkins                0      0    489    0 
+f Keith Lockhart              0      0    471    0 
+f Todd Walker                 0      0     89    0 
+f Pat Borders                 0      0    234    0 
+f Norberto Martin             0      0    151    0 
+f Kevin Jordan                0      0    142    0 
+d Billy Ashley                0      0    133    0 
+f Pete Incaviglia             0      0    337    0 
+f Ruben Amaro                 0      0    130    0 
+  Total                            207   9541      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/30   9/29   9/28   9/27   9/26 
+  Jose Rosado                13    2   16    0  9/30/1996   118s                         87s 
+  Ricardo Jordan             12    3   26    0  9/30/1996     5r                         19r 
+  Mike Trombley               7    3   43    0  9/28/1996                  12r     6r        
+  Ben McDonald                6    2   35    0  9/28/1996                 115s               
+  Ken Hill                    6    2   35    0  9/27/1996                        118s        
+  Robb Nen                    5    4   75    0  9/30/1996    17r           13r               
+  Danny Darwin                3    1   34    0  9/27/1996                          6r        
+  Pedro Borbon                2    1   43    0  9/26/1996                                35r 
+f Jimmy Key                   0    0   30    0  9/20/1996                                    
+f Chuck Finley                0    0   35    0  9/19/1996                                    
+f Ugueth Urbina               0    0   33    0  9/20/1996                                    
+f Doug Linton                 0    0   21    0  9/16/1996                                    
+f Stan Belinda                0    0   31    0  9/20/1996                                    
+  Ariel Prieto                0    0   21    0  9/18/1996                                    
+f Brian Moehler               0    0    2    0   6/3/1996                                    
+f Tim Vanegmond               0    0   12    0  9/20/1996                                    
+f John Johnstone              0    0    9    0  9/19/1996                                    
+f Eric Gunderson              0    0   28    0  9/17/1996                                    
+f Graeme Lloyd                0    0   65    0  9/20/1996                                    
+  Total                            6  243                                                                           
+
+
+                             Playoff Team Status -- 1996 Ferlin Huskies                             
+                               Divisional playoff -- as of 9/28/1996                                
+
+S Name                    Usage     PA     PA Days 
+  Dave Nilsson                3     16    516    0 
+  Jim Thome                   3     19    636    0 
+  Ellis Burks                 3     19    685    0 
+  Lance Johnson               3     19    724    0 
+  Andres Galarraga            3     18    691    0 
+  Mark Grudzielanek           2     17    696    0 
+  Mike Lansing                2     17    705    0 
+  Marquis Grissom             2     17    723    0 
+  Dave Justice                1      1    164    0 
+  Darrin Fletcher             0      2    432    0 
+  Chili Davis                 0      1    623    0 
+  Edgardo Alfonzo             0      0    407    0 
+f Wil Cordero                 0      0    213    0 
+f Keith Osik                  0      0    156    0 
+  Quinton McCracken           0      0    329    0 
+f Carlos Hernandez            0      0     16    0 
+f Ruben Rivera                0      0    106    0 
+f Damian Jackson              0      0     11    0 
+f Rob Deer                    0      0     64    0 
+f Wilson Delgado              0      0     25    0 
+f Kevin Roberson              0      0     46    0 
+f Andy Tomberlin              0      0     76    0 
+f Terry Bradshaw              0      0     25    0 
+f Rod Myers                   0      0     70    0 
+f Jeff Huson                  0      0     30    0 
+f Pedro Munoz                 0      0    130    0 
+  Total                            146   8299      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/28   9/27   9/26   9/25   9/24 
+  Armando Benitez             6    1   18    0  9/28/1996                                    
+  Mark Portugal               4    1   27    0  9/27/1996          117s                      
+  Steve Trachsel              3    1   31    0  9/27/1996           11r                      
+  Mark Clark                  3    1   32    0  9/28/1996                                    
+  Kevin Brown                 3    1   32    0  9/26/1996                  93s               
+  Rheal Cormier               3    1   33    0  9/24/1996                               108s 
+  Rod Beck                    2    1   63    0  9/23/1996                                    
+f Rich Rodriguez (AG)         0    0    0    0                                               
+d Kirk Rueter                 0    0   20   11   9/8/1996                                    
+f Mike Morgan                 0    0   23    0   9/7/1996                                    
+  Terry Adams                 0    0   69    0  9/19/1996                                    
+f Bill Risley                 0    0   25    0   9/9/1996                                    
+  Todd Worrell                0    0   72    0  9/20/1996                                    
+f Danny Patterson             0    0    7    0  6/27/1996                                    
+f Mike Maddux                 0    0   23    0  9/13/1996                                    
+  Rich Loiselle               0    0    5    0  5/16/1996                                    
+  Xavier Hernandez            0    0   61    0   9/8/1996                                    
+f Joel Adamson                0    0    9    0   8/4/1996                                    
+  Mark Brandenburg            0    0   55    0  9/15/1996                                    
+  Total                            4  200                                                    

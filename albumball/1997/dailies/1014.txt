@@ -1,0 +1,881 @@
+BRIGHTEN THE CORNERS, DAILY
+Tuesday, October 14, 1998
+Playoffs - Round 2 - Game 4
+http://chinatrust.googlepages.com/
+
+----------------------------------------------------------------------------------------------------
+ROSTER NOTES
+----------------------------------------------------------------------------------------------------
+
+BBG - Jeremi Gonzalez is done
+      Kevin Tapani is done
+
+BAR - Jerome Walton is done
+      Magglio Ordonez is done
+      Shane Mack is done
+      Billy Brewer is done
+
+CEN - Billy McMillon is done
+      Gabe White is done
+
+----------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+----------------------------------------------------------------------------------------------------
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/13/1997 BAR     Ordonez,M        General             10/20/1997    7    6 
+9/20/1997  BAR     Polcovich        Hit by pitch        10/20/1997   30    6 
+10/10/1997 TEW     Garciaparra      General             10/26/1997   16   12 
+
+----------------------------------------------------------------------------------------------------
+TRANSACTIONS
+----------------------------------------------------------------------------------------------------
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+10/15/1997 BAR     Brewer              Demoted to reserve roster                          Before   
+10/15/1997 BAR     Mack                Demoted to reserve roster                          Before   
+10/15/1997 BAR     Walton              Demoted to reserve roster                          Before   
+10/15/1997 BBG     Gonzalez,Je         Demoted to reserve roster                          Before   
+10/15/1997 BBG     Tapani              Demoted to reserve roster                          Before   
+10/15/1997 CEN     McMillon            Demoted to reserve roster                          Before   
+10/15/1997 CEN     White,G             Demoted to reserve roster                          Before   
+10/14/1997 BAR     Spoljaric           Activated from disabled list                       Before   
+10/14/1997 TEW     Pisciotta           Demoted to reserve roster                          Before   
+
+----------------------------------------------------------------------------------------------------
+RESULTS
+----------------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 GoiterMen         4  0  3  0  0  2  2  0  2    13 14  0     4  2
+1997 Brewers           0  0  3  0  0  0  0  1  0     4  8  0     8  1
+Tapani (W,1-0), Schilling(L,0-3)
+HR - Bagwell(1), Alomar,S 2(3), Lofton(1)
+Baraboo jumps out to an early lead and never looks back.  Curt Schilling
+gets bombed again.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Bobs              4  0  0  1  1  0  0  2  0     8 13  0     6  2
+1997 Atoms             0  3  0  0  0  0  1  0  0     4  6  3     5  0
+Alvarez (W,1-0), White,G (L,0-1), Telford (S,1)
+HR - Cromer(2), Strange(2), Hundley(3)
+The lesson appears to be that if you get an early 4-0 lead, you will win.
+
+----------------------------------------------------------------------------------------------------
+STANDINGS
+----------------------------------------------------------------------------------------------------
+
+BBG 4  CEN 0
+TEW 3  BAR 1
+
+----------------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+----------------------------------------------------------------------------------------------------
+
+10/14/1997, BBG97-BAR97, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 GoiterMen         4  0  3  0  0  2  2  0  2    13 14  0     4  2
+1997 Brewers           0  0  3  0  0  0  0  1  0     4  8  0     8  1
+ 
+GoiterMen            AB  R  H BI   AVG    Brewers              AB  R  H BI   AVG
+Gwynn             rf  5  1  1  0  .333    Vizquel           ss  3  1  0  0  .265
+ Gonzalez,Je      p   0  0  0  0  .000    Anderson,B        lf  4  0  1  2  .167
+Spiers            2b  4  2  2  0  .375    Walton            rf  5  0  1  1  .211
+Bagwell           1b  5  3  2  2  .294    Vaughn,M          1b  3  0  1  0  .317
+ Voigt            3b  0  0  0  0  .000    Lopez,J           c   4  0  0  0  .188
+Nunnally          lf  4  2  1  0  .278    Ventura           3b  3  1  1  0  .194
+Zeile             3b  4  1  3  3  .467    Mack              cf  4  0  1  1  .273
+ Posada           c   0  0  0  0  .000    Baerga            2b  4  1  2  0  .308
+Alomar,S          c   5  2  3  5  .333    Schilling         p   0  0  0  0  .000
+ Kent             1b  0  0  0  0  .000     Rodriguez,Fr     p   1  1  1  0  .500
+Blauser           ss  4  1  1  1  .400     Merced           ph  1  0  0  0  .273
+Lofton            cf  5  1  1  2  .308     DeJean           p   0  0  0  0  .000
+Tapani            p   3  0  0  0  .000     Brewer           p   0  0  0  0  .000
+ Samuel           ph  1  0  0  0  .000     Levis            ph  1  0  0  0  .200
+ Curtis           rf  0  0  0  0  .000     Plantenberg      p   0  0  0  0  .000
+                     40 13 14 13           DiPoto           p   0  0  0  0  .000
+                                           Spoljaric        p   0  0  0  0  .000
+                                           Davis,R          ph  0  0  0  0  .308
+                                                               33  4  8  4
+ 
+GoiterMen                        INN  H  R ER BB  K PCH STR   ERA
+Tapani           W 1-0           7.0  6  3  3  4  5 120  73  3.86
+Gonzalez,Je                      2.0  2  1  1  2  1  30  14  2.25
+                                 9.0  8  4  4  6  6 150  87 
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Schilling        L 0-3           2.0  5  6  6  1  2  48  30 15.07
+Rodriguez,Fr                     2.0  2  1  1  1  1  35  21  4.50
+DeJean                           1.0  1  0  0  0  1  16  11  9.64
+Brewer                           1.0  1  2  2  1  1  18   8  3.24
+Plantenberg                      0.0  1  1  1  0  0   3   2 11.25
+DiPoto                           2.1  2  3  3  1  1  38  23  5.06
+Spoljaric                        0.2  2  0  0  0  0  16  11  0.00
+                                 9.0 14 13 13  4  6 174 106 
+ 
+BBG: Samuel batted for Tapani in the 8th
+     Curtis inserted at rf in the 8th
+     Voigt inserted at 3b in the 9th
+     Posada inserted at c in the 9th
+     Kent inserted at 1b in the 9th
+BAR: Merced batted for Rodriguez,Fr in the 4th
+     Levis batted for Brewer in the 6th
+     Davis,R batted for Spoljaric in the 9th
+ 
+2B-Bagwell, Zeile, Alomar,S, Mack, Rodriguez,Fr. HR-Bagwell(1), 
+Alomar,S 2(3), Lofton(1). K-Nunnally 2, Tapani 3, Samuel, Lopez,J 3, Mack 2, 
+Merced. BB-Spiers, Nunnally, Zeile, Blauser, Vizquel 2, Anderson,B, Vaughn,M, 
+Ventura, Davis,R. WP-DiPoto. 
+GWRBI: Zeile
+Temperature: 81, Sky: clear, Wind: left to right at 5 MPH.
+
+....................................................................................................
+10/14/1997, BBG97-BAR97, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 GoiterMen         4  0  3  0  0  2  2  0  2    13 14  0     4  2
+1997 Brewers           0  0  3  0  0  0  0  1  0     4  8  0     8  1
+ 
+ 
+GoiterMen            -----A------ -----B------ -----C------ -----D------ -----E------
+Gwynn             rf 1>S            9            3/g          9            3/g       
+ Gonzalez,Je      p                                                                  
+Spiers            2b   S.1-2      3>W            3/g          7          9>S         
+Bagwell           1b   7            HR.1-H     5>DeJean     7>note 1       46/f.B-1  
+                                                 7            D                      
+ Voigt            3b                                                                 
+Nunnally          lf   k            note 2       k            DiPoto       W.1-2     
+                                    S                         13                     
+Zeile             3b   S.2-H;1-2    W.1-2        D            wp.2-3       Spoljaric 
+                                                              53.3-H       S.2-H;1-3 
+ Posada           c                                                                  
+Alomar,S          c    HR.2-H;1-H   8.2-3        4/L          HR           D.3-H;1-3 
+ Kent             1b                                                                 
+Blauser           ss   9            S.3-H;1-2  6>Brewer       7            13        
+                                                 W                                   
+Lofton            cf 2>31           643/gdp      HR.1-H     8>4            43        
+Tapani            p    k          4>k            k                                   
+ Samuel           ph                                          k                      
+ Curtis           rf                                                                 
+ 
+ 1: Plantenberg  2: Rodriguez,Fr 
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Vizquel           ss 1>9            W          5>7          7>6            W.1-2     
+Anderson,B        lf   8            note 1       W            63           8         
+Walton            rf   43           S.3-H;1-2    8            43           543/gdp   
+Vaughn,M          1b 2>S            note 2       W.1-2      8>note 3                 
+                                                              8                      
+Lopez,J           c    k            8            k            k                      
+Ventura           3b   8          4>31         6>W            S                      
+Mack              cf   13           k            k            D.1-H                  
+Baerga            2b 3>S            S            8            8                      
+Schilling         p                                                                  
+ Rodriguez,Fr     p    D.1-3                                                         
+ Merced           ph                k                                                
+ DeJean           p                                                                  
+ Brewer           p                                                                  
+ Levis            ph                             31                                  
+ Plantenberg      p                                                                  
+ DiPoto           p                                                                  
+ Spoljaric        p                                                                  
+ Davis,R          ph                                        9>W                      
+ 
+ 1: S.3-H;2-H;1-3  2: 363/gdp.2-3  3: Gonzalez,Je 
+ 
+ 
+GoiterMen        IN OUT ER                  Brewers          IN OUT ER                  
+Tapani           A1  D3  3 W 1-0            Schilling        A1  B3  6 L 0-3            
+Gonzalez,Je      D4  E3  1                  Rodriguez,Fr     B4  C2  1                  
+                                            DeJean           C3  C6  0                  
+                                            Brewer           C7  D2  2                  
+                                            Plantenberg      D3  D3  1                  
+                                            DiPoto           D4  E4  3                  
+                                            Spoljaric        E5  E8  0                  
+
+....................................................................................................
+10/14/1997, BBG97-BAR97, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 GoiterMen         4  0  3  0  0  2  2  0  2    13 14  0     4  2
+1997 Brewers           0  0  3  0  0  0  0  1  0     4  8  0     8  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, GoiterMen batting
+ 0-0  0 --- 11  Gwynn grounded a single between first and second (CBX)
+ 0-0  0 1-- 20  Spiers lined a single to left, Gwynn to second (BBX)
+ 0-0  0 12- 00  Bagwell flied out to left (X)
+ 0-0  1 12- 22  Nunnally struck out (SSBBS)
+ 0-0  2 12- 10  Zeile lined a single up the middle, Gwynn scored, Spiers 
+                  to second (BX)
+ 1-0  2 12- 12  Alomar,S homered deep to left, Spiers scored, Zeile 
+                  scored (CFBX)
+ 4-0  2 --- 22  Blauser flied out to right (BBCFX)
+ 
+**************  Bottom of the 1st inning, Brewers batting
+ 4-0  0 --- 32  Vizquel flied out to right (BCFBBX)
+ 4-0  1 --- 22  Anderson,B flied out to center (BFFBX)
+ 4-0  2 --- 11  Walton grounded out to second (BCX)
+ 
+**************  Top of the 2nd inning, GoiterMen batting
+ 4-0  0 --- 22  Lofton grounded out to first (CBBFX)
+ 4-0  1 --- 12  Tapani struck out (CBSC)
+ 4-0  2 --- 22  Gwynn flied out to right (FBBCX)
+ 
+**************  Bottom of the 2nd inning, Brewers batting
+ 4-0  0 --- 22  Vaughn,M lined a single to shallow center (CBSBX)
+ 4-0  0 1-- 02  Lopez,J struck out (CFC)
+ 4-0  1 1-- 22  Ventura flied out to center (FFBBFX)
+ 4-0  2 1-- 21  Mack grounded out to the mound (CBBX)
+ 
+**************  Top of the 3rd inning, GoiterMen batting
+ 4-0  0 --- 32  Spiers walked (BBBCSFFB)
+ 4-0  0 1-- 02  Bagwell homered deep to left, Spiers scored (CSX)
+                Rodriguez,Fr now pitching
+ 6-0  0 --- 22  Nunnally grounded a single up the middle (CBFBX)
+ 6-0  0 1-- 32  Zeile walked, Nunnally to second (BFSBBB)
+ 6-0  0 12- 01  Alomar,S flied out to center, Nunnally to third (CX)
+ 6-0  1 1-3 21  Blauser reached on an infield single to short, Nunnally 
+                  scored, Zeile to second (BBCX)
+ 7-0  1 12- 10  Lofton grounded into a double play, Vizquel to Baerga to 
+                  Vaughn,M (BX)
+ 
+**************  Bottom of the 3rd inning, Brewers batting
+ 7-0  0 --- 01  Baerga lined a single between third and short (FX)
+ 7-0  0 1-- 01  Rodriguez,Fr lined a double to right center, Baerga to 
+                  third (CX)
+ 7-0  0 -23 32  Vizquel walked (CBFFFFBFBB)
+ 7-0  0 123 11  Anderson,B lined a single to right center, Baerga scored, 
+                  Rodriguez,Fr scored, Vizquel to third (BCX)
+ 7-2  0 1-3 00  Walton lined a single to shallow left, Vizquel scored, 
+                  Anderson,B to second (X)
+ 7-3  0 12- 22  Vaughn,M grounded into a double play, Bagwell to Blauser 
+                  to Bagwell, Anderson,B to third (BCFBX)
+ 7-3  2 --3 21  Lopez,J flied out to center (BBCX)
+ 
+**************  Top of the 4th inning, GoiterMen batting
+ 7-3  0 --- 32  Tapani struck out (BCBSFBFC)
+ 7-3  1 --- 22  Gwynn grounded out to first (BFBFFX)
+ 7-3  2 --- 01  Spiers grounded out to first (CX)
+ 
+**************  Bottom of the 4th inning, Brewers batting
+ 7-3  0 --- 21  Ventura grounded out to first (FBBX)
+ 7-3  1 --- 12  Mack struck out (BCFFS)
+ 7-3  2 --- 01  Baerga lined a single up the middle (FX)
+                Merced pinch hitting for Rodriguez,Fr
+ 7-3  2 1-- 12  Merced struck out (BFCS)
+ 
+**************  Top of the 5th inning, GoiterMen batting
+                DeJean now pitching
+ 7-3  0 --- 10  Bagwell flied out to left (BX)
+ 7-3  1 --- 12  Nunnally struck out (CBFS)
+ 7-3  2 --- 22  Zeile lined a double to right center (CCBBFX)
+ 7-3  2 -2- 12  Alomar,S lined out to second (CBCX)
+ 
+**************  Bottom of the 5th inning, Brewers batting
+ 7-3  0 --- 21  Vizquel flied out to left (BFBX)
+ 7-3  1 --- 31  Anderson,B walked (BBCBB)
+ 7-3  1 1-- 22  Walton flied out to center (CBSBX)
+ 7-3  2 1-- 31  Vaughn,M walked, Anderson,B to second (BBFBB)
+ 7-3  2 12- 02  Lopez,J struck out (CCS)
+ 
+**************  Top of the 6th inning, GoiterMen batting
+                Brewer now pitching
+ 7-3  0 --- 31  Blauser walked (BBBCB)
+ 7-3  0 1-- 10  Lofton homered deep to left, Blauser scored (BpX)
+ 9-3  0 --- 22  Tapani struck out (CBBSS)
+ 9-3  1 --- 10  Gwynn flied out to right (BX)
+ 9-3  2 --- 21  Spiers lined out to left (BCBX)
+ 
+**************  Bottom of the 6th inning, Brewers batting
+ 9-3  0 --- 30  Ventura walked (BBBB)
+ 9-3  0 1-- 02  Mack struck out (CFS)
+ 9-3  1 1-- 02  Baerga flied out to center (CFX)
+                Levis pinch hitting for Brewer
+ 9-3  2 1-- 11  Levis grounded out to first (BCX)
+ 
+**************  Top of the 7th inning, GoiterMen batting
+                Plantenberg now pitching
+ 9-3  0 --- 11  Bagwell grounded a double down the third base line (FBX)
+                DiPoto now pitching
+ 9-3  0 -2- 32  Nunnally grounded out to the mound (SBBBSFFX)
+ 9-3  1 -2- 00  DiPoto threw a wild pitch, Bagwell to third (B)
+ 9-3  1 --3 10  Zeile grounded out to third, Bagwell scored (B.X)
+10-3  2 --- 01  Alomar,S homered deep to left (CX)
+11-3  2 --- 22  Blauser flied out to left (FBBFFX)
+ 
+**************  Bottom of the 7th inning, Brewers batting
+11-3  0 --- 00  Vizquel popped out to short (X)
+11-3  1 --- 31  Anderson,B grounded out to short (BBBCX)
+11-3  2 --- 22  Walton grounded out to second (BCCBX)
+ 
+**************  Top of the 8th inning, GoiterMen batting
+11-3  0 --- 11  Lofton popped out to second (CBX)
+                Samuel pinch hitting for Tapani
+11-3  1 --- 22  Samuel struck out (CBFBS)
+11-3  2 --- 10  Gwynn grounded out to first (BX)
+ 
+**************  Bottom of the 8th inning, Brewers batting
+                Curtis now playing right field
+                Gonzalez,Je now pitching
+11-3  0 --- 12  Vaughn,M flied out to center (BCSX)
+11-3  1 --- 32  Lopez,J struck out (BBSBFS)
+11-3  2 --- 00  Ventura lined a single to left center (X)
+11-3  2 1-- 32  Mack lined a double to right center, Ventura scored 
+                  (BCBCB>X)
+11-4  2 -2- 11  Baerga flied out to center (BSX)
+ 
+**************  Top of the 9th inning, GoiterMen batting
+11-4  0 --- 00  Spiers grounded a single between third and short (X)
+11-4  0 1-- 12  Bagwell grounded to second, forcing Spiers at second, 
+                  Bagwell to first (FBSX)
+11-4  1 1-- 31  Nunnally walked, Bagwell to second (BBBCB)
+                Spoljaric now pitching
+11-4  1 12- 01  Zeile singled to right center, Bagwell scored, Nunnally 
+                  to third (CX)
+12-4  1 1-3 22  Alomar,S doubled deep down the left-field line, Nunnally 
+                  scored, Zeile to third (BFBCX)
+13-4  1 -23 32  Blauser grounded out to the mound (CBCBBFFX)
+13-4  2 -23 00  Lofton grounded out to second (X)
+ 
+**************  Bottom of the 9th inning, Brewers batting
+                Voigt now playing third base
+                Posada now playing catcher
+                Kent now playing first base
+                Davis,R pinch hitting for Spoljaric
+13-4  0 --- 30  Davis,R walked (BBBB)
+13-4  0 1-- 30  Vizquel walked, Davis,R to second (BBBB)
+13-4  0 12- 00  Anderson,B flied out to center (X)
+13-4  1 12- 00  Walton grounded into a double play, Voigt to Spiers to 
+                  Kent (X)
+____________________________________________________________________________________________________
+
+10/14/1997, TEW97-CEN97, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Bobs              4  0  0  1  1  0  0  2  0     8 13  0     6  2
+1997 Atoms             0  3  0  0  0  0  1  0  0     4  6  3     5  0
+ 
+Bobs                 AB  R  H BI   AVG    Atoms                AB  R  H BI   AVG
+Greer             lf  5  1  2  1  .300    Fernandez         ss  3  0  0  0  .429
+Erstad            cf  5  1  3  0  .389     Martinez,F       ph  0  0  0  0  .000
+Delgado,C         1b  5  1  2  1  .200    Frye              2b  3  0  1  0  .517
+Sanders,R         rf  5  0  0  0  .150     Phillips,T       ph  1  0  0  0  .300
+Cromer            2b  4  1  2  1  .500    Williams,Be       cf  3  0  0  0  .200
+ Telford          p   1  0  0  0  .000    Ramirez           rf  4  1  1  0  .308
+Hayes             3b  4  1  1  1  .125    McMillon          lf  4  1  2  0  .300
+Mayne             c   2  1  1  1  .154    Naehring          3b  2  0  0  0  .333
+Clayton           ss  4  1  1  0  .111     Magadan          ph  1  0  0  0  .286
+Alvarez           p   3  0  0  0  .000    Clark             1b  2  0  0  0  .412
+ Strange          2b  1  1  1  2  .400     Osuna            p   0  0  0  0  .000
+                     39  8 13  7           Jefferson        1b  1  0  0  0  .222
+                                          Hundley           c   3  2  1  3  .270
+                                          White,G           p   2  0  0  0  .000
+                                           Reed,S           p   0  0  0  0  .000
+                                           Klesko           1b  0  0  0  0  .167
+                                           Boggs            ph  1  0  1  0  .385
+                                           Orosco           p   0  0  0  0  .000
+                                           Thomson          p   0  0  0  0  .333
+                                           O'Brien          ph  1  0  0  0  .429
+                                                               31  4  6  3
+ 
+Bobs                             INN  H  R ER BB  K PCH STR   ERA
+Alvarez          W 1-0           6.0  6  4  4  4  6 109  60  6.00
+Telford          S 1             3.0  0  0  0  1  0  32  19  0.00
+                                 9.0  6  4  4  5  6 141  79 
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+White,G          L 0-1           4.1 10  6  5  1  2  85  53  7.11
+Reed,S                           1.2  0  0  0  1  3  27  13  4.50
+Osuna                            1.0  0  0  0  0  0   8   5  0.00
+Orosco                           0.2  0  0  0  0  0   5   3  9.00
+Thomson                          1.1  3  2  0  0  2  23  17  1.23
+                                 9.0 13  8  5  2  7 148  91 
+ 
+TEW: Strange inserted at 2b in the 7th
+CEN: Klesko inserted at 1b in the 7th
+     Boggs batted for Klesko in the 7th
+     Martinez,F batted for Fernandez in the 7th
+     Phillips,T batted for Frye in the 7th
+     Jefferson inserted at 1b in the 8th
+     Martinez,F moved to ss in the 8th
+     Phillips,T moved to 2b in the 8th
+     Magadan batted for Naehring in the 8th
+     Magadan moved to 3b in the 9th
+     O'Brien batted for Thomson in the 9th
+ 
+E-Ramirez, McMillon, Martinez,F. 2B-Hayes, Frye. HR-Cromer(2), Strange(2), 
+Hundley(3). K-Greer, Erstad, Sanders,R 3, Hayes, Telford, Fernandez, Frye, 
+Ramirez, Clark, Hundley, White,G. BB-Mayne 2, Williams,Be, Naehring, Clark, 
+Hundley, Martinez,F. 
+GWRBI: Delgado,C
+Temperature: 70, Wind: none.
+
+....................................................................................................
+10/14/1997, TEW97-CEN97, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Bobs              4  0  0  1  1  0  0  2  0     8 13  0     6  2
+1997 Atoms             0  3  0  0  0  0  1  0  0     4  6  3     5  0
+ 
+ 
+Bobs                 -----A------ -----B------ -----C------ -----D------ -----E------
+Greer             lf 1>S            9            note 1       k            1/L       
+Erstad            cf   S.1-2        43           S.1-2        k          9>S         
+Delgado,C         1b   note 2     3>7            6/L        7>Osuna        S.1x3(95) 
+                                                              3                      
+Sanders,R         rf   k            k          5>7            8            k         
+Cromer            2b   5            S            HR           9                      
+ Telford          p                                                        k         
+Hayes             3b   note 3       43           Reed,S     8>Orosco                 
+                                                 k            5/fl                   
+Mayne             c    S.3-H      4>W            W            43                     
+Clayton           ss   8            S.1-3        3/g          Thomson                
+                                                              e6.B-1                 
+Alvarez           p  2>9            5          6>3/g                                 
+ Strange          2b                                          HR.1-H                 
+ 
+ 1: S.3-H;1x3(85)  2: S.2-H;1-H(e9/th);B-2  3: D.2-H;B-3(e7) 
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Fernandez         ss 1>6          3>63           k            Telford                
+ Martinez,F       ph                                          W.2-3;1-2              
+Frye              2b   53           D          5>k                                   
+ Phillips,T       ph                                          note 1                 
+Williams,Be       cf   7            W            63           63                     
+Ramirez           rf 2>S            3            k(23)      8>53                     
+McMillon          lf   S.1-2        53         6>S            43                     
+Naehring          3b   6          4>W            note 2                              
+ Magadan          ph                                          63                     
+Clark             1b   8            W.1-2        k                                   
+ Osuna            p                                                                  
+ Jefferson        1b                                        9>7                      
+Hundley           c    HR.2-H;1-H   k          7>W            9                      
+White,G           p    6            k                                                
+ Reed,S           p                                                                  
+ Klesko           1b                                                                 
+ Boggs            ph                             S.1-2                               
+ Orosco           p                                                                  
+ Thomson          p                                                                  
+ O'Brien          ph                                          63                     
+ 
+ 1: 643/gdp.3-H;2-3  2: 6/ldp.1x1(63) 
+ 
+ 
+Bobs             IN OUT ER                  Atoms            IN OUT ER                  
+Alvarez          A1  C9  4 W 1-0            White,G          A1  C5  5 L 0-1            
+Telford          D1  D9  0 S 1              Reed,S           C6  D2  0                  
+                                            Osuna            D3  D5  0                  
+                                            Orosco           D6  D7  0                  
+                                            Thomson          D8  E5  0                  
+
+....................................................................................................
+10/14/1997, TEW97-CEN97, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1997 Bobs              4  0  0  1  1  0  0  2  0     8 13  0     6  2
+1997 Atoms             0  3  0  0  0  0  1  0  0     4  6  3     5  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Bobs batting
+ 0-0  0 --- 12  Greer lined a single to shallow center (CCFBX)
+ 0-0  0 1-- 31  Erstad lined a single to shallow left, Greer to second 
+                  (BBFBX)
+ 0-0  0 12- 32  Delgado,C lined a single between first and second, Greer 
+                  scored, Erstad scored on an error by the right fielder 
+                  Ramirez, Delgado,C to second (BCBBFFX)
+ 2-0  0 -2- 32  Sanders,R struck out (SFBFBBS)
+ 2-0  1 -2- 22  Cromer popped out to third (FSBBFX)
+ 2-0  2 -2- 22  Hayes doubled deep to left, Delgado,C scored, Hayes to 
+                  third on an error by the left fielder McMillon (BFBSX)
+ 3-0  2 --3 12  Mayne grounded a single up the middle, Hayes scored (CFBX)
+ 4-0  2 1-- 10  Clayton lined out to center (BX)
+ 
+**************  Bottom of the 1st inning, Atoms batting
+ 4-0  0 --- 10  Fernandez popped out to short (BX)
+ 4-0  1 --- 32  Frye grounded out to third (BBCBFX)
+ 4-0  2 --- 00  Williams,Be flied out to left (X)
+ 
+**************  Top of the 2nd inning, Bobs batting
+ 4-0  0 --- 11  Alvarez flied out to right (BCX)
+ 4-0  1 --- 00  Greer flied out to right (X)
+ 4-0  2 --- 00  Erstad grounded out to second (X)
+ 
+**************  Bottom of the 2nd inning, Atoms batting
+ 4-0  0 --- 10  Ramirez grounded a single between first and second (BX)
+ 4-0  0 1-- 32  McMillon grounded a single up the middle, Ramirez to 
+                  second (BCBFBX)
+ 4-0  0 12- 10  Naehring popped out to short (BX)
+ 4-0  1 12- 01  Clark lined out to center (CX)
+ 4-0  2 12- 10  Hundley homered deep to left, Ramirez scored, McMillon 
+                  scored (BX)
+ 4-3  2 --- 11  White,G popped out to short (CBX)
+ 
+**************  Top of the 3rd inning, Bobs batting
+ 4-3  0 --- 12  Delgado,C flied out to left (CBCX)
+ 4-3  1 --- 12  Sanders,R struck out (CCBS)
+ 4-3  2 --- 11  Cromer reached on an infield single to short (FBX)
+ 4-3  2 1-- 00  Hayes grounded out to second (X)
+ 
+**************  Bottom of the 3rd inning, Atoms batting
+ 4-3  0 --- 22  Fernandez grounded out to short (BSBSX)
+ 4-3  1 --- 32  Frye doubled deep to left (BFFFFBFBFX)
+ 4-3  1 -2- 30  Williams,Be walked (BBBB)
+ 4-3  1 12- 10  Ramirez popped out to first (BX)
+ 4-3  2 12- 00  McMillon grounded out to third (X)
+ 
+**************  Top of the 4th inning, Bobs batting
+ 4-3  0 --- 32  Mayne walked (BCBFBB)
+ 4-3  0 1-- 00  Clayton singled down the right field line, Mayne to third 
+                  (X)
+ 4-3  0 1-3 00  Alvarez popped out to third (X)
+ 4-3  1 1-3 21  Greer grounded a single up the middle, Mayne scored, 
+                  Clayton out at third (1CBBX)
+ 5-3  2 1-- 12  Erstad lined a single to shallow right, Greer to second 
+                  (BFFX)
+ 5-3  2 12- 01  Delgado,C lined out to short (CX)
+ 
+**************  Bottom of the 4th inning, Atoms batting
+ 5-3  0 --- 31  Naehring walked (BBBCB)
+ 5-3  0 1-- 31  Clark walked, Naehring to second (SBBBB)
+ 5-3  0 12- 22  Hundley struck out (BCBCS)
+ 5-3  1 12- 02  White,G struck out (FSS)
+ 5-3  2 12- 32  Fernandez struck out (BBBCF>S)
+ 
+**************  Top of the 5th inning, Bobs batting
+ 5-3  0 --- 32  Sanders,R flied out to left (SFBBBX)
+ 5-3  1 --- 20  Cromer homered deep to left center (BBX)
+                Reed,S now pitching
+ 6-3  1 --- 32  Hayes struck out (BBFBCS)
+ 6-3  2 --- 30  Mayne walked (BBBB)
+ 6-3  2 1-- 20  Clayton grounded out to first (BBX)
+ 
+**************  Bottom of the 5th inning, Atoms batting
+ 6-3  0 --- 02  Frye struck out (FFS)
+ 6-3  1 --- 32  Williams,Be grounded out to short (FBSBBX)
+ 6-3  2 --- 22  Ramirez struck out, Mayne to Delgado,C (BBSCFS)
+ 
+**************  Top of the 6th inning, Bobs batting
+ 6-3  0 --- 12  Alvarez grounded out to first (SCBX)
+ 6-3  1 --- 12  Greer struck out (BFCS)
+ 6-3  2 --- 32  Erstad struck out (BBCCBC)
+ 
+**************  Bottom of the 6th inning, Atoms batting
+ 6-3  0 --- 20  McMillon lined a single to shallow left (BBX)
+ 6-3  0 1-- 22  Naehring lined into a double play, Clayton to Delgado,C, 
+                  McMillon out at first (BBCSFX)
+ 6-3  2 --- 22  Clark struck out (BFBFC)
+ 
+**************  Top of the 7th inning, Bobs batting
+                Klesko now playing first base
+                Osuna now pitching
+ 6-3  0 --- 12  Delgado,C popped out to first (BCFX)
+ 6-3  1 --- 10  Sanders,R flied out to center (BX)
+ 6-3  2 --- 10  Cromer flied out to right (BX)
+ 
+**************  Bottom of the 7th inning, Atoms batting
+ 6-3  0 --- 32  Hundley walked (FCBBBB)
+                Boggs pinch hitting for Klesko
+ 6-3  0 1-- 01  Boggs grounded a single between third and short, Hundley 
+                  to second (SX)
+                Strange now playing second base
+                Telford now pitching
+                Martinez,F pinch hitting for Fernandez
+ 6-3  0 12- 31  Martinez,F walked, Hundley to third, Boggs to second 
+                  (CBBBB)
+                Phillips,T pinch hitting for Frye
+ 6-3  0 123 12  Phillips,T grounded into a double play, Clayton to 
+                  Strange to Delgado,C, Hundley scored, Boggs to third 
+                  (FBFX)
+ 6-4  2 --3 12  Williams,Be grounded out to short (CSBX)
+ 
+**************  Top of the 8th inning, Bobs batting
+                Jefferson now playing first base
+                Orosco now pitching
+                Martinez,F moved to shortstop
+                Phillips,T moved to second base
+ 6-4  0 --- 10  Hayes popped out to third (BX)
+ 6-4  1 --- 11  Mayne grounded out to second (BSX)
+                Thomson now pitching
+ 6-4  2 --- 00  Clayton to first on an error by the shortstop Martinez,F 
+                  (X)
+ 6-4  2 1-- 12  Strange homered deep to right, Clayton scored (CBSX)
+ 8-4  2 --- 11  Greer lined out to the mound (BCX)
+ 
+**************  Bottom of the 8th inning, Atoms batting
+ 8-4  0 --- 20  Ramirez grounded out to third (BBX)
+ 8-4  1 --- 02  McMillon grounded out to second (CFFX)
+                Magadan pinch hitting for Naehring
+ 8-4  2 --- 32  Magadan grounded out to short (BBCFFBX)
+ 
+**************  Top of the 9th inning, Bobs batting
+                Magadan moved to third base
+ 8-4  0 --- 11  Erstad grounded a single up the middle (CBX)
+ 8-4  0 1-- 22  Delgado,C grounded a single between first and second, 
+                  Erstad out at third (BBCSX)
+ 8-4  1 1-- 02  Sanders,R struck out (FSC)
+ 8-4  2 1-- 12  Telford struck out (SSBC)
+ 
+**************  Bottom of the 9th inning, Atoms batting
+ 8-4  0 --- 20  Jefferson lined out to left (BBX)
+ 8-4  1 --- 00  Hundley flied out to right (X)
+                O'Brien pinch hitting for Thomson
+ 8-4  2 --- 00  O'Brien grounded out to short (X)
+
+----------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+                  LIMITS:   125    125    105
+----------------------------------------------------------------------------------------------------
+
+                             Playoff Team Status -- 1997 Tewksbury Bobs                             
+                               Divisional playoff -- as of 10/14/1997                               
+
+S Name                    Usage     PA     PA Days 
+  Tripp Cromer                8      8     95    0 
+  Brent Mayne                 6     17    282    0 
+  Reggie Sanders              6     20    358    0 
+  Micah Franklin              5      2     37    0 
+  Doug Strange                4     16    372    0 
+  Darin Erstad                3     21    605    0 
+  Rusty Greer                 3     21    690    0 
+  Kevin Orie                  3     12    418    0 
+  Carlos Delgado              3     16    595    0 
+  Charlie Hayes               2      8    398    0 
+  Royce Clayton               2     10    619    0 
+  Jim Leyritz                 1      4    456    0 
+d Nomar Garciaparra           0      3    734   12 
+  Derek Bell                  0      2    547    0 
+  Chili Davis                 0      2    567    0 
+  Bernard Gilkey              0      2    606    0 
+f Luis Gonzalez               0      0    631    0 
+f Mike Kelly                  0      0    151    0 
+f Kevin Sefcik                0      0    131    0 
+f Eric Owens                  0      0     61    0 
+f Chris Widger                0      0    305    0 
+f Andy Fox                    0      0     40    0 
+f Ryne Sandberg               0      0    480    0 
+f John Flaherty               0      0    476    0 
+f John Marzano                0      0     96    0 
+  Total                            164   9750      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/14  10/13  10/12  10/11  10/10 
+f Marc Pisciotta              8    2   24    0 10/13/1997            3r                  34r 
+  Ben McDonald                5    1   21    0 10/13/1997          127s                      
+  Alan Benes                  4    1   23    0 10/11/1997                        100s        
+  Anthony Telford             3    2   65    0 10/14/1997    32r                  19r        
+  Rick Reed                   3    1   33    0 10/10/1997                                94s 
+  Wilson Alvarez              3    1   33    0 10/14/1997   109s                             
+  Darren Dreifort             2    1   48    0 10/10/1997                                44r 
+  John Wetteland              2    1   61    0 10/10/1997                                24r 
+f Matt Mantei                 0    0    0    0                                               
+f Tom Candiotti               0    0   41    0                                               
+  Marc Valdes                 0    0   48    0  9/24/1997                                    
+f Bob Tewksbury               0    0   26    0  9/28/1997                                    
+f Joe Borowski                0    0   21    0  9/24/1997                                    
+f Derek Lowe                  0    0   20    0   9/7/1997                                    
+f Donne Wall                  0    0    8    0   9/5/1997                                    
+f Russ Springer               0    0   54    0  6/28/1997                                    
+f Keith Foulke                0    0   27    0  7/27/1997                                    
+f Bobby Jones                 0    0   30    0  9/25/1997                                    
+  Cory Lidle                  0    0   54    0  9/23/1997                                    
+f Bob Patterson               0    0   76    0  9/13/1997                                    
+f Jim Bruske                  0    0   28    0  9/28/1997                                    
+f Mike Thurman                0    0    5    0  9/22/1997                                    
+f Ken Cloude                  0    0   10    0  9/27/1997                                    
+  Total                            4  227                                                    
+
+
+                           Playoff Team Status -- 1997 Barcelona Brewers                            
+                               Divisional playoff -- as of 10/14/1997                               
+
+S Name                    Usage     PA     PA Days 
+f Jerome Walton              27     20     74    0 
+  Magglio Ordonez            23     17     73    6 
+f Shane Mack                 23     33    146    0 
+  Robin Ventura              16     36    220    0 
+  Javier Lopez               10     48    464    0 
+  Omar Vizquel                8     54    642    0 
+  Mark McLemore               8     33    399    0 
+  Mo Vaughn                   8     49    628    0 
+  Dave Martinez               6     37    573    0 
+  Orlando Merced              6     25    420    0 
+  Brian Lesher                6      8    142    0 
+  Jesse Levis                 5     12    232    0 
+  Russ Davis                  4     16    455    0 
+  Carlos Baerga               3     14    498    0 
+  Brady Anderson              1      7    696    0 
+f Frank Catalanotto           0      0     29    0 
+f Raul Ibanez                 0      0     26    0 
+f Jason McDonald              0      0    276    0 
+f Scott Servais               0      0    425    0 
+f John Wehner                 0      0     40    0 
+f Matt Mieske                 0      0    273    0 
+d Kevin Polcovich             0      0    279    6 
+f Cecil Fielder               0      0    425    0 
+f Randy Knorr                 0      0      8    0 
+f Hanley Frias                0      0     27    0 
+f Bob Natal                   0      0      7    0 
+f Billy Ashley                0      0    140    0 
+f Darnell Coles               0      0     23    0 
+f Matt Lawton                 0      0    548    0 
+f Kevin Jordan                0      0    183    0 
+  Total                            409   8371      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/14  10/13  10/12  10/11  10/10 
+f Willie Banks               20    1    5    0  9/30/1997                                    
+f Billy Brewer               18    5   28    0 10/14/1997    18r                  34r     3r 
+  Erik Plantenberg           17    6   35    0 10/14/1997     3r    18r                  24r 
+  Pedro J. Martinez          13    4   31    0 10/13/1997          131s                      
+  Andy Benes                 12    3   26    0 10/11/1997                         81s        
+  Curt Schilling             11    4   35    0 10/14/1997    48s                         44s 
+  Frank Rodriguez             9    4   43    0 10/14/1997    35r                         71r 
+f Jose Cabrera                8    1   12    0  10/3/1997                                    
+  Mike Timlin                 8    5   64    0 10/11/1997                         12r        
+  Mike DeJean                 7    4   55    0 10/14/1997    16r                         36r 
+  Jerry DiPoto                7    5   74    0 10/14/1997    38r                         19r 
+  Paul Spoljaric              2    1   57    0 10/14/1997    16r                             
+f Dave Burba                  0    0   30    0  9/28/1997                                    
+f Dave Mlicki                 0    0   32    0  9/26/1997                                    
+f Carlos Almanzar             0    0    4    0  9/22/1997                                    
+f Ken Robinson                0    0    3    0  5/12/1997                                    
+f Rafael Carmona              0    0    4    0   5/7/1997                                    
+f John Ericks                 0    0   10    0   8/7/1997                                    
+f Mike Bielecki               0    0   50    0  9/28/1997                                    
+  Total                           11  167                                                    
+
+
+                           Playoff Team Status -- 1997 Baraboo GoiterMen                            
+                               Divisional playoff -- as of 10/14/1997                               
+
+S Name                    Usage     PA     PA Days 
+  Jon Nunnally                8     20    266    0 
+  Bill Spiers                 6     20    355    0 
+  Sandy Alomar Jr.            4     18    480    0 
+  Tony Gwynn                  3     20    651    0 
+  Aaron Ledesma               3      3    104    0 
+  Kenny Lofton                3     16    564    0 
+  Jeff Bagwell                3     20    717    0 
+  Jeff Blauser                3     17    623    0 
+  Todd Zeile                  3     17    672    0 
+  Juan Samuel                 2      2    108    0 
+  Jack Voigt                  1      1    174    0 
+  Chad Curtis                 0      2    408    0 
+  Jeff Kent                   0      0    651    0 
+f Rich Aurilia                0      0    113    0 
+  Mark Smith                  0      0    222    0 
+f Tony Graffanino             0      0    221    0 
+f Matt Walbeck                0      0    151    0 
+  Jorge Posada                0      0    224    0 
+f Fernando Tatis              0      0    241    0 
+f Rob Ducey                   0      0    151    0 
+f Brian Johnson               0      0    348    0 
+f Brett Butler                0      0    401    0 
+f Bob Hamelin                 0      0    370    0 
+f David Howard                0      0    177    0 
+f Pat Kelly                   0      0    138    0 
+f Josh Booty                  0      0      6    0 
+f Jim Eisenreich              0      0    331    0 
+  Total                            156   8867      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/14  10/13  10/12  10/11  10/10 
+f Jeremi Gonzalez             9    2   23    0 10/14/1997    30r                  25r        
+f Kevin Tapani                8    1   13    0 10/14/1997   120s                             
+  Justin Thompson             3    1   32    0 10/10/1997                                95s 
+  Shawn Estes                 3    1   32    0 10/13/1997          110s                      
+  Scott Erickson              3    1   34    0 10/11/1997                         91s        
+  Mike Jackson                3    2   71    0 10/13/1997           11r           32r        
+  Jeff Montgomery             2    1   55    0 10/11/1997                         30r        
+  Eric Gunderson              2    1   60    0 10/10/1997                                38r 
+  Randy Myers                 2    1   61    0 10/13/1997           10r                      
+f Butch Henry                 0    0   36    0  9/13/1997                                    
+  Trevor Hoffman              0    0   70    0  9/26/1997                                    
+f Ricky Bones                 0    0   30    0  9/26/1997                                    
+f Bobby Chouinard             0    0    0    0                                               
+f Doug Johns                  0    0    0    0                                               
+f Brian Williams              0    0   13    0  9/13/1997                                    
+f A.J. Sager                  0    0   38    0  9/25/1997                                    
+f Brian Boehringer            0    0   34    0  9/28/1997                                    
+f C. J. Nitkowski             0    0    0    0                                               
+f John Wasdin                 0    0   53    0  9/28/1997                                    
+f Jeff Juden                  0    0   30    0  9/26/1997                                    
+f Mike Munoz                  0    0   64    0  9/28/1997                                    
+f Kevin Foster                0    0   26    0  9/28/1997                                    
+f Bill VanLandingham          0    0   18    0  9/27/1997                                    
+  Total                            4  228                                                    
+
+
+                             Playoff Team Status -- 1997 Century Atoms                              
+                               Divisional playoff -- as of 10/14/1997                               
+
+S Name                    Usage     PA     PA Days 
+f Billy McMillon             10     10     99    0 
+  Dave Magadan               10     33    328    0 
+  Todd Hundley                8     41    508    0 
+  Felix Martinez              8      3     38    0 
+  Bernie Williams             7     43    591    0 
+  Jeff Frye                   7     30    442    0 
+  Ryan Klesko                 6     31    525    0 
+  Tony Phillips               5     32    648    0 
+  Manny Ramirez               5     32    651    0 
+f Jeff Branson                5      9    188    0 
+f Mike Blowers                5      8    177    0 
+  Tim Naehring                4     12    301    0 
+  Reggie Jefferson            3     18    524    0 
+  Tony Fernandez              3     15    442    0 
+  Wade Boggs                  3     13    407    0 
+  Tony Clark                  3     21    681    0 
+  Charlie O'Brien             3      7    267    0 
+f Sean Casey                  0      0     12    0 
+f Damian Jackson              0      0     42    0 
+f Kelly Stinnett              0      0     39    0 
+f Homer Bush                  0      0     11    0 
+f Kevin Elster                0      0    164    0 
+f Eduardo Perez               0      0    330    0 
+f Pete Incaviglia             0      0    169    0 
+f Todd Dunwoody               0      0     58    0 
+f Randall Simon               0      0     15    0 
+f Hensley Meulens             0      0     29    0 
+f Ray Montgomery              0      0     76    0 
+f Jack Howell                 0      0    191    0 
+f Mike Benjamin               0      0    123    0 
+f Chris Jones                 0      0    172    0 
+  Total                            358   8248      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/14  10/13  10/12  10/11  10/10 
+f Gabe White                 17    2   12    0 10/14/1997    85s                             
+  Rich DeLucia               17    6   36    0 10/13/1997           23r                  38r 
+  Antonio Osuna              10    5   48    0 10/14/1997     8r     9r                  44r 
+  Ismael Valdes              10    3   30    0 10/10/1997                                98s 
+  Jesse Orosco               10    7   71    0 10/14/1997     5r     5r            6r    29r 
+  Brad Radke                  9    3   35    0 10/11/1997                        127s        
+  John Thomson                7    2   27    0 10/14/1997    23r                             
+  Francisco Cordova           7    2   29    0 10/13/1997           81s                      
+  Steve Reed                  6    4   63    0 10/14/1997    27r                   4r        
+  Todd Jones                  6    4   68    0 10/13/1997           22r                  33r 
+f Pat Hentgen                 0    0   35    0  9/24/1997                                    
+f Jeff Nelson                 0    0   77    0  9/28/1997                                    
+f Juan Guzman                 0    0   13    0  9/22/1997                                    
+f Mike Fetters                0    0   51    0                                               
+f Mike Grace                  0    0    6    0                                               
+f Scott Aldred                0    0   17    0                                               
+  Total                            9  196                                                    

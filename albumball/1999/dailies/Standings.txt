@@ -1,0 +1,104 @@
+                               League standings -- Seven More Minutes                               
+                                           Regular season                                           
+
+Team                          W    L   Pct      GB     L10 Strk Recent        RF   RA  Mgn  Mgc  pW  pPct 
+J U M P I N G
+Tewksbury Bobs              106   56  .654       -     7-3   L1 lwwwwwwwll  1008  784  224    0 101  .623 
+Barcelona Brewers            96   66  .593      10     7-3   W3 wwwlwwllww   851  680  171       99  .610 
+Ferlin Huskies               88   74  .543      18     7-3   W1 wlllwwwwww   820  748   72       88  .546 
+Ferdinand Magellans          83   79  .512      23     1-9   L8 llllllllwl   874  836   38       85  .522 
+Felldownhead Firsts          69   93  .426      37     8-2   W1 wlwwwwwlww   811  910  -99       72  .443 
+                                                                                                          
+C R U I S E
+McCullers Lancers           116   46  .716       -     6-4   L1 lwlwllwwww  1081  713  368    0 113  .697 
+Newport Never Nudes          76   86  .469      40     4-6   W1 wlwlwllllw  1004 1088  -84       75  .460 
+Rocky Mountain Oysters       75   87  .463      41     8-2   W2 wwlwwwwwwl   810  895  -85       73  .450 
+Cincinnati Reds              69   93  .426      47     4-6   L1 lwlwlllwwl   822  878  -56       76  .467 
+Fallkirk Frightened Rabbit   48  114  .296      68     2-8   L2 llwllwllll   668 1066 -398       46  .282 
+                                                                                                          
+B A R C E L O N A
+Chinatrust Whales           110   52  .679       -     7-3   W1 wlwwwlwwlw  1088  758  330    0 109  .673 
+Garmisch-Parten Shebazzle!  100   62  .617      10     5-5   L1 lwlwlwlwlw   964  760  204      100  .617 
+Century Atoms                93   69  .574      17     5-5   L1 lwllwwwwll   964  854  110       91  .560 
+Okoboji Cropdusters          64   98  .395      46     7-3   W1 wlwlwwlwww   737  963 -226       60  .369 
+Tarboro Goobers              61  101  .377      49     2-8   L2 llwlllwlll   760 1021 -261       58  .357 
+                                                                                                          
+G O O D B Y E
+Baraboo GoiterMen           110   52  .679       -     4-6   W1 wlwlllwllw   971  695  276    0 107  .661 
+Dún Laoghaire Messiahs       77   85  .475      33     6-4   W2 wwlwlwwlwl   812  858  -46       77  .472 
+Newfoundland Perfectos       61  101  .377      49     2-8   L4 llllwllllw   749  966 -217       61  .375 
+Evanston Endorphins          60  102  .370      50     4-6   L1 lwlwlllwwl   774  856  -82       73  .450 
+French Lick Linguists        58  104  .358      52     4-6   W4 wwwwllllll   707  946 -239       58  .358 
+
+
+
+Year Team                            W    L   Pct      GB     L10 Strk Recent        Mgc 
+1999 McCullers Lancers             116   46  .716      na     6-4   L1 lwlwllwwww        
+1999 Chinatrust Whales             110   52  .679      na     7-3   W1 wlwwwlwwlw        
+1999 Baraboo GoiterMen             110   52  .679      na     4-6   W1 wlwlllwllw        
+1999 Tewksbury Bobs                106   56  .654      na     7-3   L1 lwwwwwwwll        
+1999 Garmisch-Parten Shebazzle!    100   62  .617       -     5-5   L1 lwlwlwlwlw      0 
+1999 Barcelona Brewers              96   66  .593       4     7-3   W3 wwwlwwllww        
+1999 Century Atoms                  93   69  .574       7     5-5   L1 lwllwwwwll        
+1999 Ferlin Huskies                 88   74  .543      12     7-3   W1 wlllwwwwww        
+1999 Ferdinand Magellans            83   79  .512      17     1-9   L8 llllllllwl        
+1999 Dún Laoghaire Messiahs         77   85  .475      23     6-4   W2 wwlwlwwlwl        
+1999 Newport Never Nudes            76   86  .469      24     4-6   W1 wlwlwllllw        
+1999 Rocky Mountain Oysters         75   87  .463      25     8-2   W2 wwlwwwwwwl        
+1999 Cincinnati Reds                69   93  .426      31     4-6   L1 lwlwlllwwl        
+1999 Felldownhead Firsts            69   93  .426      31     8-2   W1 wlwwwwwlww        
+1999 Okoboji Cropdusters            64   98  .395      36     7-3   W1 wlwlwwlwww        
+1999 Newfoundland Perfectos         61  101  .377      39     2-8   L4 llllwllllw        
+1999 Tarboro Goobers                61  101  .377      39     2-8   L2 llwlllwlll        
+1999 Evanston Endorphins            60  102  .370      40     4-6   L1 lwlwlllwwl        
+1999 French Lick Linguists          58  104  .358      42     4-6   W4 wwwwllllll        
+1999 Fallkirk Frightened Rabbit     48  114  .296      52     2-8   L2 llwllwllll        
+                               League standings -- Seven More Minutes                               
+                                           Regular season                                           
+
+Year Team                           Home    Road   Grass    Turf   vsLHP   vsRHP    Div   InterLg 
+1999 McCullers Lancers             60-21   56-25   44-20   72-26    29-8   87-38    33-9          
+1999 Chinatrust Whales             55-26   55-26   95-45    15-7   25-15   85-37   27-15          
+1999 Baraboo GoiterMen             62-19   48-33   98-42   12-10   28-10   82-42    33-9          
+1999 Tewksbury Bobs                59-22   47-34   94-48    12-8   35-11   71-45   28-14          
+1999 Garmisch-Parten Shebazzle!    52-29   48-33   86-55    14-7   33-11   67-51   28-14          
+1999 Barcelona Brewers             54-27   42-39   87-55    9-11   27-16   69-50   25-17          
+1999 Century Atoms                 48-33   45-36   36-29   57-40   15-20   78-49   23-19          
+1999 Ferlin Huskies                51-30   37-44   79-63    9-11   18-19   70-55   18-24          
+1999 Ferdinand Magellans           43-38   40-41   72-70    11-9   19-21   64-58   21-21          
+1999 Dún Laoghaire Messiahs        41-40   36-45   31-33   46-52   21-20   56-65   26-16          
+1999 Newport Never Nudes           42-39   34-47   66-73   10-13   18-24   58-62   24-18          
+1999 Rocky Mountain Oysters        46-35   29-52   67-73    8-14   23-18   52-69   20-22          
+1999 Cincinnati Reds               43-38   26-55   23-41   46-52   18-23   51-70   16-26          
+1999 Felldownhead Firsts           42-39   27-54   60-82    9-11   14-24   55-69   13-29          
+1999 Okoboji Cropdusters           39-42   25-56   59-82    5-16   13-23   51-75   12-30          
+1999 Newfoundland Perfectos        34-47   27-54   56-83    5-18   14-26   47-75   12-30          
+1999 Tarboro Goobers               31-50   30-51   51-90   10-11   17-29   44-72   15-27          
+1999 Evanston Endorphins           33-48   27-54   50-89   10-13   16-24   44-78   15-27          
+1999 French Lick Linguists         31-50   27-54   21-43   37-61   13-31   45-73   19-23          
+1999 Fallkirk Frightened Rabbit    28-53   20-61   40-99    8-15   15-28   33-86   12-30          
+
+
+
+Year Team                          Lead7   Tied7   Trail7  1-run   Extra  
+1999 McCullers Lancers              92-2    14-5   10-39   23-16    12-1  
+1999 Chinatrust Whales              95-4    10-4    5-44   27-15    9-4   
+1999 Baraboo GoiterMen              89-2    10-5   11-45   24-13    8-4   
+1999 Tewksbury Bobs                 94-0    3-8     9-48   24-12    6-7   
+1999 Garmisch-Parten Shebazzle!     81-6    9-7    10-49   18-18    5-3   
+1999 Barcelona Brewers              81-6    6-7     9-53   26-24    5-4   
+1999 Century Atoms                  82-6    6-12    5-51   27-20    8-6   
+1999 Ferlin Huskies                 68-7   12-10    8-57   31-27    15-9  
+1999 Ferdinand Magellans           65-12    8-8    10-59   20-24    11-7  
+1999 Dún Laoghaire Messiahs         59-9    11-9    7-67   30-20    6-7   
+1999 Newport Never Nudes           58-12    11-4    7-70   28-25    8-7   
+1999 Rocky Mountain Oysters         59-4    8-7     8-76   26-24    6-8   
+1999 Cincinnati Reds               56-11    5-11    8-71   20-25    7-15  
+1999 Felldownhead Firsts           53-11    8-4     8-78   20-30    6-8   
+1999 Okoboji Cropdusters            51-9    7-4     6-85   17-24    5-11  
+1999 Newfoundland Perfectos        49-12    8-9     4-80   15-32    6-12  
+1999 Tarboro Goobers                47-7    6-7     8-87   19-21    6-11  
+1999 Evanston Endorphins           50-12    4-17    6-73   15-36    5-10  
+1999 French Lick Linguists         43-10    7-11    8-83   26-24   10-10  
+1999 Fallkirk Frightened Rabbit    35-11    7-11    6-92   19-25    9-9   
+

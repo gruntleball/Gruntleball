@@ -1,0 +1,849 @@
+Slanted and Enchanted League Playoffs
+Saturday, October 3, 1992
+
+-------------------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Streets           1  2  1  0  0  1  1  0  0     6 14  0     7  1
+1992 Messiahs          0  2  0  0  1  1  0  0  1     5 13  1     8  0
+Guzman (W,1-0), Maddux (L,0-1), Rojas (S,1)
+HR - Anthony (1)
+SB - Puckett (1), Mack (1), Van Slyke (1)
+Dun Laoghaire loses both the game and Nolan Ryan.  Edgar Martinez, as
+the potential tying run, gets picked off 1st base in the 9th.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Bobs              2  0  0  0  0  0  0  0  0     2  6  1     7  1
+1992 Magellans         1  0  0  2  0  0  0  2  x     5  7  0     5  1
+Perez,Me (W,1-0), Harvey (L,0-1), Ward,D (S,1)
+HR - Bonds (1), Velarde (1)
+SB - Bonds (1)
+Chris Bosio also leaves early with an injury, but can be back for Game 3.
+Barry Bonds doubles and homers, scoring twice, because that's what he does.
+
+-------------------------------------------------------------------------------------------
+STANDINGS
+-------------------------------------------------------------------------------------------
+
+Houston and Dun Laoghaire tied 1-1
+Tewksbury and Ferdinand tied 1-1
+
+-------------------------------------------------------------------------------------------
+CURRENT INJURIES
+-------------------------------------------------------------------------------------------
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/3/1992  TEW     Bosio            General             10/4/1992     1    1 ***
+9/16/1992  DLM     Abbott,J         General             10/7/1992    21    4 
+9/18/1992  FER     Hoiles           General             10/13/1992   25   10 
+9/15/1992  DLM     Olson            Brawl               10/13/1992   28   10 
+10/3/1992  DLM     Ryan,N           General             10/19/1992   16   16 ***
+9/29/1992  FER     Gordon           General             10/22/1992   23   19 
+
+-------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+-------------------------------------------------------------------------------------------
+
+10/3/1992, HOU92-DLM92, Fulton County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Streets           1  2  1  0  0  1  1  0  0     6 14  0     7  1
+1992 Messiahs          0  2  0  0  1  1  0  0  1     5 13  1     8  0
+ 
+Streets              AB  R  H BI   AVG    Messiahs             AB  R  H BI   AVG
+Alomar,R          2b  4  0  1  1  .250    Henderson,R       lf  5  2  3  0  .375       
+Puckett           cf  5  1  2  0  .222    Miller            2b  4  1  1  1  .250       
+McGriff           1b  4  0  1  1  .375    Martinez,E        1b  5  0  2  1  .333       
+Mack              rf  5  1  2  1  .222     Franco           pr  0  0  0  0  .000       
+Anthony           lf  4  1  1  1  .250    Van Slyke         cf  4  0  1  0  .250       
+Gomez             3b  3  1  3  1  .667    Winfield          rf  4  1  1  0  .250       
+Gedman            c   3  1  1  0  .167    Tettleton         c   4  1  2  2  .500       
+ Henry,Dw         p   1  0  1  0 1.000    Pendleton         3b  4  0  1  0  .375       
+ Rojas            p   0  0  0  0  .000    Ripken,C          ss  4  0  1  0  .143       
+Lee               ss  3  0  1  1  .333    Ryan,N            p   0  0  0  0  .000       
+Guzman,Ju         p   2  0  0  0  .000     Maddux,M         p   1  0  1  1 1.000       
+ Berryhill        c   2  1  1  0  .500     Mills            p   0  0  0  0  .000       
+                     36  6 14  6           Blankenship      ph  1  0  0  0  .200       
+                                           Fetters          p   0  0  0  0  .000       
+                                           Thompson,M       ph  1  0  0  0  .000       
+                                           Edens            p   0  0  0  0  .000       
+                                                               37  5 13  5             
+ 
+Streets                          INN  H  R ER BB  K PCH STR   ERA
+Guzman,Ju        W 1-0           5.2  9  4  4  3  5 105  63  6.35
+Henry,Dw         H 1             2.1  2  0  0  0  3  31  22  0.00
+Rojas            S 1             1.0  2  1  1  0  0  12   9  9.00
+                                 9.0 13  5  5  3  8 148  94 
+ 
+Messiahs                         INN  H  R ER BB  K PCH STR   ERA
+Ryan,N                           0.1  0  0  0  0  1   6   3  0.00
+Maddux,M         L 0-1           2.0  6  4  4  0  1  49  33 18.00
+Mills                            3.2  3  1  1  0  1  35  24  1.93
+Fetters                          2.0  4  1  1  0  2  32  22  4.50
+Edens                            1.0  1  0  0  0  0  20  12  0.00
+                                 9.0 14  6  6  0  5 142  94 
+ 
+HOU: Berryhill inserted at c in the 6th
+DLM: Blankenship batted for Mills in the 6th
+     Thompson,M batted for Fetters in the 8th
+     Franco ran for Martinez,E in the 9th
+ 
+E-Winfield. 2B-Lee, Henderson,R, Miller, Martinez,E, Winfield. HR-Anthony(1). 
+SB-Puckett(1), Mack(1), Van Slyke(1). CS-Gomez, Van Slyke. K-Alomar,R, 
+Puckett, Mack, Anthony, Berryhill, Miller, Martinez,E, Winfield 2, 
+Tettleton 2, Blankenship, Thompson,M. BB-Miller, Van Slyke, Mills. 
+SH-Alomar,R. SF-McGriff, Lee. HBP-Gomez. HB-Fetters. WP-Guzman,Ju 2, 
+Maddux,M. 
+GWRBI: Mack
+Nolan Ryan was injured for this game and 15 more days
+Temperature: 79, Field: wet, Sky: threatening, Wind: none, Rain Delays: 31
+ minutes.
+
+....................................................................................................
+10/3/1992, HOU92-DLM92, Fulton County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Streets           1  2  1  0  0  1  1  0  0     6 14  0     7  1
+1992 Messiahs          0  2  0  0  1  1  0  0  1     5 13  1     8  0
+ 
+ 
+Streets              -----A------ -----B------ -----C------ -----D------ -----E------
+Alomar,R          2b 1>k            S.3-H        43           14/SH.1-2  9>Edens     
+                                                                           13        
+Puckett           cf   Maddux,M     k          5>9            S.2-3        1/b       
+                       S                                                             
+McGriff           1b   SB2        3>8            53           note 1       S         
+                       31.2-3                                                        
+Mack              rf   S.3-H        S            k            43           43        
+Anthony           lf   SB2          Mills      6>HR         8>k                      
+                       43           53.1-2                                           
+Gomez             3b 2>S            S.2-H        S            HBP                    
+Gedman            c    S.1-2        8            CS2(26)                             
+                                                 8                                   
+ Henry,Dw         p                                           S.1x3(95)              
+ Rojas            p                                                                  
+Lee               ss   wp.2-3;1-2 4>63           1/L          D.1-3                  
+                       9/SF.3-H                                                      
+Guzman,Ju         p    43.2-3       63                                               
+ Berryhill        c                            7>Fetters      k                      
+                                                 S                                   
+ 
+ 1: 9/SF.3-H;1-3(e9/th) 
+ 
+ 
+Messiahs             -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson,R       lf 1>S            note 1       13           S          9>Rojas     
+                                                                           D         
+Miller            2b   k            8          5>W            Henry,Dw     8.2-3     
+                                                              D.1-H                  
+Martinez,E        1b   k          3>6            D.1-3        4            S.3-H     
+ Franco           pr                                                                 
+Van Slyke         cf   wp.1-2       W            9          7>S            PO1(13)   
+                       8                                                   43        
+Winfield          rf 2>D            k            4            CS2(24)                
+                                                              k                      
+Tettleton         c    S.2-H        SB2          S.3-H;2-3    k                      
+                                    wp.2-3                                           
+                                    k                                                
+Pendleton         3b   S.1-2      4>2/fl         3/g        8>4                      
+Ripken,C          ss   S.2-3;1-2    6          6>7            43                     
+Ryan,N            p                                                                  
+ Maddux,M         p    note 2                                                        
+ Mills            p                 W                                                
+ Blankenship      ph                             k                                   
+ Fetters          p                                                                  
+ Thompson,M       ph                                          k                      
+ Edens            p                                                                  
+ 
+ 1: 523/gdp.2-3;1-2  2: S.3-H;2-3;1-2 
+ 
+ 
+Streets          IN OUT ER                  Messiahs         IN OUT ER                  
+Guzman,Ju        A1  D1  4 W 1-0            Ryan,N           A1  A1  0                  
+Henry,Dw         D2  D9  0 H 1              Maddux,M         A2  B4  4 L 0-1            
+Rojas            E1  E4  1 S 1              Mills            B5  C8  1                  
+                                            Fetters          C9  D9  1                  
+                                            Edens            E1  E4  0                  
+
+....................................................................................................
+10/3/1992, HOU92-DLM92, Fulton County Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Streets           1  2  1  0  0  1  1  0  0     6 14  0     7  1
+1992 Messiahs          0  2  0  0  1  1  0  0  1     5 13  1     8  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Streets batting
+ 0-0  0 --- 32  Alomar,R struck out (BBCBFS)
+                Ryan,N left the game with an injury
+                Maddux,M now pitching
+ 0-0  1 --- 32  Puckett lined a single up the middle (BFBCBX)
+ 0-0  1 1-- 00  Puckett stole second (>C)
+ 0-0  1 -2- 02  McGriff grounded out to first, Puckett to third (>C.FX)
+ 0-0  2 --3 02  Mack grounded a single between first and second, Puckett 
+                  scored (CFX)
+ 1-0  2 1-- 11  Mack stole second (C1B>B)
+ 1-0  2 -2- 22  Anthony grounded out to second (C1B>B.FFX)
+ 
+**************  Bottom of the 1st inning, Messiahs batting
+ 1-0  0 --- 32  Henderson,R grounded a single up the middle (CBBBCX)
+ 1-0  0 1-- 22  Miller struck out (1C11BCF11B1C)
+ 1-0  1 1-- 12  Martinez,E struck out (CBF1C)
+ 1-0  2 1-- 00  Guzman,Ju threw a wild pitch, Henderson,R to second (1B)
+ 1-0  2 -2- 10  Van Slyke flied out to center (1B.X)
+ 
+**************  Top of the 2nd inning, Streets batting
+ 1-0  0 --- 21  Gomez grounded a single between first and second (BSBX)
+ 1-0  0 1-- 22  Gedman lined a single to shallow center, Gomez to second 
+                  (BBC1SX)
+ 1-0  0 12- 12  Maddux,M threw a wild pitch, Gomez to third, Gedman to 
+                  second (BFbSFFB)
+ 1-0  0 -23 22  Lee lined out to right, Gomez scored (BFbSFFB.X)
+ 2-0  1 -2- 00  Guzman,Ju grounded out to second, Gedman to third (X)
+ 2-0  2 --3 11  Alomar,R reached on an infield single to second, Gedman 
+                  scored (BFX)
+ 3-0  2 1-- 12  Puckett struck out (FBS11S)
+ 
+**************  Bottom of the 2nd inning, Messiahs batting
+ 3-0  0 --- 00  Winfield doubled deep to left center (X)
+ 3-0  0 -2- 02  Tettleton grounded a single up the middle, Winfield 
+                  scored (CSX)
+ 3-1  0 1-- 00  Pendleton lined a single to left, Tettleton to second (X)
+ 3-1  0 12- 12  Ripken,C lined a single to left, Tettleton to third, 
+                  Pendleton to second (BFCX)
+ 3-1  0 123 10  Maddux,M reached on an infield single to the pitcher, 
+                  Tettleton scored, Pendleton to third, Ripken,C to 
+                  second (BX)
+ 3-2  0 123 11  Henderson,R grounded into a double play, Gomez to Gedman 
+                  to McGriff, Ripken,C to third, Maddux,M to second (CBX)
+ 3-2  2 -23 01  Miller flied out to center (CX)
+ 
+**************  Top of the 3rd inning, Streets batting
+ 3-2  0 --- 11  McGriff flied out to center (CBX)
+ 3-2  1 --- 21  Mack reached on an infield single to second (BFBX)
+                Started raining
+                Mills now pitching
+ 3-2  1 1-- 00  Anthony grounded out to third, Mack to second (1X)
+ 3-2  2 -2- 00  Gomez lined a single between third and short, Mack scored 
+                  (X)
+ 4-2  2 1-- 00  Gedman flied out to center (1X)
+ 
+**************  Bottom of the 3rd inning, Messiahs batting
+ 4-2  0 --- 22  Martinez,E popped out to short (BSSBFFX)
+ 4-2  1 --- 32  Van Slyke walked (CBBFBFFB)
+ 4-2  1 1-- 22  Winfield struck out (CBFF11BS)
+                Game delayed by rain for 31 minutes
+ 4-2  2 1-- 10  Van Slyke stole second (B>B)
+ 4-2  2 -2- 20  Guzman,Ju threw a wild pitch, Van Slyke to third (B>B.B)
+ 4-2  2 --3 32  Tettleton struck out (B>B.B.CFS)
+ 
+**************  Top of the 4th inning, Streets batting
+ 4-2  0 --- 22  Lee grounded out to short (FBCBX)
+ 4-2  1 --- 01  Guzman,Ju grounded out to short (CX)
+ 4-2  2 --- 12  Alomar,R grounded out to second (CBFFX)
+ 
+**************  Bottom of the 4th inning, Messiahs batting
+ 4-2  0 --- 12  Pendleton popped out to the catcher (CBFX)
+ 4-2  1 --- 11  Ripken,C popped out to short (BFX)
+ 4-2  2 --- 31  Mills walked (BSBBB)
+ 4-2  2 1-- 20  Henderson,R grounded out to the mound (BBX)
+ 
+**************  Top of the 5th inning, Streets batting
+ 4-2  0 --- 00  Puckett flied out to right (X)
+ 4-2  1 --- 20  McGriff grounded out to third (BBX)
+ 4-2  2 --- 12  Mack struck out (BFSS)
+ 
+**************  Bottom of the 5th inning, Messiahs batting
+ 4-2  0 --- 31  Miller walked (BSBBB)
+ 4-2  0 1-- 00  Martinez,E doubled deep to right center, Miller to third 
+                  (>X)
+ 4-2  0 -23 12  Van Slyke flied out to right (BCSX)
+ 4-2  1 -23 21  Winfield popped out to second (BBCX)
+ 4-2  2 -23 22  Tettleton lined a single between first and second, Miller 
+                  scored, Martinez,E to third (SBFBX)
+ 4-3  2 1-3 00  Pendleton grounded out to first (X)
+ 
+**************  Top of the 6th inning, Streets batting
+ 4-3  0 --- 31  Anthony homered deep to right (CBBBX)
+ 5-3  0 --- 00  Gomez lined a single to shallow left (X)
+ 5-3  0 1-- 10  Gomez was caught stealing second (B>C)
+ 5-3  1 --- 11  Gedman flied out to center (B>C.X)
+ 5-3  2 --- 11  Lee lined out to the mound (FBX)
+ 
+**************  Bottom of the 6th inning, Messiahs batting
+ 5-3  0 --- 00  Ripken,C flied out to left (X)
+                Blankenship pinch hitting for Mills
+ 5-3  1 --- 22  Blankenship struck out (CBBCS)
+ 5-3  2 --- 20  Henderson,R lined a single down the right field line (BBX)
+                Berryhill now playing catcher
+                Henry,Dw now pitching
+ 5-3  2 1-- 31  Miller grounded a double down the first base line, 
+                  Henderson,R scored (B1BBCX)
+ 5-4  2 -2- 11  Martinez,E popped out to second (2CBX)
+ 
+**************  Top of the 7th inning, Streets batting
+                Fetters now pitching
+ 5-4  0 --- 00  Berryhill reached on an infield single to second (X)
+ 5-4  0 1-- 01  Alomar,R sacrifice bunted to the mound, Berryhill to 
+                  second (SXb)
+ 5-4  1 -2- 02  Puckett reached on an infield single to second, Berryhill 
+                  to third (CCX)
+ 5-4  1 1-3 20  McGriff hit a sacrifice fly to right, Berryhill scored, 
+                  Puckett to third on an error by the right fielder 
+                  Winfield (BBX)
+ 6-4  2 --3 01  Mack grounded out to second (CX)
+ 
+**************  Bottom of the 7th inning, Messiahs batting
+ 6-4  0 --- 02  Van Slyke grounded a single up the middle (FSX)
+ 6-4  0 1-- 00  Van Slyke was caught stealing second (>S)
+ 6-4  1 --- 32  Winfield struck out (>S.BCBFBS)
+ 6-4  2 --- 02  Tettleton struck out (SFS)
+ 
+**************  Top of the 8th inning, Streets batting
+ 6-4  0 --- 22  Anthony struck out (BFFBS)
+ 6-4  1 --- 02  Gomez was hit by a pitch (CFH)
+ 6-4  1 1-- 02  Henry,Dw grounded a single between first and second, 
+                  Gomez out at third (C1FbX)
+ 6-4  2 1-- 21  Lee grounded a double down the third base line, Henry,Dw 
+                  to third (SBBX)
+ 6-4  2 -23 32  Berryhill struck out (BBBCFS)
+ 
+**************  Bottom of the 8th inning, Messiahs batting
+ 6-4  0 --- 22  Pendleton popped out to second (BFCBFX)
+ 6-4  1 --- 00  Ripken,C grounded out to second (X)
+                Thompson,M pinch hitting for Fetters
+ 6-4  2 --- 02  Thompson,M struck out (FFC)
+ 
+**************  Top of the 9th inning, Streets batting
+                Edens now pitching
+ 6-4  0 --- 32  Alomar,R grounded out to the mound (CSBBBX)
+ 6-4  1 --- 00  Puckett popped out on a bunt to the mound (Xb)
+ 6-4  2 --- 32  McGriff grounded a single up the middle (BBCFFBX)
+ 6-4  2 1-- 22  Mack grounded out to second (1CBCFB11X)
+ 
+**************  Bottom of the 9th inning, Messiahs batting
+                Rojas now pitching
+ 6-4  0 --- 20  Henderson,R lined a double to right center (BBX)
+ 6-4  0 -2- 02  Miller flied out to center, Henderson,R to third (CFX)
+                Started raining
+ 6-4  1 --3 12  Martinez,E lined a single to shallow right, Henderson,R 
+                  scored (CBSX)
+                Franco pinch running for Martinez,E
+ 6-5  1 1-- 01  Franco was picked off first by Rojas (C11)
+ 6-5  2 --- 01  Van Slyke grounded out to second (C11.X)
+
+___________________________________________________________________________________________                
+
+10/3/1992, TEW92-FER92, Fenway Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Bobs              2  0  0  0  0  0  0  0  0     2  6  1     7  1
+1992 Magellans         1  0  0  2  0  0  0  2  x     5  7  0     5  1
+ 
+Bobs                 AB  R  H BI   AVG    Magellans            AB  R  H BI   AVG
+Knoblauch         2b  3  0  0  0  .250    Finley            lf  2  0  0  0  .429       
+Vizquel           ss  4  1  2  0  .444     Gladden          ph  1  1  0  0  .000       
+Raines            lf  4  1  1  0  .286    Weiss             ss  3  0  0  0  .250       
+Sorrento          1b  3  0  2  0  .571     Velarde          ph  1  1  1  2 1.000       
+Hamilton          cf  2  0  0  1  .286    Bonds             cf  3  2  2  1  .400       
+Bass              rf  3  0  1  0  .500    Murray            1b  4  0  0  0  .111       
+Cooper            3b  4  0  0  0  .125    Pena,G            2b  3  0  0  0  .000       
+Karkovice         c   3  0  0  0  .250    Martinez,Ch       rf  3  1  1  0  .333       
+ Brewer           ph  1  0  0  0  .000     Abner            rf  0  0  0  0  .000       
+Bosio             p   0  0  0  0  .000    Seitzer           3b  4  0  2  1  .400       
+ Harvey           p   2  0  0  0  .000    Nilsson           c   2  0  0  0  .000       
+ Guthrie          p   1  0  0  0  .000     Hernandez,Ca     ph  1  0  0  0  .000       
+ Hernandez,X      p   0  0  0  0  .000    Perez,Me          p   3  0  1  0  .333       
+ Sanders,R        ph  1  0  0  0  .000     Ward,D           p   0  0  0  0  .000       
+                     31  2  6  1                               30  5  7  4             
+ 
+Bobs                             INN  H  R ER BB  K PCH STR   ERA
+Bosio                            0.1  0  0  0  0  0   6   3  0.00
+Harvey           L 0-1           3.1  3  3  3  1  5  60  37  8.10
+Guthrie                          3.1  3  2  1  0  2  44  33  2.70
+Hernandez,X                      1.0  1  0  0  2  0  20   8 15.43
+                                 8.0  7  5  4  3  7 130  81 
+ 
+Magellans                        INN  H  R ER BB  K PCH STR   ERA
+Perez,Me         W 1-0           8.0  6  2  2  4  5 117  67  2.25
+Ward,D           S 1             1.0  0  0  0  0  1  15   9  0.00
+                                 9.0  6  2  2  4  6 132  76 
+ 
+TEW: Brewer batted for Karkovice in the 9th
+     Sanders,R batted for Hernandez,X in the 9th
+FER: Hernandez,Ca batted for Nilsson in the 7th
+     Abner inserted at rf in the 8th
+     Hernandez,Ca moved to c in the 8th
+     Gladden batted for Finley in the 8th
+     Velarde batted for Weiss in the 8th
+     Gladden moved to lf in the 9th
+     Velarde moved to ss in the 9th
+ 
+E-Vizquel. 2B-Bonds, Seitzer. HR-Bonds(1), Velarde(1). SB-Bonds(1). 
+K-Raines 2, Hamilton, Bass, Cooper, Sanders,R, Weiss 2, Murray, Pena,G 3, 
+Martinez,Ch. BB-Knoblauch, Sorrento, Hamilton, Bass, Bonds, Pena,G, Abner. 
+SH-Finley. SF-Hamilton. WP-Harvey, Perez,Me 2. 
+GWRBI: Seitzer
+Chris Bosio was injured for this game only
+Temperature: 53, Field: wet, Sky: threatening, Wind: out to right at 19 MPH, 
+Rain Delays: 46 minutes.
+
+....................................................................................................
+10/3/1992, TEW92-FER92, Fenway Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Bobs              2  0  0  0  0  0  0  0  0     2  6  1     7  1
+1992 Magellans         1  0  0  2  0  0  0  2  x     5  7  0     5  1
+ 
+ 
+Bobs                 -----A------ -----B------ -----C------ -----D------ -----E------
+Knoblauch         2b 1>43         3>8          5>W            63                     
+Vizquel           ss   S            3/g          S.1-2        63                     
+Raines            lf   S.1-2        k            9          8>k                      
+Sorrento          1b   wp.2-3;1-2 4>S            8            S                      
+                       W                                                             
+Hamilton          cf   note 1       W.1-2        53           k                      
+                       7/SF.3-H                                                      
+Bass              rf   63           S.2-3;1-2  6>W            k                      
+Cooper            3b 2>13           k            361/gdp    9>Ward,D                 
+                                                              53                     
+Karkovice         c    53           8            53                                  
+ Brewer           ph                                          9                      
+Bosio             p                                                                  
+ Harvey           p    8            5/f                                              
+ Guthrie          p                            7>5/fl                                
+ Hernandez,X      p                                                                  
+ Sanders,R        ph                                          k                      
+ 
+ 1: wp.3-H;2-3;1-2 
+ 
+ 
+Magellans            -----A------ -----B------ -----C------ -----D------ -----E------
+Finley            lf 1>31           7            14/SH.1-2                           
+ Gladden          ph                                        8>e6.B-1                 
+Weiss             ss   Harvey       k            43.2-3                              
+                       k                                                             
+ Velarde          ph                                          HR.1-H                 
+Bonds             cf   HR         4>W            5/fl         note 1                 
+                                                              D                      
+Murray            1b   k            SB2        6>53           7                      
+                                    7.2-3                                            
+Pena,G            2b 2>k            k            k            W                      
+Martinez,Ch       rf   9            wp.3-H       k                                   
+                                    S                                                
+ Abner            rf                                          W.2-3;1-2              
+Seitzer           3b   S            Guthrie    7>31           643/gdp                
+                                    D.1-H                                            
+Nilsson           c    9            8                                                
+ Hernandez,Ca     ph                             53                                  
+Perez,Me          p  3>7          5>S            43                                  
+ Ward,D           p                                                                  
+ 
+ 1: Hernandez,X 
+ 
+ 
+Bobs             IN OUT ER                  Magellans        IN OUT ER                  
+Bosio            A1  A1  0                  Perez,Me         A1  D6  2 W 1-0            
+Harvey           A2  B6  3 L 0-1            Ward,D           D7  D9  0 S 1              
+Guthrie          B7  D2  1                                                              
+Hernandez,X      D3  D7  0                                                              
+
+....................................................................................................
+10/3/1992, TEW92-FER92, Fenway Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1992 Bobs              2  0  0  0  0  0  0  0  0     2  6  1     7  1
+1992 Magellans         1  0  0  2  0  0  0  2  x     5  7  0     5  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Bobs batting
+ 0-0  0 --- 11  Knoblauch grounded out to second (BCX)
+ 0-0  1 --- 00  Vizquel lined a single to left center (X)
+ 0-0  1 1-- 00  Raines reached on an infield single to second, Vizquel to 
+                  second (X)
+ 0-0  1 12- 00  Perez,Me threw a wild pitch, Vizquel to third, Raines to 
+                  second (B)
+ 0-0  1 -23 30  Sorrento walked (B.BBB)
+ 0-0  1 123 10  Perez,Me threw a wild pitch, Vizquel scored, Raines to 
+                  third, Sorrento to second (BB)
+ 1-0  1 -23 22  Hamilton lined out to left, Raines scored (BB.FFX)
+ 2-0  2 -2- 00  Bass grounded out to short (X)
+ 
+**************  Bottom of the 1st inning, Magellans batting
+ 2-0  0 --- 32  Finley grounded out to first (BBSBFX)
+                Bosio left the game with an injury
+                Harvey now pitching
+ 2-0  1 --- 22  Weiss struck out (CBBFFS)
+ 2-0  2 --- 22  Bonds homered deep to right (CBCFBX)
+ 2-1  2 --- 22  Murray struck out (BFBFFS)
+ 
+**************  Top of the 2nd inning, Bobs batting
+ 2-1  0 --- 11  Cooper grounded out to the mound (FBX)
+ 2-1  1 --- 00  Karkovice grounded out to third (X)
+ 2-1  2 --- 12  Harvey flied out to center (BCCX)
+ 
+**************  Bottom of the 2nd inning, Magellans batting
+ 2-1  0 --- 12  Pena,G struck out (CFBS)
+ 2-1  1 --- 00  Martinez,Ch flied out to right (X)
+ 2-1  2 --- 22  Seitzer reached on an infield single to second (CBBCFX)
+ 2-1  2 1-- 01  Nilsson lined out to right (SX)
+ 
+**************  Top of the 3rd inning, Bobs batting
+ 2-1  0 --- 00  Knoblauch flied out to center (X)
+ 2-1  1 --- 01  Vizquel grounded out to first (CX)
+ 2-1  2 --- 12  Raines struck out (FBCC)
+ 
+**************  Bottom of the 3rd inning, Magellans batting
+ 2-1  0 --- 11  Perez,Me popped out to left (CBX)
+ 2-1  1 --- 11  Finley lined out to left (BCX)
+ 2-1  2 --- 32  Weiss struck out (CBBSBFS)
+ 
+**************  Top of the 4th inning, Bobs batting
+ 2-1  0 --- 22  Sorrento lined a single to shallow center (BSCBX)
+ 2-1  0 1-- 30  Hamilton walked, Sorrento to second (BBBB)
+ 2-1  0 12- 00  Bass lined a single between first and second, Sorrento to 
+                  third, Hamilton to second (X)
+ 2-1  0 123 12  Cooper struck out (CBFS)
+ 2-1  1 123 00  Karkovice popped out to center (X)
+ 2-1  2 123 22  Harvey grounded to third, forcing Hamilton at third 
+                  (BBCFX)
+ 
+**************  Bottom of the 4th inning, Magellans batting
+ 2-1  0 --- 31  Bonds walked (BCBBB)
+ 2-1  0 1-- 00  Bonds stole second (1>B)
+ 2-1  0 -2- 10  Murray flied out to left, Bonds to third (1>B.X)
+ 2-1  1 --3 22  Pena,G struck out (SFBBFS)
+ 2-1  2 --3 10  Harvey threw a wild pitch, Bonds scored (BB)
+ 2-2  2 --- 20  Martinez,Ch grounded a single up the middle (BB.X)
+                Guthrie now pitching
+ 2-2  2 1-- 21  Seitzer lined a double to left center, Martinez,Ch scored 
+                  (BBCX)
+ 2-3  2 -2- 01  Nilsson popped out to center (FX)
+ 
+**************  Top of the 5th inning, Bobs batting
+ 2-3  0 --- 31  Knoblauch walked (SBBBB)
+ 2-3  0 1-- 22  Vizquel lined a single to shallow right, Knoblauch to 
+                  second (Fb11CBB111X)
+ 2-3  0 12- 12  Raines flied out to right (BFFX)
+ 2-3  1 12- 20  Sorrento flied out to center (BBX)
+ 2-3  2 12- 22  Hamilton grounded out to third (BCB2SX)
+ 
+**************  Bottom of the 5th inning, Magellans batting
+ 2-3  0 --- 01  Perez,Me lined a single to shallow left (FX)
+ 2-3  0 1-- 20  Finley sacrifice bunted to the mound, Perez,Me to second 
+                  (BbBXb)
+ 2-3  1 -2- 12  Weiss grounded out to second, Perez,Me to third (CBFX)
+                Game delayed by rain for 46 minutes
+ 2-3  2 --3 01  Bonds popped out to third (CX)
+ 
+**************  Top of the 6th inning, Bobs batting
+ 2-3  0 --- 31  Bass walked (BBCBB)
+ 2-3  0 1-- 21  Cooper grounded into a double play, Murray to Weiss to 
+                  Perez,Me (1BBFX)
+ 2-3  2 --- 01  Karkovice grounded out to third (CX)
+ 
+**************  Bottom of the 6th inning, Magellans batting
+ 2-3  0 --- 00  Murray grounded out to third (X)
+ 2-3  1 --- 02  Pena,G struck out (CCS)
+ 2-3  2 --- 02  Martinez,Ch struck out (CCFS)
+ 
+**************  Top of the 7th inning, Bobs batting
+ 2-3  0 --- 22  Guthrie popped out to third (BCSBX)
+ 2-3  1 --- 21  Knoblauch grounded out to short (BCBX)
+ 2-3  2 --- 21  Vizquel grounded out to short (BBFX)
+ 
+**************  Bottom of the 7th inning, Magellans batting
+ 2-3  0 --- 22  Seitzer grounded out to first (BCFBFX)
+                Hernandez,Ca pinch hitting for Nilsson
+ 2-3  1 --- 02  Hernandez,Ca grounded out to third (CFX)
+ 2-3  2 --- 21  Perez,Me grounded out to second (BBFX)
+ 
+**************  Top of the 8th inning, Bobs batting
+                Abner now playing right field
+                Hernandez,Ca moved to catcher
+ 2-3  0 --- 22  Raines struck out (FFBBS)
+ 2-3  1 --- 02  Sorrento lined a single to shallow right (CSX)
+ 2-3  1 1-- 32  Hamilton struck out (SBBBCS)
+ 2-3  2 1-- 32  Bass struck out (BSSBFB>C)
+ 
+**************  Bottom of the 8th inning, Magellans batting
+                Gladden pinch hitting for Finley
+ 2-3  0 --- 11  Gladden to first on an error by the shortstop Vizquel 
+                  (BCX)
+                Velarde pinch hitting for Weiss
+ 2-3  0 1-- 11  Velarde homered deep to right center, Gladden scored 
+                  (BS1X)
+                Hernandez,X now pitching
+ 2-5  0 --- 00  Bonds doubled deep down the left-field line (X)
+ 2-5  0 -2- 21  Murray flied out to left (BBC2X)
+ 2-5  1 -2- 30  Pena,G walked (BBBB)
+ 2-5  1 12- 31  Abner walked, Bonds to third, Pena,G to second (SBBBB)
+ 2-5  1 123 22  Seitzer grounded into a double play, Vizquel to Knoblauch 
+                  to Sorrento (BCFFBX)
+ 
+**************  Top of the 9th inning, Bobs batting
+                Ward,D now pitching
+                Gladden moved to left field
+                Velarde moved to shortstop
+ 2-5  0 --- 21  Cooper grounded out to third (BBFX)
+                Brewer pinch hitting for Karkovice
+ 2-5  1 --- 22  Brewer flied out to right (BBFSFX)
+                Sanders,R pinch hitting for Hernandez,X
+ 2-5  2 --- 22  Sanders,R struck out (CCBBS)
+
+
+-------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+-------------------------------------------------------------------------------------------
+
+                               SEL Team Status -- 1992 Tewksbury Bobs                               
+                               Divisional playoff -- as of 10/3/1992                                
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Scott Cooper                0      3      2    0    48   331       
+  Ron Karkovice               0      3      2    0   122   259   276 
+  Kevin Bass                  0      3      2    0   148   282       
+  Omar Vizquel                0      2      2    0   117   410       
+  Paul Sorrento               0      2      2    0    53   461       
+  Darryl Hamilton             0      2      2    0   100   428       
+  Chuck Knoblauch             0      2      1    0   149   558       
+  Tim Raines                  0      2      1    0   162   482       
+  Rod Brewer                  0      1      1    0    24    89       
+  Reggie Sanders              0      1      0    0   197   241       
+  Mike Devereaux              0      0      0    0   180   530       
+f Luis Gonzalez               0      0      0    0    89   327       
+  Jim Leyritz                 0      0      0    0   118    49     6 
+  Andres Galarraga            0      0      0    0   132   215       
+f Jeff King                   0      0      0    0   231   291       
+f Mike Blowers                0      0      0    0    25    55       
+f Javier Lopez                0      0      0    0     6    10       
+  Pat Listach                 0      0      0    0   161   488       
+f Sandy Alomar                0      0      0    0    66   254       
+f Greg Myers                  0      0      0    0     5    81     8 
+f Gary Gaetti                 0      0      0    0   134   352       
+f David Segui                 0      0      0    0    86   125       
+  Steve Buechele              0      0      0    0   232   358       
+  Kevin McReynolds            0      0      0    0   141   304       
+f Alex Diaz                   0      0      0    0     1     8       
+f Bernardo Brito              0      0      0    0     8     7       
+f Mario Diaz                  0      0      0    0    19    14       
+  Total                                             2754  7009       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last   10/3   10/2   10/1   9/30   Cum 
+  Bryan Harvey               11    0     14    122  10/3/1992    60r                         60 
+  Rick Reed                   5    0     23    419  10/2/1992          105s                 105 
+  Mark Guthrie                5    0     15    303  10/3/1992    44r     5r                  49 
+  Xavier Hernandez            3    0     14    454  10/3/1992    20r    40r                  60 
+  John Wetteland              3    0      9    347  10/2/1992           36r                  36 
+  Chris Bosio                 0    1      1    937  10/3/1992     6s                          6 
+f Anthony Telford             0    0      0      0                                              
+f Mark Dewey                  0    0      0    143  6/30/1992                                   
+f Jeff Shaw                   0    0      0     33  4/11/1992                                   
+f Steve Avery                 0    0      0    969  9/28/1992                                   
+  Pete Smith                  0    0      0    323  8/14/1992                                   
+f Bobby Ojeda                 0    0      0    731  9/30/1992                         18r    18 
+  Kevin Gross                 0    0      0    856  9/30/1992                         99s    99 
+f Scott Bankhead              0    0      0    299  9/30/1992                         25r    25 
+f Tom Filer                   0    0      0     88  9/18/1992                                   
+f Milt Hill                   0    0      0     80  5/14/1992                                   
+f David Nied                  0    0      0     83  9/21/1992                                   
+f Rheal Cormier               0    0      0    772                                              
+f Joe Boever                  0    0      0    479  9/18/1992                                   
+f Keith Shepherd              0    0      0     91  9/28/1992                                   
+f Richie Lewis                0    0      0     40  5/14/1992                                   
+  Jack Morris                 0    0      0   1005  10/1/1992                 109s          109 
+  Total                                  76   8574                                              
+
+
+
+                           SEL Team Status -- 1992 Dun Laoghaire Messiahs                           
+                               Divisional playoff -- as of 10/3/1992                                
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Rickey Henderson            3      1      2    0   128   372       
+  Edgar Martinez              3      1      2    0   160   432       
+  Andy Van Slyke              1      1      1    0   293   393       
+  Mickey Tettleton            3      1      1    0   159   495   243 
+  Terry Pendleton             2      1      1    0   226   463       
+  Lance Blankenship           3      0      1    0   126   320       
+  Keith Miller                0      2      1    0   132   332       
+  Cal Ripken                  2      1      1    0   182   533       
+  Felix Jose                  2      0      1    0   198   353       
+  Dave Winfield               0      1      1    0   172   498       
+  Milt Thompson               0      0      0    0    24   202       
+  Julio Franco                0      0      0    0    44    79       
+f Gary Pettis                 0      0      0    0    54   138       
+d Greg Olson                  0      0      0   10   125   215       
+  Brian Downing               0      0      0    0   154   237       
+f Luis Rivera                 0      0      0    0    88   234       
+f Hector Villanueva           0      0      0    0    51    72       
+f Lloyd McClendon             0      0      0    0   195    29       
+  Jamie Quirk                 0      0      0    0    22   180    44 
+f Mark Leonard                0      0      0    0    21   127       
+f Ken Oberkfell               0      0      0    0    12    89       
+f Alfredo Griffin             0      0      0    0    33   131       
+f Kevin Koslofski             0      0      0    0    19   131       
+f Terry Jorgensen             0      0      0    0    30    33       
+  Candy Maldonado             0      0      0    0   141   419       
+  Total                                             2789  6507       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last   10/3   10/2   10/1   9/30   Cum 
+  Mike Fetters                4    0     10    243  10/3/1992    32r                         32 
+  Alan Mills                  4    0     16    428  10/3/1992    35r    15r            3r    53 
+  Tom Candiotti               4    0     31    839  10/2/1992          128s                 128 
+  Mike Maddux                 4    0     12    330  10/3/1992    49r                  31r    80 
+  Tom Edens                   1    0      4    317  10/3/1992    20r                         20 
+  Nolan Ryan                  0   16      1    675  10/3/1992     6s                          6 
+  Rob Dibble                  0    0      0    286  9/28/1992                                   
+  Steve Farr                  0    0      0    207  8/30/1992                                   
+  Tom Glavine                 0    0      0    919  9/29/1992                                   
+d Jim Abbott                  0    4      0    874  9/16/1992                                   
+f Scott Radinsky              0    0      0    261  9/27/1992                                   
+f Ted Power                   0    0      0    409  9/30/1992                         21r    21 
+f Todd Frohwirth              0    0      0    444  9/29/1992                                   
+f Bill Wegman                 0    0      0   1079  9/26/1992                                   
+f Steve Shifflett             0    0      0    221                                              
+f Tony Fossas                 0    0      0    129                                              
+f Pat Clements                0    0      0    210                                              
+f Wally Ritchie               0    0      0    174                                              
+f Gary Wayne                  0    0      0    210                                              
+f Tim Pugh                    0    0      0    187                                              
+  Mike Morgan                 0    0      0    966  9/30/1992                         78s    78 
+f Mike Christopher            0    0      0     79                                              
+f Kevin Wickander             0    0      0    187                                              
+  Total                                  74   9674                                              
+
+
+
+                              SEL Team Status -- 1992 Houston Streets                               
+                               Divisional playoff -- as of 10/3/1992                                
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Rich Gedman                 0      6      5    0    12   105    62 
+  Eric Anthony                0      3      2    0   171   312       
+  Manuel Lee                  0      2      2    0   135   322       
+  Leo Gomez                   0      2      1    0   134   418       
+  Fred McGriff                0      2      1    0   236   396       
+  Roberto Alomar              0      2      1    0   188   483       
+  Shane Mack                  0      2      1    0   141   551       
+  Kirby Puckett               0      2      1    0   139   557       
+  Damon Berryhill             0      1      1    0    78   250    51 
+  Cory Snyder                 0      0      0    0   181   239       
+  Chad Curtis                 0      0      0    0   150   357       
+f Nelson Santovenia           0      0      0    0     0     3       
+f Russ Morman                 0      0      0    0     0     0       
+f Kelly Gruber                0      0      0    0   117   364       
+  Luis Salazar                0      0      0    0   166   107       
+  Ricky Jordan                0      0      0    0   137   147       
+f Donnie Hill                 0      0      0    0     3    56       
+f Mark Parent                 0      0      0    0    12    28   171 
+f Jose Uribe                  0      0      0    0    58   123       
+  Jeff Branson                0      0      0    0     9   114       
+f Jesse Levis                 0      0      0    0     2    41       
+f Archi Cianfrocco            0      0      0    0   105   142       
+f Bob Melvin                  0      0      0    0    56    21     7 
+  Jeff Tackett                0      0      0    0    59   149       
+  Total                                             2289  5285       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last   10/3   10/2   10/1   9/30   Cum 
+  Juan Guzman                 4    0     28    733  10/3/1992   105s                        105 
+  Frank Viola                 3    0     25    999  10/2/1992          109s                 109 
+  Rich Rodriguez              2    0      9    369  10/2/1992           36r                  36 
+  Dwayne Henry                2    0      8    352  10/3/1992    31r                         31 
+  Mel Rojas                   1    0      4    399  10/3/1992    12r                         12 
+  Scott Erickson              0    0      0    888  9/20/1992                                   
+f John Candelaria             0    0      0    108  9/28/1992                                   
+  Bob Patterson               0    0      0    268  9/29/1992                                   
+  Bruce Hurst                 0    0      0    902  9/30/1992                        117s   117 
+f Jason Grimsley              0    0      0      0                                              
+f Bud Black                   0    0      0    749  9/28/1992                                   
+  Mark Wohlers                0    0      0    140  9/20/1992                                   
+  Tim Wakefield               0    0      0    373  9/24/1992                                   
+f Gil Heredia                 0    0      0    187  9/19/1992                                   
+f Mark Petkovsek              0    0      0      0                                              
+f Jay Howell                  0    0      0    203  9/19/1992                                   
+f Mike Bielecki               0    0      0    336  9/25/1992                                   
+f Mark Williamson             0    0      0     78  9/28/1992                                   
+f Brian Bohanon               0    0      0    220                                              
+f Goose Gossage               0    0      0    163  9/29/1992                                   
+f Frank Seminara              0    0      0    435  9/29/1992                                   
+f Mike Harkey                 0    0      0    159  9/28/1992                                   
+  Total                                  74   8061                                              
+
+
+
+                            SEL Team Status -- 1992 Ferdinand Magellans                             
+                               Divisional playoff -- as of 10/3/1992                                
+
+                         vs LHP vs RHP  Total  Inj --Real PA-- BF-Ca  
+S Name                    Usage  Usage  Usage Days  vs L  vs R   Cum 
+  Dave Nilsson                3      3      3    0    30   153    76 
+  Chito Martinez              2      3      3    0    44   191       
+  Walt Weiss                  1      2      2    0    85   290       
+  Geronimo Pena               1      3      2    0    80   156       
+  Barry Bonds                 0      2      1    0   283   329       
+  Eddie Murray                0      2      1    0   224   401       
+  Steve Finley                0      2      1    0   255   431       
+  Chris Gwynn                 0      1      1    0     9    81       
+  Kevin Seitzer               1      1      1    0   152   463       
+  Rex Hudler                  2      0      1    0    53    50       
+  Shawn Abner                 0      2      1    0   137    91       
+  Craig Biggio                0      1      1    0   269   452       
+  Carlos Hernandez            1      0      1    0   116    74   250 
+  Randy Velarde               1      0      0    0   158   303       
+  Dan Gladden                 1      0      0    0   139   320       
+  Randy Milligan              0      0      0    0   145   432       
+f John Cangelosi              0      0      0    0    26    80       
+f Gerald Williams             0      0      0    0    14    13       
+  Todd Pratt                  0      0      0    0    36    14       
+f Domingo Martinez            0      0      0    0     6     2       
+f Billy Ashley                0      0      0    0    31    69       
+f Wally Backman               0      0      0    0     1    54       
+d Chris Hoiles                0      0      0   10    96   275       
+f Glenallen Hill              0      0      0    0   113   281       
+f Tim Naehring                0      0      0    0    75   139       
+f Ozzie Canseco               0      0      0    0    11    25       
+f Jose Oquendo                0      0      0    0    15    25       
+f Francisco Cabrera           0      0      0    0    10     1       
+f Cesar Hernandez             0      0      0    0    38    13       
+f John Jaha                   0      0      0    0    56    96       
+  Total                                             2707  5304       
+
+
+
+                                 Inj Batters Faced            ----------Pitches Thrown--------- 
+S Name                    Usage Days    Sim   Real       Last   10/3   10/2   10/1   9/30   Cum 
+  Melido Perez                3    0     33   1013  10/3/1992   117s                        117 
+  Kevin Appier                3    0     25    852  10/2/1992          117s                 117 
+  Hipolito Pichardo           3    0     16    615  10/2/1992           52r           25r    77 
+  Duane Ward                  1    0      6    414  10/3/1992    15r     9r                  24 
+  Rich Monteleone             1    0      3    380  10/2/1992            8r                   8 
+f Bruce Ruffin                0    0      0    272  9/30/1992                         19s    19 
+d Tom Gordon                  0   19      0    516  9/29/1992                                   
+f Heathcliff Slocumb          0    0      0    174  9/30/1992                         35r    35 
+f Bob Wickman                 0    0      0    213   7/6/1992                                   
+  Zane Smith                  0    0      0    566  9/27/1992                                   
+f Tommy Greene                0    0      0    298  9/30/1992                         26r    26 
+  Mike Perez                  0    0      0    377  9/28/1992                                   
+  Jose Guzman                 0    0      0    947  9/30/1992                         39r    39 
+f Shawn Barton                0    0      0     50  9/12/1992                                   
+  Total                                  83   6687                                              
+

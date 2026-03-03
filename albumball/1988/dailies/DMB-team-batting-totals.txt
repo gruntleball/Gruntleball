@@ -1,0 +1,95 @@
+                           DMB team batting totals -- Surfer Rosa League                            
+                                           Regular season                                           
+
+Team                          AVG   OBP   SPC     AB     R     H   2B   3B   HR   RBI    BB     K   SB   CS 
+Century Atoms                .286  .349  .426   5643   837  1613  340   41  123   784   535   824  178   69 
+Baraboo GoiterMen            .284  .345  .398   5704   762  1619  275   49   93   712   530   694   75   39 
+Cincinnati Reds              .275  .338  .405   5667   737  1561  233   59  127   686   526   870  206   77 
+Tewksbury Bobs               .268  .323  .411   5602   721  1503  243   48  154   677   426   902  181   79 
+Sunnydale Slayers            .265  .326  .424   5706   774  1513  264   41  186   728   513  1004   64   28 
+Evanston Endorphins          .262  .321  .372   5600   659  1465  237   26  109   615   476   861  116   59 
+Marshall McDougalls          .261  .315  .397   5549   722  1450  253   44  137   659   405   875  165   73 
+ChinaTrust Whales            .255  .319  .393   5628   684  1436  277   32  145   643   506  1023   41   17 
+Grain Belt Premiums          .249  .294  .386   5643   625  1403  258   54  137   591   349  1052   75   38 
+Ferdinand Magellans          .248  .305  .364   5580   606  1383  272   35  102   566   423   991  117   66 
+Barcelona Brewers            .248  .306  .352   5481   618  1358  213   25  103   572   437   927  100   45 
+Cape Canaveral Challengers   .245  .297  .355   5526   587  1352  236   28  106   546   391   762  138   48 
+Enough Shebazzle?            .242  .295  .374   5562   593  1345  257   32  138   559   407   940   85   35 
+Needmore Shebazzum           .240  .307  .363   5525   609  1324  213   31  136   570   511  1083   70   26 
+Reykjavik 101ers             .239  .294  .357   5524   571  1321  219   54  108   526   381   993  132   70 
+Ferlin Huskies               .238  .296  .356   5598   612  1334  202   45  122   559   425   935  138   68 
+Nederland FrozenDeadGuys     .237  .289  .352   5478   584  1301  225   38  109   539   370   920  197   80 
+Butt Mountain Beavis         .235  .296  .330   5561   543  1305  203   46   79   502   456  1015   75   38 
+Totals                       .254  .312  .379 100577 11844 25586 4420  728 2214 11034  8067 16671 2153  955 
+
+
+
+Team                           G     PA  HBP   IW   SH   SF  GDP   CI      RC RC27   ISO  TAVG    TB  R/G 
+Century Atoms                162   6339   35   35   76   50   99    0   858.6  5.4  .140  .751  2404  5.2 
+Baraboo GoiterMen            162   6363   29   28   45   55  164    0   776.0  4.8  .114  .677  2271  4.7 
+Cincinnati Reds              162   6363   32   29   96   42   92    0   799.7  4.9  .129  .715  2293  4.5 
+Tewksbury Bobs               162   6179   44   24   72   35  127    0   734.9  4.5  .143  .686  2304  4.5 
+Sunnydale Slayers            162   6357   23   29   76   39  112    0   793.4  4.8  .158  .696  2417  4.8 
+Evanston Endorphins          162   6263   36   31  103   47  102    1   679.9  4.1  .110  .631  2081  4.1 
+Marshall McDougalls          162   6145   55   38   84   51   92    1   700.9  4.3  .136  .663  2202  4.5 
+ChinaTrust Whales            162   6231   36   20   26   35  149    0   698.2  4.3  .138  .641  2212  4.2 
+Grain Belt Premiums          162   6097   27   21   39   39  103    0   631.8  3.8  .138  .601  2180  3.9 
+Ferdinand Magellans          162   6164   48   23   78   34   88    1   625.2  3.8  .116  .602  2031  3.7 
+Barcelona Brewers            162   6096   39   22   93   46  101    0   601.5  3.7  .104  .587  1930  3.8 
+Cape Canaveral Challengers   162   6073   37   19   77   41   96    1   593.1  3.6  .110  .585  1962  3.6 
+Enough Shebazzle?            162   6085   29   25   51   36  118    0   609.0  3.7  .132  .595  2080  3.7 
+Needmore Shebazzum           162   6137   39   22   24   37  119    1   623.4  3.8  .124  .604  2007  3.8 
+Reykjavik 101ers             162   6045   68   14   31   40   92    1   582.8  3.5  .118  .585  1972  3.5 
+Ferlin Huskies               162   6168   46   19   62   37  115    0   587.1  3.5  .118  .585  1992  3.8 
+Nederland FrozenDeadGuys     162   5970   46   26   33   43  100    0   559.3  3.4  .115  .583  1929  3.6 
+Butt Mountain Beavis         162   6130   44    7   33   36  122    0   547.5  3.3  .096  .546  1837  3.4 
+Totals                      2916 111205  713  432 1099  743 1991    6 11966.8  4.0  .124  .629 38104  4.1 
+
+
+
+                            -----------------Versus Left-handed Pitchers----------------- 
+Team                          AVG   OBP   SPC    AB     H   2B   3B   HR   RBI   BB     K 
+Century Atoms                .280  .337  .449  1742   487  110   12   54   233  157   265 
+Baraboo GoiterMen            .266  .321  .385  2162   576  104   18   39   253  170   293 
+Cincinnati Reds              .274  .333  .405  1798   493   75   25   37   202  170   240 
+Tewksbury Bobs               .262  .306  .431  1912   500  104    7   69   231  123   291 
+Sunnydale Slayers            .268  .320  .455  2063   552   88   16   89   286  170   365 
+Evanston Endorphins          .257  .309  .366  1624   417   74    8   29   155  123   235 
+Marshall McDougalls          .260  .301  .375  2051   534   89   15   39   211  118   341 
+ChinaTrust Whales            .245  .308  .387  1771   434   94   11   45   180  160   314 
+Grain Belt Premiums          .239  .284  .359  1942   464   80   12   43   175  128   338 
+Ferdinand Magellans          .244  .300  .367  1767   431   94   14   32   189  150   315 
+Barcelona Brewers            .220  .271  .312  1645   362   59    7   26   130  118   292 
+Cape Canaveral Challengers   .264  .313  .385  1738   459   84    6   38   186  134   231 
+Enough Shebazzle?            .222  .274  .353  1987   441   74    8   57   192  139   302 
+Needmore Shebazzum           .253  .318  .399  1523   386   58   11   47   173  144   263 
+Reykjavik 101ers             .236  .282  .370  1966   464   82   22   46   179  111   292 
+Ferlin Huskies               .248  .295  .364  1652   410   43   16   39   158  111   228 
+Nederland FrozenDeadGuys     .234  .287  .344  1749   409   73   10   33   171  119   254 
+Butt Mountain Beavis         .228  .283  .341  1767   403   65   12   37   163  125   318 
+Totals                       .250  .302  .381 32859  8222 1450  230  799  3467 2470  5177 
+                           DMB team batting totals -- Surfer Rosa League                            
+                                           Regular season                                           
+
+                            -----------------Versus Right-handed Pitchers---------------- 
+Team                          AVG   OBP   SPC    AB     H   2B   3B   HR   RBI   BB     K 
+Century Atoms                .289  .348  .416  3901  1126  230   29   69   551  378   559 
+Baraboo GoiterMen            .294  .355  .406  3542  1043  171   31   54   459  360   401 
+Cincinnati Reds              .276  .333  .404  3869  1068  158   34   90   484  356   630 
+Tewksbury Bobs               .272  .326  .401  3690  1003  139   41   85   446  303   611 
+Sunnydale Slayers            .264  .324  .406  3643   961  176   25   97   442  343   639 
+Evanston Endorphins          .264  .318  .374  3976  1048  163   18   80   460  353   626 
+Marshall McDougalls          .262  .316  .409  3498   916  164   29   98   448  287   534 
+ChinaTrust Whales            .260  .322  .396  3857  1002  183   21  100   463  346   709 
+Grain Belt Premiums          .254  .296  .401  3701   939  178   42   94   416  221   714 
+Ferdinand Magellans          .250  .301  .362  3813   952  178   21   70   377  273   676 
+Barcelona Brewers            .260  .313  .369  3836   996  154   18   77   442  319   635 
+Cape Canaveral Challengers   .236  .284  .341  3788   893  152   22   68   360  257   531 
+Enough Shebazzle?            .253  .303  .385  3575   904  183   24   81   367  268   638 
+Needmore Shebazzum           .234  .301  .350  4002   938  155   20   89   397  367   820 
+Reykjavik 101ers             .241  .299  .350  3558   857  137   32   62   347  270   701 
+Ferlin Huskies               .234  .292  .352  3946   924  159   29   83   401  314   707 
+Nederland FrozenDeadGuys     .239  .288  .356  3729   892  152   28   76   368  251   666 
+Butt Mountain Beavis         .238  .300  .325  3794   902  138   34   42   339  331   697 
+Totals                       .256  .312  .378 67718 17364 2970  498 1415  7567 5597 11494 
+

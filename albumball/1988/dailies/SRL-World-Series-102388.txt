@@ -1,0 +1,95 @@
+SRL World Series - October 23, 1988
+
+
+Story:  Atoms lead series 2-0.  Danny Jackson pitches a complete game shutout,
+and Rick Dempsey drives in 3 runs, as the steamroller that is the Atoms flattens
+anything in its path.
+
+
+10/23/1988, BBG88-CEN88, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 GoiterMen         0  0  0  0  0  0  0  0  0     0  8  1     8  0
+1988 Atoms             0  1  0  0  0  3  0  0  x     4  4  0     4  1
+ 
+GoiterMen            AB  R  H BI   AVG    Atoms                AB  R  H BI   AVG
+Boggs             3b  4  0  2  0  .429    Henderson         cf  3  1  1  0  .286       
+Gwynn             cf  4  0  2  0  .500     Uribe            ss  0  0  0  0 1.000       
+Franco            2b  4  0  0  0  .333    Davis             1b  4  1  0  0  .111       
+Hernandez         1b  4  0  1  0  .200    Winfield          rf  3  1  1  0  .571       
+Incaviglia        lf  4  0  0  0  .000    Strawberry        lf  4  1  1  0  .250       
+Whitt             c   4  0  3  0  .375    Dempsey           c   4  0  1  3  .375       
+Greenwell         rf  3  0  0  0  .143    Ray               2b  3  0  0  1  .143       
+Trillo            ss  2  0  0  0  .000    Magadan           3b  3  0  0  0  .000       
+ Heath            ph  1  0  0  0  .000    Wilkerson         ss  2  0  0  0  .200       
+ Templeton        ss  1  0  0  0  .000     Wilson           cf  0  0  0  0  .000       
+Gubicza           p   2  0  0  0  .000    Jackson           p   3  0  0  0  .000       
+ Mattingly        ph  1  0  0  0  .000                         29  4  4  4             
+ August           p   0  0  0  0  .000                                              
+                     34  0  8  0                                                    
+ 
+GoiterMen                        INN  H  R ER BB  K PCH STR   ERA
+Gubicza          L 0-1           6.0  3  4  2  3  5  98  60  3.00
+August                           2.0  1  0  0  0  0  22  13  9.00
+                                 8.0  4  4  2  3  5 120  73 
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Jackson          W 1-0           9.0  8  0  0  0  6 126  85  0.00
+                                 9.0  8  0  0  0  6 126  85 
+ 
+BBG: Heath batted for Trillo in the 7th
+     Mattingly batted for Gubicza in the 7th
+     Templeton inserted at ss in the 7th
+CEN: Wilson inserted at cf in the 8th
+     Uribe inserted at ss in the 8th
+ 
+E-Trillo. 2B-Boggs, Gwynn, Winfield. 3B-Strawberry. K-Boggs, Hernandez, 
+Incaviglia 2, Greenwell, Trillo, Henderson, Strawberry, Ray, Jackson 2. 
+BB-Henderson, Winfield, Wilkerson. HBP-Greenwell. HB-Jackson. 
+GWRBI: Dempsey
+Temperature: 70, Wind: none.
+
+....................................................................................................
+10/23/1988, BBG88-CEN88, Astrodome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1988 GoiterMen         0  0  0  0  0  0  0  0  0     0  8  1     8  0
+1988 Atoms             0  1  0  0  0  3  0  0  x     4  4  0     4  1
+ 
+ 
+GoiterMen            -----A------ -----B------ -----C------ -----D------ -----E------
+Boggs             3b 1>53           D            S          8>k                      
+Gwynn             cf   D            31.2-3       43           S                      
+Franco            2b   63           53         6>63           643/gdp                
+Hernandez         1b   43         4>53           k          9>S                      
+Incaviglia        lf 2>k            3/g          43           k                      
+Whitt             c    S            S          7>43           S.1-2                  
+Greenwell         rf   9            k            HP           8                      
+Trillo            ss   54/f       5>k                                                
+ Heath            ph                             36/f                                
+ Templeton        ss                                          13                     
+Gubicza           p  3>43           43                                               
+ Mattingly        ph                             6/f                                 
+ August           p                                                                  
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson         cf 1>k            43         6>W            S                      
+ Uribe            ss                                                                 
+Davis             1b   63         4>63           e6.1-2;B-1   43                     
+Winfield          rf   43           D            W.2-3;1-2  8>13                     
+Strawberry        lf 2>T            8.2-3        k            3/g                    
+Dempsey           c    43.3-H       53           note 1       8                      
+Ray               2b   8          5>k            53.3-H                              
+Magadan           3b   31           8            163                                 
+Wilkerson         ss 3>43           W          7>August                              
+                                                 7                                   
+ Wilson           cf                                                                 
+Jackson           p    k            k            53                                  
+ 
+ 1: S.3-H;2-H;1-3;B-2 
+ 
+ 
+GoiterMen        IN OUT ER                  Atoms            IN OUT ER                  
+Gubicza          A1  C7  2 L 0-1            Jackson          A1  D8  0 W 1-0            
+August           C8  D5  0                                                              

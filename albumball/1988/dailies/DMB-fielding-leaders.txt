@@ -1,0 +1,674 @@
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+-------TC per game as 2B------     -------TC per game as 3B------     -------TC per game as SS------ 
+                                                                                                     
+Ray            CEN        5.56     Jacoby         BMB        3.06     Rivera         BMB        4.97 
+Sax            CCC        5.47     Howell         EVN        3.02     Gagne          FHK        4.94 
+Gant           GBP        5.44     Brookens       SUN        2.88     Fernandez      CTW        4.90 
+Thompson       CTW        5.27     Bonilla        GBP        2.86     Smith          BAR        4.89 
+Whitaker       SUN        5.27     Sabo           FHK        2.77     Templeton      BBG        4.83 
+Sandberg       NFG        5.21     Moreland       BAR        2.75     Oquendo        NEE        4.68 
+Randolph       ES?        5.18     Molitor        TEW        2.73     Guillen        TEW        4.66 
+Franco         BBG        5.13     Lansford       NFG        2.65     Dunston        NFG        4.50 
+Barrett        BAR        5.08     Mitchell       ES?        2.63     Johnson        ES?        4.45 
+Reynolds       FHK        5.05     Boggs          BBG        2.62     Ripken,C       CCC        4.37 
+                                                                                                     
+                                                                                                     
+-------TC per game as LF------     -------TC per game as CF------     -------TC per game as RF------ 
+                                                                                                     
+Carter         CCC        2.95     Davis          TEW        3.36     Canseco        TEW        2.57 
+Gibson         CTW        2.86     Butler         MAR        3.22     Benzinger      NFG        2.51 
+Daniels        CIN        2.67     Burks          FHK        3.21     Evans          NEE        2.43 
+Tartabull      NEE        2.65     Henderson      CEN        3.14     Davis,C        BAR        2.38 
+James          RYK        2.63     Van Slyke      CIN        3.13     Sierra         ES?        2.30 
+Baines         ES?        2.56     Henderson      NEE        3.11     Greenwell      BBG        2.28 
+Strawberry     CEN        2.47     McGee          CCC        3.10     Winfield       CEN        2.04 
+Jackson        GBP        2.33     White          RYK        3.06                                    
+Hayes          BBG        2.30     McReynolds     SUN        3.01                                    
+                                   McDowell       NFG        2.97                                    
+                                                                                                     
+                                                                                                     
+---Fielding percentage as P---     ---Fielding percentage as C---     ---Fielding percentage as 1B-- 
+                                                                                                     
+Hurst          MAR       1.000     Cerone         FHK       1.000     Hernandez      BBG       1.000 
+Walk           CTW       1.000     Whitt          BBG        .999     Joyner         RYK        .997 
+Flanagan       CCC       1.000     Hassey         TEW        .997     Hrbek          GBP        .996 
+Stieb          EVN       1.000     Karkovice      BAR        .997     McGriff        MAR        .996 
+Reuschel       RYK       1.000     Parrish        CIN        .996     Davis          FHK        .995 
+Rasmussen      MAR       1.000     Nokes          CTW        .996     McGwire        BMB        .995 
+Tudor          BAR       1.000     Pena           EVN        .995     Galarraga      TEW        .994 
+Robinson       CEN       1.000     Davis,J        BAR        .994     Murray         BAR        .993 
+LaPoint        CTW       1.000     Carter         NFG        .991     Davis          CEN        .993 
+DeLeon         ES?       1.000     Scioscia       CCC        .990     Bream          NFG        .992 
+                                                                                                     
+                                                                                                     
+---Fielding percentage as 2B--     ---Fielding percentage as 3B--     ---Fielding percentage as SS-- 
+                                                                                                     
+Barrett        BAR        .991     Lansford       NFG        .984     Guillen        TEW        .978 
+Doran          CIN        .987     Jacoby         BMB        .982     Fernandez      CTW        .975 
+Sandberg       NFG        .986     Gaetti         MAR        .978     Ripken,C       CCC        .974 
+Randolph       ES?        .985     Sabo           FHK        .978     Gagne          FHK        .973 
+Thompson       CTW        .983     Boggs          BBG        .971     Dunston        NFG        .967 
+Franco         BBG        .983     Mitchell       ES?        .957     Oquendo        NEE        .964 
+Sax            CCC        .979     Brookens       SUN        .937     Johnson        ES?        .963 
+Whitaker       SUN        .976     Samuel         RYK        .934     Smith          BAR        .962 
+Reynolds       FHK        .972     Molitor        TEW        .928     Templeton      BBG        .955 
+Ray            CEN        .971     Howell         EVN        .928     Rivera         BMB        .950 
+                                                                                                     
+                                                                                                     
+---Fielding percentage as LF--     ---Fielding percentage as CF--     ---Fielding percentage as RF-- 
+                                                                                                     
+James          RYK        .992     Puckett        GBP       1.000     Benzinger      NFG        .992 
+Jackson        GBP        .988     Dykstra        EVN       1.000     Evans          NEE        .986 
+Hayes          BBG        .981     Yount          ES?        .998     Sierra         ES?        .985 
+Gibson         CTW        .980     McDowell       NFG        .997     Canseco        TEW        .981 
+Carter         CCC        .979     Van Slyke      CIN        .994     Winfield       CEN        .979 
+Daniels        CIN        .976     Butler         MAR        .992     Greenwell      BBG        .970 
+Strawberry     CEN        .972     Henderson      NEE        .990     Davis,C        BAR        .920 
+Tartabull      NEE        .957     McReynolds     SUN        .990                                    
+Baines         ES?        .935     Gwynn          BBG        .982                                    
+                                   Davis          TEW        .981                                    
+                                                                                                     
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+-------Steal percentage-------     -----Steal percentage as C----     -------Outfield assists------- 
+                                                                                                     
+Glavine        CCC        .421     Nokes          CTW        .490     Sierra         ES?          27 
+Witt           TEW        .526     Scioscia       CCC        .564     Baines         ES?          25 
+LaPoint        CTW        .526     Karkovice      BAR        .567     McGee          CCC          24 
+Candiotti      CIN        .529     Santiago       NEE        .591     Canseco        TEW          23 
+Tanana         CCC        .529     Quirk          SUN        .594     Moseby         BMB          23 
+Robinson       TEW        .550     Surhoff        MAR        .648     Davis          TEW          21 
+Darwin         NEE        .565     Allanson       FHK        .655     Burks          FHK          20 
+Fraser         BMB        .576     Parrish        CIN        .655     Carter         CCC          20 
+Leibrandt      GBP        .579     Hassey         TEW        .667     Henderson      NEE          19 
+August         BBG        .579     Berryhill      EVN        .673     McReynolds     SUN          19 
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as P----------     ----------Starts as P---------     ---Fielding percentage as P--- 
+                                                                                                     
+Henneman       CTW          71     Moyer          BAR          36     Hurst          MAR       1.000 
+Pena           CIN          71     Hurst          MAR          35     Walk           CTW       1.000 
+Holton         BBG          70     Langston       ES?          35     Flanagan       CCC       1.000 
+Harris         MAR          70     Jackson        CEN          35     Stieb          EVN       1.000 
+Thigpen        GBP          69     DeLeon         ES?          35     Reuschel       RYK       1.000 
+Jackson        CIN          68     Gubicza        BBG          34     Rasmussen      MAR       1.000 
+Stanley        CTW          67     Viola          CTW          34     Tudor          BAR       1.000 
+August         BBG          67     Scott          BBG          34     Robinson       CEN       1.000 
+Smith          BAR          66     Hershiser      BBG          34     LaPoint        CTW       1.000 
+Harvey         TEW          66     Reuschel       RYK          34     DeLeon         ES?       1.000 
+                                                                                                     
+                                                                                                     
+---------Putouts as P---------     ---------Assists as P---------     ----------Errors as P--------- 
+                                                                                                     
+Hurst          MAR          24     Gubicza        BBG          39     McDowell       ES?           7 
+Mahler         RYK          21     Leibrandt      GBP          37     Ryan           ES?           7 
+Gubicza        BBG          20     Jackson        CEN          36     Magrane        EVN           7 
+Maddux         BMB          20     Moyer          BAR          34     Drabek         TEW           6 
+Martinez,De    NEE          20     Morris         TEW          32     Glavine        CCC           5 
+Stewart        MAR          19     Wegman         CCC          31     Whitson        GBP           4 
+Hershiser      BBG          19     Glavine        CCC          30     Russell        ES?           4 
+Higuera        CIN          18     Hershiser      BBG          30     Guzman         FER           4 
+Farrell        NFG          17     Jones          RYK          30     Langston       ES?           4 
+Gooden         FHK          17     Langston       ES?          29     Stewart        MAR           4 
+                                                                                                     
+                                                                                                     
+-----Putouts per game as P----     -----Assists per game as P----     -----Errors per game as P----- 
+                                                                                                     
+Martinez,De    NEE        0.93     Jones          RYK        1.63     Magrane        EVN        0.36 
+Mahler         RYK        0.92     Leibrandt      GBP        1.58     Ryan           ES?        0.32 
+Hurst          MAR        0.89     Flanagan       CCC        1.48     Drabek         TEW        0.25 
+Maddux         BMB        0.80     Glavine        CCC        1.45     Glavine        CCC        0.24 
+Gubicza        BBG        0.74     Gubicza        BBG        1.45     Whitson        GBP        0.22 
+Stewart        MAR        0.74     Candiotti      CIN        1.39     Sutcliffe      NFG        0.16 
+Higuera        CIN        0.73     Wegman         CCC        1.37     Stewart        MAR        0.16 
+Jones          RYK        0.71     Moyer          BAR        1.37     Candiotti      CIN        0.15 
+Ojeda          TEW        0.69     Fernandez      CIN        1.32     Langston       ES?        0.15 
+Magrane        EVN        0.68     Morris         TEW        1.29     Fraser         BMB        0.14 
+                                                                                                     
+                                                                                                     
+------Total chances as P------     -------TC per game as P-------     -------Double plays as P------ 
+                                                                                                     
+Gubicza        BBG          60     Jones          RYK        2.39     Wegman         CCC           4 
+Mahler         RYK          51     Magrane        EVN        2.24     Flanagan       CCC           4 
+Maddux         BMB          50     Mahler         RYK        2.23     Reuss          FHK           3 
+Hershiser      BBG          50     Gubicza        BBG        2.23     McDowell       ES?           3 
+Hurst          MAR          49     Martinez,De    NEE        2.15     Farrell        NFG           3 
+Leibrandt      GBP          49     Leibrandt      GBP        2.09     Robinson       CEN           3 
+Morris         TEW          47     Candiotti      CIN        2.01     Gubicza        BBG           3 
+Moyer          BAR          47     Maddux         BMB        1.99     Moore          CEN           3 
+Gooden         FHK          47     Flanagan       CCC        1.95     Jackson        CEN           3 
+Jackson        CEN          46     Wegman         CCC        1.95     Fernandez      CIN           3 
+                                                                                                     
+                                                                                                     
+-----------Pickoffs-----------     ---------Stolen bases---------     --------Caught stealing------- 
+                                                                                                     
+Hershiser      BBG           6     Ryan           ES?          37     Fraser         BMB          14 
+Davis          RYK           6     Blyleven       NFG          33     Glavine        CCC          11 
+Dopson         FER           6     Scott          BBG          31     Flanagan       CCC          11 
+Blyleven       NFG           6     Dopson         FER          29     Stewart        MAR          11 
+Reuschel       RYK           5     Gross,K        TEW          25     Langston       ES?          11 
+Candiotti      CIN           5     DeLeon         ES?          24     Darwin         NEE          10 
+Morris         TEW           5     Gooden         FHK          23     Darling        FHK          10 
+Jackson        CEN           5     Hurst          MAR          23     Rasmussen      MAR          10 
+Gubicza        BBG           5     Mahler         RYK          23     Moyer          BAR          10 
+Jones          RYK           5     Jones          RYK          22     Boddicker      CIN          10 
+                                                                                                     
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+-------Steal percentage-------     ------------------------------     ------------------------------ 
+                                                                                                     
+Glavine        CCC        .421                                                                       
+Witt           TEW        .526                                                                       
+LaPoint        CTW        .526                                                                       
+Candiotti      CIN        .529                                                                       
+Tanana         CCC        .529                                                                       
+Robinson       TEW        .550                                                                       
+Darwin         NEE        .565                                                                       
+Fraser         BMB        .576                                                                       
+Leibrandt      GBP        .579                                                                       
+August         BBG        .579                                                                       
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as C----------     ----------Starts as C---------     ---Fielding percentage as C--- 
+                                                                                                     
+Pena           EVN         144     Carter         NFG         132     Cerone         FHK       1.000 
+Carter         NFG         140     Surhoff        MAR         118     Whitt          BBG        .999 
+Parrish        CIN         132     Allanson       FHK         108     Hassey         TEW        .997 
+Surhoff        MAR         128     Whitt          BBG         101     Karkovice      BAR        .997 
+Whitt          BBG         127     Pena           EVN          96     Parrish        CIN        .996 
+Allanson       FHK         120     LaValliere     ES?          94     Nokes          CTW        .996 
+Heath          BBG         118     Santiago       NEE          92     Pena           EVN        .995 
+Hassey         TEW         114     Parrish        CIN          92     Davis,J        BAR        .994 
+Karkovice      BAR         109     Hassey         TEW          91     Carter         NFG        .991 
+Santiago       NEE         104     Scioscia       CCC          90     Scioscia       CCC        .990 
+                                                                                                     
+                                                                                                     
+---------Putouts as C---------     ---------Assists as C---------     ----------Errors as C--------- 
+                                                                                                     
+Carter         NFG         804     Surhoff        MAR          60     Quirk          SUN          10 
+Surhoff        MAR         693     Carter         NFG          55     Steinbach      BMB          10 
+Parrish        CIN         678     Santiago       NEE          55     Santiago       NEE           9 
+LaValliere     ES?         660     LaValliere     ES?          52     Allanson       FHK           9 
+Allanson       FHK         631     Parrish        CIN          50     Pagnozzi       GBP           8 
+Whitt          BBG         624     Allanson       FHK          46     Petralli       NEE           8 
+Hassey         TEW         611     Steinbach      BMB          45     Heath          BBG           8 
+Santiago       NEE         556     Hassey         TEW          44     Boone          CEN           8 
+Pena           EVN         552     Whitt          BBG          44     LaValliere     ES?           8 
+Davis,J        BAR         482     Scioscia       CCC          44     Surhoff        MAR           8 
+                                                                                                     
+                                                                                                     
+-----Putouts per game as C----     -----Assists per game as C----     -----Errors per game as C----- 
+                                                                                                     
+LaValliere     ES?        7.29     Quirk          SUN        0.60     Quirk          SUN        0.17 
+Parrish        CIN        7.14     Santiago       NEE        0.59     Heath          BBG        0.13 
+Karkovice      BAR        6.56     LaValliere     ES?        0.57     Berryhill      EVN        0.12 
+Davis,J        BAR        6.46     Karkovice      BAR        0.55     Steinbach      BMB        0.11 
+Whitt          BBG        6.45     Surhoff        MAR        0.55     Santiago       NEE        0.10 
+Surhoff        MAR        6.37     Scioscia       CCC        0.53     LaValliere     ES?        0.09 
+Hassey         TEW        6.34     Parrish        CIN        0.53     Allanson       FHK        0.09 
+Berryhill      EVN        6.28     Steinbach      BMB        0.50     Surhoff        MAR        0.07 
+Heath          BBG        6.19     Cerone         FHK        0.49     Carter         NFG        0.06 
+Quirk          SUN        6.19     Hassey         TEW        0.46     Scioscia       CCC        0.06 
+                                                                                                     
+                                                                                                     
+------Total chances as C------     -------TC per game as C-------     -------Double plays as C------ 
+                                                                                                     
+Carter         NFG         867     LaValliere     ES?        7.95     Pena           EVN           5 
+Surhoff        MAR         761     Parrish        CIN        7.70     Hassey         TEW           4 
+Parrish        CIN         731     Karkovice      BAR        7.14     Steinbach      BMB           4 
+LaValliere     ES?         720     Surhoff        MAR        7.00     Carter         NFG           4 
+Allanson       FHK         686     Quirk          SUN        6.96     Boone          CEN           3 
+Whitt          BBG         669     Davis,J        BAR        6.94     Laudner        TEW           3 
+Hassey         TEW         657     Whitt          BBG        6.92     Virgil         RYK           3 
+Santiago       NEE         620     Berryhill      EVN        6.82     Scioscia       CCC           3 
+Pena           EVN         595     Hassey         TEW        6.81     LaValliere     ES?           3 
+Steinbach      BMB         533     Heath          BBG        6.77     Davis,J        BAR           3 
+                                                                                                     
+                                                                                                     
+-------Stolen bases as C------     -----Caught stealing as C-----     -----Steal percentage as C---- 
+                                                                                                     
+Carter         NFG         143     Santiago       NEE          38     Nokes          CTW        .490 
+LaValliere     ES?          85     Surhoff        MAR          38     Scioscia       CCC        .564 
+Tettleton      ES?          74     Carter         NFG          37     Karkovice      BAR        .567 
+Whitt          BBG          73     Scioscia       CCC          34     Santiago       NEE        .591 
+Steinbach      BMB          72     Hassey         TEW          33     Quirk          SUN        .594 
+Surhoff        MAR          70     Steinbach      BMB          33     Surhoff        MAR        .648 
+Hassey         TEW          66     LaValliere     ES?          33     Allanson       FHK        .655 
+Pena           EVN          65     Parrish        CIN          30     Parrish        CIN        .655 
+Parrish        CIN          57     Allanson       FHK          29     Hassey         TEW        .667 
+Fisk           GBP          55     Quirk          SUN          28     Berryhill      EVN        .673 
+                                                                                                     
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+---------Pickoffs as C--------     -------Passed balls as C------     ------------------------------ 
+                                                                                                     
+Karkovice      BAR           1     Petralli       NEE          18                                    
+Berryhill      EVN           1     Allanson       FHK          15                                    
+Pagnozzi       GBP           1     Tettleton      ES?          10                                    
+Pena           EVN           1     Steinbach      BMB           9                                    
+Santiago       NEE           1     Parrish        CIN           9                                    
+Hassey         TEW           1     LaValliere     ES?           9                                    
+Steinbach      BMB           1     Davis,J        BAR           9                                    
+Surhoff        MAR           1     Cerone         FHK           8                                    
+                                   Surhoff        MAR           7                                    
+                                   Hassey         TEW           7                                    
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as 1B---------     ---------Starts as 1B---------     ---Fielding percentage as 1B-- 
+                                                                                                     
+Galarraga      TEW         162     Galarraga      TEW         162     Hernandez      BBG       1.000 
+McGriff        MAR         157     McGriff        MAR         153     Joyner         RYK        .997 
+McGwire        BMB         151     McGwire        BMB         150     Hrbek          GBP        .996 
+Clark          CTW         149     Davis          FHK         141     McGriff        MAR        .996 
+Clark          NEE         145     Clark          NEE         138     Davis          FHK        .995 
+Davis          FHK         144     Murray         BAR         129     McGwire        BMB        .995 
+Joyner         RYK         140     Clark          CTW         128     Galarraga      TEW        .994 
+Murray         BAR         139     Joyner         RYK         124     Murray         BAR        .993 
+Brett          SUN         126     Davis          CEN         122     Davis          CEN        .993 
+Davis          CEN         126     Brett          SUN         119     Bream          NFG        .992 
+                                                                                                     
+                                                                                                     
+---------Putouts as 1B--------     ---------Assists as 1B--------     ---------Errors as 1B--------- 
+                                                                                                     
+McGwire        BMB        1355     McGriff        MAR         118     Stubbs         ES?          13 
+Galarraga      TEW        1343     Joyner         RYK         108     Clark          CTW          11 
+McGriff        MAR        1235     McGwire        BMB         107     Virgil         RYK          10 
+Davis          FHK        1216     Galarraga      TEW          96     Kittle         ES?          10 
+Clark          CTW        1180     Davis          FHK          94     Grace          EVN          10 
+Murray         BAR        1170     Murray         BAR          91     Brett          SUN          10 
+Joyner         RYK        1160     Clark          NEE          84     Clark          NEE          10 
+Clark          NEE        1143     Brett          SUN          83     Mattingly      BBG           9 
+Brett          SUN        1097     Clark          CTW          82     Wallach        FER           9 
+Hrbek          GBP        1057     Hrbek          GBP          79     Murray         BAR           9 
+                                                                                                     
+                                                                                                     
+----Putouts per game as 1B----     ----Assists per game as 1B----     -----Errors per game as 1B---- 
+                                                                                                     
+Hernandez      BBG        9.73     Joyner         RYK        0.86     Clark          CTW        0.08 
+Joyner         RYK        9.21     McGriff        MAR        0.77     Brett          SUN        0.08 
+Hrbek          GBP        9.15     McGwire        BMB        0.72     Clark          NEE        0.07 
+McGwire        BMB        9.06     Murray         BAR        0.70     Bream          NFG        0.07 
+Murray         BAR        8.99     Hrbek          GBP        0.68     Murray         BAR        0.07 
+Brett          SUN        8.97     Brett          SUN        0.68     Davis          CEN        0.07 
+Clark          CTW        8.87     Bream          NFG        0.68     Galarraga      TEW        0.06 
+Davis          CEN        8.56     Davis          FHK        0.66     McGwire        BMB        0.05 
+Davis          FHK        8.51     Clark          NEE        0.62     Davis          FHK        0.05 
+Bream          NFG        8.49     Clark          CTW        0.62     McGriff        MAR        0.04 
+                                                                                                     
+                                                                                                     
+------Total chances as 1B-----     -------TC per game as 1B------     ------Double plays as 1B------ 
+                                                                                                     
+McGwire        BMB        1470     Hernandez      BBG       10.32     McGwire        BMB         121 
+Galarraga      TEW        1448     Joyner         RYK       10.10     Galarraga      TEW         117 
+McGriff        MAR        1359     Hrbek          GBP        9.87     Davis          FHK         109 
+Davis          FHK        1317     McGwire        BMB        9.83     McGriff        MAR         100 
+Clark          CTW        1273     Murray         BAR        9.76     Joyner         RYK          98 
+Joyner         RYK        1272     Brett          SUN        9.73     Clark          CTW          96 
+Murray         BAR        1270     Clark          CTW        9.57     Murray         BAR          92 
+Clark          NEE        1237     Bream          NFG        9.24     Davis          CEN          90 
+Brett          SUN        1190     Davis          FHK        9.22     Clark          NEE          88 
+Hrbek          GBP        1140     Davis          CEN        9.11     Hrbek          GBP          87 
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as 2B---------     ---------Starts as 2B---------     ---Fielding percentage as 2B-- 
+                                                                                                     
+Sax            CCC         162     Sax            CCC         162     Barrett        BAR        .991 
+Franco         BBG         158     Franco         BBG         158     Doran          CIN        .987 
+Alomar,R       MAR         154     Alomar,R       MAR         154     Sandberg       NFG        .986 
+Ray            CEN         145     Ray            CEN         145     Randolph       ES?        .985 
+Sandberg       NFG         143     Doran          CIN         135     Thompson       CTW        .983 
+Doran          CIN         138     Sandberg       NFG         134     Franco         BBG        .983 
+Whitaker       SUN         137     Gant           GBP         131     Sax            CCC        .979 
+Gant           GBP         131     Randolph       ES?         116     Whitaker       SUN        .976 
+Thompson       CTW         129     Thompson       CTW         115     Reynolds       FHK        .972 
+Reynolds       FHK         126     Reynolds       FHK         112     Ray            CEN        .971 
+                                                                                                     
+                                                                                                     
+---------Putouts as 2B--------     ---------Assists as 2B--------     ---------Errors as 2B--------- 
+                                                                                                     
+Sax            CCC         395     Ray            CEN         466     Alomar,R       MAR          23 
+Alomar,R       MAR         312     Sax            CCC         454     Ray            CEN          23 
+Ray            CEN         301     Franco         BBG         450     Gant           GBP          20 
+Franco         BBG         282     Sandberg       NFG         430     Sax            CCC          18 
+Sandberg       NFG         263     Alomar,R       MAR         417     Reynolds       FHK          17 
+Reynolds       FHK         251     Gant           GBP         408     Alicea         RYK          15 
+Gant           GBP         249     Thompson       CTW         369     Browne         FHK          13 
+Doran          CIN         244     Randolph       ES?         361     Whitaker       SUN          13 
+Randolph       ES?         226     Doran          CIN         341     Franco         BBG          13 
+Thompson       CTW         226     Reynolds       FHK         339     Teufel         NEE          12 
+                                                                                                     
+                                                                                                     
+----Putouts per game as 2B----     ----Assists per game as 2B----     -----Errors per game as 2B---- 
+                                                                                                     
+Sax            CCC        2.49     Gant           GBP        3.28     Ray            CEN        0.16 
+Ray            CEN        2.12     Ray            CEN        3.28     Gant           GBP        0.16 
+Reynolds       FHK        2.09     Thompson       CTW        3.22     Alomar,R       MAR        0.15 
+Whitaker       SUN        2.09     Sandberg       NFG        3.19     Reynolds       FHK        0.14 
+Alomar,R       MAR        2.06     Randolph       ES?        3.14     Whitaker       SUN        0.12 
+Gant           GBP        2.00     Franco         BBG        3.10     Sax            CCC        0.11 
+Barrett        BAR        1.98     Whitaker       SUN        3.06     Franco         BBG        0.09 
+Thompson       CTW        1.97     Barrett        BAR        3.06     Thompson       CTW        0.09 
+Randolph       ES?        1.97     Sax            CCC        2.86     Randolph       ES?        0.08 
+Sandberg       NFG        1.95     Reynolds       FHK        2.82     Sandberg       NFG        0.07 
+                                                                                                     
+                                                                                                     
+------Total chances as 2B-----     -------TC per game as 2B------     ------Double plays as 2B------ 
+                                                                                                     
+Sax            CCC         867     Ray            CEN        5.56     Ray            CEN         100 
+Ray            CEN         790     Sax            CCC        5.47     Sax            CCC          89 
+Alomar,R       MAR         752     Gant           GBP        5.44     Franco         BBG          82 
+Franco         BBG         745     Thompson       CTW        5.27     Alomar,R       MAR          82 
+Sandberg       NFG         703     Whitaker       SUN        5.27     Gant           GBP          81 
+Gant           GBP         677     Sandberg       NFG        5.21     Sandberg       NFG          76 
+Reynolds       FHK         607     Randolph       ES?        5.18     Reynolds       FHK          75 
+Thompson       CTW         605     Franco         BBG        5.13     Backman        CTW          67 
+Randolph       ES?         596     Barrett        BAR        5.08     Whitaker       SUN          63 
+Doran          CIN         593     Reynolds       FHK        5.05     Barrett        BAR          61 
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as 3B---------     ---------Starts as 3B---------     ---Fielding percentage as 3B-- 
+                                                                                                     
+Boggs          BBG         157     Boggs          BBG         157     Lansford       NFG        .984 
+Molitor        TEW         157     Molitor        TEW         157     Jacoby         BMB        .982 
+Jacoby         BMB         153     Jacoby         BMB         151     Gaetti         MAR        .978 
+Mitchell       ES?         148     Mitchell       ES?         143     Sabo           FHK        .978 
+Sabo           FHK         141     Sabo           FHK         140     Boggs          BBG        .971 
+Gaetti         MAR         126     Gaetti         MAR         126     Mitchell       ES?        .957 
+Lansford       NFG         124     Lansford       NFG         124     Brookens       SUN        .937 
+Moreland       BAR         124     Moreland       BAR         124     Samuel         RYK        .934 
+Bonilla        GBP         123     Bonilla        GBP         123     Molitor        TEW        .928 
+Brookens       SUN         122     Samuel         RYK         117     Howell         EVN        .928 
+                                                                                                     
+                                                                                                     
+---------Putouts as 3B--------     ---------Assists as 3B--------     ---------Errors as 3B--------- 
+                                                                                                     
+Jacoby         BMB         137     Jacoby         BMB         305     Bonilla        GBP          32 
+Molitor        TEW         136     Boggs          BBG         287     Molitor        TEW          31 
+Boggs          BBG         108     Sabo           FHK         284     Moreland       BAR          26 
+Sabo           FHK         108     Molitor        TEW         266     Howell         EVN          23 
+Mitchell       ES?         104     Mitchell       ES?         253     Seitzer        FER          21 
+Gaetti         MAR         100     Bonilla        GBP         231     Samuel         RYK          20 
+Lansford       NFG          96     Lansford       NFG         216     Brookens       SUN          18 
+Howell         EVN          95     Gaetti         MAR         215     Mitchell       ES?          16 
+Pendleton      CCC          95     Moreland       BAR         215     Pendleton      CCC          15 
+Bonilla        GBP          83     Howell         EVN         203     Magadan        CEN          13 
+                                                                                                     
+                                                                                                     
+----Putouts per game as 3B----     ----Assists per game as 3B----     -----Errors per game as 3B---- 
+                                                                                                     
+Jacoby         BMB        0.93     Jacoby         BMB        2.07     Bonilla        GBP        0.26 
+Howell         EVN        0.89     Sabo           FHK        1.96     Moreland       BAR        0.23 
+Molitor        TEW        0.86     Brookens       SUN        1.92     Howell         EVN        0.22 
+Lansford       NFG        0.80     Howell         EVN        1.91     Molitor        TEW        0.20 
+Gaetti         MAR        0.80     Bonilla        GBP        1.91     Brookens       SUN        0.18 
+Brookens       SUN        0.78     Moreland       BAR        1.86     Samuel         RYK        0.17 
+Sabo           FHK        0.74     Boggs          BBG        1.84     Mitchell       ES?        0.11 
+Mitchell       ES?        0.73     Lansford       NFG        1.81     Boggs          BBG        0.08 
+Boggs          BBG        0.69     Mitchell       ES?        1.79     Sabo           FHK        0.06 
+Bonilla        GBP        0.69     Samuel         RYK        1.76     Gaetti         MAR        0.06 
+                                                                                                     
+                                                                                                     
+------Total chances as 3B-----     -------TC per game as 3B------     ------Double plays as 3B------ 
+                                                                                                     
+Jacoby         BMB         450     Jacoby         BMB        3.06     Jacoby         BMB          39 
+Molitor        TEW         433     Howell         EVN        3.02     Boggs          BBG          29 
+Boggs          BBG         407     Brookens       SUN        2.88     Lansford       NFG          26 
+Sabo           FHK         401     Bonilla        GBP        2.86     Sabo           FHK          26 
+Mitchell       ES?         373     Sabo           FHK        2.77     Samuel         RYK          24 
+Bonilla        GBP         346     Moreland       BAR        2.75     Pendleton      CCC          24 
+Gaetti         MAR         322     Molitor        TEW        2.73     Magadan        CEN          23 
+Howell         EVN         321     Lansford       NFG        2.65     Molitor        TEW          22 
+Lansford       NFG         317     Mitchell       ES?        2.63     Bonilla        GBP          22 
+Moreland       BAR         317     Boggs          BBG        2.62     Brookens       SUN          21 
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as SS---------     ---------Starts as SS---------     ---Fielding percentage as SS-- 
+                                                                                                     
+Ripken,C       CCC         162     Ripken,C       CCC         162     Guillen        TEW        .978 
+Fernandez      CTW         161     Fernandez      CTW         161     Fernandez      CTW        .975 
+Smith          BAR         158     Smith          BAR         158     Ripken,C       CCC        .974 
+Guillen        TEW         151     Larkin         CIN         149     Gagne          FHK        .973 
+Larkin         CIN         150     Dunston        NFG         144     Dunston        NFG        .967 
+Johnson        ES?         146     Johnson        ES?         142     Oquendo        NEE        .964 
+Dunston        NFG         145     Gagne          FHK         140     Johnson        ES?        .963 
+Gagne          FHK         141     Rivera         BMB         118     Smith          BAR        .962 
+Rivera         BMB         135     Trammell       EVN         103     Templeton      BBG        .955 
+Templeton      BBG         135     Guillen        TEW         101     Rivera         BMB        .950 
+                                                                                                     
+                                                                                                     
+---------Putouts as SS--------     ---------Assists as SS--------     ---------Errors as SS--------- 
+                                                                                                     
+Ripken,C       CCC         229     Fernandez      CTW         540     Larkin         CIN          32 
+Fernandez      CTW         226     Smith          BAR         535     Smith          BAR          29 
+Dunston        NFG         225     Ripken,C       CCC         458     Rivera         BMB          28 
+Gagne          FHK         201     Gagne          FHK         439     Washington     RYK          25 
+Johnson        ES?         201     Larkin         CIN         412     Johnson        ES?          23 
+Smith          BAR         198     Johnson        ES?         402     Templeton      BBG          22 
+Larkin         CIN         193     Dunston        NFG         399     Dunston        NFG          21 
+Rivera         BMB         160     Rivera         BMB         375     Manrique       FER          20 
+Templeton      BBG         154     Trammell       EVN         353     Fernandez      CTW          20 
+Guillen        TEW         144     Guillen        TEW         344     Thon           NEE          18 
+                                                                                                     
+                                                                                                     
+----Putouts per game as SS----     ----Assists per game as SS----     -----Errors per game as SS---- 
+                                                                                                     
+Dunston        NFG        1.57     Smith          BAR        3.43     Rivera         BMB        0.25 
+Templeton      BBG        1.53     Fernandez      CTW        3.37     Templeton      BBG        0.22 
+Gagne          FHK        1.51     Rivera         BMB        3.31     Larkin         CIN        0.21 
+Oquendo        NEE        1.44     Gagne          FHK        3.30     Smith          BAR        0.19 
+Johnson        ES?        1.43     Guillen        TEW        3.21     Oquendo        NEE        0.17 
+Ripken,C       CCC        1.42     Templeton      BBG        3.08     Johnson        ES?        0.16 
+Rivera         BMB        1.41     Oquendo        NEE        3.07     Dunston        NFG        0.15 
+Fernandez      CTW        1.41     Johnson        ES?        2.86     Gagne          FHK        0.14 
+Guillen        TEW        1.34     Ripken,C       CCC        2.84     Fernandez      CTW        0.12 
+Larkin         CIN        1.29     Dunston        NFG        2.79     Ripken,C       CCC        0.11 
+                                                                                                     
+                                                                                                     
+------Total chances as SS-----     -------TC per game as SS------     ------Double plays as SS------ 
+                                                                                                     
+Fernandez      CTW         786     Rivera         BMB        4.97     Smith          BAR          81 
+Smith          BAR         762     Gagne          FHK        4.94     Fernandez      CTW          77 
+Ripken,C       CCC         705     Fernandez      CTW        4.90     Dunston        NFG          76 
+Gagne          FHK         658     Smith          BAR        4.89     Ripken,C       CCC          74 
+Dunston        NFG         645     Templeton      BBG        4.83     Gagne          FHK          74 
+Larkin         CIN         637     Oquendo        NEE        4.68     Rivera         BMB          65 
+Johnson        ES?         626     Guillen        TEW        4.66     Larkin         CIN          62 
+Rivera         BMB         563     Dunston        NFG        4.50     Johnson        ES?          62 
+Trammell       EVN         501     Johnson        ES?        4.45     Trammell       EVN          54 
+Guillen        TEW         499     Ripken,C       CCC        4.37     Templeton      BBG          54 
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as LF---------     ---------Starts as LF---------     ---Fielding percentage as LF-- 
+                                                                                                     
+Carter         CCC         147     Carter         CCC         147     James          RYK        .992 
+Strawberry     CEN         146     Strawberry     CEN         146     Jackson        GBP        .988 
+Gibson         CTW         142     Gibson         CTW         141     Hayes          BBG        .981 
+Tartabull      NEE         140     Tartabull      NEE         140     Gibson         CTW        .980 
+Baines         ES?         135     Baines         ES?         135     Carter         CCC        .979 
+Hayes          BBG         120     Jackson        GBP         111     Daniels        CIN        .976 
+Jackson        GBP         112     James          RYK         100     Strawberry     CEN        .972 
+James          RYK         112     Kruk           FHK          97     Tartabull      NEE        .957 
+Daniels        CIN         111     Daniels        CIN          97     Baines         ES?        .935 
+Kruk           FHK         102     Gruber         MAR          90                                    
+                                                                                                     
+                                                                                                     
+---------Putouts as LF--------     ---------Assists as LF--------     ---------Errors as LF--------- 
+                                                                                                     
+Carter         CCC         398     Baines         ES?          24     Baines         ES?          22 
+Gibson         CTW         380     Carter         CCC          19     Tartabull      NEE          15 
+Strawberry     CEN         328     Daniels        CIN          15     Gruber         MAR          11 
+Tartabull      NEE         322     Gibson         CTW          14     Strawberry     CEN          10 
+Baines         ES?         291     Strawberry     CEN          13     Carter         CCC           9 
+James          RYK         251     Kruk           FHK          12     Gibson         CTW           8 
+Kruk           FHK         236     Hayes          BBG          11     Bell           FHK           7 
+Jackson        GBP         234     Bradley        BAR          11     Boston         BAR           6 
+Daniels        CIN         232     Leonard        RYK          11     Brooks         TEW           6 
+Raines         TEW         214     Griffey        BMB          11     Daniels        CIN           6 
+                                                                                                     
+                                                                                                     
+----Putouts per game as LF----     ----Assists per game as LF----     -----Errors per game as LF---- 
+                                                                                                     
+Carter         CCC        2.76     Baines         ES?        0.18     Baines         ES?        0.17 
+Gibson         CTW        2.71     Daniels        CIN        0.16     Tartabull      NEE        0.11 
+James          RYK        2.51     Carter         CCC        0.13     Strawberry     CEN        0.07 
+Tartabull      NEE        2.46     Hayes          BBG        0.12     Daniels        CIN        0.06 
+Daniels        CIN        2.45     James          RYK        0.10     Carter         CCC        0.06 
+Strawberry     CEN        2.31     Gibson         CTW        0.10     Gibson         CTW        0.06 
+Jackson        GBP        2.21     Strawberry     CEN        0.09     Hayes          BBG        0.04 
+Baines         ES?        2.21     Jackson        GBP        0.09     Jackson        GBP        0.03 
+Hayes          BBG        2.13     Tartabull      NEE        0.08     James          RYK        0.02 
+                                                                                                     
+                                                                                                     
+                                                                                                     
+------Total chances as LF-----     -------TC per game as LF------     ------Double plays as LF------ 
+                                                                                                     
+Carter         CCC         426     Carter         CCC        2.95     Baines         ES?           4 
+Gibson         CTW         402     Gibson         CTW        2.86     Strawberry     CEN           3 
+Strawberry     CEN         351     Daniels        CIN        2.67     Griffey        BMB           3 
+Tartabull      NEE         347     Tartabull      NEE        2.65     Stanicek       BMB           2 
+Baines         ES?         337     James          RYK        2.63     Rice           GBP           2 
+James          RYK         263     Baines         ES?        2.56     Boston         BAR           2 
+Daniels        CIN         253     Strawberry     CEN        2.47     Bergman        CTW           2 
+Kruk           FHK         248     Jackson        GBP        2.33     Murphy         SUN           2 
+Jackson        GBP         246     Hayes          BBG        2.30     Gladden        CIN           2 
+Raines         TEW         224                                        Incaviglia     BBG           2 
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as CF---------     ---------Starts as CF---------     ---Fielding percentage as CF-- 
+                                                                                                     
+Yount          ES?         162     Yount          ES?         162     Puckett        GBP       1.000 
+Butler         MAR         154     Butler         MAR         154     Dykstra        EVN       1.000 
+McGee          CCC         145     McGee          CCC         145     Yount          ES?        .998 
+Burks          FHK         144     Burks          FHK         144     McDowell       NFG        .997 
+Gwynn          BBG         138     Gwynn          BBG         138     Van Slyke      CIN        .994 
+Puckett        GBP         136     Henderson      NEE         134     Butler         MAR        .992 
+Henderson      NEE         134     McReynolds     SUN         131     Henderson      NEE        .990 
+Davis          TEW         134     McDowell       NFG         123     McReynolds     SUN        .990 
+McReynolds     SUN         131     Davis          TEW         123     Gwynn          BBG        .982 
+Van Slyke      CIN         130     Puckett        GBP         123     Davis          TEW        .981 
+                                                                                                     
+                                                                                                     
+---------Putouts as CF--------     ---------Assists as CF--------     ---------Errors as CF--------- 
+                                                                                                     
+Butler         MAR         477     McGee          CCC          24     McGee          CCC          14 
+Burks          FHK         443     Davis          TEW          21     Burks          FHK          13 
+Yount          ES?         437     Burks          FHK          20     Henderson      CEN          12 
+Davis          TEW         400     Henderson      NEE          19     White          RYK           8 
+McGee          CCC         396     McReynolds     SUN          19     Davis          TEW           8 
+Henderson      NEE         393     Gwynn          BBG          19     Gwynn          BBG           7 
+McReynolds     SUN         375     Yount          ES?          17     Anderson       BAR           6 
+Gwynn          BBG         365     James          FER          17     James          FER           6 
+Puckett        GBP         351     Butler         MAR          17     Johnson        TEW           4 
+Van Slyke      CIN         347     McDowell       NFG          16     McReynolds     SUN           4 
+                                                                                                     
+                                                                                                     
+----Putouts per game as CF----     ----Assists per game as CF----     -----Errors per game as CF---- 
+                                                                                                     
+Davis          TEW        3.13     McGee          CCC        0.17     Henderson      CEN        0.11 
+Butler         MAR        3.09     Davis          TEW        0.16     McGee          CCC        0.10 
+Van Slyke      CIN        3.00     James          FER        0.16     Burks          FHK        0.09 
+Burks          FHK        2.99     McReynolds     SUN        0.14     White          RYK        0.07 
+Henderson      CEN        2.95     Henderson      NEE        0.14     Davis          TEW        0.06 
+Henderson      NEE        2.94     Gwynn          BBG        0.14     James          FER        0.06 
+White          RYK        2.90     Burks          FHK        0.14     Gwynn          BBG        0.05 
+McReynolds     SUN        2.84     McDowell       NFG        0.13     McReynolds     SUN        0.03 
+McDowell       NFG        2.83     Dykstra        EVN        0.12     Henderson      NEE        0.03 
+McGee          CCC        2.83     Butler         MAR        0.11     Butler         MAR        0.03 
+                                                                                                     
+                                                                                                     
+------Total chances as CF-----     -------TC per game as CF------     ------Double plays as CF------ 
+                                                                                                     
+Butler         MAR         498     Davis          TEW        3.36     Yount          ES?           5 
+Burks          FHK         476     Butler         MAR        3.22     Dykstra        EVN           4 
+Yount          ES?         455     Burks          FHK        3.21     Burks          FHK           3 
+McGee          CCC         434     Henderson      CEN        3.14     White          RYK           3 
+Davis          TEW         429     Van Slyke      CIN        3.13     Henderson      NEE           3 
+Henderson      NEE         416     Henderson      NEE        3.11     Javier         BMB           3 
+McReynolds     SUN         398     McGee          CCC        3.10     Moseby         BMB           3 
+Gwynn          BBG         391     White          RYK        3.06     McGee          CCC           3 
+Puckett        GBP         362     McReynolds     SUN        3.01     Gwynn          BBG           3 
+Van Slyke      CIN         361     McDowell       NFG        2.97     Lyons          NEE           2 
+                                                                                                     
+                          DMB fielding leaders -- All players in database                           
+                                           Regular season                                           
+
+----------Games as RF---------     ---------Starts as RF---------     ---Fielding percentage as RF-- 
+                                                                                                     
+Greenwell      BBG         162     Greenwell      BBG         162     Benzinger      NFG        .992 
+Canseco        TEW         162     Canseco        TEW         162     Evans          NEE        .986 
+Davis,C        BAR         159     Davis,C        BAR         158     Sierra         ES?        .985 
+Evans          NEE         152     Evans          NEE         152     Canseco        TEW        .981 
+Winfield       CEN         152     Sierra         ES?         151     Winfield       CEN        .979 
+Sierra         ES?         151     Winfield       CEN         150     Greenwell      BBG        .970 
+Benzinger      NFG         111     Benzinger      NFG         106     Davis,C        BAR        .920 
+Maldonado      RYK         107     O'Neill        CCC          98                                    
+O'Neill        CCC         104     Maldonado      RYK          98                                    
+Thompson       CIN          98     Martinez       BMB          96                                    
+                                                                                                     
+                                                                                                     
+---------Putouts as RF--------     ---------Assists as RF--------     ---------Errors as RF--------- 
+                                                                                                     
+Canseco        TEW         384     Sierra         ES?          27     Davis,C        BAR          30 
+Greenwell      BBG         340     Canseco        TEW          23     Bell           FHK          15 
+Evans          NEE         339     Greenwell      BBG          17     Greenwell      BBG          11 
+Davis,C        BAR         334     Evans          NEE          16     Campusano      RYK          10 
+Sierra         ES?         301     O'Neill        CCC          16     Maldonado      RYK          10 
+Winfield       CEN         272     Martinez       BMB          15     Canseco        TEW           8 
+O'Neill        CCC         255     Benzinger      NFG          13     Thompson       CIN           7 
+Maldonado      RYK         252     Winfield       CEN          12     Winfield       CEN           6 
+Benzinger      NFG         240     Maldonado      RYK          11     Coleman        GBP           5 
+Martinez       BMB         210     Davis,C        BAR           9     Sierra         ES?           5 
+                                                                                                     
+                                                                                                     
+----Putouts per game as RF----     ----Assists per game as RF----     -----Errors per game as RF---- 
+                                                                                                     
+Canseco        TEW        2.37     Sierra         ES?        0.19     Davis,C        BAR        0.19 
+Benzinger      NFG        2.36     Canseco        TEW        0.14     Greenwell      BBG        0.07 
+Evans          NEE        2.29     Benzinger      NFG        0.13     Canseco        TEW        0.05 
+Davis,C        BAR        2.13     Evans          NEE        0.11     Winfield       CEN        0.04 
+Greenwell      BBG        2.11     Greenwell      BBG        0.11     Sierra         ES?        0.03 
+Sierra         ES?        2.08     Winfield       CEN        0.08     Evans          NEE        0.03 
+Winfield       CEN        1.92     Davis,C        BAR        0.06     Benzinger      NFG        0.02 
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                                                                                     
+------Total chances as RF-----     -------TC per game as RF------     ------Double plays as RF------ 
+                                                                                                     
+Canseco        TEW         415     Canseco        TEW        2.57     Canseco        TEW           5 
+Davis,C        BAR         373     Benzinger      NFG        2.51     Evans          NEE           4 
+Greenwell      BBG         368     Evans          NEE        2.43     Bass           EVN           4 
+Evans          NEE         360     Davis,C        BAR        2.38     Washington     MAR           3 
+Sierra         ES?         333     Sierra         ES?        2.30     Moseby         BMB           3 
+Winfield       CEN         290     Greenwell      BBG        2.28     Heep           CCC           3 
+O'Neill        CCC         275     Winfield       CEN        2.04     Martinez       BMB           3 
+Maldonado      RYK         273                                        Winfield       CEN           2 
+Benzinger      NFG         255                                        Sierra         ES?           2 
+Martinez       BMB         229                                        Dawson         EVN           2 
+                                                                                                     
+

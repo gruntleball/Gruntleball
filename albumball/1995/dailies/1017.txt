@@ -1,0 +1,457 @@
+WOWEE ZOWEE! LEAGUE PLAYOFFS - ROUND 2 - GAME 7
+October 17, 1995
+
+http://chinatrust.googlepages.com/wzl
+
+----------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+----------------------------------------------------------------------------------------------------
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+10/3/1995  RVK     Bichette         General             10/19/1995   16    2 
+10/7/1995  RVK     Alou             Collision on bases  11/11/1995   35   25 
+
+----------------------------------------------------------------------------------------------------
+TRANSACTIONS
+----------------------------------------------------------------------------------------------------
+
+None
+
+----------------------------------------------------------------------------------------------------
+RESULTS
+----------------------------------------------------------------------------------------------------
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            2  2  0  1  0  1  0  0  4    10 14  0    10  0
+1995 Brewers           0  0  0  0  1  0  0  0  0     1  4  2     4  1
+Fernandez (W,2-1), Martinez,P (L,0-2)
+HR - Morandini(1)
+Alex Fernandez walks one and strikes out five, going the distance to secure
+Reykjavik's place in the WZL Championship against the Butt Mountain Beavis.
+
+----------------------------------------------------------------------------------------------------
+STANDINGS
+----------------------------------------------------------------------------------------------------
+
+Barcelona  3    Reykjavik  4
+
+----------------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+----------------------------------------------------------------------------------------------------
+
+10/17/1995, RVK95-BAR95, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            2  2  0  1  0  1  0  0  4    10 14  0    10  0
+1995 Brewers           0  0  0  0  1  0  0  0  0     1  4  2     4  1
+ 
+101ers               AB  R  H BI   AVG    Brewers              AB  R  H BI   AVG
+Offerman          ss  3  2  2  0  .226    Weiss             ss  4  0  0  0  .231
+ Sanchez          ss  1  0  1  2  .500    Anderson          lf  4  0  0  0  .316
+Barberie          2b  3  1  1  0  .326    Ventura           3b  4  0  1  0  .222
+ Reed,Jo          2b  1  0  0  0  .118    Vaughn,M          1b  3  0  0  0  .222
+Belle             lf  3  1  0  1  .345    Puckett           rf  4  0  0  0  .355
+Piazza            c   5  1  3  3  .340    Lopez,J           c   3  0  1  0  .318
+ Pendleton        3b  0  0  0  0  .233    Phillips,T        cf  3  0  0  0  .160
+Berry             3b  5  0  2  1  .406    Morandini         2b  3  1  2  1  .348
+ Decker           c   0  0  0  0  .200    Martinez,P        p   0  0  0  0  .000
+Sosa              rf  5  0  0  0  .306     Rapp             p   0  0  0  0  .000
+Kruk              1b  4  1  1  1  .306     Arias            ph  1  0  0  0  .000
+Kingery           cf  4  2  3  0  .211     Burba            p   0  0  0  0  .000
+ Huff             cf  1  1  1  0  .375     White,Dev        ph  1  0  0  0  .250
+Fernandez,A       p   1  1  0  1  .250     Hartgraves       p   0  0  0  0  .000
+                     36 10 14  9                               30  1  4  1
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Fernandez,A      W 2-1           9.0  4  1  1  1  5 121  77  3.25
+                                 9.0  4  1  1  1  5 121  77 
+ 
+Brewers                          INN  H  R ER BB  K PCH STR   ERA
+Martinez,P       L 0-2           1.1  5  4  4  2  1  36  19  4.38
+Rapp                             3.2  3  1  1  1  1  42  21  3.86
+Burba                            3.0  3  1  1  3  2  50  30  1.80
+Hartgraves                       1.0  3  4  0  2  0  39  20  0.00
+                                 9.0 14 10  6  8  4 167  90 
+ 
+RVK: Huff inserted at cf in the 8th
+     Sanchez inserted at ss in the 8th
+     Reed,Jo inserted at 2b in the 8th
+     Pendleton inserted at 3b in the 9th
+     Decker inserted at c in the 9th
+BAR: Arias batted for Rapp in the 5th
+     White,Dev batted for Burba in the 8th
+ 
+E-Phillips,T, Morandini. 2B-Kingery. 3B-Ventura. HR-Morandini(1). K-Barberie, 
+Piazza, Sosa, Fernandez,A, Vaughn,M, Lopez,J, Phillips,T 2, Arias. 
+BB-Offerman 2, Barberie, Belle, Kruk, Fernandez,A 3, Vaughn,M. SH-Barberie, 
+Fernandez,A, Rapp. SF-Belle. WP-Burba. 
+GWRBI: Piazza
+Temperature: 59, Sky: clear, Wind: out to center at 11 MPH.
+
+....................................................................................................
+10/17/1995, RVK95-BAR95, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            2  2  0  1  0  1  0  0  4    10 14  0    10  0
+1995 Brewers           0  0  0  0  1  0  0  0  0     1  4  2     4  1
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+Offerman          ss 1>S            W            S.1-2        wp.2-3;1-2   9         
+                                                              W                      
+ Sanchez          ss                                                                 
+Barberie          2b   S.1-2        W.1-2        note 1       note 2       k         
+ Reed,Jo          2b                                                                 
+Belle             lf   3/fl         Rapp         note 3       3/g        9>Hartgraves
+                                    2/fl                                   W         
+Piazza            c    S.2-H;1-3    note 4       k          7>S            e4.1-2;B-1
+ Pendleton        3b                                                                 
+Berry             3b   S.3-H;1-2    note 5     5>5            7            8         
+ Decker           c                                                                  
+Sosa              rf   k          3>8            43           9            8         
+Kruk              1b   5/f          53           43           W.1-2        S.2-H;1-2 
+Kingery           cf 2>D            53         6>Burba        note 6                 
+                                                 S                                   
+ Huff             cf                                                       S.2-3;1-2 
+Fernandez,A       p    54/SH.2-3  4>W            W.1-2      8>k            note 7    
+ 
+ 1: 14/SH.2-3;1-2  2: 643/gdp.3-H;2-3  3: 7/SF.3-H;2-3  4: S.3-H;2-H;1-2 
+ 5: S.2xH(82);1-2  6: S.2xH(82);1-2  7: W.3-H;2-3;1-2 
+ 
+ 
+Brewers              -----A------ -----B------ -----C------ -----D------ -----E------
+Weiss             ss 1>9            13         6>43           43                     
+Anderson          lf   63         4>8            5          9>3/fl                   
+Ventura           3b   8            9            53           T                      
+Vaughn,M          1b 2>8            W          7>31           k                      
+Puckett           rf   9            43           2/fl         63                     
+Lopez,J           c    31         5>k            S                                   
+Phillips,T        cf 3>9            k            k                                   
+Morandini         2b   S            HR         8>6                                   
+Martinez,P        p                                                                  
+ Rapp             p    13/SH.1-2                                                     
+ Arias            ph                k                                                
+ Burba            p                                                                  
+ White,Dev        ph                             6                                   
+ Hartgraves       p                                                                  
+ 
+ 
+
+....................................................................................................
+101ers               -----F------ -----G------ -----H------ -----I------ -----J------
+Offerman          ss                                                                 
+                                                                                     
+ Sanchez          ss   note 1                                                        
+Barberie          2b                                                                 
+ Reed,Jo          2b   8                                                             
+Belle             lf                                                                 
+                                                                                     
+Piazza            c                                                                  
+ Pendleton        3b                                                                 
+Berry             3b                                                                 
+ Decker           c                                                                  
+Sosa              rf                                                                 
+Kruk              1b                                                                 
+Kingery           cf                                                                 
+                                                                                     
+ Huff             cf                                                                 
+Fernandez,A       p                                                                  
+ 
+ 1: S.3-H;2-H;1-3(e8/th);B-2 
+ 
+ 
+Brewers              -----F------ -----G------ -----H------ -----I------ -----J------
+Weiss             ss                                                                 
+Anderson          lf                                                                 
+Ventura           3b                                                                 
+Vaughn,M          1b                                                                 
+Puckett           rf                                                                 
+Lopez,J           c                                                                  
+Phillips,T        cf                                                                 
+Morandini         2b                                                                 
+Martinez,P        p                                                                  
+ Rapp             p                                                                  
+ Arias            ph                                                                 
+ Burba            p                                                                  
+ White,Dev        ph                                                                 
+ Hartgraves       p                                                                  
+ 
+ 
+101ers           IN OUT ER                  Brewers          IN OUT ER                  
+Fernandez,A      A1  D5  1 W 2-1            Martinez,P       A1  B2  4 L 0-2            
+                                            Rapp             B3  C7  1                  
+                                            Burba            C8  E2  1                  
+                                            Hartgraves       E3  F2  0                  
+
+....................................................................................................
+10/17/1995, RVK95-BAR95, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 101ers            2  2  0  1  0  1  0  0  4    10 14  0    10  0
+1995 Brewers           0  0  0  0  1  0  0  0  0     1  4  2     4  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, 101ers batting
+ 0-0  0 --- 00  Offerman lined a single to center (X)
+ 0-0  0 1-- 31  Barberie reached on an infield single to short, Offerman 
+                  to second (BBBCX)
+ 0-0  0 12- 00  Belle popped out to first (X)
+ 0-0  1 12- 21  Piazza lined a single to right center, Offerman scored, 
+                  Barberie to third (BBSX)
+ 1-0  1 1-3 00  Berry grounded a single up the middle, Barberie scored, 
+                  Piazza to second (X)
+ 2-0  1 12- 32  Sosa struck out (SBCBFBC)
+ 2-0  2 12- 01  Kruk grounded to third, forcing Piazza at third (FX)
+ 
+**************  Bottom of the 1st inning, Brewers batting
+ 2-0  0 --- 11  Weiss flied out to right (FBX)
+ 2-0  1 --- 12  Anderson grounded out to short (SCFBX)
+ 2-0  2 --- 12  Ventura flied out to center (BSFX)
+ 
+**************  Top of the 2nd inning, 101ers batting
+ 2-0  0 --- 10  Kingery lined a double to left center (BX)
+ 2-0  0 -2- 00  Fernandez,A sacrifice bunted to third, Kingery to third 
+                  (Xb)
+ 2-0  1 --3 32  Offerman walked (CSBBFBB)
+ 2-0  1 1-3 31  Barberie walked, Offerman to second (BBBCB)
+                Rapp now pitching
+ 2-0  1 123 21  Belle popped out to the catcher (FBBX)
+ 2-0  2 123 32  Piazza grounded a single between third and short, Kingery 
+                  scored, Offerman scored, Barberie to second (FFBBB>X)
+ 4-0  2 12- 10  Berry lined a single to shallow center, Barberie out at 
+                  home, Piazza to second (BX)
+ 
+**************  Bottom of the 2nd inning, Brewers batting
+ 4-0  0 --- 10  Vaughn,M flied out to center (BX)
+ 4-0  1 --- 31  Puckett lined out to right (BCBBX)
+ 4-0  2 --- 00  Lopez,J grounded out to first (X)
+ 
+**************  Top of the 3rd inning, 101ers batting
+ 4-0  0 --- 20  Sosa flied out to center (BBX)
+ 4-0  1 --- 20  Kruk grounded out to third (BBX)
+ 4-0  2 --- 00  Kingery grounded out to third (X)
+ 
+**************  Bottom of the 3rd inning, Brewers batting
+ 4-0  0 --- 32  Phillips,T lined out to right (BCBFBX)
+ 4-0  1 --- 00  Morandini lined a single to right center (X)
+ 4-0  1 1-- 11  Rapp sacrifice bunted to the mound, Morandini to second 
+                  (BbFbXb)
+ 4-0  2 -2- 10  Weiss grounded out to the mound (BX)
+ 
+**************  Top of the 4th inning, 101ers batting
+ 4-0  0 --- 31  Fernandez,A walked (CBBBB)
+ 4-0  0 1-- 00  Offerman grounded a single up the middle, Fernandez,A to 
+                  second (X)
+ 4-0  0 12- 00  Barberie sacrifice bunted to the mound, Fernandez,A to 
+                  third, Offerman to second (Xb)
+ 4-0  1 -23 11  Belle hit a sacrifice fly to left, Fernandez,A scored, 
+                  Offerman to third (CBX)
+ 5-0  2 --3 22  Piazza struck out (SBBCS)
+ 
+**************  Bottom of the 4th inning, Brewers batting
+ 5-0  0 --- 22  Anderson flied out to center (BCSBX)
+ 5-0  1 --- 22  Ventura flied out to right (BSBCX)
+ 5-0  2 --- 32  Vaughn,M walked (BCCBBB)
+ 5-0  2 1-- 11  Puckett grounded out to second (SBX)
+ 
+**************  Top of the 5th inning, 101ers batting
+ 5-0  0 --- 21  Berry popped out to third (BSBX)
+ 5-0  1 --- 10  Sosa grounded out to second (BX)
+ 5-0  2 --- 10  Kruk grounded out to second (BX)
+ 
+**************  Bottom of the 5th inning, Brewers batting
+ 5-0  0 --- 12  Lopez,J struck out (CFBC)
+ 5-0  1 --- 12  Phillips,T struck out (BSCS)
+ 5-0  2 --- 32  Morandini homered deep to right (BBBCFFX)
+                Arias pinch hitting for Rapp
+ 5-1  2 --- 02  Arias struck out (SFC)
+ 
+**************  Top of the 6th inning, 101ers batting
+                Burba now pitching
+ 5-1  0 --- 00  Kingery reached on an infield single to second (X)
+ 5-1  0 1-- 32  Fernandez,A walked, Kingery to second (1BSFFBBB)
+ 5-1  0 12- 10  Burba threw a wild pitch, Kingery to third, Fernandez,A 
+                  to second (BB)
+ 5-1  0 -23 30  Offerman walked (BB.BB)
+ 5-1  0 123 01  Barberie grounded into a double play, Weiss to Morandini 
+                  to Vaughn,M, Kingery scored, Fernandez,A to third (CX)
+ 6-1  2 --3 12  Belle grounded out to first (BSSX)
+ 
+**************  Bottom of the 6th inning, Brewers batting
+ 6-1  0 --- 10  Weiss grounded out to second (BX)
+ 6-1  1 --- 12  Anderson popped out to third (BSSX)
+ 6-1  2 --- 22  Ventura grounded out to third (SFBBX)
+ 
+**************  Top of the 7th inning, 101ers batting
+ 6-1  0 --- 11  Piazza grounded a single up the middle (BCX)
+ 6-1  0 1-- 22  Berry flied out to left (CCBBX)
+ 6-1  1 1-- 11  Sosa flied out to right (FBX)
+ 6-1  2 1-- 31  Kruk walked, Piazza to second (BBBCB)
+ 6-1  2 12- 02  Kingery lined a single to shallow center, Piazza out at 
+                  home, Kruk to second (CSX)
+ 
+**************  Bottom of the 7th inning, Brewers batting
+ 6-1  0 --- 21  Vaughn,M grounded out to first (CBBX)
+ 6-1  1 --- 12  Puckett popped out to the catcher (CBCX)
+ 6-1  2 --- 00  Lopez,J lined a single to shallow center (X)
+ 6-1  2 1-- 32  Phillips,T struck out (CBBCB>S)
+ 
+**************  Top of the 8th inning, 101ers batting
+ 6-1  0 --- 32  Fernandez,A struck out (CFBBFBS)
+ 6-1  1 --- 02  Offerman flied out to right (FFX)
+ 6-1  2 --- 02  Barberie struck out (FSS)
+ 
+**************  Bottom of the 8th inning, Brewers batting
+                Huff now playing center field
+                Sanchez now playing shortstop
+                Reed,Jo now playing second base
+ 6-1  0 --- 12  Morandini popped out to short (BCSX)
+                White,Dev pinch hitting for Burba
+ 6-1  1 --- 01  White,Dev popped out to short (CX)
+ 6-1  2 --- 00  Weiss grounded out to second (X)
+ 
+**************  Top of the 9th inning, 101ers batting
+                Hartgraves now pitching
+ 6-1  0 --- 32  Belle walked (BCBBCB)
+ 6-1  0 1-- 01  Belle to second, Piazza to first on an error by the 
+                  second baseman Morandini (FX)
+ 6-1  0 12- 02  Berry flied out to center (CSX)
+ 6-1  1 12- 12  Sosa lined out to center (CCBX)
+ 6-1  2 12- 31  Kruk lined a single to shallow right, Belle scored, 
+                  Piazza to second (BBBCX)
+ 7-1  2 12- 22  Huff reached on an infield single to first, Piazza to 
+                  third, Kruk to second (BSBCFX)
+ 7-1  2 123 31  Fernandez,A walked, Piazza scored, Kruk to third, Huff to 
+                  second (BBBCB)
+ 8-1  2 123 20  Sanchez lined a single to shallow center, Kruk scored, 
+                  Huff scored, Fernandez,A to third on an error by the 
+                  center fielder Phillips,T, Sanchez to second (BBX)
+10-1  2 -23 31  Reed,Jo lined out to center (BFBBX)
+ 
+**************  Bottom of the 9th inning, Brewers batting
+                Pendleton now playing third base
+                Decker now playing catcher
+10-1  0 --- 12  Anderson popped out to first (SCBX)
+10-1  1 --- 32  Ventura tripled deep to left center (BBSBCX)
+10-1  1 --3 32  Vaughn,M struck out (BBBCFS)
+10-1  2 --3 02  Puckett grounded out to short (CFX)
+
+----------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+                  LIMITS:   140    140    120
+----------------------------------------------------------------------------------------------------
+
+                           Playoff Team Status -- 1995 Barcelona Brewers                            
+                               Divisional playoff -- as of 10/17/1995                               
+
+S Name                    Usage     PA     PA Days 
+  Javier Lopez                7     23    352    0 
+  Walt Weiss                  6     33    537    0 
+  Keith Miller                6      1     17    0 
+  Robin Ventura               5     31    577    0 
+  Kirby Puckett               5     31    602    0 
+  Mo Vaughn                   5     32    636    0 
+  Mickey Morandini            5     27    550    0 
+  Phil Plantier               4     11    248    0 
+  Tony Phillips               4     28    643    0 
+  Matt Merullo                4      8    216    0 
+  Brady Anderson              3     22    657    0 
+  John Wehner                 2      2    123    0 
+  Devon White                 1      4    465    0 
+  Alex Arias                  1      2    246    0 
+d Ozzie Smith                 0      0    182    2 
+f Scott Hatteberg             0      0      2    0 
+  Jayhawk Owens               0      0     49    0 
+f Doug Strange                0      0    169    0 
+f Edgar Caceres               0      0    130    0 
+f Jesse Levis                 0      0     22    0 
+  Total                            255   6423      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/17  10/16  10/15  10/14  10/13 
+f Doug Creek                 33    2    6    0 10/14/1995                         20r     5r 
+  Kevin Wickander            14    4   29    0 10/16/1995           21r                  21r 
+  Curt Schilling             12    2   17    0 10/16/1995           92s                      
+  Pedro Martinez             10    3   30    0 10/17/1995    36s                         94s 
+  Dennis Martinez             7    2   28    0 10/14/1995                         80s        
+  Pat Rapp                    7    2   28    0 10/17/1995    42r                             
+  Mike Timlin                 6    2   31    0 10/14/1995                         35r     6r 
+  Dave Veres                  6    4   72    0 10/16/1995           17r                  18r 
+  Dave Burba                  4    2   52    0 10/17/1995    50r                             
+  Dean Hartgraves             3    1   40    0 10/17/1995    39r                             
+f Jeff Tabaka                 0    0   34    0   8/6/1995                                    
+f Paul Spoljaric              0    0    0    0                                               
+f Mike Mimbs                  0    0   35    0  9/25/1995                                    
+f Mark Kiefer                 0    0   24    0  9/24/1995                                    
+f Cory Bailey                 0    0    3    0   9/9/1995                                    
+f Hector Carrasco             0    0   64    0  9/27/1995                                    
+f Johnny Ruffin               0    0   10    0  8/31/1995                                    
+f Greg Gohr                   0    0   10    0  9/24/1995                                    
+f Kevin Campbell              0    0    6    0  9/24/1995                                    
+f Chuck Ricci                 0    0    7    0  9/27/1995                                    
+f Rick Honeycutt              0    0   52    0   9/7/1995                                    
+f Bryan Rekar                 0    0   15    0  9/24/1995                                    
+  Total                            7  145                                                    
+
+
+                            Playoff Team Status -- 1995 Reykjavík 101ers                            
+                               Divisional playoff -- as of 10/17/1995                               
+
+S Name                    Usage     PA     PA Days 
+  John Kruk                  23     43    188    0 
+  Bret Barberie              16     47    288    0 
+  Jose Offerman              13     65    511    0 
+  Mike Piazza                12     57    475    0 
+  Mike Kingery               10     41    402    0 
+  Albert Belle               10     63    631    0 
+  Sean Berry                 10     34    348    0 
+  Sammy Sosa                  9     56    629    0 
+  Mike Huff                   6     10    168    0 
+  Terry Pendleton             6     32    557    0 
+  Jody Reed                   4     20    515    0 
+  Steve Decker                3      5    154    0 
+d Moises Alou                 3     12    386   25 
+  Dave Gallagher              3      5    194    0 
+d Dante Bichette              2     15    612    2 
+  Dion James                  1      2    231    0 
+  Rey Sanchez                 1      3    453    0 
+f Howard Johnson              0      0    206    0 
+f Joe Kmak                    0      0     61    0 
+f Arquimedez Pozo             0      0      1    0 
+f Jim Tatum                   0      0     35    0 
+f Ray Holbert                 0      0     86    0 
+f Garey Ingram                0      0     66    0 
+f Steve Buechele              0      0    146    0 
+f Dan Masteller               0      0    219    0 
+f J.R. Phillips               0      0    252    0 
+  Total                            510   7814      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last  10/17  10/16  10/15  10/14  10/13 
+  Mike Oquist                22    6   27    0 10/16/1995            7r           43r        
+f Tim Pugh                   21    6   28    0 10/13/1995                                 8r 
+  Wilson Alvarez             21    6   29    0 10/16/1995           18r           52r        
+  Darren Hall                18    3   17    0 10/14/1995                          2r        
+  Alex Fernandez             13    4   30    0 10/17/1995   121s                             
+  Denny Neagle               13    4   31    0 10/16/1995           97s                      
+  Andy Ashby                 10    3   31    0 10/14/1995                         80s        
+  Troy Percival              10    6   62    0 10/13/1995                                13r 
+  Mike Mussina                9    3   32    0 10/13/1995                               114s 
+  Randy Myers                 9    5   57    0 10/14/1995                          9r    15r 
+f Jeff Suppan                 0    0    8    0  8/21/1995                                    
+f Bill Pulsipher              0    0   17    0  9/25/1995                                    
+f Jamie Brewington            0    0   13    0                                               
+f Xavier Hernandez            0    0   59    0  9/27/1995                                    
+f Carlos Reyes                0    0   40    0  9/18/1995                                    
+f John Cummings               0    0   39    0  9/25/1995                                    
+f Brian Williams              0    0   44    0                                               
+f Mike Dyer                   0    0   55    0                                               
+f Paul Menhart                0    0   21    0  9/27/1995                                    
+  Total                           14  214                                                    

@@ -1,0 +1,63 @@
+<html>
+<head>
+<style type="text/css">
+p         {color: #ffffff; font-size: 12; letter-spacing: 0.5px; font-weight:normal; font-family: arial; }
+h1        {color: #95CD43; font-size: 24; letter-spacing: 2.7px; font-family: arial; }
+h2        {color: #E1FFDD; font-size: 15; letter-spacing:0.9px; font-family: arial; border-top: 2px ; border-top-style: solid; border-top-color: #95CD43; }
+h3        {color: #E1FFDD; font-size: 12; letter-spacing:0.9px; font-family: arial; font-weight:normal; border-top: 1px ; border-top-style: dotted; border-top-color: #E1FFDD; }
+h4        {color: #E1FFDD; font-size: 14; letter-spacing:1.8px; font-weight:normal; font-family: arial; }
+a:link    {color: #E1FFDD; font-size: 12; font-family: arial; }
+a:visited {color: #6A905F; font-size: 12; font-family: arial; }
+a:hover   {color: #95CD43; font-size: 12; font-family: arial; }
+pre       {font-size: 14; font-family: "courier new", "monaco", monospace ; }
+body      {background-color: #0E1A13; color:#ffffff}
+</style>
+</head>
+<!--<img src="http://ecx.images-amazon.com/images/I/51a0vu-AwqL._SL500_AA280_.jpg" alt="Seven More Minutes" />-->
+<h1> Seven More Minutes </h1>
+<h4> INSIDER BASEBALL LEAGUE PLAYOFFS ROUND 2</h4>
+
+<p> Date </p><br> 
+<p>News</p>
+<br><br>
+<a href="http://dl.dropbox.com/u/3641528/7mm/index.htm">League statistics only</a></p>
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p> 
+
+<h2> Roster Notes </h2><pre>
+
+</pre>
+
+
+<h2> Current Injuries </h2><pre>
+
+</pre>
+
+
+<h2> Transactions </h2><pre>
+
+</pre>
+
+
+<h2> Results <a name="Results"></a> </h2>
+<h3> <a href="#Game 1"> Details</a> </h3><pre>
+
+</pre><h3> <a href="#Game 2"> Details</a></h3><pre>
+
+</pre>
+
+<h2> Standings </h2><pre>
+
+</pre>
+
+
+<h2> Boxscores, Scoresheets and Game Logs</h2>
+<h3> <a name="Game 1"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 2"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre>
+
+
+<h2> <a name="Postseason Playing Time Report"></a> Playing Time Report </h2><pre>
+
+</pre></body></html>

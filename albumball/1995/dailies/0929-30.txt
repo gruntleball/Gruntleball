@@ -1,0 +1,1520 @@
+WOWEE ZOWEE! PLAYOFFS!
+
+First two games
+
+----------------------------------------------------------------------------------------------------
+CURRENT INJURIES                                        (*** new'ish injury)  (<-- can be activated)
+----------------------------------------------------------------------------------------------------
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+9/18/1995  RVK     Reyes,C          General             10/4/1995    16    4 
+9/22/1995  BMB     Fortugno         General             10/9/1995    17    9 
+9/12/1995  BAR     Smith,O          Hit by pitch        10/19/1995   37   19 
+
+----------------------------------------------------------------------------------------------------
+RESULTS
+----------------------------------------------------------------------------------------------------
+GAME 1
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  0  0  3  0     4  9  0    10  1
+1995 Whales            0  0  0  1  0  0  0  0  0     1  5  0     5  0
+Henke (W,1-0), Mesa (L,0-1)
+HR - Knoblauch(1)
+Jose Mesa and Mike Henneman blow the game.  Kenny Rogers and Tom Henke
+quiet the Whales bats.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  0  1  1  1  1  1  5  0    10 16  0     9  0
+1995 101ers            0  1  0  2  0  0  0  1  0     4 11  3     8  0
+Cone (W,1-0), Neagle (L,0-1)
+HR - Boggs(1), Buhner(1)
+Jay Buhner puts the game away with a 3-run blast in the eighth.
+
+
+GAME 2
+
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  2  3  0  1  0     7 12  1    10  2
+1995 Whales            0  0  0  0  0  7  0  0  0  1     8 11  1     8  1
+Mathews,Te (W,1-0), DeLucia (L,0-1)
+HR - Hundley(1), Klesko(1)
+After Chinatrust explodes for 7 runs in the 6th, Jose Mesa proceeds to make
+things dramatic once again, surrendering four runs in two innings of work.
+And again it's Mike Hennman who allows inherited runners to score.  Sandy 
+Alomar's pinch single in the 10th plates Chipper Jones.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  2  3  0  0  1  0  0  1     7 10  0     5  2
+1995 101ers            0  0  0  0  2  1  0  0  0     3  7  0     5  0
+Hamilton (W,1-0), Fernandez (L,0-1)
+HR - Henderson(1), Buhner(2), Tettleton 2(2), Barberie(1)
+Dun Laoghaire's big bombers deliver while Reykjavik's Albert Belle has 
+gone 0 for 9 thus far.
+
+----------------------------------------------------------------------------------------------------
+STANDINGS
+----------------------------------------------------------------------------------------------------
+
+Century and Chinatrust tied at 1 game each.
+Dun Laoghaire leads Reykjavik 2 games to none.
+
+----------------------------------------------------------------------------------------------------
+BOXSCORES, SCORESHEETS AND GAME LOGS
+----------------------------------------------------------------------------------------------------
+
+9/29/1995, CEN95-CTW95, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  0  0  3  0     4  9  0    10  1
+1995 Whales            0  0  0  1  0  0  0  0  0     1  5  0     5  0
+ 
+Atoms                AB  R  H BI   AVG    Whales               AB  R  H BI   AVG
+Lewis,M           3b  3  0  1  1  .333    Jones,Chi         3b  4  0  1  0  .250
+Williams,Be       cf  5  0  2  0  .400    Alomar,S          c   3  0  1  0  .333
+Ramirez           lf  4  1  1  0  .250    Knoblauch         2b  3  1  2  1  .667
+Canseco           rf  5  0  0  0  .000    Blowers           lf  2  0  0  0  .000
+Longmire          1b  3  0  1  0  .333     Joyner           ph  1  0  0  0  .000
+ Klesko           ph  0  1  0  0  .000    Bogar             ss  1  0  0  0  .000
+ Fernandez,T      2b  1  0  0  0  .000     O'Neill          ph  1  0  0  0  .000
+Hundley           c   4  1  1  1  .250     Abbott,Ku        ss  1  0  0  0  .000
+ O'Brien          c   0  0  0  0  .000    Javier            cf  2  0  0  0  .000
+Reboulet          ss  3  1  1  0  .333     Eisenreich       ph  2  0  0  0  .000
+Gallego           2b  2  0  0  0  .000    Walton            rf  3  0  1  0  .333
+ Magadan          ph  1  0  1  1 1.000     Mesa             p   0  0  0  0  .000
+ Brosius          1b  0  0  0  0  .000     Henneman         p   0  0  0  0  .000
+Rogers,K          p   2  0  1  0  .500    Clark,W           1b  3  0  0  0  .000
+ Carter,J         ph  1  0  0  0  .000    Johnson,R         p   2  0  0  0  .000
+ Henke            p   0  0  0  1  .000     Carreon          rf  1  0  0  0  .000
+                     34  4  9  4                               29  1  5  1
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Rogers,K                         6.0  3  1  1  2  1  69  47  1.50
+Henke            W 1-0           3.0  2  0  0  0  2  39  28  0.00
+                                 9.0  5  1  1  2  3 108  75 
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Johnson,R                        7.0  5  1  1  4  9 112  66  1.29
+Mesa             L 0-1           0.1  3  3  3  1  1  12   7 81.00
+Henneman                         1.2  1  0  0  1  1  26  18  0.00
+                                 9.0  9  4  4  6 11 150  91 
+ 
+CEN: Carter,J batted for Rogers,K in the 7th
+     Klesko batted for Longmire in the 8th
+     Magadan batted for Gallego in the 8th
+     Fernandez,T inserted at 2b in the 8th
+     Brosius inserted at 1b in the 8th
+     O'Brien inserted at c in the 9th
+CTW: O'Neill batted for Bogar in the 7th
+     Eisenreich batted for Javier in the 7th
+     Carreon inserted at rf in the 8th
+     Abbott,Ku inserted at ss in the 8th
+     Eisenreich moved to cf in the 8th
+     Joyner batted for Blowers in the 9th
+ 
+2B-Longmire. HR-Knoblauch(1). CS-Williams,Be. K-Lewis,M 2, Ramirez, 
+Canseco 4, Reboulet, Gallego 2, Carter,J, Clark,W, Eisenreich, Abbott,Ku. 
+BB-Lewis,M 2, Ramirez, Reboulet, Gallego, Klesko, Knoblauch, Blowers. 
+SH-Alomar,S, Bogar. SF-Henke. 
+GWRBI: Hundley
+Temperature: 62, Sky: clear, Wind: in from left at 11 MPH.
+
+....................................................................................................
+9/29/1995, CEN95-CTW95, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  0  0  3  0     4  9  0    10  1
+1995 Whales            0  0  0  1  0  0  0  0  0     1  5  0     5  0
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Lewis,M           3b 1>W            S.2-H;1-2  5>k            k            W.1-2     
+Williams,Be       cf   S.1-3        43           S            9            2/fl      
+Ramirez           lf   CS2(24)    3>k            8          8>Mesa       9>63        
+                       W                                      S                      
+Canseco           rf   6            k            k            k            k         
+Longmire          1b   9            D          6>63                                  
+ Klesko           ph                                          W.1-2                  
+ Fernandez,T      2b                                                       8         
+Hundley           c  2>53           53           43           S.2-H;1-2              
+ O'Brien          c                                                                  
+Reboulet          ss   W          4>k            8            S.2-3;1-2              
+Gallego           2b   k            k          7>W                                   
+ Magadan          ph                                          Henneman               
+                                                              note 1                 
+ Brosius          1b                                                                 
+Rogers,K          p    S.1-2        43                                               
+ Carter,J         ph                             k                                   
+ Henke            p                                           note 2                 
+ 
+ 1: S.3-H;2-3;1-2  2: 7/SF.3-H;2-3 
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Jones,Chi         3b 1>7            63         6>S            2/fl                   
+Alomar,S          c    43         4>63           13/SH.1-2  9>S                      
+Knoblauch         2b   7            HR           W            S.1-2                  
+Blowers           lf 2>W            43           643/gdp                             
+ Joyner           ph                                          7.2-3                  
+Bogar             ss   23/SH.1-2    9          7>Henke                               
+ O'Neill          ph                             5                                   
+ Abbott,Ku        ss                                          k                      
+Javier            cf   43.2-3     5>9                                                
+ Eisenreich       ph                             k            8                      
+Walton            rf   9            S            43                                  
+ Mesa             p                                                                  
+ Henneman         p                                                                  
+Clark,W           1b 3>8            k          8>8                                   
+Johnson,R         p    3/g          64/f                                             
+ Carreon          rf                             4/L                                 
+ 
+ 
+Atoms            IN OUT ER                  Whales           IN OUT ER                  
+Rogers,K         A1  C4  1                  Johnson,R        A1  D2  1                  
+Henke            C5  D6  0 W 1-0            Mesa             D3  D7  3 L 0-1            
+                                            Henneman         D8  E5  0                  
+
+....................................................................................................
+9/29/1995, CEN95-CTW95, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  0  0  3  0     4  9  0    10  1
+1995 Whales            0  0  0  1  0  0  0  0  0     1  5  0     5  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Atoms batting
+ 0-0  0 --- 31  Lewis,M walked (BBBCB)
+ 0-0  0 1-- 20  Williams,Be singled to right center, Lewis,M to third 
+                  (BBX)
+ 0-0  0 1-3 00  Williams,Be was caught stealing second (>C)
+ 0-0  1 --3 31  Ramirez walked (>C.BBBB)
+ 0-0  1 1-3 01  Canseco popped out to short (SX)
+ 0-0  2 1-3 22  Longmire flied out to right (CBSBX)
+ 
+**************  Bottom of the 1st inning, Whales batting
+ 0-0  0 --- 01  Jones,Chi flied out to left (CX)
+ 0-0  1 --- 22  Alomar,S grounded out to second (BFBSFX)
+ 0-0  2 --- 11  Knoblauch flied out to left (FBX)
+ 
+**************  Top of the 2nd inning, Atoms batting
+ 0-0  0 --- 11  Hundley grounded out to third (CBX)
+ 0-0  1 --- 31  Reboulet walked (BBSBB)
+ 0-0  1 1-- 02  Gallego struck out (CSS)
+ 0-0  2 1-- 00  Rogers,K grounded a single up the middle, Reboulet to 
+                  second (X)
+ 0-0  2 12- 32  Lewis,M lined a single up the middle, Reboulet scored, 
+                  Rogers,K to second (CBCBB>X)
+ 1-0  2 12- 01  Williams,Be grounded out to second (CX)
+ 
+**************  Bottom of the 2nd inning, Whales batting
+ 1-0  0 --- 31  Blowers walked (CBBBB)
+ 1-0  0 1-- 10  Bogar sacrifice bunted to the catcher, Blowers to second 
+                  (BpXb)
+ 1-0  1 -2- 00  Javier grounded out to second, Blowers to third (X)
+ 1-0  2 --3 21  Walton flied out to right (BBFX)
+ 
+**************  Top of the 3rd inning, Atoms batting
+ 1-0  0 --- 12  Ramirez struck out (FCBS)
+ 1-0  1 --- 32  Canseco struck out (CBBSBS)
+ 1-0  2 --- 21  Longmire doubled deep to left (BBSX)
+ 1-0  2 -2- 22  Hundley grounded out to third (BSBSX)
+ 
+**************  Bottom of the 3rd inning, Whales batting
+ 1-0  0 --- 11  Clark,W flied out to center (BCX)
+ 1-0  1 --- 32  Johnson,R grounded out to first (FBSFFBFBX)
+ 1-0  2 --- 12  Jones,Chi grounded out to short (CFBX)
+ 
+**************  Top of the 4th inning, Atoms batting
+ 1-0  0 --- 32  Reboulet struck out (SBBFBS)
+ 1-0  1 --- 22  Gallego struck out (CSBBS)
+ 1-0  2 --- 12  Rogers,K grounded out to second (SCBX)
+ 
+**************  Bottom of the 4th inning, Whales batting
+ 1-0  0 --- 10  Alomar,S grounded out to short (BX)
+ 1-0  1 --- 01  Knoblauch homered deep to left (CX)
+ 1-1  1 --- 02  Blowers grounded out to second (CCX)
+ 1-1  2 --- 02  Bogar flied out to right (FCX)
+ 
+**************  Top of the 5th inning, Atoms batting
+ 1-1  0 --- 32  Lewis,M struck out (SBBFFBS)
+ 1-1  1 --- 00  Williams,Be reached on an infield single to third (X)
+ 1-1  1 1-- 01  Ramirez flied out to center (CX)
+ 1-1  2 1-- 02  Canseco struck out (CSC)
+ 
+**************  Bottom of the 5th inning, Whales batting
+ 1-1  0 --- 10  Javier lined out to right (BX)
+ 1-1  1 --- 02  Walton lined a single to shallow right (CSX)
+ 1-1  1 1-- 02  Clark,W struck out (1CCS)
+ 1-1  2 1-- 00  Johnson,R grounded to short, forcing Walton at second (X)
+ 
+**************  Top of the 6th inning, Atoms batting
+ 1-1  0 --- 32  Longmire grounded out to short (BBSSBX)
+ 1-1  1 --- 11  Hundley grounded out to second (FBX)
+ 1-1  2 --- 11  Reboulet flied out to center (BFX)
+ 
+**************  Bottom of the 6th inning, Whales batting
+ 1-1  0 --- 00  Jones,Chi grounded a single between third and short (X)
+ 1-1  0 1-- 00  Alomar,S sacrifice bunted to the mound, Jones,Chi to 
+                  second (Xb)
+ 1-1  1 -2- 31  Knoblauch walked (BBBCB)
+ 1-1  1 12- 12  Blowers grounded into a double play, Reboulet to Gallego 
+                  to Longmire (BSFX)
+ 
+**************  Top of the 7th inning, Atoms batting
+ 1-1  0 --- 31  Gallego walked (SBBBB)
+                Carter,J pinch hitting for Rogers,K
+ 1-1  0 1-- 02  Carter,J struck out (FbFS)
+ 1-1  1 1-- 02  Lewis,M struck out (CCS)
+ 1-1  2 1-- 01  Williams,Be flied out to right (FX)
+ 
+**************  Bottom of the 7th inning, Whales batting
+                Henke now pitching
+                O'Neill pinch hitting for Bogar
+ 1-1  0 --- 01  O'Neill popped out to third (CX)
+                Eisenreich pinch hitting for Javier
+ 1-1  1 --- 12  Eisenreich struck out (BCSFC)
+ 1-1  2 --- 10  Walton grounded out to second (BX)
+ 
+**************  Top of the 8th inning, Atoms batting
+                Carreon now playing right field
+                Abbott,Ku now playing shortstop
+                Mesa now pitching
+                Eisenreich moved to center field
+ 1-1  0 --- 00  Ramirez lined a single up the middle (X)
+ 1-1  0 1-- 12  Canseco struck out (CFBC)
+                Klesko pinch hitting for Longmire
+ 1-1  1 1-- 31  Klesko walked, Ramirez to second (C1BBBB)
+ 1-1  1 12- 00  Hundley lined a single to shallow left, Ramirez scored, 
+                  Klesko to second (X)
+ 2-1  1 12- 00  Reboulet lined a single between third and short, Klesko 
+                  to third, Hundley to second (X)
+                Magadan pinch hitting for Gallego
+                Henneman now pitching
+ 2-1  1 123 01  Magadan lined a single between first and second, Klesko 
+                  scored, Hundley to third, Reboulet to second (CX)
+ 3-1  1 123 10  Henke hit a sacrifice fly to left, Hundley scored, 
+                  Reboulet to third (BX)
+ 4-1  2 1-3 32  Lewis,M walked, Magadan to second (BCBFFB>B)
+ 4-1  2 123 12  Williams,Be popped out to the catcher (BCFX)
+ 
+**************  Bottom of the 8th inning, Whales batting
+                Fernandez,T now playing second base
+                Brosius now playing first base
+ 4-1  0 --- 10  Clark,W lined out to center (BX)
+ 4-1  1 --- 12  Carreon lined out to second (CBFFX)
+ 4-1  2 --- 11  Jones,Chi popped out to the catcher (BCX)
+ 
+**************  Top of the 9th inning, Atoms batting
+ 4-1  0 --- 11  Ramirez grounded out to short (FBX)
+ 4-1  1 --- 02  Canseco struck out (CFS)
+ 4-1  2 --- 12  Fernandez,T flied out to center (BFFFX)
+ 
+**************  Bottom of the 9th inning, Whales batting
+                O'Brien now playing catcher
+ 4-1  0 --- 11  Alomar,S grounded a single between third and short (SBX)
+ 4-1  0 1-- 12  Knoblauch grounded a single between first and second, 
+                  Alomar,S to second (BCFFX)
+                Joyner pinch hitting for Blowers
+ 4-1  0 12- 02  Joyner flied out to left, Alomar,S to third (FCX)
+ 4-1  1 1-3 32  Abbott,Ku struck out (CBFBBS)
+ 4-1  2 1-3 11  Eisenreich lined out to center (CBX)
+____________________________________________________________________________________________________
+
+9/29/1995, DLM95-RVK95, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  0  1  1  1  1  1  5  0    10 16  0     9  0
+1995 101ers            0  1  0  2  0  0  0  1  0     4 11  3     8  0
+ 
+Messiahs             AB  R  H BI   AVG    101ers               AB  R  H BI   AVG
+Henderson         lf  6  1  1  0  .167    Offerman          ss  5  0  0  0  .000
+ Greer,R          lf  0  0  0  0  .000    Barberie          2b  4  0  1  0  .250
+Boggs             3b  5  2  2  2  .400     Pugh             p   0  0  0  0  .000
+Martinez,E        1b  5  2  3  1  .600     Pendleton        ph  1  0  0  0  .000
+Buhner            rf  5  1  2  3  .400    Belle             lf  5  0  0  0  .000
+ Devereaux        rf  0  0  0  0  .000    Piazza            c   3  3  2  0  .667
+Curtis            cf  5  1  1  0  .200    Bichette          1b  3  1  1  0  .333
+Baerga            2b  5  1  4  2  .800     Hall             p   0  0  0  0  .000
+Ripken,C          ss  5  0  0  0  .000     Sanchez          2b  0  0  0  0  .000
+Tettleton         c   4  1  2  1  .500     Huff             ph  0  0  0  0  .000
+ Santiago         c   0  0  0  0  .000     Reed,Jo          2b  0  0  0  0  .000
+Cone              p   2  1  1  0  .500    Berry             3b  4  0  3  2  .750
+ Williams,Mik     p   1  0  0  0  .000    Sosa              rf  3  0  2  1  .667
+                     43 10 16  9          Kingery           cf  3  0  2  0  .667
+                                           Alou             ph  1  0  0  0  .000
+                                          Neagle            p   2  0  0  0  .000
+                                           Kruk             1b  1  0  0  0  .000
+                                                               35  4 11  3
+ 
+Messiahs                         INN  H  R ER BB  K PCH STR   ERA
+Cone             W 1-0           7.1 11  4  4  2  5 136  84  4.91
+Williams,Mik                     1.2  0  0  0  1  0  27  14  0.00
+                                 9.0 11  4  4  3  5 163  98 
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Neagle           L 0-1           6.2 11  5  4  1  8 128  78  5.40
+Hall                             0.2  3  3  3  0  0  19  10 40.50
+Pugh                             1.2  2  2  2  0  0  35  22 10.80
+                                 9.0 16 10  9  1  8 182 110 
+ 
+DLM: Devereaux inserted at rf in the 8th
+     Santiago inserted at c in the 9th
+     Greer,R inserted at lf in the 9th
+RVK: Kruk inserted at 1b in the 7th
+     Sanchez inserted at 2b in the 8th
+     Huff batted for Sanchez in the 8th
+     Alou batted for Kingery in the 8th
+     Reed,Jo inserted at 2b in the 9th
+     Alou moved to cf in the 9th
+     Pendleton batted for Pugh in the 9th
+ 
+E-Offerman, Berry, Kingery. 2B-Martinez,E, Curtis, Baerga, Bichette. 
+HR-Boggs(1), Buhner(1). SB-Barberie(1), Berry(1). CS-Sosa. K-Henderson, 
+Boggs 2, Martinez,E 2, Buhner, Curtis, Tettleton, Offerman 2, Belle, Neagle, 
+Kruk. BB-Tettleton, Piazza, Kruk, Huff. SH-Cone 2. SF-Sosa. WP-Cone. 
+BALK-Cone. 
+GWRBI: Tettleton
+Temperature: 70, Wind: none.
+
+....................................................................................................
+9/29/1995, DLM95-RVK95, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  0  1  1  1  1  1  5  0    10 16  0     9  0
+1995 101ers            0  1  0  2  0  0  0  1  0     4 11  3     8  0
+ 
+ 
+Messiahs             -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson         lf 1>k            e6.1-2;B-1   6            3/fl         S.2-3     
+ Greer,R          lf                                                                 
+Boggs             3b   43           k          5>HR         7>k            note 1    
+Martinez,E        1b   k            S.2-H;1-3    k            D            Pugh      
+                                                                           S.2-3     
+Buhner            rf 2>13           3/g          k            S.2-3        HR.3-H;1-H
+ Devereaux        rf                                                                 
+Curtis            cf   7          4>D            153          k            63        
+Baerga            2b   S            S.2-H      6>D            S.3-H;1-2    43        
+Ripken,C          ss   43           7            8.2-3        Hall       9>7         
+                                                              64/f                   
+Tettleton         c  3>k            W.1-2        S.3-H      8>S            8         
+ Santiago         c                                                                  
+Cone              p    S            note 2       14/SH.1-2    34/SH.1-2              
+ Williams,Mik     p                                                        e5.B-1    
+ 
+ 1: S.3-H;1-H(e8/th);B-2  2: 26/b/f.1-2;B-1 
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+Offerman          ss 1>k            9          5>53           k            54/f.B-1  
+Barberie          2b   9            S            7            43                     
+ Pugh             p                                                                  
+ Pendleton        ph                                                       9         
+Belle             lf   9            SB2          43         8>9            7         
+                                    k                                                
+Piazza            c  2>S          4>S          6>9            W                      
+Bichette          1b   8            D.1-3        63                                  
+ Hall             p                                                                  
+ Sanchez          2b                                                                 
+ Huff             ph                                          W.1-2                  
+ Reed,Jo          2b                                                                 
+Berry             3b   S.1-3        wp.3-H;2-3   8            S.2-H;1-3              
+                                    S.3-H                                            
+Sosa              rf   9/SF.3-H     S.1-2      7>S            note 1                 
+                                                              7                      
+Kingery           cf   SB2          note 2       S.1-2                               
+                       9                                                             
+ Alou             ph                                          2/fl                   
+Neagle            p  3>9            note 3                                           
+                                    bk.2-3                                           
+                                    k                                                
+ Kruk             1b                             k          9>W                      
+ 
+ 1: Williams,Mik  2: S.2xH(82);1-2  3: CS3(25).1-2 
+ 
+ 
+
+....................................................................................................
+Messiahs             -----F------ -----G------ -----H------ -----I------ -----J------
+Henderson         lf   8                                                             
+ Greer,R          lf                                                                 
+Boggs             3b                                                                 
+Martinez,E        1b                                                                 
+                                                                                     
+Buhner            rf                                                                 
+ Devereaux        rf                                                                 
+Curtis            cf                                                                 
+Baerga            2b                                                                 
+Ripken,C          ss                                                                 
+                                                                                     
+Tettleton         c                                                                  
+ Santiago         c                                                                  
+Cone              p                                                                  
+ Williams,Mik     p                                                                  
+ 
+ 
+101ers               -----F------ -----G------ -----H------ -----I------ -----J------
+Offerman          ss                                                                 
+Barberie          2b                                                                 
+ Pugh             p                                                                  
+ Pendleton        ph                                                                 
+Belle             lf                                                                 
+                                                                                     
+Piazza            c                                                                  
+Bichette          1b                                                                 
+ Hall             p                                                                  
+ Sanchez          2b                                                                 
+ Huff             ph                                                                 
+ Reed,Jo          2b                                                                 
+Berry             3b                                                                 
+                                                                                     
+Sosa              rf                                                                 
+                                                                                     
+Kingery           cf                                                                 
+                                                                                     
+ Alou             ph                                                                 
+Neagle            p                                                                  
+                                                                                     
+                                                                                     
+ Kruk             1b                                                                 
+ 
+ 
+Messiahs         IN OUT ER                  101ers           IN OUT ER                  
+Cone             A1  D6  4 W 1-0            Neagle           A1  D6  4 L 0-1            
+Williams,Mik     D7  E3  0                  Hall             D7  E2  3                  
+                                            Pugh             E3  F1  2                  
+
+....................................................................................................
+9/29/1995, DLM95-RVK95, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  0  1  1  1  1  1  5  0    10 16  0     9  0
+1995 101ers            0  1  0  2  0  0  0  1  0     4 11  3     8  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Messiahs batting
+ 0-0  0 --- 12  Henderson struck out (BSSC)
+ 0-0  1 --- 10  Boggs grounded out to second (BX)
+ 0-0  2 --- 32  Martinez,E struck out (BBCCBS)
+ 
+**************  Bottom of the 1st inning, 101ers batting
+ 0-0  0 --- 02  Offerman struck out (SCFS)
+ 0-0  1 --- 12  Barberie lined out to right (BSFFX)
+ 0-0  2 --- 02  Belle lined out to right (CFX)
+ 
+**************  Top of the 2nd inning, Messiahs batting
+ 0-0  0 --- 31  Buhner grounded out to the mound (BBBCX)
+ 0-0  1 --- 32  Curtis flied out to left (CBSBFBX)
+ 0-0  2 --- 21  Baerga grounded a single between third and short (CBBX)
+ 0-0  2 1-- 32  Ripken,C grounded out to second (BBCFB>X)
+ 
+**************  Bottom of the 2nd inning, 101ers batting
+ 0-0  0 --- 22  Piazza lined a single to right (BSCFBX)
+ 0-0  0 1-- 10  Bichette flied out to center (BX)
+ 0-0  1 1-- 01  Berry singled down the right field line and shallow, 
+                  Piazza to third (CX)
+ 0-0  1 1-3 22  Sosa hit a sacrifice fly to right, Piazza scored (BFCFFBX)
+ 0-1  2 1-- 00  Berry stole second (>C)
+ 0-1  2 -2- 11  Kingery flied out to right (>C.BX)
+ 
+**************  Top of the 3rd inning, Messiahs batting
+ 0-1  0 --- 12  Tettleton struck out (FBSC)
+ 0-1  1 --- 11  Cone lined a single to shallow center (BCX)
+ 0-1  1 1-- 22  Cone to second, Henderson to first on an error by the 
+                  shortstop Offerman (SBCBX)
+ 0-1  1 12- 22  Boggs struck out (BBFSS)
+ 0-1  2 12- 32  Martinez,E singled to right center, Cone scored, 
+                  Henderson to third (BBBCF>F>X)
+ 1-1  2 1-3 10  Buhner grounded out to first (BX)
+ 
+**************  Bottom of the 3rd inning, 101ers batting
+ 1-1  0 --- 10  Neagle flied out to right (BX)
+ 1-1  1 --- 32  Offerman flied out to right (CBBFBX)
+ 1-1  2 --- 11  Barberie lined a single to shallow center (CBX)
+ 1-1  2 1-- 00  Barberie stole second (>C)
+ 1-1  2 -2- 12  Belle struck out (>C.FBS)
+ 
+**************  Top of the 4th inning, Messiahs batting
+ 1-1  0 --- 32  Curtis lined a double to left center (FFBBFBX)
+ 1-1  0 -2- 32  Baerga grounded a single up the middle, Curtis scored 
+                  (CFBBBX)
+ 2-1  0 1-- 00  Ripken,C flied out to left (X)
+ 2-1  1 1-- 30  Tettleton walked, Baerga to second (BBBB)
+ 2-1  1 12- 00  Cone bunted into an out to the catcher, forcing Baerga at 
+                  third, Tettleton to second, Cone to first (Xb)
+ 2-1  2 12- 11  Henderson popped out to short (CBX)
+ 
+**************  Bottom of the 4th inning, 101ers batting
+ 2-1  0 --- 00  Piazza lined a single between first and second (X)
+ 2-1  0 1-- 21  Bichette grounded a double down the third base line, 
+                  Piazza to third (BFBX)
+ 2-1  0 -23 11  Cone threw a wild pitch, Piazza scored, Bichette to third 
+                  (SBB)
+ 2-2  0 --3 32  Berry grounded a single between first and second, 
+                  Bichette scored (SBB.FBX)
+ 2-3  0 1-- 32  Sosa reached on an infield single to short, Berry to 
+                  second (1BFBBFX)
+ 2-3  0 12- 02  Kingery lined a single to shallow center, Berry out at 
+                  home, Sosa to second (CCX)
+ 2-3  1 12- 00  Sosa was caught stealing third, Kingery to second (>C)
+ 2-3  2 -2- 01  Cone balked, Kingery to third (>C.)
+ 2-3  2 --3 12  Neagle struck out (>C.CBS)
+ 
+**************  Top of the 5th inning, Messiahs batting
+ 2-3  0 --- 11  Boggs homered deep to left (FBX)
+ 3-3  0 --- 12  Martinez,E struck out (CBCS)
+ 3-3  1 --- 12  Buhner struck out (CCBC)
+ 3-3  2 --- 11  Curtis grounded out to the mound (CBX)
+ 
+**************  Bottom of the 5th inning, 101ers batting
+ 3-3  0 --- 21  Offerman grounded out to third (FBBX)
+ 3-3  1 --- 12  Barberie flied out to left (FBCX)
+ 3-3  2 --- 22  Belle grounded out to second (CBBCX)
+ 
+**************  Top of the 6th inning, Messiahs batting
+ 3-3  0 --- 00  Baerga doubled deep to left center (X)
+ 3-3  0 -2- 20  Ripken,C flied out to center, Baerga to third (BbBX)
+ 3-3  1 --3 00  Tettleton lined a single to shallow center, Baerga scored 
+                  (X)
+ 4-3  1 1-- 00  Cone sacrifice bunted to the mound, Tettleton to second 
+                  (Xb)
+ 4-3  2 -2- 21  Henderson popped out to first (CBBX)
+ 
+**************  Bottom of the 6th inning, 101ers batting
+ 4-3  0 --- 00  Piazza flied out to right (X)
+ 4-3  1 --- 22  Bichette grounded out to short (BSCBX)
+ 4-3  2 --- 20  Berry flied out to center (BBX)
+ 
+**************  Top of the 7th inning, Messiahs batting
+ 4-3  0 --- 32  Boggs struck out (BBBCFS)
+ 4-3  1 --- 02  Martinez,E lined a double to right center (CFX)
+ 4-3  1 -2- 12  Buhner grounded a single between third and short, 
+                  Martinez,E to third (FFFFBX)
+ 4-3  1 1-3 02  Curtis struck out (FFS)
+ 4-3  2 1-3 12  Baerga lined a single to shallow center, Martinez,E 
+                  scored, Buhner to second (1BFFX)
+                Kruk now playing first base
+                Hall now pitching
+ 5-3  2 12- 22  Ripken,C grounded to short, forcing Baerga at second 
+                  (BSFBX)
+ 
+**************  Bottom of the 7th inning, 101ers batting
+ 5-3  0 --- 32  Sosa grounded a single between third and short (BSBSBX)
+ 5-3  0 1-- 21  Kingery lined a single to shallow center, Sosa to second 
+                  (1BFBX)
+ 5-3  0 12- 22  Kruk struck out (BBCCS)
+ 5-3  1 12- 12  Offerman struck out (CFBS)
+ 5-3  2 12- 20  Barberie grounded out to second (BBX)
+ 
+**************  Top of the 8th inning, Messiahs batting
+ 5-3  0 --- 32  Tettleton lined a single to left center (CFBBBX)
+ 5-3  0 1-- 00  Cone sacrifice bunted to first, Tettleton to second (Xb)
+ 5-3  1 -2- 10  Henderson lined a single to shallow left, Tettleton to 
+                  third (BX)
+ 5-3  1 1-3 31  Boggs grounded a single up the middle, Tettleton scored, 
+                  Henderson scored on an error by the center fielder 
+                  Kingery, Boggs to second (BBBCX)
+                Sanchez now playing second base
+                Pugh now pitching
+ 7-3  1 -2- 11  Martinez,E grounded a single between third and short, 
+                  Boggs to third (BSX)
+ 7-3  1 1-3 32  Buhner homered deep down the left-field line, Boggs 
+                  scored, Martinez,E scored (FBFBBX)
+10-3  1 --- 12  Curtis grounded out to short (CFBX)
+10-3  2 --- 22  Baerga grounded out to second (FFFBBFFX)
+ 
+**************  Bottom of the 8th inning, 101ers batting
+                Devereaux now playing right field
+10-3  0 --- 22  Belle flied out to right (BBCSX)
+10-3  1 --- 32  Piazza walked (CBFBBFFFB)
+                Huff pinch hitting for Sanchez
+10-3  1 1-- 31  Huff walked, Piazza to second (BBBCB)
+10-3  1 12- 10  Berry lined a single to left center, Piazza scored, Huff 
+                  to third (BX)
+                Williams,Mik now pitching
+10-4  1 1-3 20  Sosa lined out to left (BBX)
+                Alou pinch hitting for Kingery
+10-4  2 1-3 01  Alou popped out to the catcher (FX)
+ 
+**************  Top of the 9th inning, Messiahs batting
+                Reed,Jo now playing second base
+                Alou moved to center field
+10-4  0 --- 21  Ripken,C lined out to left (BBCX)
+10-4  1 --- 22  Tettleton flied out to center (CBBCX)
+10-4  2 --- 21  Williams,Mik to first on an error by the third baseman 
+                  Berry (FBBX)
+10-4  2 1-- 00  Henderson flied out to center (X)
+ 
+**************  Bottom of the 9th inning, 101ers batting
+                Santiago now playing catcher
+                Greer,R now playing left field
+10-4  0 --- 32  Kruk walked (BCBFBFB)
+10-4  0 1-- 11  Offerman grounded to third, forcing Kruk at second, 
+                  Offerman to first (BFX)
+                Pendleton pinch hitting for Pugh
+10-4  1 1-- 32  Pendleton flied out to right (FBBFBX)
+10-4  2 1-- 32  Belle flied out to left (BBCFB>X)
+____________________________________________________________________________________________________
+
+
+____________________________________________________________________________________________________
+
+9/30/1995, CEN95-CTW95, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  2  3  0  1  0     7 12  1    10  2
+1995 Whales            0  0  0  0  0  7  0  0  0  1     8 11  1     8  1
+ 
+Atoms                AB  R  H BI   AVG    Whales               AB  R  H BI   AVG
+Lewis,M           3b  2  0  0  0  .200    Knoblauch         2b  5  0  0  0  .250
+ Magadan          ph  2  1  1  0  .667    Joyner            1b  5  1  1  0  .167
+Williams,Be       cf  6  0  1  0  .273    Eisenreich        cf  4  1  1  0  .167
+Ramirez           lf  4  2  1  0  .250     Javier           cf  0  0  0  0  .000
+Canseco           rf  3  1  1  0  .125     Clark,W          ph  0  0  0  0  .000
+ Butler           ph  1  0  0  0  .000     Walton           cf  0  0  0  0  .333
+ Carter,J         lf  0  0  0  0  .000    O'Neill           rf  4  1  2  1  .400
+Longmire          1b  3  1  1  0  .333    Carreon           lf  4  1  1  1  .200
+ Klesko           ph  2  1  2  4 1.000    Eusebio           c   5  1  1  1  .200
+Hundley           c   5  1  2  2  .333    Jones,Chi         3b  3  2  2  1  .429
+Reboulet          ss  2  0  0  1  .200    Abbott,Ku         ss  3  1  1  0  .250
+ Fernandez,T      ph  2  0  1  0  .333    Pettitte          p   0  0  0  0  .000
+Gallego           2b  3  0  1  0  .200     Tingley          ph  2  0  1  3  .500
+ Brosius          ph  2  0  0  0  .000     Mesa             p   1  0  0  0  .000
+Ritz              p   2  0  0  0  .000     Henneman         p   0  0  0  0  .000
+ Nelson           p   0  0  0  0  .000     Mathews,Te       p   0  0  0  0  .000
+ O'Brien          ph  1  0  0  0  .000     Alomar,S         ph  1  0  1  1  .500
+ Holmes           p   0  0  0  0  .000                         37  8 11  8
+ DeLucia          p   1  0  1  0 1.000
+                     41  7 12  7
+ 
+Atoms                            INN  H  R ER BB  K PCH STR   ERA
+Ritz                             5.2  9  7  0  3  2  94  56  0.00
+Nelson                           1.1  0  0  0  0  1  17  11  0.00
+Holmes                           1.2  1  0  0  2  1  33  18  0.00
+DeLucia          L 0-1           1.0  1  1  1  2  0  23  11  9.00
+                                 9.2 11  8  1  7  4 167  96 
+ 
+Whales                           INN  H  R ER BB  K PCH STR   ERA
+Pettitte                         6.0  4  3  3  4  7 108  63  4.50
+Mesa             H 1             2.0  6  4  4  0  2  31  24 27.00
+Henneman         BS 1            1.2  2  0  0  0  3  23  16  0.00
+Mathews,Te       W 1-0           0.1  0  0  0  1  0  10   5  0.00
+                                10.0 12  7  7  5 12 172 108 
+ 
+CEN: Magadan batted for Lewis,M in the 7th
+     Klesko batted for Longmire in the 7th
+     Magadan moved to 3b in the 7th
+     Klesko moved to 1b in the 7th
+     Fernandez,T batted for Reboulet in the 8th
+     Brosius batted for Gallego in the 8th
+     O'Brien batted for Nelson in the 8th
+     Brosius moved to 2b in the 8th
+     Fernandez,T moved to ss in the 8th
+     Butler batted for Canseco in the 9th
+     Carter,J inserted at lf in the 9th
+     Ramirez moved to rf in the 9th
+CTW: Tingley batted for Pettitte in the 6th
+     Javier inserted at cf in the 8th
+     Clark,W batted for Javier in the 9th
+     Walton inserted at cf in the 10th
+     Alomar,S batted for Mathews,Te in the 10th
+ 
+E-Lewis,M, Abbott,Ku. 2B-Klesko, Tingley. HR-Hundley(1), Klesko(1). 
+CS-Eisenreich. K-Lewis,M, Williams,Be, Ramirez 2, Hundley 3, Reboulet, 
+Gallego, Ritz, Brosius 2, Joyner, O'Neill, Carreon, Tingley. BB-Lewis,M, 
+Ramirez, Canseco, Ritz, Magadan, O'Neill, Carreon, Jones,Chi 2, Abbott,Ku 2, 
+Clark,W. SH-Pettitte. SF-Reboulet. PB-Eusebio. WP-Pettitte. 
+GWRBI: Alomar,S
+Temperature: 68, Field: wet, Sky: clear, Wind: in from left at 11 MPH.
+
+....................................................................................................
+9/30/1995, CEN95-CTW95, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  2  3  0  1  0     7 12  1    10  2
+1995 Whales            0  0  0  0  0  7  0  0  0  1     8 11  1     8  1
+ 
+ 
+Atoms                -----A------ -----B------ -----C------ -----D------ -----E------
+Lewis,M           3b 1>9            k            wp.2-3;1-2 7>Mesa                   
+                                                 W                                   
+ Magadan          ph                                          63         9>S         
+                                                                                     
+                                                                                     
+Williams,Be       cf   k          4>63           8            53           S.1-2     
+Ramirez           lf   23           k          6>W            S            Henneman  
+                                                                           k         
+Canseco           rf 2>6            W            5            S.1-3                  
+ Butler           ph                                                       8.2-3     
+ Carter,J         lf                                                                 
+Longmire          1b   7            43           S.1-3                               
+ Klesko           ph                                          HR.3-H;1-H   D.3-H;1-3 
+Hundley           c    HR         5>k            S.3-H;1-3    k            k         
+Reboulet          ss   63           k            8/SF.3-H                            
+ Fernandez,T      ph                                        8>S          0>8         
+Gallego           2b 3>k            e6.B-1       S.1-2                               
+ Brosius          ph                                          k            k         
+Ritz              p    k            W.1-2        64/f                                
+ Nelson           p                                                                  
+ O'Brien          ph                                          643/gdp                
+ Holmes           p                                                                  
+ DeLucia          p                                                        S         
+ 
+ 
+Whales               -----A------ -----B------ -----C------ -----D------ -----E------
+Knoblauch         2b 1>9            8            53           Nelson     9>8         
+                                                              13                     
+Joyner            1b   8          4>7            S          7>63           k         
+Eisenreich        cf   2/fl         S            e5.1-2;B-1   9                      
+ Javier           cf                                                                 
+ Clark,W          ph                                                       W         
+ Walton           cf                                                                 
+O'Neill           rf 2>S            CS2(26)      S.2-H;1-2    k            DeLucia   
+                                    W                                      46/f      
+Carreon           lf   k            7            S.2-H;1-2  8>Holmes     0>5/L       
+                                                              W                      
+Eusebio           c    143/gdp    5>4            S.2-H;1-3    9            5         
+Jones,Chi         3b 3>S            W            S.3-H;1-2    54/f.B-1     W         
+Abbott,Ku         ss   7            643/gdp      W.2-3;1-2    S.1-2        W.1-2     
+Pettitte          p    14/SH.1-2                                                     
+ Tingley          ph              6>k            note 1                              
+ Mesa             p                                           3/g                    
+ Henneman         p                                                                  
+ Mathews,Te       p                                                                  
+ Alomar,S         ph                                                       S.2-H;1-2 
+ 
+ 1: D.3-H;2-H;1-H 
+ 
+ 
+
+....................................................................................................
+Atoms                -----F------ -----G------ -----H------ -----I------ -----J------
+Lewis,M           3b                                                                 
+                                                                                     
+ Magadan          ph   Mathews,Te                                                    
+                       pb.1-2                                                        
+                       W                                                             
+Williams,Be       cf   2/fl                                                          
+Ramirez           lf                                                                 
+                                                                                     
+Canseco           rf                                                                 
+ Butler           ph                                                                 
+ Carter,J         lf                                                                 
+Longmire          1b                                                                 
+ Klesko           ph                                                                 
+Hundley           c                                                                  
+Reboulet          ss                                                                 
+ Fernandez,T      ph                                                                 
+Gallego           2b                                                                 
+ Brosius          ph                                                                 
+Ritz              p                                                                  
+ Nelson           p                                                                  
+ O'Brien          ph                                                                 
+ Holmes           p                                                                  
+ DeLucia          p                                                                  
+ 
+ 
+Whales               -----F------ -----G------ -----H------ -----I------ -----J------
+Knoblauch         2b                                                                 
+                                                                                     
+Joyner            1b                                                                 
+Eisenreich        cf                                                                 
+ Javier           cf                                                                 
+ Clark,W          ph                                                                 
+ Walton           cf                                                                 
+O'Neill           rf                                                                 
+                                                                                     
+Carreon           lf                                                                 
+                                                                                     
+Eusebio           c                                                                  
+Jones,Chi         3b                                                                 
+Abbott,Ku         ss                                                                 
+Pettitte          p                                                                  
+ Tingley          ph                                                                 
+ Mesa             p                                                                  
+ Henneman         p                                                                  
+ Mathews,Te       p                                                                  
+ Alomar,S         ph                                                                 
+ 
+ 
+Atoms            IN OUT ER                  Whales           IN OUT ER                  
+Ritz             A1  C9  0                  Pettitte         A1  C9  3                  
+Nelson           D1  D4  0                  Mesa             D1  E2  4 H 1              
+Holmes           D5  E3  0                  Henneman         E3  E9  0 BS 1             
+DeLucia          E4  E9  1 L 0-1            Mathews,Te       F1  F2  0 W 1-0            
+
+....................................................................................................
+9/30/1995, CEN95-CTW95, Camden Yard
+ 
+                       1  2  3  4  5  6  7  8  9 10     R  H  E   LOB DP
+1995 Atoms             0  1  0  0  0  2  3  0  1  0     7 12  1    10  2
+1995 Whales            0  0  0  0  0  7  0  0  0  1     8 11  1     8  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Atoms batting
+ 0-0  0 --- 12  Lewis,M flied out to right (SCBX)
+ 0-0  1 --- 12  Williams,Be struck out (CSBFS)
+ 0-0  2 --- 10  Ramirez grounded out to the catcher (BX)
+ 
+**************  Bottom of the 1st inning, Whales batting
+ 0-0  0 --- 01  Knoblauch flied out to right (CX)
+ 0-0  1 --- 21  Joyner flied out to center (BSBX)
+ 0-0  2 --- 01  Eisenreich popped out to the catcher (CX)
+ 
+**************  Top of the 2nd inning, Atoms batting
+ 0-0  0 --- 01  Canseco popped out to short (CX)
+ 0-0  1 --- 31  Longmire flied out to left (BBBCX)
+ 0-0  2 --- 02  Hundley homered deep down the right field line (CFFX)
+ 1-0  2 --- 12  Reboulet grounded out to short (FFFBX)
+ 
+**************  Bottom of the 2nd inning, Whales batting
+ 1-0  0 --- 00  O'Neill lined a single to left (X)
+ 1-0  0 1-- 22  Carreon struck out (CBCFBS)
+ 1-0  1 1-- 01  Eusebio grounded into a double play, Ritz to Gallego to 
+                  Longmire (CX)
+ 
+**************  Top of the 3rd inning, Atoms batting
+ 1-0  0 --- 32  Gallego struck out (BCBSBS)
+ 1-0  1 --- 22  Ritz struck out (BCBSFC)
+ 1-0  2 --- 02  Lewis,M struck out (FSC)
+ 
+**************  Bottom of the 3rd inning, Whales batting
+ 1-0  0 --- 10  Jones,Chi reached on an infield single to second (BX)
+ 1-0  0 1-- 21  Abbott,Ku flied out to left (CBBX)
+ 1-0  1 1-- 01  Pettitte sacrifice bunted to the mound, Jones,Chi to 
+                  second (SbXb)
+ 1-0  2 -2- 21  Knoblauch flied out to center (BFBX)
+ 
+**************  Top of the 4th inning, Atoms batting
+ 1-0  0 --- 02  Williams,Be grounded out to short (FFX)
+ 1-0  1 --- 02  Ramirez struck out (CFFC)
+ 1-0  2 --- 31  Canseco walked (CBBBB)
+ 1-0  2 1-- 31  Longmire grounded out to second (BBCBX)
+ 
+**************  Bottom of the 4th inning, Whales batting
+ 1-0  0 --- 22  Joyner lined out to left (FSBBX)
+ 1-0  1 --- 21  Eisenreich reached on an infield single to short (BBFX)
+ 1-0  1 1-- 10  Eisenreich was caught stealing second (Bp>B)
+ 1-0  2 --- 30  O'Neill walked (Bp>B.BB)
+ 1-0  2 1-- 00  Carreon lined out to left (X)
+ 
+**************  Top of the 5th inning, Atoms batting
+ 1-0  0 --- 32  Hundley struck out (BCSFBBFS)
+ 1-0  1 --- 22  Reboulet struck out (CBBFS)
+ 1-0  2 --- 01  Gallego to first on an error by the shortstop Abbott,Ku 
+                  (CX)
+ 1-0  2 1-- 30  Ritz walked, Gallego to second (BBBB)
+ 1-0  2 12- 21  Pettitte threw a wild pitch, Gallego to third, Ritz to 
+                  second (BCBB)
+ 1-0  2 -23 31  Lewis,M walked (BCBB.B)
+ 1-0  2 123 21  Williams,Be flied out to center (BCBX)
+ 
+**************  Bottom of the 5th inning, Whales batting
+ 1-0  0 --- 31  Eusebio popped out to second (BBBCX)
+ 1-0  1 --- 31  Jones,Chi walked (BBBCB)
+ 1-0  1 1-- 21  Abbott,Ku grounded into a double play, Reboulet to 
+                  Gallego to Longmire (1FBBX)
+ 
+**************  Top of the 6th inning, Atoms batting
+ 1-0  0 --- 30  Ramirez walked (BBBB)
+ 1-0  0 1-- 00  Canseco popped out to third (1X)
+ 1-0  1 1-- 11  Longmire lined a single between first and second, Ramirez 
+                  to third (BSX)
+ 1-0  1 1-3 10  Hundley grounded a single up the middle, Ramirez scored, 
+                  Longmire to third (BX)
+ 2-0  1 1-3 22  Reboulet hit a sacrifice fly to center, Longmire scored 
+                  (CBFBFX)
+ 3-0  2 1-- 20  Gallego lined a single to left, Hundley to second (BBX)
+ 3-0  2 12- 10  Ritz grounded to short, forcing Gallego at second (BX)
+ 
+**************  Bottom of the 6th inning, Whales batting
+                Tingley pinch hitting for Pettitte
+ 3-0  0 --- 22  Tingley struck out (CFBFBS)
+ 3-0  1 --- 22  Knoblauch grounded out to third (BCCBFX)
+ 3-0  2 --- 01  Joyner lined a single to right (CX)
+ 3-0  2 1-- 00  Joyner to second, Eisenreich to first on an error by the 
+                  third baseman Lewis,M (X)
+ 3-0  2 12- 12  O'Neill lined a single to shallow center, Joyner scored, 
+                  Eisenreich to second (CBCX)
+ 3-1  2 12- 02  Carreon lined a single to shallow left, Eisenreich 
+                  scored, O'Neill to second (FCX)
+ 3-2  2 12- 12  Eusebio grounded a single up the middle, O'Neill scored, 
+                  Carreon to third (CCBX)
+ 3-3  2 1-3 20  Jones,Chi lined a single to shallow left, Carreon scored, 
+                  Eusebio to second (BBX)
+ 3-4  2 12- 32  Abbott,Ku walked, Eusebio to third, Jones,Chi to second 
+                  (BBBCC>B)
+ 3-4  2 123 01  Tingley grounded a double down the third base line, 
+                  Eusebio scored, Jones,Chi scored, Abbott,Ku scored (CX)
+                Nelson now pitching
+ 3-7  2 -2- 01  Knoblauch grounded out to the mound (CX)
+ 
+**************  Top of the 7th inning, Atoms batting
+                Mesa now pitching
+                Magadan pinch hitting for Lewis,M
+ 3-7  0 --- 12  Magadan grounded out to short (SSBX)
+ 3-7  1 --- 01  Williams,Be grounded out to third (FX)
+ 3-7  2 --- 01  Ramirez lined a single to shallow center (CX)
+ 3-7  2 1-- 00  Canseco lined a single to left center, Ramirez to third 
+                  (X)
+                Klesko pinch hitting for Longmire
+ 3-7  2 1-3 31  Klesko homered deep to right, Ramirez scored, Canseco 
+                  scored (BBCBX)
+ 6-7  2 --- 02  Hundley struck out (CCC)
+ 
+**************  Bottom of the 7th inning, Whales batting
+                Magadan moved to third base
+                Klesko moved to first base
+ 6-7  0 --- 11  Joyner grounded out to short (BSX)
+ 6-7  1 --- 32  Eisenreich flied out to right (CCBBBFX)
+ 6-7  2 --- 22  O'Neill struck out (BBCSC)
+ 
+**************  Top of the 8th inning, Atoms batting
+                Javier now playing center field
+                Fernandez,T pinch hitting for Reboulet
+ 6-7  0 --- 00  Fernandez,T grounded a single between first and second (X)
+                Brosius pinch hitting for Gallego
+ 6-7  0 1-- 12  Brosius struck out (BCSS)
+                O'Brien pinch hitting for Nelson
+ 6-7  1 1-- 22  O'Brien grounded into a double play, Abbott,Ku to 
+                  Knoblauch to Joyner (BBCSX)
+ 
+**************  Bottom of the 8th inning, Whales batting
+                Holmes now pitching
+                Brosius moved to second base
+                Fernandez,T moved to shortstop
+ 6-7  0 --- 31  Carreon walked (BBBSB)
+ 6-7  0 1-- 01  Eusebio flied out to right (CX)
+ 6-7  1 1-- 11  Jones,Chi grounded to third, forcing Carreon at second, 
+                  Jones,Chi to first (BCX)
+ 6-7  2 1-- 12  Abbott,Ku lined a single to shallow left, Jones,Chi to 
+                  second (CSBX)
+ 6-7  2 12- 00  Mesa grounded out to first (X)
+ 
+**************  Top of the 9th inning, Atoms batting
+ 6-7  0 --- 02  Magadan lined a single to shallow right (CCX)
+ 6-7  0 1-- 00  Williams,Be grounded a single between third and short, 
+                  Magadan to second (X)
+                Henneman now pitching
+ 6-7  0 12- 12  Ramirez struck out (CSBS)
+                Butler pinch hitting for Canseco
+ 6-7  1 12- 00  Butler flied out to center, Magadan to third (X)
+ 6-7  2 1-3 00  Klesko lined a double down the left field line, Magadan 
+                  scored, Williams,Be to third (X)
+ 7-7  2 -23 32  Hundley struck out (BBFBCS)
+ 
+**************  Bottom of the 9th inning, Whales batting
+                Carter,J now playing left field
+                Ramirez moved to right field
+ 7-7  0 --- 21  Knoblauch flied out to center (BCBX)
+ 7-7  1 --- 32  Joyner struck out (CCBBFFFBS)
+                Clark,W pinch hitting for Javier
+ 7-7  2 --- 31  Clark,W walked (BCBBB)
+                DeLucia now pitching
+ 7-7  2 1-- 00  O'Neill grounded to second, forcing Clark,W at second (X)
+ 
+**************  Top of the 10th inning, Atoms batting
+                Walton now playing center field
+ 7-7  0 --- 12  Fernandez,T flied out to center (FFBX)
+ 7-7  1 --- 22  Brosius struck out (CBBFFS)
+ 7-7  2 --- 00  DeLucia lined a single up the middle (X)
+                Mathews,Te now pitching
+ 7-7  2 1-- 21  Eusebio allowed a passed ball, DeLucia to second (BSBB)
+ 7-7  2 -2- 32  Magadan walked (BSBB.FB)
+ 7-7  2 12- 12  Williams,Be popped out to the catcher (BFSX)
+ 
+**************  Bottom of the 10th inning, Whales batting
+ 7-7  0 --- 22  Carreon lined out to third (FBBFX)
+ 7-7  1 --- 10  Eusebio popped out to third (BX)
+ 7-7  2 --- 32  Jones,Chi walked (BFBSBB)
+ 7-7  2 1-- 30  Abbott,Ku walked, Jones,Chi to second (BBBB)
+                Alomar,S pinch hitting for Mathews,Te
+ 7-7  2 12- 12  Alomar,S lined a single to shallow right, Jones,Chi 
+                  scored, Abbott,Ku to second (CSFBX)
+____________________________________________________________________________________________________
+
+9/30/1995, DLM95-RVK95, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  2  3  0  0  1  0  0  1     7 10  0     5  2
+1995 101ers            0  0  0  0  2  1  0  0  0     3  7  0     5  0
+ 
+Messiahs             AB  R  H BI   AVG    101ers               AB  R  H BI   AVG
+Henderson         lf  4  1  1  1  .200    Offerman          ss  3  0  0  0  .000
+ Boggs            3b  0  0  0  0  .400    Barberie          2b  4  1  2  1  .375
+Whitaker          2b  5  1  2  0  .400    Belle             lf  4  0  0  0  .000
+ Baerga           2b  0  0  0  0  .800    Piazza            c   4  0  0  0  .286
+Martinez,E        3b  4  1  1  0  .444    Bichette          1b  4  0  1  0  .286
+ Gubicza          p   0  0  0  0  .000    Berry             3b  3  1  2  0  .714
+ Aguilera         p   0  0  0  0  .000    Sosa              rf  3  1  1  0  .500
+Buhner            rf  4  2  2  3  .444    Kingery           cf  2  0  0  0  .400
+Murray,E          1b  4  0  0  0  .000     Kruk             ph  1  0  0  0  .000
+Tettleton         c   4  2  2  3  .500     Huff             cf  1  0  0  0  .000
+ Santiago         c   0  0  0  0  .000    Fernandez,A       p   2  0  1  2  .500
+Greer,R           cf  4  0  0  0  .000     Alvarez          p   0  0  0  0  .000
+ Curtis           cf  0  0  0  0  .200     Alou             ph  1  0  0  0  .000
+Ripken,C          ss  4  0  1  0  .111     Pugh             p   0  0  0  0  .000
+Hamilton,J        p   3  0  1  0  .333                         32  3  7  3
+ Maldonado        ph  1  0  0  0  .000
+ Devereaux        lf  0  0  0  0  .000
+                     37  7 10  7
+ 
+Messiahs                         INN  H  R ER BB  K PCH STR   ERA
+Hamilton,J       W 1-0           8.0  6  3  3  1  5 102  63  3.38
+Gubicza                          0.1  1  0  0  0  0   4   3  0.00
+Aguilera                         0.2  0  0  0  2  0  11   3  0.00
+                                 9.0  7  3  3  3  5 117  69 
+ 
+101ers                           INN  H  R ER BB  K PCH STR   ERA
+Fernandez,A      L 0-1           5.0  7  6  6  2  5  93  61 10.80
+Alvarez                          3.0  2  0  0  0  2  32  20  0.00
+Pugh                             1.0  1  1  1  0  0   9   5 10.13
+                                 9.0 10  7  7  2  7 134  86 
+ 
+DLM: Santiago inserted at c in the 8th
+     Curtis inserted at cf in the 8th
+     Maldonado batted for Hamilton,J in the 9th
+     Devereaux inserted at lf in the 9th
+     Boggs inserted at 3b in the 9th
+     Baerga inserted at 2b in the 9th
+RVK: Kruk batted for Kingery in the 7th
+     Huff inserted at cf in the 8th
+     Alou batted for Alvarez in the 8th
+ 
+2B-Berry, Fernandez,A. HR-Henderson(1), Buhner(2), Tettleton 2(2), 
+Barberie(1). K-Martinez,E, Murray,E, Tettleton 2, Greer,R 2, Hamilton,J, 
+Offerman 2, Barberie, Sosa, Alou. BB-Henderson, Martinez,E, Offerman, Berry, 
+Sosa. 
+GWRBI: Tettleton
+Temperature: 70, Wind: none.
+
+....................................................................................................
+9/30/1995, DLM95-RVK95, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  2  3  0  0  1  0  0  1     7 10  0     5  2
+1995 101ers            0  0  0  0  2  1  0  0  0     3  7  0     5  0
+ 
+ 
+Messiahs             -----A------ -----B------ -----C------ -----D------ -----E------
+Henderson         lf 1>8            43           W.2-3;1-2  7>4            HR        
+ Boggs            3b                                                                 
+Whitaker          2b   8            S            7            S            43        
+ Baerga           2b                                                                 
+Martinez,E        3b   k            W.1-2      5>63           S.1-2        8         
+ Gubicza          p                                                                  
+ Aguilera         p                                                                  
+Buhner            rf 2>S            HR.2-H;1-H   63           5/fl                   
+Murray,E          1b   k            31           6            9                      
+Tettleton         c    HR.1-H     4>k          6>HR         8>k                      
+ Santiago         c                                                                  
+Greer,R           cf   k            9            Alvarez      k                      
+                                                 13                                  
+ Curtis           cf                                                                 
+Ripken,C          ss   9            S            43           63                     
+Hamilton,J        p  3>k            S.1-2        63         9>Pugh                   
+ Maldonado        ph                                          7                      
+ Devereaux        lf                                                                 
+ 
+ 
+101ers               -----A------ -----B------ -----C------ -----D------ -----E------
+Offerman          ss 1>53           k            k            W                      
+Barberie          2b   k          4>S          6>HR           7                      
+Belle             lf   8            63/gdp       63           8                      
+Piazza            c  2>8            43           9          9>Gubicza                
+                                                              63                     
+Bichette          1b   7          5>9            7            S                      
+Berry             3b   D            S          7>63           Aguilera               
+                                                              W.1-2                  
+Sosa              rf   k            S.1-3        53           W.2-3;1-2              
+Kingery           cf 3>63           23.1-2                                           
+ Kruk             ph                             8                                   
+ Huff             cf                                          63/gdp                 
+Fernandez,A       p    8            D.3-H;2-H                                        
+ Alvarez          p                                                                  
+ Alou             ph                           8>k                                   
+ Pugh             p                                                                  
+ 
+ 
+Messiahs         IN OUT ER                  101ers           IN OUT ER                  
+Hamilton,J       A1  D3  3 W 1-0            Fernandez,A      A1  C6  6 L 0-1            
+Gubicza          D4  D5  0                  Alvarez          C7  D8  0                  
+Aguilera         D6  D8  0                  Pugh             D9  E3  1                  
+
+....................................................................................................
+9/30/1995, DLM95-RVK95, Kingdome
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1995 Messiahs          0  2  3  0  0  1  0  0  1     7 10  0     5  2
+1995 101ers            0  0  0  0  2  1  0  0  0     3  7  0     5  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Messiahs batting
+ 0-0  0 --- 21  Henderson flied out to center (FBBX)
+ 0-0  1 --- 00  Whitaker flied out to center (X)
+ 0-0  2 --- 02  Martinez,E struck out (FCS)
+ 
+**************  Bottom of the 1st inning, 101ers batting
+ 0-0  0 --- 10  Offerman grounded out to third (BX)
+ 0-0  1 --- 22  Barberie struck out (BFBFS)
+ 0-0  2 --- 22  Belle flied out to center (BFBFX)
+ 
+**************  Top of the 2nd inning, Messiahs batting
+ 0-0  0 --- 10  Buhner grounded a single between third and short (BX)
+ 0-0  0 1-- 22  Murray,E struck out (CFBBFS)
+ 0-0  1 1-- 32  Tettleton homered deep to left center, Buhner scored 
+                  (BCBBCX)
+ 2-0  1 --- 12  Greer,R struck out (CSFBS)
+ 2-0  2 --- 22  Ripken,C flied out to right (BFSBX)
+ 
+**************  Bottom of the 2nd inning, 101ers batting
+ 2-0  0 --- 10  Piazza flied out to center (BX)
+ 2-0  1 --- 12  Bichette lined out to left (FCBX)
+ 2-0  2 --- 32  Berry grounded a double down the first base line (FBBBFX)
+ 2-0  2 -2- 12  Sosa struck out (CSFBC)
+ 
+**************  Top of the 3rd inning, Messiahs batting
+ 2-0  0 --- 02  Hamilton,J struck out (FSS)
+ 2-0  1 --- 00  Henderson grounded out to second (X)
+ 2-0  2 --- 00  Whitaker lined a single to left center (X)
+ 2-0  2 1-- 32  Martinez,E walked, Whitaker to second (11BBBCC>B)
+ 2-0  2 12- 12  Buhner homered deep to left center, Whitaker scored, 
+                  Martinez,E scored (CBCX)
+ 5-0  2 --- 00  Murray,E grounded out to first (X)
+ 
+**************  Bottom of the 3rd inning, 101ers batting
+ 5-0  0 --- 00  Kingery grounded out to short (X)
+ 5-0  1 --- 10  Fernandez,A popped out to center (BX)
+ 5-0  2 --- 32  Offerman struck out (CBFBBS)
+ 
+**************  Top of the 4th inning, Messiahs batting
+ 5-0  0 --- 32  Tettleton struck out (BBBCSC)
+ 5-0  1 --- 22  Greer,R flied out to right (BFBSX)
+ 5-0  2 --- 00  Ripken,C grounded a single between third and short (X)
+ 5-0  2 1-- 01  Hamilton,J reached on an infield single to second, 
+                  Ripken,C to second (CX)
+ 5-0  2 12- 32  Henderson walked, Ripken,C to third, Hamilton,J to second 
+                  (CBSBFB>F>B)
+ 5-0  2 123 12  Whitaker lined out to left (CBSX)
+ 
+**************  Bottom of the 4th inning, 101ers batting
+ 5-0  0 --- 11  Barberie grounded a single between first and second (CBX)
+ 5-0  0 1-- 12  Belle grounded into a double play, Ripken,C to Murray,E 
+                  (BFSX)
+ 5-0  2 --- 11  Piazza grounded out to second (BFX)
+ 
+**************  Top of the 5th inning, Messiahs batting
+ 5-0  0 --- 02  Martinez,E grounded out to short (SSX)
+ 5-0  1 --- 22  Buhner grounded out to short (CFBBX)
+ 5-0  2 --- 12  Murray,E popped out to short (CBSFX)
+ 
+**************  Bottom of the 5th inning, 101ers batting
+ 5-0  0 --- 00  Bichette flied out to right (X)
+ 5-0  1 --- 00  Berry reached on an infield single to first (X)
+ 5-0  1 1-- 20  Sosa lined a single to right center, Berry to third (BBX)
+ 5-0  1 1-3 12  Kingery grounded out to the catcher, Sosa to second (FBFX)
+ 5-0  2 -23 10  Fernandez,A doubled deep to left center, Berry scored, 
+                  Sosa scored (BX)
+ 5-2  2 -2- 12  Offerman struck out (FBSS)
+ 
+**************  Top of the 6th inning, Messiahs batting
+ 5-2  0 --- 32  Tettleton homered deep to right center (BBCCBX)
+                Alvarez now pitching
+ 6-2  0 --- 22  Greer,R grounded out to the mound (FBBFX)
+ 6-2  1 --- 10  Ripken,C grounded out to second (BX)
+ 6-2  2 --- 00  Hamilton,J grounded out to short (X)
+ 
+**************  Bottom of the 6th inning, 101ers batting
+ 6-2  0 --- 01  Barberie homered deep to right center (SX)
+ 6-3  0 --- 10  Belle grounded out to short (BX)
+ 6-3  1 --- 20  Piazza flied out to right (BBX)
+ 6-3  2 --- 01  Bichette flied out to left (CX)
+ 
+**************  Top of the 7th inning, Messiahs batting
+ 6-3  0 --- 00  Henderson popped out to second (X)
+ 6-3  1 --- 00  Whitaker lined a single to center (X)
+ 6-3  1 1-- 31  Martinez,E lined a single to shallow center, Whitaker to 
+                  second (BBCBX)
+ 6-3  1 12- 10  Buhner popped out to third (BX)
+ 6-3  2 12- 22  Murray,E flied out to right (BBSFX)
+ 
+**************  Bottom of the 7th inning, 101ers batting
+ 6-3  0 --- 20  Berry grounded out to short (BBX)
+ 6-3  1 --- 22  Sosa grounded out to third (CBBFX)
+                Kruk pinch hitting for Kingery
+ 6-3  2 --- 02  Kruk flied out to center (CSX)
+ 
+**************  Top of the 8th inning, Messiahs batting
+                Huff now playing center field
+ 6-3  0 --- 02  Tettleton struck out (FFS)
+ 6-3  1 --- 32  Greer,R struck out (FBBCBS)
+ 6-3  2 --- 00  Ripken,C grounded out to short (X)
+ 
+**************  Bottom of the 8th inning, 101ers batting
+                Santiago now playing catcher
+                Curtis now playing center field
+                Alou pinch hitting for Alvarez
+ 6-3  0 --- 22  Alou struck out (BCBFFS)
+ 6-3  1 --- 32  Offerman walked (CBFBBB)
+ 6-3  1 1-- 10  Barberie flied out to left (BX)
+ 6-3  2 1-- 22  Belle flied out to center (CBBFX)
+ 
+**************  Top of the 9th inning, Messiahs batting
+                Pugh now pitching
+                Maldonado pinch hitting for Hamilton,J
+ 6-3  0 --- 10  Maldonado lined out to left (BX)
+ 6-3  1 --- 21  Henderson homered deep down the left-field line (BBFX)
+ 7-3  1 --- 00  Whitaker grounded out to second (X)
+ 7-3  2 --- 10  Martinez,E flied out to center (BX)
+ 
+**************  Bottom of the 9th inning, 101ers batting
+                Devereaux now playing left field
+                Boggs now playing third base
+                Baerga now playing second base
+                Gubicza now pitching
+ 7-3  0 --- 11  Piazza grounded out to short (BCX)
+ 7-3  1 --- 00  Bichette reached on an infield single to short (X)
+                Aguilera now pitching
+ 7-3  1 1-- 32  Berry walked, Bichette to second (CCBBBB)
+ 7-3  1 12- 30  Sosa walked, Bichette to third, Berry to second (BBBB)
+ 7-3  1 123 00  Huff grounded into a double play, Ripken,C to Murray,E (X)
+
+----------------------------------------------------------------------------------------------------
+PLAYING TIME REPORT
+                  LIMITS:   140    140    120
+----------------------------------------------------------------------------------------------------
+
+                             Playoff Team Status -- 1995 Century Atoms                              
+                               Divisional playoff -- as of 9/30/1995                                
+
+S Name                    Usage     PA     PA Days 
+  Tony Longmire               5      6    117    0 
+  Mike Gallego                5      6    132    0 
+  Mark Lewis                  4      8    194    0 
+  Jeff Reboulet               3      7    246    0 
+  Todd Hundley                3      9    326    0 
+  Jose Canseco                2      9    450    0 
+  Manny Ramirez               2     10    571    0 
+  Bernie Williams             2     11    648    0 
+  Dave Magadan                1      4    422    0 
+  Ryan Klesko                 1      3    381    0 
+  Tony Fernandez              1      3    438    0 
+  Scott Brosius               0      2    443    0 
+  Charlie O'Brien             0      1    233    0 
+  Brett Butler                0      1    596    0 
+  Joe Carter                  0      1    603    0 
+f Jeff Frye                   0      0    354    0 
+f Mariano Duncan              0      0    277    0 
+f Reggie Jefferson            0      0    132    0 
+f Kevin Elster                0      0     83    0 
+f Matt Walbeck                0      0    422    0 
+f Roberto Kelly               0      0    540    0 
+f Hal Morris                  0      0    391    0 
+f Pat Kelly                   0      0    310    0 
+f Benji Gil                   0      0    454    0 
+f Ozzie Guillen               0      0    433    0 
+f Robby Thompson              0      0    391    0 
+f John Patterson              0      0    237    0 
+f Jeff Huson                  0      0    180    0 
+f Mike Greenwell              0      0    525    0 
+  Total                             81  10529      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/30   9/29   9/28   9/27   9/26 
+  Kevin Ritz                  3    1   31    0  9/30/1995    94s                             
+  Kenny Rogers                3    1   31    0  9/29/1995           69s                      
+  Tom Henke                   2    1   52    0  9/29/1995           39r                      
+  Rich DeLucia                2    1   56    0  9/30/1995    23r                  25r        
+  Jeff Nelson                 2    1   62    0  9/30/1995    17r                             
+  Darren Holmes               1    1   68    0  9/30/1995    33r                  17r        
+f Pat Hentgen                 0    0   30    0  9/27/1995                         84s        
+  Steve Reed                  0    0   71    0  9/27/1995                         26r        
+f Brad Radke                  0    0   29    0   9/3/1995                                    
+  Ismael Valdes               0    0   33    0  9/24/1995                                    
+f Jack McDowell               0    0   30    0  9/26/1995                               126s 
+f Woody Williams              0    0   23    0  8/10/1995                                    
+  Todd Worrell                0    0   59    0  9/27/1995                         39r        
+f Mike Grace                  0    0    2    0  9/27/1995                         14r        
+f Doug Bochtler               0    0   34    0                                               
+f Jay Powell                  0    0    9    0  9/13/1995                                    
+f Larry Casian                0    0   42    0                                               
+  Erik Hanson                 0    0   29    0  9/23/1995                                    
+  Total                            2  209                                                    
+
+
+                           Playoff Team Status -- 1995 Chinatrust Whales                            
+                               Divisional playoff -- as of 9/30/1995                                
+
+S Name                    Usage     PA     PA Days 
+  Sandy Alomar                2      5    218    0 
+  Jerome Walton               2      3    188    0 
+  Chipper Jones               1      9    602    0 
+  Chuck Knoblauch             1      9    629    0 
+  Jim Eisenreich              1      6    423    0 
+  Mark Carreon                1      6    426    0 
+  Ron Tingley                 1      2    145    0 
+  Kurt Abbott                 1      6    468    0 
+  Tim Bogar                   1      2    157    0 
+  Tony Eusebio                1      5    408    0 
+  Paul O'Neill                1      6    543    0 
+  Wally Joyner                1      6    550    0 
+  Will Clark                  1      4    537    0 
+  Mike Blowers                1      3    498    0 
+  Stan Javier                 0      2    504    0 
+f Darryl Strawberry           0      0     99    0 
+f Dave Hansen                 0      0    211    0 
+f Todd Pratt                  0      0     67    0 
+f Chad Kreuter                0      0     83    0 
+f Alex Gonzalez               0      0    425    0 
+f Russ Davis                  0      0    109    0 
+f Ruben Amaro                 0      0     68    0 
+f Dwayne Hosey                0      0     77    0 
+  Total                             74   7435      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/30   9/29   9/28   9/27   9/26 
+  Mike Henneman               4    2   50    0  9/30/1995    23r    26r                      
+  Randy Johnson               3    1   30    0  9/29/1995          112s                      
+  Andy Pettitte               3    1   31    0  9/30/1995   108s                             
+  Jose Mesa                   3    2   62    0  9/30/1995    31r    12r                      
+  Terry Mathews               2    1   57    0  9/30/1995    10r                             
+  Scott Service               0    0   28    0  9/27/1995                          6r        
+  Jim Poole                   0    0   42    0  9/27/1995                         70s        
+f Jeff Montgomery             0    0   54    0  9/27/1995                          4r        
+f Aaron Sele                  0    0    6    0   9/2/1995                                    
+f Roger Pavlik                0    0   31    0  9/24/1995                                    
+  Tim Wakefield               0    0   27    0  9/26/1995                               127s 
+f Mike Butcher                0    0   40    0  9/25/1995                                    
+f Richie Lewis                0    0   21    0  9/10/1995                                    
+  Jerry DiPoto                0    0   58    0  9/27/1995                         45r        
+f Chris Hammond               0    0   25    0  9/18/1995                                    
+f Felipe Lira                 0    0   37    0  9/25/1995                                    
+  Scott Karl                  0    0   25    0  9/25/1995                                    
+  Total                            2  185      
+
+
+                         Playoff Team Status -- 1995 Dún Laoghaire Messiahs                         
+                               Divisional playoff -- as of 9/30/1995                                
+
+S Name                    Usage     PA     PA Days 
+  Rickey Henderson            2     11    487    0 
+  Lou Whitaker                2      5    285    0 
+  Jay Buhner                  2      9    539    0 
+  Mickey Tettleton            2      9    547    0 
+  Edgar Martinez              2     10    639    0 
+  Cal Ripken                  1      9    613    0 
+  Wade Boggs                  1      5    541    0 
+  Rusty Greer                 1      4    478    0 
+  Carlos Baerga               1      5    600    0 
+  Eddie Murray                1      4    480    0 
+  Chad Curtis                 1      5    670    0 
+  Candy Maldonado             0      1    227    0 
+f Dave Martinez               0      0    349    0 
+  Benito Santiago             0      0    296    0 
+f John VanderWal              0      0    118    0 
+f Lyle Mouton                 0      0    201    0 
+  Mike Devereaux              0      0    418    0 
+f Rafael Belliard             0      0    192    0 
+f Tomas Perez                 0      0    106    0 
+f Henry Mercedes              0      0     55    0 
+f Jorge Brito                 0      0     55    0 
+f Quilvio Veras               0      0    538    0 
+  Total                             77   8434      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/30   9/29   9/28   9/27   9/26 
+  David Cone                  3    1   30    0  9/29/1995          136s                      
+  Joey Hamilton               3    1   31    0  9/30/1995   102s                             
+  Mark Gubicza                3    1   33    0  9/30/1995     4r                             
+  Mike Williams               3    1   33    0  9/29/1995           27r                      
+  Rick Aguilera               2    1   52    0  9/30/1995    11r                             
+f Paul Shuey                  0    0    7    0  7/18/1995                                    
+  Tom Glavine                 0    0   29    0  9/27/1995                        118s        
+  Jim Abbott                  0    0   30    0  9/26/1995                               120s 
+f Mike Fetters                0    0   40    0  9/25/1995                                    
+f Albie Lopez                 0    0    6    0   5/6/1995                                    
+  Chad Ogea                   0    0   20    0  9/18/1995                                    
+f John Ericks                 0    0   19    0  9/27/1995                          3r    20r 
+  Greg Harris                 0    0   45    0  9/27/1995                         14r        
+f William Van Landingham      0    0   18    0  7/15/1995                                    
+  Brad Clontz                 0    0   59    0  9/25/1995                                    
+f Mark Dewey                  0    0   27    0  6/29/1995                                    
+  Luis Andujar                0    0    5    0  6/25/1995                                    
+f Don Wengert                 0    0   19    0                                               
+f Ken Robinson                0    0   21    0                                               
+f Mike Christopher            0    0   36    0                                               
+  Total                            2  217                                                    
+
+
+                            Playoff Team Status -- 1995 Reykjavík 101ers                            
+                               Divisional playoff -- as of 9/30/1995                                
+
+S Name                    Usage     PA     PA Days 
+  Bret Barberie               3      8    288    0 
+  Sean Berry                  2      8    348    0 
+  Jose Offerman               2      9    511    0 
+  Mike Piazza                 2      8    475    0 
+  John Kruk                   2      3    188    0 
+  Albert Belle                1      9    631    0 
+  Sammy Sosa                  1      8    629    0 
+  Mike Kingery                1      5    402    0 
+  Mike Huff                   1      2    168    0 
+  Dante Bichette              1      7    612    0 
+  Moises Alou                 1      2    386    0 
+  Terry Pendleton             0      1    557    0 
+f Howard Johnson              0      0    206    0 
+  Rey Sanchez                 0      0    453    0 
+  Jody Reed                   0      0    515    0 
+  Steve Decker                0      0    154    0 
+f Dave Gallagher              0      0    194    0 
+f Joe Kmak                    0      0     61    0 
+f Arquimedez Pozo             0      0      1    0 
+f Jim Tatum                   0      0     35    0 
+f Ray Holbert                 0      0     86    0 
+f Garey Ingram                0      0     66    0 
+f Steve Buechele              0      0    146    0 
+f Dion James                  0      0    231    0 
+f Dan Masteller               0      0    219    0 
+f J.R. Phillips               0      0    252    0 
+  Total                             70   7814      
+
+
+
+                                --Games--                 ----------Pitches Thrown---------- 
+S Name                    Usage  Sim Real Days       Last   9/30   9/29   9/28   9/27   9/26 
+  Tim Pugh                    7    2   28    0  9/30/1995     9r    35r                      
+  Darren Hall                 6    1   17    0  9/29/1995           19r                      
+  Wilson Alvarez              3    1   29    0  9/30/1995    32r                             
+  Alex Fernandez              3    1   30    0  9/30/1995    93s                             
+  Denny Neagle                3    1   31    0  9/29/1995          128s                      
+  Troy Percival               0    0   62    0  9/27/1995                          6r    15r 
+f Jeff Suppan                 0    0    8    0  8/21/1995                                    
+  Randy Myers                 0    0   57    0  9/27/1995                         12r    11r 
+  Andy Ashby                  0    0   31    0  9/27/1995                         89s        
+f Bill Pulsipher              0    0   17    0  9/25/1995                                    
+  Mike Mussina                0    0   32    0  9/26/1995                               103s 
+f Jamie Brewington            0    0   13    0                                               
+f Xavier Hernandez            0    0   59    0  9/27/1995                         21r    18r 
+d Carlos Reyes                0    0   40    4  9/18/1995                                    
+f John Cummings               0    0   39    0  9/25/1995                                    
+  Mike Oquist                 0    0   27    0  7/31/1995                                    
+f Brian Williams              0    0   44    0                                               
+f Mike Dyer                   0    0   55    0                                               
+f Paul Menhart                0    0   21    0  9/27/1995                         20r        
+  Total                            2  214                                                                                                  

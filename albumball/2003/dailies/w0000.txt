@@ -1,0 +1,121 @@
+<html>
+<head>
+<style type="text/css">
+p         {color: #000000; font-size: 12; font-weight:normal; font-family: arial; }
+h1        {color: #d7464b; font-size: 36; font-weight:heavy; font-family: arial; }
+h2        {color: #000000; font-size: 15; font-family: arial; padding-top: 12px; border-top: 3px ; border-top-style: solid; border-top-color: #D999C2; }
+h3        {color: #000000; font-size: 12; font-family: arial; font-weight:normal; padding-top: 6px; border-top: 1px ; border-top-style: solid; border-top-color: #D999C2; }
+h4        {color: #5a748b; font-size: 20; font-weight:normal; font-family: arial; }
+a:link    {color: #008d25; font-size: 12; font-family: arial; }
+a:visited {color: #80c692; font-size: 12; font-family: arial; }
+a:hover   {color: #eba3a5; font-size: 12; font-family: arial; }
+pre       {font-size: 14; font-family: monospace ; }
+body      {background-color: #dfeaee; color:#000000; font-family: arial; font-size: 12;}
+</style>
+</head>
+<h1> Chutes Too Narrow | Who's Hot/Who's Not </h1>
+<h4> Leaderboard for xxxx to xxxx<br></h4>
+<img src="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/Images/chutes_to_narrow_flat2.jpg" width=100% alt="Songs for the Deaf"/>
+<h4><b> INSIDER BASEBALL LEAGUE DAILY </b></h4>
+<img src="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/Images/ChavezE.jpg" height=300/>
+<img src="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/Images/LopezR2.jpg" height=300/>
+<img src="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/Images/DayZ.jpg" height=300/><br>
+
+<a href="http://dl.dropbox.com/u/3641528/Gruntleball/Albumball/2003/Web/index.htm">League statistics</a></p>
+
+<h2>HOTTEST TEAMS </h2><pre>
+Category     Team                       Owner         W-L   RF   RA  Mgn Pyth%
+------------------------------------------------------------------------------ 
+  Won:    8  Newfoundland Perfectos     Sasman        8-2   53   31  +22  .745
+             Tewksbury Bobs             Shecky        8-2   37   20  +17  .774
+             Barcelona Brewers          Marsha^3      8-2   69   45  +24  .702
+             Okoboji Cropdusters        Smith         8-2   56   42  +14  .640
+             Felldownhead Firsts        English       8-2   60   43  +17  .661
+   RF:   69  Barcelona Brewers          Marsha^3     
+   RA:   20  Tewksbury Bobs             Shecky
+  Mgn:  +24  Barcelona Brewers          Marsha^3
+Pyth%: .774  Tewksbury Bobs             Shecky
+</pre>
+<h2>COLDEST TEAMS </h2><pre>
+Category     Team                       Owner         W-L   RF   RA  Mgn Pyth%
+------------------------------------------------------------------------------
+ Lost:    9  GPCC Shebazzle!            Bernstein     1-9   30   64  -34  .180
+   RF:   29  Rocky Mountain Oysters     Haverty       3-7   29   49  -20  .259
+   RA:   64  GPCC Shebazzle!            Bernstein
+  Mgn:  -34  GPCC Shebazzle!            Bernstein
+Pyth%: .180  GPCC Shebazzle!            Bernstein
+</pre>
+<h2>wOBA BATTING LEADERS (Avg = .326)</h2><pre>
+#   PLAYER              TM    PA  HR  wOBA  RCAA
+------------------------------------------------
+1.  Eric Chavez        OKO    37   4  .600   9.3
+2.  Jeff Kent          BBG    42   4  .561   9.1
+3.  Jeremy Giambi      BRK    48   3  .531   9.0
+4.  Russell Branyan    HAR    31   3  .626   8.5
+5.  Alex Rodriguez     FDH    49   4  .513   8.4
+</pre><h2>wOBA BATTING FUTILITY </h2><pre>
+#   PLAYER              TM    PA  HR  wOBA  RCAA
+------------------------------------------------
+5.  Vernon Wells       RMO    41   0  .192  -5.0
+4.  Bengie Molina      RMO    33   0  .135  -5.7
+3.  Ryan Christenson   FHK    33   1  .134  -5.8
+2.  Bobby Estalella    OKO    33   0  .105  -6.7
+1.  Cristian Guzman    CBB    46   0  .145  -7.6
+</pre><h2><b>BESTS OF THE WEEK</b></h2><pre>
+  AVG:    .465 - Williams,B (CIN)
+  OBA:    .548 - Branyan (HAR)
+  SLG:    .962 - Branyan (HAR)
+   RC:  15.7   - Giambi,Je (BRK)
+ RC27:  24.4   - Branyan (HAR)
+    H:  20     - Williams,B (CIN)
+    R:  11     - Rodriguez,A (FDH)
+  RBI:  14     - Fullmer (BAR), Patterson,C (CEN)
+   2b:   7     - Alfonzo (NNN)
+   3b:   2     - Houston (CTW), Kendall (EVN), Durham (CIN), Roberts,D (EVN)
+   HR:   6     - Patterson,C (CEN)
+   SB:   7-1   - Guerrero,V (FDH)
+   CS:   3     - Koskie (FDH)
+   BB:  13     - Olerud (NEP)
+    K:  17     - Wilson,Pr (DIG)
+</pre><h2>wOBA PITCHING LEADERS (Avg=.326)</h2><pre>
+#   PLAYER               TM    IP   wOBA  RSAA
+----------------------------------------------
+1.  Rodrigo Lopez       NEP   17.0  .152   9.7
+2.  Barry Zito          TEW   17.2  .178   9.0
+3.  Damian Moss         FFR   15.0  .177   7.1
+4.  Ryan Rupe           NEP   16.0  .192   7.1
+5.  Hideo Nomo          CBB   15.2  .210   6.5
+
+R1. Zach Day            NEP    7.1  .093   5.3
+<h2>wOBA PITCHING FUTILITY </h2><pre>
+#   PLAYER               TM    IP   wOBA  RSAA
+----------------------------------------------
+5.  Ricardo Rodriguez   NYD    8.1  .504  -7.0
+4.  Dennis Tankersley   CTW    3.2  .611  -7.1
+3.  Mike Bacsik         FHK   11.1  .471  -7.1
+2.  Mike Hampton        DIG    9.0  .476  -7.2
+1.  Pedro Borbon        INW    4.0  .648  -8.5
+
+</pre><h2><b>BESTS OF THE WEEK</b></h2><pre>
+  ERA:   0.00  - Zito (TEW)
+   SO:  20     - Ortiz,Ra (NEP)
+   BB:  11     - Colon (NNN)
+   HR:   5     - Rodriguez,Rica (NYD), Byrd,P (NNN)
+  BAA:    .096 - Rupe (NEP)
+  OBA:    .172 - Rupe (NEP)
+  SLG:    .136 - Zito (TEW)
+  R/9:   5.4   - Moss (FFR)
+  K/9:  14.3   - Prior (CTW)
+  OPS:    .338 - Lopez,R (NEP)
+ CERA:   0.61  - Rupe (NEP)
+BABIP:    .128 - Rupe (NEP)
+</pre><h2>WEEKLY WINNERS </h2><pre>
+WEEK  |  GOOD TEAM                  W-L  PYTH |  BAD TEAM                   W-L  PYTH
+------|---------------------------------------|--------------------------------------
+04/07 |  Okoboji Cropdusters        7-0  .885 |  GPCC Shebazzle!            1-6  .165
+
+
+WEEK  |  BATTER             TM  wOBA wRAA |  STARTER            TM  wOBA wRAA |  RELIEVER           TM  wOBA wRAA
+------|-----------------------------------|-----------------------------------|----------------------------------
+04/07 |  Josh Phelps       BRK  .837 10.0 |  Randy Johnson     FFR  .181  8.1 |  Lou Pote          BRK  .134  4.7
+</pre>

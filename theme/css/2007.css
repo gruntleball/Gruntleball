@@ -1,0 +1,11 @@
+p         {color: #ffffff; font-size: 14; font-weight:normal; font-family: arial; }
+h1        {color: #ffffff; font-size: 24; font-weight:heavy; font-family: arial; }
+h2        {color: #ffffff; font-size: 15; font-family: arial; padding-top: 12px; border-top: 3px ; border-top-style: solid; border-top-color: #ff1c07; }
+h3        {color: #ffffff; font-size: 14; font-family: arial; font-weight:normal; padding-top: 6px; border-top: 1px ; border-top-style: solid; border-top-color: #ffff66; }
+h4        {color: #ffffff; font-size: 18; font-weight:normal; font-family: arial; }
+li         {color: #ffffff; font-size: 14; font-weight:normal; font-family: arial; }
+a:link    {color: #9b9712; font-size: 14; font-family: arial; }
+a:visited {color: #666666; font-size: 14; font-family: arial; }
+a:hover   {color: #ffff66; font-size: 14; font-family: arial; }
+pre       {font-size: 14; color: #ffffff; font-family: "consolas" ; }
+body      {background-color: #333333; color:#000000; font-family: arial; font-size: 12;}

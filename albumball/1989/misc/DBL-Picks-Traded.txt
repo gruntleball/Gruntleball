@@ -1,0 +1,33 @@
+Pick  From  To    Comment
+-----------------------------
+1st   FER   TBR   89-1.15
+2nd   DLM   THE   89-2.07
+2nd   CEN   FHK   Jerry Browne
+2nd   BAR   GBP   Hrbek, Aguilera, 90-6
+2nd   MAR   TBR   McReynolds, PPerez
+2nd   THE   CEN   Swindell/Stubbs
+2nd   EVN   CEN   Bass, Crawford, Higuera 90-4
+3rd   NFG   FER   Stanton, McClendon, Plesac, DuBois
+3rd   BBG   TBR   George Brett
+4th   BAR   GBP   Hrbek, Aguilera, 90-6
+4th   CEN   EVN   Dayley, Carmen 90-2, 90-5
+4th   DUN   BMB   Polonia
+5th   TEW   FER   Geren, Manrique
+5th   FER   BMB   Schatzeder
+5th   EVN   CEN   Bass, Crawford, Higuera 90-4
+6th   FER   NEE   Cory Snyder
+6th   GBP   BAR   Murray, Tudor 90-2, 90-4
+6th   TEW   CEN   Terry Puhl
+6th   NFG   BMB   Goose Gossage
+6th   BBG   FER   Drew Hall
+7TH   BAR   FER   Carmen Castillo, Knudson, Clary, Espinoza
+7th   FER   GBP   89-8.08
+7th   MAR   BMB   (was DLM's Heep, Liriano (Spiers)): 2nd trade Polonia to DLM
+7th   NFG   ---   Forfeited pick for Eric Yelding, 2b/ss/of
+8th   MAR   FER   Barry Lyons
+8th   BMB   NFG   89-9, 89-10
+8th   NFG   ---   Forfeited pick for Rey Quinones, ss
+10th  MAR   RYK   Dave Engle
+10th  BMB   NFG   Scott Fletcher
+10th  FER   BMB   Vicente Palacios
+12th  DLM   BMB   Roger Mason
